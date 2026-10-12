@@ -1,0 +1,675 @@
+{
+  "schema_version": 1,
+  "allowed_hosts": [
+    "backend.indiacode.gov.in",
+    "labour.gov.in",
+    "master-labour.digifootprint.gov.in",
+    "www.incometaxindia.gov.in",
+    "www.indiacode.gov.in",
+    "www.indiacode.nic.in",
+    "www.labour.gov.in",
+    "www.mha.gov.in"
+  ],
+  "discovery_url": "https://www.labour.gov.in/cms/wp-json/custom/api/search?s=labour%20codes",
+  "discovery_note": "Official Ministry of Labour, Ministry of Home Affairs and Income Tax Department collections inspected on 2026-10-12. Expanded sources include English API-derived Act documents with exact section locators. No current-law certification.",
+  "sources": [
+    {
+      "url": "https://www.labour.gov.in/static/uploads/2025/06/c31b22eb5da24a4bf298e0af85312f4e.pdf",
+      "filename": "plantations-1951.pdf",
+      "title_check": "the plantations labour act, 1951",
+      "discovery_item": "https://cms-labour.digifootprint.gov.in/central_documents/the-plantation-labour-act-1951-02-11-1951/",
+      "metadata": {
+        "document_id": "plantations-1951",
+        "title": "The Plantations Labour Act, 1951",
+        "domain": "Labour and employment",
+        "namespace": "official",
+        "topics": [
+          "employment",
+          "labour"
+        ],
+        "instrument_type": "Act",
+        "act_year": 1951,
+        "act_number": null,
+        "jurisdiction": "central",
+        "issuing_authority": null,
+        "effective_date": null,
+        "publication_date": null,
+        "review_status": "unreviewed",
+        "redistribution_permitted": false
+      },
+      "expected_sha256": "76e98b4a114778783eeefb5de637c09d51de7463cf68a675087a9ba36b30b59f"
+    },
+    {
+      "url": "https://www.labour.gov.in/static/uploads/2025/06/8df9950fe225ddb8f0a79e38c044e94d.pdf",
+      "filename": "bonded-labour-1976.pdf",
+      "title_check": "the bonded labour system (abolition) act, 1976",
+      "discovery_item": "https://cms-labour.digifootprint.gov.in/central_documents/the-bonded-labour-system-abolition-act9th-february-1976/",
+      "metadata": {
+        "document_id": "bonded-labour-1976",
+        "title": "The Bonded Labour System (Abolition) Act, 1976",
+        "domain": "Labour and employment",
+        "namespace": "official",
+        "topics": [
+          "employment",
+          "labour"
+        ],
+        "instrument_type": "Act",
+        "act_year": 1976,
+        "act_number": "19",
+        "jurisdiction": "central",
+        "issuing_authority": null,
+        "effective_date": null,
+        "publication_date": null,
+        "review_status": "unreviewed",
+        "redistribution_permitted": false
+      },
+      "expected_sha256": "074a5d80e3f5b784104326fff169db99b33a26db4f72d900972eacf1571bf950"
+    },
+    {
+      "url": "https://www.labour.gov.in/static/uploads/2025/06/8753816f61f0c4e552591579c2b5daa2.pdf",
+      "filename": "contract-labour-rules-1971.pdf",
+      "title_check": "contract labour (regulation & abolition)",
+      "discovery_item": "https://cms-labour.digifootprint.gov.in/central_documents/the-contract-labour-regulation-rules1-feb-1971/",
+      "metadata": {
+        "document_id": "contract-labour-rules-1971",
+        "title": "Contract Labour (Regulation & Abolition) Central Rules, 1971",
+        "domain": "Labour and employment",
+        "namespace": "official",
+        "topics": [
+          "employment",
+          "labour"
+        ],
+        "instrument_type": "Rules",
+        "act_year": null,
+        "act_number": null,
+        "jurisdiction": "central",
+        "issuing_authority": null,
+        "effective_date": null,
+        "publication_date": null,
+        "review_status": "unreviewed",
+        "redistribution_permitted": false
+      },
+      "expected_sha256": "ad5a6bcab0c368ea145e8aa0263143c28a457d5ff7db12aa338bb6f7b7021cad"
+    },
+    {
+      "url": "https://www.labour.gov.in/static/uploads/2026/03/a4ccf4c6d97c4f1f36a6d83f8c64213d.pdf",
+      "filename": "labour-faq-2026-03.pdf",
+      "title_check": "additional faqs on labour codes",
+      "discovery_item": "https://cms-labour.digifootprint.gov.in/central_documents/faqs-on-labour-codes-dated-16-03-2026/",
+      "metadata": {
+        "document_id": "labour-faq-2026-03",
+        "title": "Additional FAQs on Labour Codes (As on 16.03.2026)",
+        "domain": "Labour and employment",
+        "namespace": "official",
+        "topics": [
+          "employment",
+          "labour"
+        ],
+        "instrument_type": "Department FAQ",
+        "act_year": null,
+        "act_number": null,
+        "jurisdiction": "central",
+        "issuing_authority": null,
+        "effective_date": null,
+        "publication_date": null,
+        "review_status": "unreviewed",
+        "redistribution_permitted": false
+      },
+      "expected_sha256": "d55818a3956bebf5445e515e25999d5ee5b94e58e371554b24197470cf4ee2ed"
+    },
+    {
+      "url": "https://www.labour.gov.in/static/uploads/2026/01/9fb60321f0028fc2fe08d3b3d8626dd7.pdf",
+      "filename": "labour-faq-2025-12.pdf",
+      "title_check": "faqs on labour codes",
+      "discovery_item": "https://cms-labour.digifootprint.gov.in/central_documents/faqs-on-labour-codes-dated-30-12-2025/",
+      "metadata": {
+        "document_id": "labour-faq-2025-12",
+        "title": "FAQs on Labour Codes (website item dated 30-12-2025)",
+        "domain": "Labour and employment",
+        "namespace": "official",
+        "topics": [
+          "employment",
+          "labour"
+        ],
+        "instrument_type": "Department FAQ",
+        "act_year": null,
+        "act_number": null,
+        "jurisdiction": "central",
+        "issuing_authority": null,
+        "effective_date": null,
+        "publication_date": null,
+        "review_status": "unreviewed",
+        "redistribution_permitted": false
+      },
+      "expected_sha256": "c7ac8b5f23d5b545fea2ce54268c50ecf9e4271b6494e5bf4e75f5fbfb14b584"
+    },
+    {
+      "adapter": "incometax_sections",
+      "category_id": 4208966,
+      "url": "https://www.incometaxindia.gov.in/consumer-protection-act-2019",
+      "filename": "consumer-protection-2019.txt",
+      "title_check": "consumer protection act, 2019",
+      "discovery_url": "https://www.incometaxindia.gov.in/o/c/actassetcategories/?pageSize=-1&restrictFields=actions&sort=nameOfAct:asc",
+      "metadata": {
+        "document_id": "consumer-protection-2019",
+        "title": "Consumer Protection Act, 2019",
+        "domain": "Consumer law",
+        "topics": [
+          "consumer",
+          "complaints",
+          "refund",
+          "product liability"
+        ],
+        "namespace": "official",
+        "instrument_type": "Act",
+        "act_year": 2019,
+        "act_number": "35",
+        "jurisdiction": "central",
+        "issuing_authority": "Parliament of India (English compilation hosted by Income Tax Department)",
+        "effective_date": null,
+        "publication_date": null,
+        "review_status": "unreviewed",
+        "redistribution_permitted": false,
+        "provenance_notes": "Public English department-hosted section collection; source body includes a Taxmann copyright notice. Retain the notice and use for local research only; no redistribution licence is asserted. Exact section labels, schedules, source HTML and JSON response hashes retained. HTML layout whitespace normalized; no PDF pagination. Department general reuse policy expressly excludes identified third-party copyright."
+      },
+      "expected_sha256": "c2539eb78d182cdca7e8e94c733f5dc80c9ab0bc01d9ae7f9910a47abcaaceda"
+    },
+    {
+      "adapter": "incometax_sections",
+      "category_id": 4209141,
+      "url": "https://www.incometaxindia.gov.in/indian-contract-act-1872",
+      "filename": "indian-contract-1872.txt",
+      "title_check": "indian contract act, 1872",
+      "discovery_url": "https://www.incometaxindia.gov.in/o/c/actassetcategories/?pageSize=-1&restrictFields=actions&sort=nameOfAct:asc",
+      "metadata": {
+        "document_id": "indian-contract-1872",
+        "title": "Indian Contract Act, 1872",
+        "domain": "Contracts",
+        "topics": [
+          "contracts",
+          "agreement",
+          "breach",
+          "damages"
+        ],
+        "namespace": "official",
+        "instrument_type": "Act",
+        "act_year": 1872,
+        "act_number": "9",
+        "jurisdiction": "central",
+        "issuing_authority": null,
+        "effective_date": null,
+        "publication_date": null,
+        "review_status": "unreviewed",
+        "redistribution_permitted": false,
+        "provenance_notes": "Public English department-hosted section collection; source body includes a Taxmann copyright notice. Retain the notice and use for local research only; no redistribution licence is asserted. Exact section labels, schedules, source HTML and JSON response hashes retained. HTML layout whitespace normalized; no PDF pagination. Department general reuse policy expressly excludes identified third-party copyright."
+      },
+      "expected_sha256": "11e450b8b15f2da01bc060e538d55ee94b1942298b20dbd076d28db5d7569aad"
+    },
+    {
+      "adapter": "incometax_sections",
+      "category_id": 4209426,
+      "url": "https://www.incometaxindia.gov.in/specific-relief-act-1963",
+      "filename": "specific-relief-1963.txt",
+      "title_check": "specific relief act, 1963",
+      "discovery_url": "https://www.incometaxindia.gov.in/o/c/actassetcategories/?pageSize=-1&restrictFields=actions&sort=nameOfAct:asc",
+      "metadata": {
+        "document_id": "specific-relief-1963",
+        "title": "Specific Relief Act, 1963",
+        "domain": "Contracts",
+        "topics": [
+          "specific performance",
+          "injunction",
+          "remedies"
+        ],
+        "namespace": "official",
+        "instrument_type": "Act",
+        "act_year": 1963,
+        "act_number": "47",
+        "jurisdiction": "central",
+        "issuing_authority": "Parliament of India (English compilation hosted by Income Tax Department)",
+        "effective_date": null,
+        "publication_date": null,
+        "review_status": "unreviewed",
+        "redistribution_permitted": false,
+        "provenance_notes": "Public English department-hosted section collection; source body includes a Taxmann copyright notice. Retain the notice and use for local research only; no redistribution licence is asserted. Exact section labels, schedules, source HTML and JSON response hashes retained. HTML layout whitespace normalized; no PDF pagination. Department general reuse policy expressly excludes identified third-party copyright."
+      },
+      "expected_sha256": "0fdebfffc8fe5c242e3d6fa74cbbf62ea94093f6abe5c9257890fa871ccf522e"
+    },
+    {
+      "adapter": "incometax_sections",
+      "category_id": 4209366,
+      "url": "https://www.incometaxindia.gov.in/sale-of-goods-act-1930",
+      "filename": "sale-of-goods-1930.txt",
+      "title_check": "sale of goods act, 1930",
+      "discovery_url": "https://www.incometaxindia.gov.in/o/c/actassetcategories/?pageSize=-1&restrictFields=actions&sort=nameOfAct:asc",
+      "metadata": {
+        "document_id": "sale-of-goods-1930",
+        "title": "Sale of Goods Act, 1930",
+        "domain": "Contracts",
+        "topics": [
+          "sale",
+          "goods",
+          "warranties"
+        ],
+        "namespace": "official",
+        "instrument_type": "Act",
+        "act_year": 1930,
+        "act_number": "3",
+        "jurisdiction": "central",
+        "issuing_authority": null,
+        "effective_date": null,
+        "publication_date": null,
+        "review_status": "unreviewed",
+        "redistribution_permitted": false,
+        "provenance_notes": "Public English department-hosted section collection; source body includes a Taxmann copyright notice. Retain the notice and use for local research only; no redistribution licence is asserted. Exact section labels, schedules, source HTML and JSON response hashes retained. HTML layout whitespace normalized; no PDF pagination. Department general reuse policy expressly excludes identified third-party copyright."
+      },
+      "expected_sha256": "5c2a7d863e298f10000aeb459120176457e6d44691f675a815e279ffdc078e1b"
+    },
+    {
+      "adapter": "incometax_sections",
+      "category_id": 4209461,
+      "url": "https://www.incometaxindia.gov.in/transfer-of-property-act-1882",
+      "filename": "transfer-property-1882.txt",
+      "title_check": "transfer of property act, 1882",
+      "discovery_url": "https://www.incometaxindia.gov.in/o/c/actassetcategories/?pageSize=-1&restrictFields=actions&sort=nameOfAct:asc",
+      "metadata": {
+        "document_id": "transfer-property-1882",
+        "title": "Transfer of Property Act, 1882",
+        "domain": "Tenancy and property",
+        "topics": [
+          "property",
+          "leases",
+          "mortgages",
+          "transfer"
+        ],
+        "namespace": "official",
+        "instrument_type": "Act",
+        "act_year": 1882,
+        "act_number": "4",
+        "jurisdiction": "central",
+        "issuing_authority": null,
+        "effective_date": null,
+        "publication_date": null,
+        "review_status": "unreviewed",
+        "redistribution_permitted": false,
+        "provenance_notes": "Public English department-hosted section collection; source body includes a Taxmann copyright notice. Retain the notice and use for local research only; no redistribution licence is asserted. Exact section labels, schedules, source HTML and JSON response hashes retained. HTML layout whitespace normalized; no PDF pagination. Department general reuse policy expressly excludes identified third-party copyright."
+      },
+      "expected_sha256": "3d4c8da13aeebe3759056a812e29b49fc7ecd89172a9c239e8045a244872d307"
+    },
+    {
+      "adapter": "incometax_sections",
+      "category_id": 4209331,
+      "url": "https://www.incometaxindia.gov.in/real-estate-regulation-and-development-act-2016",
+      "filename": "rera-2016.txt",
+      "title_check": "real estate (regulation and development) act, 2016",
+      "discovery_url": "https://www.incometaxindia.gov.in/o/c/actassetcategories/?pageSize=-1&restrictFields=actions&sort=nameOfAct:asc",
+      "metadata": {
+        "document_id": "rera-2016",
+        "title": "Real Estate (Regulation And Development) Act, 2016",
+        "domain": "Tenancy and property",
+        "topics": [
+          "real estate",
+          "promoter",
+          "allottee",
+          "registration"
+        ],
+        "namespace": "official",
+        "instrument_type": "Act",
+        "act_year": 2016,
+        "act_number": "16",
+        "jurisdiction": "central",
+        "issuing_authority": "Parliament of India (English compilation hosted by Income Tax Department)",
+        "effective_date": null,
+        "publication_date": null,
+        "review_status": "unreviewed",
+        "redistribution_permitted": false,
+        "provenance_notes": "Public English department-hosted section collection; source body includes a Taxmann copyright notice. Retain the notice and use for local research only; no redistribution licence is asserted. Exact section labels, schedules, source HTML and JSON response hashes retained. HTML layout whitespace normalized; no PDF pagination. Department general reuse policy expressly excludes identified third-party copyright."
+      },
+      "expected_sha256": "ba80bc7db7ec198eca7fac47491b318a0ad5e78409de872ed05e265352654eb5"
+    },
+    {
+      "adapter": "incometax_sections",
+      "category_id": 4209116,
+      "url": "https://www.incometaxindia.gov.in/hindu-marriage-act-1955",
+      "filename": "hindu-marriage-1955.txt",
+      "title_check": "hindu marriage act, 1955",
+      "discovery_url": "https://www.incometaxindia.gov.in/o/c/actassetcategories/?pageSize=-1&restrictFields=actions&sort=nameOfAct:asc",
+      "metadata": {
+        "document_id": "hindu-marriage-1955",
+        "title": "Hindu Marriage Act, 1955",
+        "domain": "Family law",
+        "topics": [
+          "marriage",
+          "divorce",
+          "maintenance"
+        ],
+        "namespace": "official",
+        "instrument_type": "Act",
+        "act_year": 1955,
+        "act_number": "25",
+        "jurisdiction": "central",
+        "issuing_authority": "Parliament of India (English compilation hosted by Income Tax Department)",
+        "effective_date": null,
+        "publication_date": null,
+        "review_status": "unreviewed",
+        "redistribution_permitted": false,
+        "provenance_notes": "Public English department-hosted section collection; source body includes a Taxmann copyright notice. Retain the notice and use for local research only; no redistribution licence is asserted. Exact section labels, schedules, source HTML and JSON response hashes retained. HTML layout whitespace normalized; no PDF pagination. Department general reuse policy expressly excludes identified third-party copyright."
+      },
+      "expected_sha256": "636f1965a9d958bcabdc19610d2b33987b32085b298a50b8c93bf515d4c3cbe0"
+    },
+    {
+      "adapter": "incometax_sections",
+      "category_id": 4209126,
+      "url": "https://www.incometaxindia.gov.in/hindu-succession-act-1956",
+      "filename": "hindu-succession-1956.txt",
+      "title_check": "hindu succession act, 1956",
+      "discovery_url": "https://www.incometaxindia.gov.in/o/c/actassetcategories/?pageSize=-1&restrictFields=actions&sort=nameOfAct:asc",
+      "metadata": {
+        "document_id": "hindu-succession-1956",
+        "title": "Hindu Succession Act, 1956",
+        "domain": "Family law",
+        "topics": [
+          "inheritance",
+          "succession",
+          "coparcenary"
+        ],
+        "namespace": "official",
+        "instrument_type": "Act",
+        "act_year": 1956,
+        "act_number": "30",
+        "jurisdiction": "central",
+        "issuing_authority": "Parliament of India (English compilation hosted by Income Tax Department)",
+        "effective_date": null,
+        "publication_date": null,
+        "review_status": "unreviewed",
+        "redistribution_permitted": false,
+        "provenance_notes": "Public English department-hosted section collection; source body includes a Taxmann copyright notice. Retain the notice and use for local research only; no redistribution licence is asserted. Exact section labels, schedules, source HTML and JSON response hashes retained. HTML layout whitespace normalized; no PDF pagination. Department general reuse policy expressly excludes identified third-party copyright."
+      },
+      "expected_sha256": "b9930300109e846e06d7f851df500d5bcb02d29689351f35cdc452e1ebf0e894"
+    },
+    {
+      "adapter": "incometax_sections",
+      "category_id": 4209226,
+      "url": "https://www.incometaxindia.gov.in/limitation-act-1963",
+      "filename": "limitation-1963.txt",
+      "title_check": "limitation act, 1963",
+      "discovery_url": "https://www.incometaxindia.gov.in/o/c/actassetcategories/?pageSize=-1&restrictFields=actions&sort=nameOfAct:asc",
+      "metadata": {
+        "document_id": "limitation-1963",
+        "title": "Limitation Act, 1963",
+        "domain": "Criminal and civil procedure",
+        "topics": [
+          "limitation",
+          "suits",
+          "appeals",
+          "applications"
+        ],
+        "namespace": "official",
+        "instrument_type": "Act",
+        "act_year": 1963,
+        "act_number": "36",
+        "jurisdiction": "central",
+        "issuing_authority": "Parliament of India (English compilation hosted by Income Tax Department)",
+        "effective_date": null,
+        "publication_date": null,
+        "review_status": "unreviewed",
+        "redistribution_permitted": false,
+        "provenance_notes": "Public English department-hosted section collection; source body includes a Taxmann copyright notice. Retain the notice and use for local research only; no redistribution licence is asserted. Exact section labels, schedules, source HTML and JSON response hashes retained. HTML layout whitespace normalized; no PDF pagination. Department general reuse policy expressly excludes identified third-party copyright."
+      },
+      "expected_sha256": "0f69018c0c2358d4361e388244365a18b099cd4939536ba71ecd648e71b90b4b"
+    },
+    {
+      "adapter": "incometax_sections",
+      "category_id": 4208941,
+      "url": "https://www.incometaxindia.gov.in/companies-act-2013",
+      "filename": "companies-2013.txt",
+      "title_check": "companies act, 2013",
+      "discovery_url": "https://www.incometaxindia.gov.in/o/c/actassetcategories/?pageSize=-1&restrictFields=actions&sort=nameOfAct:asc",
+      "metadata": {
+        "document_id": "companies-2013",
+        "title": "Companies Act, 2013",
+        "domain": "Corporate and tax",
+        "topics": [
+          "company",
+          "incorporation",
+          "directors",
+          "accounts"
+        ],
+        "namespace": "official",
+        "instrument_type": "Act",
+        "act_year": 2013,
+        "act_number": "18",
+        "jurisdiction": "central",
+        "issuing_authority": "Parliament of India (English compilation hosted by Income Tax Department)",
+        "effective_date": null,
+        "publication_date": null,
+        "review_status": "unreviewed",
+        "redistribution_permitted": false,
+        "provenance_notes": "Public English department-hosted section collection; source body includes a Taxmann copyright notice. Retain the notice and use for local research only; no redistribution licence is asserted. Exact section labels, schedules, source HTML and JSON response hashes retained. HTML layout whitespace normalized; no PDF pagination. Department general reuse policy expressly excludes identified third-party copyright."
+      },
+      "expected_sha256": "77e989f8d6f9a64f8b4a0f7d1d58eb153338b02be18ab3896f67440ee8f46916"
+    },
+    {
+      "adapter": "incometax_sections",
+      "category_id": 4209231,
+      "url": "https://www.incometaxindia.gov.in/limited-liability-partnership-act-2008",
+      "filename": "llp-2008.txt",
+      "title_check": "limited liability partnership act, 2008",
+      "discovery_url": "https://www.incometaxindia.gov.in/o/c/actassetcategories/?pageSize=-1&restrictFields=actions&sort=nameOfAct:asc",
+      "metadata": {
+        "document_id": "llp-2008",
+        "title": "Limited Liability Partnership Act, 2008",
+        "domain": "Corporate and tax",
+        "topics": [
+          "partnership",
+          "incorporation",
+          "partners"
+        ],
+        "namespace": "official",
+        "instrument_type": "Act",
+        "act_year": 2008,
+        "act_number": "6",
+        "jurisdiction": "central",
+        "issuing_authority": "Parliament of India (English compilation hosted by Income Tax Department)",
+        "effective_date": null,
+        "publication_date": null,
+        "review_status": "unreviewed",
+        "redistribution_permitted": false,
+        "provenance_notes": "Public English department-hosted section collection; source body includes a Taxmann copyright notice. Retain the notice and use for local research only; no redistribution licence is asserted. Exact section labels, schedules, source HTML and JSON response hashes retained. HTML layout whitespace normalized; no PDF pagination. Department general reuse policy expressly excludes identified third-party copyright."
+      },
+      "expected_sha256": "03a8e56626b5da980756f637616aa144b1353ef830ece42e25ef90d1c9708711"
+    },
+    {
+      "adapter": "incometax_sections",
+      "category_id": 4209196,
+      "url": "https://www.incometaxindia.gov.in/information-technology-act-2000",
+      "filename": "information-technology-2000.txt",
+      "title_check": "information technology act, 2000",
+      "discovery_url": "https://www.incometaxindia.gov.in/o/c/actassetcategories/?pageSize=-1&restrictFields=actions&sort=nameOfAct:asc",
+      "metadata": {
+        "document_id": "information-technology-2000",
+        "title": "Information Technology Act, 2000",
+        "domain": "Other specialist areas",
+        "topics": [
+          "cyber law",
+          "electronic records",
+          "digital signatures"
+        ],
+        "namespace": "official",
+        "instrument_type": "Act",
+        "act_year": 2000,
+        "act_number": "21",
+        "jurisdiction": "central",
+        "issuing_authority": "Parliament of India (English compilation hosted by Income Tax Department)",
+        "effective_date": null,
+        "publication_date": null,
+        "review_status": "unreviewed",
+        "redistribution_permitted": false,
+        "provenance_notes": "Public English department-hosted section collection; source body includes a Taxmann copyright notice. Retain the notice and use for local research only; no redistribution licence is asserted. Exact section labels, schedules, source HTML and JSON response hashes retained. HTML layout whitespace normalized; no PDF pagination. Department general reuse policy expressly excludes identified third-party copyright."
+      },
+      "expected_sha256": "924c1667cc509a68b57a8ab1cff1b54ad6e74aa50213fb1c08f8223d8fb0f423"
+    },
+    {
+      "adapter": "incometax_sections",
+      "category_id": 4209036,
+      "url": "https://www.incometaxindia.gov.in/environment-protection-act-1986",
+      "filename": "environment-protection-1986.txt",
+      "title_check": "environment protection act, 1986",
+      "discovery_url": "https://www.incometaxindia.gov.in/o/c/actassetcategories/?pageSize=-1&restrictFields=actions&sort=nameOfAct:asc",
+      "metadata": {
+        "document_id": "environment-protection-1986",
+        "title": "Environment Protection Act, 1986",
+        "domain": "Other specialist areas",
+        "topics": [
+          "environment",
+          "pollution",
+          "hazardous substances"
+        ],
+        "namespace": "official",
+        "instrument_type": "Act",
+        "act_year": 1986,
+        "act_number": "29",
+        "jurisdiction": "central",
+        "issuing_authority": "Parliament of India (English compilation hosted by Income Tax Department)",
+        "effective_date": null,
+        "publication_date": null,
+        "review_status": "unreviewed",
+        "redistribution_permitted": false,
+        "provenance_notes": "Public English department-hosted section collection; source body includes a Taxmann copyright notice. Retain the notice and use for local research only; no redistribution licence is asserted. Exact section labels, schedules, source HTML and JSON response hashes retained. HTML layout whitespace normalized; no PDF pagination. Department general reuse policy expressly excludes identified third-party copyright."
+      },
+      "expected_sha256": "5d2a9410efaa191e4469b4f0fea2743229f71881507adcfd42e9433fb0e67906"
+    },
+    {
+      "url": "https://www.mha.gov.in/sites/default/files/2024-04/250883_english_01042024.pdf",
+      "filename": "bns-2023.pdf",
+      "title_check": "bharatiya nyaya sanhita, 2023",
+      "discovery_url": "https://www.mha.gov.in/en/commoncontent/new-criminal-laws",
+      "metadata": {
+        "document_id": "bns-2023",
+        "title": "Bharatiya Nyaya Sanhita, 2023",
+        "domain": "Criminal and civil procedure",
+        "namespace": "official",
+        "topics": [
+          "criminal law",
+          "procedure",
+          "evidence"
+        ],
+        "instrument_type": "Act",
+        "act_year": 2023,
+        "act_number": "45",
+        "jurisdiction": "central",
+        "issuing_authority": "Parliament of India; Ministry of Law and Justice, Legislative Department",
+        "publication_date": "2023-12-25",
+        "effective_date": null,
+        "redistribution_permitted": false,
+        "provenance_notes": "English Gazette Act published 25 December 2023, hosted by Ministry of Home Affairs. Commencement notifications and later amendments have not been reviewed."
+      },
+      "expected_sha256": "c9da896e7a16c481a46235789f74f545b7a9ed7f3a5c8049d0b1b9252c6731f4"
+    },
+    {
+      "url": "https://www.mha.gov.in/sites/default/files/2024-04/250882_english_01042024_0.pdf",
+      "filename": "bsa-2023.pdf",
+      "title_check": "bharatiya sakshya adhiniyam, 2023",
+      "discovery_url": "https://www.mha.gov.in/en/commoncontent/new-criminal-laws",
+      "metadata": {
+        "document_id": "bsa-2023",
+        "title": "Bharatiya Sakshya Adhiniyam, 2023",
+        "domain": "Criminal and civil procedure",
+        "namespace": "official",
+        "topics": [
+          "criminal law",
+          "procedure",
+          "evidence"
+        ],
+        "instrument_type": "Act",
+        "act_year": 2023,
+        "act_number": "47",
+        "jurisdiction": "central",
+        "issuing_authority": "Parliament of India; Ministry of Law and Justice, Legislative Department",
+        "publication_date": "2023-12-25",
+        "effective_date": null,
+        "redistribution_permitted": false,
+        "provenance_notes": "English Gazette Act published 25 December 2023, hosted by Ministry of Home Affairs. Commencement notifications and later amendments have not been reviewed."
+      },
+      "expected_sha256": "13e2b6eb66add222c7262ccaa0b08d58e48ca22cdf0953f6541123ef039de239"
+    },
+    {
+      "url": "https://www.mha.gov.in/sites/default/files/2024-04/250884_2_english_01042024.pdf",
+      "filename": "bnss-2023.pdf",
+      "title_check": "bharatiya nagarik suraksha sanhita, 2023",
+      "discovery_url": "https://www.mha.gov.in/en/commoncontent/new-criminal-laws",
+      "metadata": {
+        "document_id": "bnss-2023",
+        "title": "Bharatiya Nagarik Suraksha Sanhita, 2023",
+        "domain": "Criminal and civil procedure",
+        "namespace": "official",
+        "topics": [
+          "criminal law",
+          "procedure",
+          "evidence"
+        ],
+        "instrument_type": "Act",
+        "act_year": 2023,
+        "act_number": "46",
+        "jurisdiction": "central",
+        "issuing_authority": "Parliament of India; Ministry of Law and Justice, Legislative Department",
+        "publication_date": "2023-12-25",
+        "effective_date": null,
+        "redistribution_permitted": false,
+        "provenance_notes": "English Gazette Act published 25 December 2023, hosted by Ministry of Home Affairs. Commencement notifications and later amendments have not been reviewed."
+      },
+      "expected_sha256": "5e60e2afe30d0fe7eca4f8126301146b76c86a444e690581f81eb564843517fe"
+    },
+    {
+      "url": "https://www.incometaxindia.gov.in/documents/20117/43006/Right-to-Information-Act-2005_2025-12-18_02-40-52_23e83c_en.pdf/3e785a46-62ce-813f-8e22-bd913271ed99?version=2.0&t=1773766013390&download=true",
+      "filename": "right-information-2005.pdf",
+      "title_check": "right to information act, 2005",
+      "discovery_url": "https://www.incometaxindia.gov.in/right-to-information-act-2005",
+      "metadata": {
+        "document_id": "right-information-2005",
+        "title": "Right to Information Act, 2005",
+        "domain": "Other specialist areas",
+        "namespace": "official",
+        "topics": [
+          "information",
+          "public authorities",
+          "transparency"
+        ],
+        "instrument_type": "Act",
+        "act_year": 2005,
+        "act_number": "22",
+        "jurisdiction": "central",
+        "issuing_authority": "Parliament of India (compilation hosted by Income Tax Department)",
+        "effective_date": null,
+        "redistribution_permitted": false,
+        "provenance_notes": "Official-host English department PDF compilation; third-party reuse status unestablished, local research input only. Legal currency unreviewed."
+      },
+      "expected_sha256": "dce2ecd272e07793698fdf7b19c6f878d1ab4dddd5f62fcbe4b8abe57c27a3dc"
+    },
+    {
+      "url": "https://www.incometaxindia.gov.in/documents/20117/43120/Updated-FQAs-on-Interplay%26Transitions.pdf/dda21cfd-28be-d931-ad5c-6459ecbd2ea7?version=2.0&t=1775128133037&download=true",
+      "filename": "income-tax-transition-faq-2026.pdf",
+      "title_check": "income-tax act, 2025",
+      "discovery_url": "https://www.incometaxindia.gov.in/income-tax-act-202511",
+      "metadata": {
+        "document_id": "income-tax-transition-faq-2026",
+        "title": "FAQs on Interplay and Transition from the Income-tax Act, 1961 to the Income-tax Act, 2025",
+        "domain": "Corporate and tax",
+        "namespace": "official",
+        "topics": [
+          "income tax",
+          "transition",
+          "tax year",
+          "returns"
+        ],
+        "instrument_type": "Department FAQ",
+        "jurisdiction": "central",
+        "issuing_authority": "Income Tax Department, Ministry of Finance, Government of India",
+        "effective_date": null,
+        "redistribution_permitted": true,
+        "provenance_notes": "Official department guidance, not the complete Income-tax Act. Reuse policy: https://www.incometaxindia.gov.in/copyright-policy; legal currency unreviewed."
+      },
+      "expected_sha256": "cf1d4ad8e7c7bc144dae8102f0418b2b8bbf4e2789e9a10dabf296fe8c43b62a"
+    }
+  ]
+}

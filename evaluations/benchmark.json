@@ -1,0 +1,1154 @@
+{
+  "schema_version": 1,
+  "corpus_signature": "fa5f3b94e9b919427470dc83853e89f6b971067a2f4f2217f0a982dc2ba5f2d7",
+  "construction": "Questions and exact source anchors defined independently of retrieval output. Development and held-out cases are disjoint. Human semantic/legal review pending.",
+  "cases": [
+    {
+      "id": "development-01",
+      "split": "development",
+      "question": "What passage in the Plantations source covers wholesome drinking water?",
+      "expected_evidence_ids": [
+        "b23333560a318972219d7924"
+      ],
+      "expected_document_ids": [
+        "plantations-1951"
+      ],
+      "scope": {
+        "namespace": "official",
+        "review_mode": "demo"
+      },
+      "expected_behavior": "supported",
+      "provenance": "Author-defined exact passage anchor in official-host source; plantations-1951; 8db53934ad9da1665cedbc04; physical page 9; locator Section 8: Drinking water.\u2014In every plantation effective arrangements shall be made by the employer to",
+      "human_review": "pending",
+      "notes": "Passage-location label only; current applicability and human legal support unreviewed."
+    },
+    {
+      "id": "development-02",
+      "split": "development",
+      "question": "Find the Plantations source discussion of canteens.",
+      "expected_evidence_ids": [
+        "5bd7dc6b76b60bbb63611e48"
+      ],
+      "expected_document_ids": [
+        "plantations-1951"
+      ],
+      "scope": {
+        "namespace": "official",
+        "review_mode": "demo"
+      },
+      "expected_behavior": "supported",
+      "provenance": "Author-defined exact passage anchor in official-host source; plantations-1951; 8db53934ad9da1665cedbc04; physical page 10; locator Section 11: Canteens.\u2014(1) The State Government may make rules requiring that in every plantation wherein",
+      "human_review": "pending",
+      "notes": "Passage-location label only; current applicability and human legal support unreviewed."
+    },
+    {
+      "id": "development-03",
+      "split": "development",
+      "question": "Find the Bonded Labour source provision about abolition of the bonded labour system.",
+      "expected_evidence_ids": [
+        "9b23c5b5c50bc42fbc17cf50"
+      ],
+      "expected_document_ids": [
+        "bonded-labour-1976"
+      ],
+      "scope": {
+        "namespace": "official",
+        "review_mode": "demo"
+      },
+      "expected_behavior": "supported",
+      "provenance": "Author-defined exact passage anchor in official-host source; bonded-labour-1976; ba11045f4b601ac3a7bbd6d6; physical page 3; locator Section 4: Abolition of bonded labour system.-  (1) On the commencement of  this Act,  the",
+      "human_review": "pending",
+      "notes": "Passage-location label only; current applicability and human legal support unreviewed."
+    },
+    {
+      "id": "development-04",
+      "split": "development",
+      "question": "What does the Bonded Labour source say about liability to repay bonded debt?",
+      "expected_evidence_ids": [
+        "e5a96c5c20a49277f261d1a9"
+      ],
+      "expected_document_ids": [
+        "bonded-labour-1976"
+      ],
+      "scope": {
+        "namespace": "official",
+        "review_mode": "demo"
+      },
+      "expected_behavior": "supported",
+      "provenance": "Author-defined exact passage anchor in official-host source; bonded-labour-1976; ba11045f4b601ac3a7bbd6d6; physical page 4; locator Section 6: Liability to repay bonded debt to stand extinguished. - (1) On the commencement",
+      "human_review": "pending",
+      "notes": "Passage-location label only; current applicability and human legal support unreviewed."
+    },
+    {
+      "id": "development-05",
+      "split": "development",
+      "question": "Find the Contract Labour Rules passage about application for registration of establishments.",
+      "expected_evidence_ids": [
+        "881b67f2f7d152da7bae5c6d"
+      ],
+      "expected_document_ids": [
+        "contract-labour-rules-1971"
+      ],
+      "scope": {
+        "namespace": "official",
+        "review_mode": "demo"
+      },
+      "expected_behavior": "supported",
+      "provenance": "Author-defined exact passage anchor in official-host source; contract-labour-rules-1971; b9ff1ca74346c0bf2397cbe7; physical page 6; locator Numbered paragraph 17: Manner of making application for registration of establishments.",
+      "human_review": "pending",
+      "notes": "Passage-location label only; current applicability and human legal support unreviewed."
+    },
+    {
+      "id": "development-06",
+      "split": "development",
+      "question": "Find the Contract Labour Board staff passage.",
+      "expected_evidence_ids": [
+        "1bf6aa449429ce04b4b29ac2"
+      ],
+      "expected_document_ids": [
+        "contract-labour-rules-1971"
+      ],
+      "scope": {
+        "namespace": "official",
+        "review_mode": "demo"
+      },
+      "expected_behavior": "supported",
+      "provenance": "Author-defined exact passage anchor in official-host source; contract-labour-rules-1971; b9ff1ca74346c0bf2397cbe7; physical page 4; locator Numbered paragraph 10: STAFF",
+      "human_review": "pending",
+      "notes": "Passage-location label only; current applicability and human legal support unreviewed."
+    },
+    {
+      "id": "development-07",
+      "split": "development",
+      "question": "How does the December FAQ explain the definition of wages?",
+      "expected_evidence_ids": [
+        "7e4438acebdaadb993e0d105"
+      ],
+      "expected_document_ids": [
+        "labour-faq-2025-12"
+      ],
+      "scope": {
+        "namespace": "official",
+        "review_mode": "demo"
+      },
+      "expected_behavior": "supported",
+      "provenance": "Author-defined exact passage anchor in official-host source; labour-faq-2025-12; 0928e510f47fa137ee91a089; physical page 1; locator Numbered paragraph 2: What does the term \u201cwages\u201d",
+      "human_review": "pending",
+      "notes": "Passage-location label only; current applicability and human legal support unreviewed."
+    },
+    {
+      "id": "development-08",
+      "split": "development",
+      "question": "Find the additional FAQ reply about overtime allowance in the wage calculation.",
+      "expected_evidence_ids": [
+        "53f66186ec824069485b3899"
+      ],
+      "expected_document_ids": [
+        "labour-faq-2026-03"
+      ],
+      "scope": {
+        "namespace": "official",
+        "review_mode": "demo"
+      },
+      "expected_behavior": "supported",
+      "provenance": "Author-defined exact passage anchor in official-host source; labour-faq-2026-03; 50c4894435bd24ded0923902; physical page 1; locator Numbered paragraph 3: Are employer",
+      "human_review": "pending",
+      "notes": "Passage-location label only; current applicability and human legal support unreviewed."
+    },
+    {
+      "id": "heldout-09",
+      "split": "heldout",
+      "question": "Find the Plantations provision about conservancy and sanitation.",
+      "expected_evidence_ids": [
+        "28562d23f232fceabc5acb68"
+      ],
+      "expected_document_ids": [
+        "plantations-1951"
+      ],
+      "scope": {
+        "namespace": "official",
+        "review_mode": "demo"
+      },
+      "expected_behavior": "supported",
+      "provenance": "Author-defined exact passage anchor in official-host source; plantations-1951; 8db53934ad9da1665cedbc04; physical page 9; locator Section 9: Conservancy.\u2014(1) There shall be provided separately for males and females in every plantation a",
+      "human_review": "pending",
+      "notes": "Passage-location label only; current applicability and human legal support unreviewed."
+    },
+    {
+      "id": "heldout-10",
+      "split": "heldout",
+      "question": "Find the Plantations provision concerning medical facilities.",
+      "expected_evidence_ids": [
+        "f5365edb221d995386b3b8cf"
+      ],
+      "expected_document_ids": [
+        "plantations-1951"
+      ],
+      "scope": {
+        "namespace": "official",
+        "review_mode": "demo"
+      },
+      "expected_behavior": "supported",
+      "provenance": "Author-defined exact passage anchor in official-host source; plantations-1951; 8db53934ad9da1665cedbc04; physical page 9; locator Section 10: Medical facilities .\u2014(1) In every plantation there shall be provided and maintained so as to be",
+      "human_review": "pending",
+      "notes": "Passage-location label only; current applicability and human legal support unreviewed."
+    },
+    {
+      "id": "heldout-11",
+      "split": "heldout",
+      "question": "Find the Plantations source passage concerning creches for workers children.",
+      "expected_evidence_ids": [
+        "2bc9bd6d3ae057656b36ab24"
+      ],
+      "expected_document_ids": [
+        "plantations-1951"
+      ],
+      "scope": {
+        "namespace": "official",
+        "review_mode": "demo"
+      },
+      "expected_behavior": "supported",
+      "provenance": "Author-defined exact passage anchor in official-host source; plantations-1951; 8db53934ad9da1665cedbc04; physical page 10; locator Section 12: Creches .\u20141[(1) In every plantation wherein f ifty or more women workers (including women",
+      "human_review": "pending",
+      "notes": "Passage-location label only; current applicability and human legal support unreviewed."
+    },
+    {
+      "id": "heldout-12",
+      "split": "heldout",
+      "question": "What passage discusses educational facilities in plantations?",
+      "expected_evidence_ids": [
+        "94d22a98b9c2d4085ee2f6d7"
+      ],
+      "expected_document_ids": [
+        "plantations-1951"
+      ],
+      "scope": {
+        "namespace": "official",
+        "review_mode": "demo"
+      },
+      "expected_behavior": "supported",
+      "provenance": "Author-defined exact passage anchor in official-host source; plantations-1951; 8db53934ad9da1665cedbc04; physical page 11; locator Section 14: Educational facilities .\u2014Where the children between the ages of six and twelve of workers",
+      "human_review": "pending",
+      "notes": "Passage-location label only; current applicability and human legal support unreviewed."
+    },
+    {
+      "id": "heldout-13",
+      "split": "heldout",
+      "question": "Find the Plantations provision on housing facilities.",
+      "expected_evidence_ids": [
+        "94d22a98b9c2d4085ee2f6d7"
+      ],
+      "expected_document_ids": [
+        "plantations-1951"
+      ],
+      "scope": {
+        "namespace": "official",
+        "review_mode": "demo"
+      },
+      "expected_behavior": "supported",
+      "provenance": "Author-defined exact passage anchor in official-host source; plantations-1951; 8db53934ad9da1665cedbc04; physical page 11; locator Section 14: Educational facilities .\u2014Where the children between the ages of six and twelve of workers",
+      "human_review": "pending",
+      "notes": "Passage-location label only; current applicability and human legal support unreviewed."
+    },
+    {
+      "id": "heldout-14",
+      "split": "heldout",
+      "question": "Find the Plantations provision about weekly hours of work.",
+      "expected_evidence_ids": [
+        "e3f5e3cefa885814928ac4d4"
+      ],
+      "expected_document_ids": [
+        "plantations-1951"
+      ],
+      "scope": {
+        "namespace": "official",
+        "review_mode": "demo"
+      },
+      "expected_behavior": "supported",
+      "provenance": "Author-defined exact passage anchor in official-host source; plantations-1951; 8db53934ad9da1665cedbc04; physical page 16; locator Section 19: Weekly hours.\u20141[(1)] Save as otherwise expressly provided in this Act, no adult worker shall be",
+      "human_review": "pending",
+      "notes": "Passage-location label only; current applicability and human legal support unreviewed."
+    },
+    {
+      "id": "heldout-15",
+      "split": "heldout",
+      "question": "Locate the Plantations provision on recreational facilities.",
+      "expected_evidence_ids": [
+        "4584c60a69755caca2cd868f"
+      ],
+      "expected_document_ids": [
+        "plantations-1951"
+      ],
+      "scope": {
+        "namespace": "official",
+        "review_mode": "demo"
+      },
+      "expected_behavior": "supported",
+      "provenance": "Author-defined exact passage anchor in official-host source; plantations-1951; 8db53934ad9da1665cedbc04; physical page 11; locator Section 13: Recreational facilities .\u2014The St ate Government may make rules requiring every employer to",
+      "human_review": "pending",
+      "notes": "Passage-location label only; current applicability and human legal support unreviewed."
+    },
+    {
+      "id": "heldout-16",
+      "split": "heldout",
+      "question": "Find the Plantations passage about welfare officers.",
+      "expected_evidence_ids": [
+        "8a8878139f0f33ec81098d47"
+      ],
+      "expected_document_ids": [
+        "plantations-1951"
+      ],
+      "scope": {
+        "namespace": "official",
+        "review_mode": "demo"
+      },
+      "expected_behavior": "supported",
+      "provenance": "Author-defined exact passage anchor in official-host source; plantations-1951; 8db53934ad9da1665cedbc04; physical page 14; locator Section 18: Welfare officers.\u2014(1) In every plantation wherein three hundred or more workers are ordinarily",
+      "human_review": "pending",
+      "notes": "Passage-location label only; current applicability and human legal support unreviewed."
+    },
+    {
+      "id": "heldout-17",
+      "split": "heldout",
+      "question": "Locate the Bonded Labour provision on agreements or customs becoming void.",
+      "expected_evidence_ids": [
+        "9edfa05f7f18a41ac8299f42"
+      ],
+      "expected_document_ids": [
+        "bonded-labour-1976"
+      ],
+      "scope": {
+        "namespace": "official",
+        "review_mode": "demo"
+      },
+      "expected_behavior": "supported",
+      "provenance": "Author-defined exact passage anchor in official-host source; bonded-labour-1976; ba11045f4b601ac3a7bbd6d6; physical page 4; locator Section 5: Agreement, custom, etc., to be void. -  On the commencement of this Act, any",
+      "human_review": "pending",
+      "notes": "Passage-location label only; current applicability and human legal support unreviewed."
+    },
+    {
+      "id": "heldout-18",
+      "split": "heldout",
+      "question": "Find the Bonded Labour passage concerning property freed from mortgage.",
+      "expected_evidence_ids": [
+        "98ebc81aa68a577a008e8b7a"
+      ],
+      "expected_document_ids": [
+        "bonded-labour-1976"
+      ],
+      "scope": {
+        "namespace": "official",
+        "review_mode": "demo"
+      },
+      "expected_behavior": "supported",
+      "provenance": "Author-defined exact passage anchor in official-host source; bonded-labour-1976; ba11045f4b601ac3a7bbd6d6; physical page 5; locator Section 7: Property of bonded labourer to  be freed from mortgage, etc.- (1) All  property",
+      "human_review": "pending",
+      "notes": "Passage-location label only; current applicability and human legal support unreviewed."
+    },
+    {
+      "id": "heldout-19",
+      "split": "heldout",
+      "question": "Find the protection about homestead eviction in the Bonded Labour source.",
+      "expected_evidence_ids": [
+        "3fe3dd44962e7c644b42135f"
+      ],
+      "expected_document_ids": [
+        "bonded-labour-1976"
+      ],
+      "scope": {
+        "namespace": "official",
+        "review_mode": "demo"
+      },
+      "expected_behavior": "supported",
+      "provenance": "Author-defined exact passage anchor in official-host source; bonded-labour-1976; ba11045f4b601ac3a7bbd6d6; physical page 5; locator Section 8: Freed  bonded labourer not to be evicted from homestead, etc.- (1) No  person",
+      "human_review": "pending",
+      "notes": "Passage-location label only; current applicability and human legal support unreviewed."
+    },
+    {
+      "id": "heldout-20",
+      "split": "heldout",
+      "question": "Find the Bonded Labour provision on vigilance committees.",
+      "expected_evidence_ids": [
+        "f4560f805167ab26b2a46ffb"
+      ],
+      "expected_document_ids": [
+        "bonded-labour-1976"
+      ],
+      "scope": {
+        "namespace": "official",
+        "review_mode": "demo"
+      },
+      "expected_behavior": "supported",
+      "provenance": "Author-defined exact passage anchor in official-host source; bonded-labour-1976; ba11045f4b601ac3a7bbd6d6; physical page 7; locator Section 13: Vigilance  Committees.- (1) Every State  Government shall, by notification in  the",
+      "human_review": "pending",
+      "notes": "Passage-location label only; current applicability and human legal support unreviewed."
+    },
+    {
+      "id": "heldout-21",
+      "split": "heldout",
+      "question": "Find the functions of vigilance committees in the Bonded Labour source.",
+      "expected_evidence_ids": [
+        "edb48b75126d1434c098350c"
+      ],
+      "expected_document_ids": [
+        "bonded-labour-1976"
+      ],
+      "scope": {
+        "namespace": "official",
+        "review_mode": "demo"
+      },
+      "expected_behavior": "supported",
+      "provenance": "Author-defined exact passage anchor in official-host source; bonded-labour-1976; ba11045f4b601ac3a7bbd6d6; physical page 8; locator Section 14: Functions of Vigilance Committees.- (1) The functions of each Vigilance",
+      "human_review": "pending",
+      "notes": "Passage-location label only; current applicability and human legal support unreviewed."
+    },
+    {
+      "id": "heldout-22",
+      "split": "heldout",
+      "question": "Find the Bonded Labour provision on burden of proof.",
+      "expected_evidence_ids": [
+        "4cf5b801605127b9124303de"
+      ],
+      "expected_document_ids": [
+        "bonded-labour-1976"
+      ],
+      "scope": {
+        "namespace": "official",
+        "review_mode": "demo"
+      },
+      "expected_behavior": "supported",
+      "provenance": "Author-defined exact passage anchor in official-host source; bonded-labour-1976; ba11045f4b601ac3a7bbd6d6; physical page 8; locator Section 15: Burden  of proof.-  Whenever any debt is  claimed by a bonded labourer, or a",
+      "human_review": "pending",
+      "notes": "Passage-location label only; current applicability and human legal support unreviewed."
+    },
+    {
+      "id": "heldout-23",
+      "split": "heldout",
+      "question": "Find the Bonded Labour provision on abetment being an offence.",
+      "expected_evidence_ids": [
+        "81b705a324fc9c5a136ee5e2"
+      ],
+      "expected_document_ids": [
+        "bonded-labour-1976"
+      ],
+      "scope": {
+        "namespace": "official",
+        "review_mode": "demo"
+      },
+      "expected_behavior": "supported",
+      "provenance": "Author-defined exact passage anchor in official-host source; bonded-labour-1976; ba11045f4b601ac3a7bbd6d6; physical page 9; locator Section 20: Abetment  to  be  an offence.-  Whoever  abets  any  offence punishable under",
+      "human_review": "pending",
+      "notes": "Passage-location label only; current applicability and human legal support unreviewed."
+    },
+    {
+      "id": "heldout-24",
+      "split": "heldout",
+      "question": "Find the Contract Labour Rules passage on granting a registration certificate.",
+      "expected_evidence_ids": [
+        "aee5834b5e1c96463d1ab37a"
+      ],
+      "expected_document_ids": [
+        "contract-labour-rules-1971"
+      ],
+      "scope": {
+        "namespace": "official",
+        "review_mode": "demo"
+      },
+      "expected_behavior": "supported",
+      "provenance": "Author-defined exact passage anchor in official-host source; contract-labour-rules-1971; b9ff1ca74346c0bf2397cbe7; physical page 6; locator Numbered paragraph 18: GRANT OF CERTIFICATE OF REGISTRATION",
+      "human_review": "pending",
+      "notes": "Passage-location label only; current applicability and human legal support unreviewed."
+    },
+    {
+      "id": "heldout-25",
+      "split": "heldout",
+      "question": "Find the Contract Labour Rules provision on applying for a licence.",
+      "expected_evidence_ids": [
+        "4db2cdf52d4011f1ab7a9b11"
+      ],
+      "expected_document_ids": [
+        "contract-labour-rules-1971"
+      ],
+      "scope": {
+        "namespace": "official",
+        "review_mode": "demo"
+      },
+      "expected_behavior": "supported",
+      "provenance": "Author-defined exact passage anchor in official-host source; contract-labour-rules-1971; b9ff1ca74346c0bf2397cbe7; physical page 8; locator Numbered paragraph 21: Application for a Licence.--",
+      "human_review": "pending",
+      "notes": "Passage-location label only; current applicability and human legal support unreviewed."
+    },
+    {
+      "id": "heldout-26",
+      "split": "heldout",
+      "question": "Locate Contract Labour Board meeting notice and business-list requirements.",
+      "expected_evidence_ids": [
+        "b4077164a33416ddfe770fda"
+      ],
+      "expected_document_ids": [
+        "contract-labour-rules-1971"
+      ],
+      "scope": {
+        "namespace": "official",
+        "review_mode": "demo"
+      },
+      "expected_behavior": "supported",
+      "provenance": "Author-defined exact passage anchor in official-host source; contract-labour-rules-1971; b9ff1ca74346c0bf2397cbe7; physical page 5; locator Numbered paragraph 14: NOTICE OF MEETINGS AND LIST OF BUSINESS",
+      "human_review": "pending",
+      "notes": "Passage-location label only; current applicability and human legal support unreviewed."
+    },
+    {
+      "id": "heldout-27",
+      "split": "heldout",
+      "question": "Find the Contract Labour Board quorum passage.",
+      "expected_evidence_ids": [
+        "b2119c8cc001dc2a0abe3747"
+      ],
+      "expected_document_ids": [
+        "contract-labour-rules-1971"
+      ],
+      "scope": {
+        "namespace": "official",
+        "review_mode": "demo"
+      },
+      "expected_behavior": "supported",
+      "provenance": "Author-defined exact passage anchor in official-host source; contract-labour-rules-1971; b9ff1ca74346c0bf2397cbe7; physical page 5; locator Numbered paragraph 15: Quorum",
+      "human_review": "pending",
+      "notes": "Passage-location label only; current applicability and human legal support unreviewed."
+    },
+    {
+      "id": "heldout-28",
+      "split": "heldout",
+      "question": "Find the December FAQ reply about leave encashment and allowances.",
+      "expected_evidence_ids": [
+        "1ed294eae50c8b2b2949a67f"
+      ],
+      "expected_document_ids": [
+        "labour-faq-2025-12"
+      ],
+      "scope": {
+        "namespace": "official",
+        "review_mode": "demo"
+      },
+      "expected_behavior": "supported",
+      "provenance": "Author-defined exact passage anchor in official-host source; labour-faq-2025-12; 0928e510f47fa137ee91a089; physical page 2; locator Numbered paragraph 5: Whether Leave Encashment be",
+      "human_review": "pending",
+      "notes": "Passage-location label only; current applicability and human legal support unreviewed."
+    },
+    {
+      "id": "heldout-29",
+      "split": "heldout",
+      "question": "Find the December FAQ discussion about the fifty percent allowance rule.",
+      "expected_evidence_ids": [
+        "d93ccf59a669ec15fd3eeb34"
+      ],
+      "expected_document_ids": [
+        "labour-faq-2025-12"
+      ],
+      "scope": {
+        "namespace": "official",
+        "review_mode": "demo"
+      },
+      "expected_behavior": "supported",
+      "provenance": "Author-defined exact passage anchor in official-host source; labour-faq-2025-12; 0928e510f47fa137ee91a089; physical page 2; locator Numbered paragraph 4: What is the 50% rule for",
+      "human_review": "pending",
+      "notes": "Passage-location label only; current applicability and human legal support unreviewed."
+    },
+    {
+      "id": "heldout-30",
+      "split": "heldout",
+      "question": "Find the December FAQ passage on when gratuity is payable.",
+      "expected_evidence_ids": [
+        "5d5edfc982865db2599b3c44"
+      ],
+      "expected_document_ids": [
+        "labour-faq-2025-12"
+      ],
+      "scope": {
+        "namespace": "official",
+        "review_mode": "demo"
+      },
+      "expected_behavior": "supported",
+      "provenance": "Author-defined exact passage anchor in official-host source; labour-faq-2025-12; 0928e510f47fa137ee91a089; physical page 3; locator Numbered paragraph 10: When gratuity is payable to an",
+      "human_review": "pending",
+      "notes": "Passage-location label only; current applicability and human legal support unreviewed."
+    },
+    {
+      "id": "heldout-31",
+      "split": "heldout",
+      "question": "Find the December FAQ discussion of journey allowance.",
+      "expected_evidence_ids": [
+        "ee7ada880218155bd0a01553"
+      ],
+      "expected_document_ids": [
+        "labour-faq-2025-12"
+      ],
+      "scope": {
+        "namespace": "official",
+        "review_mode": "demo"
+      },
+      "expected_behavior": "supported",
+      "provenance": "Author-defined exact passage anchor in official-host source; labour-faq-2025-12; 0928e510f47fa137ee91a089; physical page 4; locator Numbered paragraph 16: Whether Journey Allowance for",
+      "human_review": "pending",
+      "notes": "Passage-location label only; current applicability and human legal support unreviewed."
+    },
+    {
+      "id": "heldout-32",
+      "split": "heldout",
+      "question": "Find the March additional FAQ passage about wage protection of white-collar employees.",
+      "expected_evidence_ids": [
+        "020085888e3005e210d2d8a9"
+      ],
+      "expected_document_ids": [
+        "labour-faq-2026-03"
+      ],
+      "scope": {
+        "namespace": "official",
+        "review_mode": "demo"
+      },
+      "expected_behavior": "supported",
+      "provenance": "Author-defined exact passage anchor in official-host source; labour-faq-2026-03; 50c4894435bd24ded0923902; physical page 1; locator Numbered paragraph 2: Are there any specific legal",
+      "human_review": "pending",
+      "notes": "Passage-location label only; current applicability and human legal support unreviewed."
+    },
+    {
+      "id": "development-33",
+      "split": "development",
+      "question": "Find the Consumer Protection Act manner in which a complaint shall be made.",
+      "expected_evidence_ids": [
+        "d46044c3810473aafe687156"
+      ],
+      "expected_document_ids": [
+        "consumer-protection-2019"
+      ],
+      "scope": {
+        "namespace": "official",
+        "review_mode": "demo",
+        "domain": "Consumer law",
+        "jurisdiction": "central"
+      },
+      "expected_behavior": "supported",
+      "provenance": "Author-defined exact passage anchor in official-host source; consumer-protection-2019; 1dc3a37431511b7f06244cc7; physical page None; locator Section 35: Manner in which complaint shall be made",
+      "human_review": "pending",
+      "notes": "Passage-location label only; current applicability and human legal support unreviewed."
+    },
+    {
+      "id": "heldout-34",
+      "split": "heldout",
+      "question": "Locate definitions in the Consumer Protection Act, 2019.",
+      "expected_evidence_ids": [
+        "f2c3efeb5fe6c3a885c032c9"
+      ],
+      "expected_document_ids": [
+        "consumer-protection-2019"
+      ],
+      "scope": {
+        "namespace": "official",
+        "review_mode": "demo",
+        "domain": "Consumer law",
+        "jurisdiction": "central"
+      },
+      "expected_behavior": "supported",
+      "provenance": "Author-defined exact passage anchor in official-host source; consumer-protection-2019; 1dc3a37431511b7f06244cc7; physical page None; locator Section 2: Definitions",
+      "human_review": "pending",
+      "notes": "Passage-location label only; current applicability and human legal support unreviewed."
+    },
+    {
+      "id": "heldout-35",
+      "split": "heldout",
+      "question": "Find the Consumer Protection Act findings of the District Commission.",
+      "expected_evidence_ids": [
+        "26eee434f406b4d48411838c"
+      ],
+      "expected_document_ids": [
+        "consumer-protection-2019"
+      ],
+      "scope": {
+        "namespace": "official",
+        "review_mode": "demo",
+        "domain": "Consumer law",
+        "jurisdiction": "central"
+      },
+      "expected_behavior": "supported",
+      "provenance": "Author-defined exact passage anchor in official-host source; consumer-protection-2019; 1dc3a37431511b7f06244cc7; physical page None; locator Section 39: Findings of District Commission",
+      "human_review": "pending",
+      "notes": "Passage-location label only; current applicability and human legal support unreviewed."
+    },
+    {
+      "id": "development-36",
+      "split": "development",
+      "question": "Find compensation for loss or damage caused by breach of contract.",
+      "expected_evidence_ids": [
+        "d7a67a7f8c684084fefb7a80"
+      ],
+      "expected_document_ids": [
+        "indian-contract-1872"
+      ],
+      "scope": {
+        "namespace": "official",
+        "review_mode": "demo",
+        "domain": "Contracts",
+        "jurisdiction": "central"
+      },
+      "expected_behavior": "supported",
+      "provenance": "Author-defined exact passage anchor in official-host source; indian-contract-1872; 4542c8d95044b33f3e9e5398; physical page None; locator Section 73: Compensation of loss or damage caused by breach of contract",
+      "human_review": "pending",
+      "notes": "Passage-location label only; current applicability and human legal support unreviewed."
+    },
+    {
+      "id": "heldout-37",
+      "split": "heldout",
+      "question": "Find the Indian Contract Act passage on what agreements are contracts.",
+      "expected_evidence_ids": [
+        "6f23f8cddee381bbdc5c9336"
+      ],
+      "expected_document_ids": [
+        "indian-contract-1872"
+      ],
+      "scope": {
+        "namespace": "official",
+        "review_mode": "demo",
+        "domain": "Contracts",
+        "jurisdiction": "central"
+      },
+      "expected_behavior": "supported",
+      "provenance": "Author-defined exact passage anchor in official-host source; indian-contract-1872; 4542c8d95044b33f3e9e5398; physical page None; locator Section 10: What agreements are contracts",
+      "human_review": "pending",
+      "notes": "Passage-location label only; current applicability and human legal support unreviewed."
+    },
+    {
+      "id": "heldout-38",
+      "split": "heldout",
+      "question": "Find implied conditions as to quality or fitness in the Sale of Goods Act.",
+      "expected_evidence_ids": [
+        "8b72c73f84928ed75fc52b96"
+      ],
+      "expected_document_ids": [
+        "sale-of-goods-1930"
+      ],
+      "scope": {
+        "namespace": "official",
+        "review_mode": "demo",
+        "domain": "Contracts",
+        "jurisdiction": "central"
+      },
+      "expected_behavior": "supported",
+      "provenance": "Author-defined exact passage anchor in official-host source; sale-of-goods-1930; f07afc9bd904a0f5d4954f4d; physical page None; locator Section 16: Implied conditions as to quality or fitness",
+      "human_review": "pending",
+      "notes": "Passage-location label only; current applicability and human legal support unreviewed."
+    },
+    {
+      "id": "development-39",
+      "split": "development",
+      "question": "Find the Transfer of Property Act definition of a lease.",
+      "expected_evidence_ids": [
+        "b80f3b310b261f31355a07c0"
+      ],
+      "expected_document_ids": [
+        "transfer-property-1882"
+      ],
+      "scope": {
+        "namespace": "official",
+        "review_mode": "demo",
+        "domain": "Tenancy and property",
+        "jurisdiction": "central"
+      },
+      "expected_behavior": "supported",
+      "provenance": "Author-defined exact passage anchor in official-host source; transfer-property-1882; 9ef14f6c4d4739047431e611; physical page None; locator Section 105: Lease defined",
+      "human_review": "pending",
+      "notes": "Passage-location label only; current applicability and human legal support unreviewed."
+    },
+    {
+      "id": "heldout-40",
+      "split": "heldout",
+      "question": "Find duration of certain leases in absence of written contract or local usage.",
+      "expected_evidence_ids": [
+        "5ad84cfb1caf72e048998753"
+      ],
+      "expected_document_ids": [
+        "transfer-property-1882"
+      ],
+      "scope": {
+        "namespace": "official",
+        "review_mode": "demo",
+        "domain": "Tenancy and property",
+        "jurisdiction": "central"
+      },
+      "expected_behavior": "supported",
+      "provenance": "Author-defined exact passage anchor in official-host source; transfer-property-1882; 9ef14f6c4d4739047431e611; physical page None; locator Section 106: Duration of certain leases in absence of written contract or local usage",
+      "human_review": "pending",
+      "notes": "Passage-location label only; current applicability and human legal support unreviewed."
+    },
+    {
+      "id": "heldout-41",
+      "split": "heldout",
+      "question": "Find the RERA passage about deposit or advance before entering into an agreement for sale.",
+      "expected_evidence_ids": [
+        "9372199b68d84b57acebabd9"
+      ],
+      "expected_document_ids": [
+        "rera-2016"
+      ],
+      "scope": {
+        "namespace": "official",
+        "review_mode": "demo",
+        "domain": "Tenancy and property",
+        "jurisdiction": "central"
+      },
+      "expected_behavior": "supported",
+      "provenance": "Author-defined exact passage anchor in official-host source; rera-2016; 9f232f9ed11c1d07e0b1331a; physical page None; locator Section 13: No deposit or advance to be taken by promoter without first entering into agreement for sale",
+      "human_review": "pending",
+      "notes": "Passage-location label only; current applicability and human legal support unreviewed."
+    },
+    {
+      "id": "development-42",
+      "split": "development",
+      "question": "Find the conditions for a Hindu marriage.",
+      "expected_evidence_ids": [
+        "807c9c75e66a241b301eb2ce"
+      ],
+      "expected_document_ids": [
+        "hindu-marriage-1955"
+      ],
+      "scope": {
+        "namespace": "official",
+        "review_mode": "demo",
+        "domain": "Family law",
+        "jurisdiction": "central"
+      },
+      "expected_behavior": "supported",
+      "provenance": "Author-defined exact passage anchor in official-host source; hindu-marriage-1955; 958ab5a986d1fea86e316251; physical page None; locator Section 5: Condition for a Hindu Marriage",
+      "human_review": "pending",
+      "notes": "Passage-location label only; current applicability and human legal support unreviewed."
+    },
+    {
+      "id": "heldout-43",
+      "split": "heldout",
+      "question": "Find the Hindu Marriage Act divorce provision.",
+      "expected_evidence_ids": [
+        "d4f4f56cfd3449728b196d34"
+      ],
+      "expected_document_ids": [
+        "hindu-marriage-1955"
+      ],
+      "scope": {
+        "namespace": "official",
+        "review_mode": "demo",
+        "domain": "Family law",
+        "jurisdiction": "central"
+      },
+      "expected_behavior": "supported",
+      "provenance": "Author-defined exact passage anchor in official-host source; hindu-marriage-1955; 958ab5a986d1fea86e316251; physical page None; locator Section 13: Divorce",
+      "human_review": "pending",
+      "notes": "Passage-location label only; current applicability and human legal support unreviewed."
+    },
+    {
+      "id": "heldout-44",
+      "split": "heldout",
+      "question": "Find devolution of interest in coparcenary property in the Hindu Succession Act.",
+      "expected_evidence_ids": [
+        "5f8c5c3361a014d48ddb30e6"
+      ],
+      "expected_document_ids": [
+        "hindu-succession-1956"
+      ],
+      "scope": {
+        "namespace": "official",
+        "review_mode": "demo",
+        "domain": "Family law",
+        "jurisdiction": "central"
+      },
+      "expected_behavior": "supported",
+      "provenance": "Author-defined exact passage anchor in official-host source; hindu-succession-1956; fd7efc4667d311031bf63a15; physical page None; locator Section 6: Devolution of interest in coparcenary property",
+      "human_review": "pending",
+      "notes": "Passage-location label only; current applicability and human legal support unreviewed."
+    },
+    {
+      "id": "development-45",
+      "split": "development",
+      "question": "Find the Limitation Act bar of limitation for suits, appeals and applications.",
+      "expected_evidence_ids": [
+        "a062267188721bdb12a9daf9"
+      ],
+      "expected_document_ids": [
+        "limitation-1963"
+      ],
+      "scope": {
+        "namespace": "official",
+        "review_mode": "demo",
+        "domain": "Criminal and civil procedure",
+        "jurisdiction": "central"
+      },
+      "expected_behavior": "supported",
+      "provenance": "Author-defined exact passage anchor in official-host source; limitation-1963; 1705a890fb8d81786b8504a6; physical page None; locator Section 3: Bar of limitation",
+      "human_review": "pending",
+      "notes": "Passage-location label only; current applicability and human legal support unreviewed."
+    },
+    {
+      "id": "heldout-46",
+      "split": "heldout",
+      "question": "Find extension of the prescribed period in certain cases under the Limitation Act.",
+      "expected_evidence_ids": [
+        "750a8bae7b2fd7d4d50893ce"
+      ],
+      "expected_document_ids": [
+        "limitation-1963"
+      ],
+      "scope": {
+        "namespace": "official",
+        "review_mode": "demo",
+        "domain": "Criminal and civil procedure",
+        "jurisdiction": "central"
+      },
+      "expected_behavior": "supported",
+      "provenance": "Author-defined exact passage anchor in official-host source; limitation-1963; 1705a890fb8d81786b8504a6; physical page None; locator Section 5: Extension of prescribed period in certain cases",
+      "human_review": "pending",
+      "notes": "Passage-location label only; current applicability and human legal support unreviewed."
+    },
+    {
+      "id": "heldout-47",
+      "split": "heldout",
+      "question": "Find the BNSS provision on information about a cognizable offence irrespective of the area where the offence is committed.",
+      "expected_evidence_ids": [
+        "7eeb5adc6d446a0d6935a3fa"
+      ],
+      "expected_document_ids": [
+        "bnss-2023"
+      ],
+      "scope": {
+        "namespace": "official",
+        "review_mode": "demo",
+        "domain": "Criminal and civil procedure",
+        "jurisdiction": "central"
+      },
+      "expected_behavior": "supported",
+      "provenance": "Author-defined exact passage anchor in official-host source; bnss-2023; e234978fb620c6512c8c6540; physical page 52; locator Numbered paragraph 173: (1) Every information relating to the commission of a cognizable offence,",
+      "human_review": "pending",
+      "notes": "Passage-location label only; current applicability and human legal support unreviewed."
+    },
+    {
+      "id": "development-48",
+      "split": "development",
+      "question": "Find the Companies Act passage on incorporation of a company.",
+      "expected_evidence_ids": [
+        "a4439e07bc28900c7483f6a5"
+      ],
+      "expected_document_ids": [
+        "companies-2013"
+      ],
+      "scope": {
+        "namespace": "official",
+        "review_mode": "demo",
+        "domain": "Corporate and tax",
+        "jurisdiction": "central"
+      },
+      "expected_behavior": "supported",
+      "provenance": "Author-defined exact passage anchor in official-host source; companies-2013; 16dd36bac0e9716b9f0f1e83; physical page None; locator Section 7: Incorporation of company",
+      "human_review": "pending",
+      "notes": "Passage-location label only; current applicability and human legal support unreviewed."
+    },
+    {
+      "id": "heldout-49",
+      "split": "heldout",
+      "question": "Find the Companies Act provision for a company to have a Board of Directors.",
+      "expected_evidence_ids": [
+        "a2415bcba4c285c38611a72f"
+      ],
+      "expected_document_ids": [
+        "companies-2013"
+      ],
+      "scope": {
+        "namespace": "official",
+        "review_mode": "demo",
+        "domain": "Corporate and tax",
+        "jurisdiction": "central"
+      },
+      "expected_behavior": "supported",
+      "provenance": "Author-defined exact passage anchor in official-host source; companies-2013; 16dd36bac0e9716b9f0f1e83; physical page None; locator Section 149: Company to have Board of Directors",
+      "human_review": "pending",
+      "notes": "Passage-location label only; current applicability and human legal support unreviewed."
+    },
+    {
+      "id": "heldout-50",
+      "split": "heldout",
+      "question": "Find the Limited Liability Partnership Act partner as agent provision.",
+      "expected_evidence_ids": [
+        "1af0af2efb90ab54ed8df57b"
+      ],
+      "expected_document_ids": [
+        "llp-2008"
+      ],
+      "scope": {
+        "namespace": "official",
+        "review_mode": "demo",
+        "domain": "Corporate and tax",
+        "jurisdiction": "central"
+      },
+      "expected_behavior": "supported",
+      "provenance": "Author-defined exact passage anchor in official-host source; llp-2008; 01973b407eec46909c146c91; physical page None; locator Section 26: Partner as agent",
+      "human_review": "pending",
+      "notes": "Passage-location label only; current applicability and human legal support unreviewed."
+    },
+    {
+      "id": "development-51",
+      "split": "development",
+      "question": "Find legal recognition of electronic records in the Information Technology Act.",
+      "expected_evidence_ids": [
+        "0a4ab9e8b5030b8cbafd9a4f"
+      ],
+      "expected_document_ids": [
+        "information-technology-2000"
+      ],
+      "scope": {
+        "namespace": "official",
+        "review_mode": "demo",
+        "domain": "Other specialist areas",
+        "jurisdiction": "central"
+      },
+      "expected_behavior": "supported",
+      "provenance": "Author-defined exact passage anchor in official-host source; information-technology-2000; 856d7e447beba22d16de68b4; physical page None; locator Section 4: Legal recognition of electronic records",
+      "human_review": "pending",
+      "notes": "Passage-location label only; current applicability and human legal support unreviewed."
+    },
+    {
+      "id": "heldout-52",
+      "split": "heldout",
+      "question": "Find the Information Technology Act penalty and compensation for damage to a computer system.",
+      "expected_evidence_ids": [
+        "5999dab50dac96a2b3222208"
+      ],
+      "expected_document_ids": [
+        "information-technology-2000"
+      ],
+      "scope": {
+        "namespace": "official",
+        "review_mode": "demo",
+        "domain": "Other specialist areas",
+        "jurisdiction": "central"
+      },
+      "expected_behavior": "supported",
+      "provenance": "Author-defined exact passage anchor in official-host source; information-technology-2000; 856d7e447beba22d16de68b4; physical page None; locator Section 43: Penalty 1[and compensation] for damage to computer, computer system, etc",
+      "human_review": "pending",
+      "notes": "Passage-location label only; current applicability and human legal support unreviewed."
+    },
+    {
+      "id": "heldout-53",
+      "split": "heldout",
+      "question": "Find the Environment Protection Act provision on emissions exceeding environmental pollutant standards.",
+      "expected_evidence_ids": [
+        "e96056dc5cbbd2d3bf5a2a9e"
+      ],
+      "expected_document_ids": [
+        "environment-protection-1986"
+      ],
+      "scope": {
+        "namespace": "official",
+        "review_mode": "demo",
+        "domain": "Other specialist areas",
+        "jurisdiction": "central"
+      },
+      "expected_behavior": "supported",
+      "provenance": "Author-defined exact passage anchor in official-host source; environment-protection-1986; 9857c9a6ad92332c12d54f2c; physical page None; locator Section 7: Persons carrying on industry, operation, etc., not to allow emission or dis\u00adcharge of environmental pollutants in excess of the standards",
+      "human_review": "pending",
+      "notes": "Passage-location label only; current applicability and human legal support unreviewed."
+    },
+    {
+      "id": "development-behavior-54",
+      "split": "development",
+      "question": "Can my employer dismiss me?",
+      "expected_evidence_ids": [],
+      "expected_document_ids": [],
+      "scope": {},
+      "expected_behavior": "needs clarification",
+      "provenance": "Author-defined engineering scope/gap/clarification case; expanded corpus has unknown effective dates and zero reviewed versions.",
+      "human_review": "pending"
+    },
+    {
+      "id": "development-behavior-55",
+      "split": "development",
+      "question": "Find a passage about quantum teleportation of court records.",
+      "expected_evidence_ids": [],
+      "expected_document_ids": [],
+      "scope": {},
+      "expected_behavior": "insufficient evidence",
+      "provenance": "Author-defined engineering scope/gap/clarification case; expanded corpus has unknown effective dates and zero reviewed versions.",
+      "human_review": "pending"
+    },
+    {
+      "id": "heldout-behavior-56",
+      "split": "heldout",
+      "question": "What tenancy rules apply to my rented apartment?",
+      "expected_evidence_ids": [],
+      "expected_document_ids": [],
+      "scope": {
+        "domain": "Tenancy and property"
+      },
+      "expected_behavior": "needs clarification",
+      "provenance": "Author-defined engineering scope/gap/clarification case; expanded corpus has unknown effective dates and zero reviewed versions.",
+      "human_review": "pending"
+    },
+    {
+      "id": "heldout-behavior-57",
+      "split": "heldout",
+      "question": "Am I entitled to overtime?",
+      "expected_evidence_ids": [],
+      "expected_document_ids": [],
+      "scope": {},
+      "expected_behavior": "needs clarification",
+      "provenance": "Author-defined engineering scope/gap/clarification case; expanded corpus has unknown effective dates and zero reviewed versions.",
+      "human_review": "pending"
+    },
+    {
+      "id": "heldout-behavior-58",
+      "split": "heldout",
+      "question": "Which labour law is currently in force?",
+      "expected_evidence_ids": [],
+      "expected_document_ids": [],
+      "scope": {},
+      "expected_behavior": "needs clarification",
+      "provenance": "Author-defined engineering scope/gap/clarification case; expanded corpus has unknown effective dates and zero reviewed versions.",
+      "human_review": "pending"
+    },
+    {
+      "id": "heldout-behavior-59",
+      "split": "heldout",
+      "question": "Find drinking water provisions as of the selected date.",
+      "expected_evidence_ids": [],
+      "expected_document_ids": [],
+      "scope": {
+        "as_of": "2026-10-12"
+      },
+      "expected_behavior": "insufficient evidence",
+      "provenance": "Author-defined engineering scope/gap/clarification case; expanded corpus has unknown effective dates and zero reviewed versions.",
+      "human_review": "pending"
+    },
+    {
+      "id": "heldout-behavior-60",
+      "split": "heldout",
+      "question": "Find the consumer refund remedy in reviewed sources.",
+      "expected_evidence_ids": [],
+      "expected_document_ids": [],
+      "scope": {
+        "domain": "Consumer law",
+        "review_mode": "reviewed"
+      },
+      "expected_behavior": "insufficient evidence",
+      "provenance": "Author-defined engineering scope/gap/clarification case; expanded corpus has unknown effective dates and zero reviewed versions.",
+      "human_review": "pending"
+    },
+    {
+      "id": "heldout-behavior-61",
+      "split": "heldout",
+      "question": "Find corporate tax deduction rates as of the selected date.",
+      "expected_evidence_ids": [],
+      "expected_document_ids": [],
+      "scope": {
+        "domain": "Corporate and tax",
+        "as_of": "2026-10-12"
+      },
+      "expected_behavior": "insufficient evidence",
+      "provenance": "Author-defined engineering scope/gap/clarification case; expanded corpus has unknown effective dates and zero reviewed versions.",
+      "human_review": "pending"
+    }
+  ]
+}

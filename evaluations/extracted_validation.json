@@ -1,0 +1,38 @@
+{
+  "archive_integrity": "passed",
+  "manifest_hashes": "passed",
+  "fresh_directory": "/tmp/Vidhaan Fresh Export/vidhaan",
+  "new_lightweight_venv": "passed",
+  "setup_script_with_spaces_in_path": "passed",
+  "base_streamlit_script": "passed",
+  "synthetic_bm25": "passed",
+  "optional_dependencies_absent": true,
+  "pytest": {
+    "executed": 80,
+    "passed": 79,
+    "skipped": 1,
+    "failed": 0,
+    "skip_reason": "Optional native FAISS backend absent"
+  },
+  "official_workflow": {
+    "official_sources": 5,
+    "reviewed": 0,
+    "actual_official_bm25": "passed",
+    "date_unknown_refusal": "passed",
+    "reviewed_mode_gap": "passed",
+    "fresh_ui": "passed",
+    "legal_input_origin": "Previously acquired genuine originals; never added to ZIP"
+  },
+  "initial_zip_official_coverage": 0,
+  "legal_pdfs_in_zip": false,
+  "fresh_run_script_live_http": "passed",
+  "startup_port_note": "An occupied test port was preserved; validation used an available loopback port.",
+  "final_source_reextraction": {
+    "tests_passed": 79,
+    "optional_faiss_skipped": 1,
+    "failed": 0,
+    "cli_evidence_search": "passed",
+    "retrieval_backend_display": "passed",
+    "environment": "Previously clean-installed base/dev venv reused for final source; still no heavy optional dependencies"
+  }
+}

@@ -1,0 +1,143 @@
+{
+  "python": "3.12.14",
+  "cloud_tests": {
+    "passed": 105,
+    "failed": 0,
+    "skipped": 0
+  },
+  "coverage": [
+    {
+      "domain": "Labour and employment",
+      "sources": 5,
+      "versions": 5,
+      "collected": 5,
+      "parsed": 5,
+      "indexed": 5,
+      "reviewed": 0,
+      "states": []
+    },
+    {
+      "domain": "Consumer law",
+      "sources": 1,
+      "versions": 1,
+      "collected": 1,
+      "parsed": 1,
+      "indexed": 1,
+      "reviewed": 0,
+      "states": []
+    },
+    {
+      "domain": "Contracts",
+      "sources": 3,
+      "versions": 3,
+      "collected": 3,
+      "parsed": 3,
+      "indexed": 3,
+      "reviewed": 0,
+      "states": []
+    },
+    {
+      "domain": "Tenancy and property",
+      "sources": 2,
+      "versions": 2,
+      "collected": 2,
+      "parsed": 2,
+      "indexed": 2,
+      "reviewed": 0,
+      "states": []
+    },
+    {
+      "domain": "Family law",
+      "sources": 2,
+      "versions": 2,
+      "collected": 2,
+      "parsed": 2,
+      "indexed": 2,
+      "reviewed": 0,
+      "states": []
+    },
+    {
+      "domain": "Criminal and civil procedure",
+      "sources": 4,
+      "versions": 4,
+      "collected": 4,
+      "parsed": 4,
+      "indexed": 4,
+      "reviewed": 0,
+      "states": []
+    },
+    {
+      "domain": "Corporate and tax",
+      "sources": 3,
+      "versions": 3,
+      "collected": 3,
+      "parsed": 3,
+      "indexed": 3,
+      "reviewed": 0,
+      "states": []
+    },
+    {
+      "domain": "Other specialist areas",
+      "sources": 3,
+      "versions": 3,
+      "collected": 3,
+      "parsed": 3,
+      "indexed": 3,
+      "reviewed": 0,
+      "states": []
+    }
+  ],
+  "official_child_chunks": 5819,
+  "sample_first_acquisition": {
+    "imported": 5,
+    "reviewed": 0
+  },
+  "repeat_acquisition": {
+    "duplicate_hash_verified": 4,
+    "failed": 1,
+    "failure": "Bonded Labour source: HTTP 403"
+  },
+  "pip_check": "passed",
+  "shell_setup_current_instance": "passed",
+  "shell_setup_fresh_extraction": "passed",
+  "windows_powershell_execution": "not_run",
+  "macos_native_execution": "not_run",
+  "ollama_real": "not_run",
+  "embedding_real": "not_run",
+  "embedding_blocker": "Cloud proxy denies us.aws.cdn.hf.co",
+  "cpu_optional_dependencies_installed": true,
+  "cuda_or_tensorflow_required": false,
+  "retrieval_metrics": "See evaluations/latest/results.json; human semantic/legal review pending",
+  "archive_validation": "See bundle_validation.json for the final project including corpus; earlier exported-source validations are historical.",
+  "corpus_signature": "fa5f3b94e9b919427470dc83853e89f6b971067a2f4f2217f0a982dc2ba5f2d7",
+  "expansion_acquisition": {
+    "imported": 18,
+    "failed": 0,
+    "reviewed": 0
+  },
+  "all_domain_searches": "8 passed; see corpus_expansion_smoke.json",
+  "expanded_export": {
+    "tests_passed": 91,
+    "optional_skipped": 1,
+    "failed": 0,
+    "source_integrity": "passed",
+    "domain_searches": 8
+  },
+  "included_corpus": {
+    "sources": 21,
+    "official_child_chunks": 5786,
+    "domains": 8,
+    "load": "verified offline",
+    "download_only_faqs": 2
+  },
+  "final_with_corpus_export": {
+    "sources": 21,
+    "domains": 8,
+    "passages": 5786,
+    "base_tests_passed": 104,
+    "optional_skipped": 1,
+    "failed": 0,
+    "shell_setup": "passed",
+    "run_script_health": "passed"
+  }
+}

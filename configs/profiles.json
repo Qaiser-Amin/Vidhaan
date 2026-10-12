@@ -1,0 +1,5 @@
+{
+  "evidence_only": {"model": null, "context_tokens": 4096, "output_tokens": 384, "evidence_tokens": 1800, "history_tokens": 300, "top_k": 5, "timeout_seconds": 90, "rerank": false},
+  "lenovo_cpu": {"model": "qwen3:4b", "context_tokens": 4096, "output_tokens": 512, "evidence_tokens": 1800, "history_tokens": 300, "top_k": 5, "timeout_seconds": 180, "rerank": false},
+  "mac_m5": {"model": "qwen3.5:9b", "context_tokens": 8192, "output_tokens": 768, "evidence_tokens": 3800, "history_tokens": 600, "top_k": 7, "timeout_seconds": 180, "rerank": false}
+}

@@ -1,0 +1,374 @@
+{
+  "created_at": "2026-10-12T18:27:47.730735+00:00",
+  "included_sources": 21,
+  "included_domains": 8,
+  "official_child_passages": 5786,
+  "full_cloud_acquisition_sources": 23,
+  "download_only": [
+    "labour-faq-2025-12",
+    "labour-faq-2026-03"
+  ],
+  "source_integrity": [
+    {
+      "document_id": "bns-2023",
+      "sha256": "c9da896e7a16c481a46235789f74f545b7a9ed7f3a5c8049d0b1b9252c6731f4",
+      "integrity": "passed",
+      "section_records": null
+    },
+    {
+      "document_id": "bnss-2023",
+      "sha256": "5e60e2afe30d0fe7eca4f8126301146b76c86a444e690581f81eb564843517fe",
+      "integrity": "passed",
+      "section_records": null
+    },
+    {
+      "document_id": "bonded-labour-1976",
+      "sha256": "074a5d80e3f5b784104326fff169db99b33a26db4f72d900972eacf1571bf950",
+      "integrity": "passed",
+      "section_records": null
+    },
+    {
+      "document_id": "bsa-2023",
+      "sha256": "13e2b6eb66add222c7262ccaa0b08d58e48ca22cdf0953f6541123ef039de239",
+      "integrity": "passed",
+      "section_records": null
+    },
+    {
+      "document_id": "companies-2013",
+      "sha256": "77e989f8d6f9a64f8b4a0f7d1d58eb153338b02be18ab3896f67440ee8f46916",
+      "integrity": "passed",
+      "section_records": 539
+    },
+    {
+      "document_id": "consumer-protection-2019",
+      "sha256": "c2539eb78d182cdca7e8e94c733f5dc80c9ab0bc01d9ae7f9910a47abcaaceda",
+      "integrity": "passed",
+      "section_records": 109
+    },
+    {
+      "document_id": "contract-labour-rules-1971",
+      "sha256": "ad5a6bcab0c368ea145e8aa0263143c28a457d5ff7db12aa338bb6f7b7021cad",
+      "integrity": "passed",
+      "section_records": null
+    },
+    {
+      "document_id": "environment-protection-1986",
+      "sha256": "5d2a9410efaa191e4469b4f0fea2743229f71881507adcfd42e9433fb0e67906",
+      "integrity": "passed",
+      "section_records": 37
+    },
+    {
+      "document_id": "hindu-marriage-1955",
+      "sha256": "636f1965a9d958bcabdc19610d2b33987b32085b298a50b8c93bf515d4c3cbe0",
+      "integrity": "passed",
+      "section_records": 36
+    },
+    {
+      "document_id": "hindu-succession-1956",
+      "sha256": "b9930300109e846e06d7f851df500d5bcb02d29689351f35cdc452e1ebf0e894",
+      "integrity": "passed",
+      "section_records": 31
+    },
+    {
+      "document_id": "income-tax-transition-faq-2026",
+      "sha256": "cf1d4ad8e7c7bc144dae8102f0418b2b8bbf4e2789e9a10dabf296fe8c43b62a",
+      "integrity": "passed",
+      "section_records": null
+    },
+    {
+      "document_id": "indian-contract-1872",
+      "sha256": "11e450b8b15f2da01bc060e538d55ee94b1942298b20dbd076d28db5d7569aad",
+      "integrity": "passed",
+      "section_records": 193
+    },
+    {
+      "document_id": "information-technology-2000",
+      "sha256": "924c1667cc509a68b57a8ab1cff1b54ad6e74aa50213fb1c08f8223d8fb0f423",
+      "integrity": "passed",
+      "section_records": 126
+    },
+    {
+      "document_id": "limitation-1963",
+      "sha256": "0f69018c0c2358d4361e388244365a18b099cd4939536ba71ecd648e71b90b4b",
+      "integrity": "passed",
+      "section_records": 34
+    },
+    {
+      "document_id": "llp-2008",
+      "sha256": "03a8e56626b5da980756f637616aa144b1353ef830ece42e25ef90d1c9708711",
+      "integrity": "passed",
+      "section_records": 92
+    },
+    {
+      "document_id": "plantations-1951",
+      "sha256": "76e98b4a114778783eeefb5de637c09d51de7463cf68a675087a9ba36b30b59f",
+      "integrity": "passed",
+      "section_records": null
+    },
+    {
+      "document_id": "rera-2016",
+      "sha256": "ba80bc7db7ec198eca7fac47491b318a0ad5e78409de872ed05e265352654eb5",
+      "integrity": "passed",
+      "section_records": 92
+    },
+    {
+      "document_id": "right-information-2005",
+      "sha256": "dce2ecd272e07793698fdf7b19c6f878d1ab4dddd5f62fcbe4b8abe57c27a3dc",
+      "integrity": "passed",
+      "section_records": null
+    },
+    {
+      "document_id": "sale-of-goods-1930",
+      "sha256": "5c2a7d863e298f10000aeb459120176457e6d44691f675a815e279ffdc078e1b",
+      "integrity": "passed",
+      "section_records": 67
+    },
+    {
+      "document_id": "specific-relief-1963",
+      "sha256": "0fdebfffc8fe5c242e3d6fa74cbbf62ea94093f6abe5c9257890fa871ccf522e",
+      "integrity": "passed",
+      "section_records": 49
+    },
+    {
+      "document_id": "transfer-property-1882",
+      "sha256": "3d4c8da13aeebe3759056a812e29b49fc7ecd89172a9c239e8045a244872d307",
+      "integrity": "passed",
+      "section_records": 145
+    }
+  ],
+  "domain_searches": [
+    {
+      "domain": "Labour and employment",
+      "question": "What passage covers wholesome drinking water in plantations?",
+      "status": "supported",
+      "expected_source_retrieved": true,
+      "exact_citations": "passed",
+      "reviewed_gap": "passed",
+      "unknown_date_gap": "passed",
+      "document_ids": [
+        "plantations-1951",
+        "contract-labour-rules-1971"
+      ],
+      "evidence_ids": [
+        "b23333560a318972219d7924",
+        "174895ed3bd388fa0737c2c3",
+        "4bfe4b50af385ca3913cba9c",
+        "db85422387b33fce18657fc0",
+        "0bd8a78613f5a08713caeb25"
+      ],
+      "retrieval_seconds": 0.5748788720011362
+    },
+    {
+      "domain": "Consumer law",
+      "question": "Find the Consumer Protection Act passage on findings of the District Commission.",
+      "status": "supported",
+      "expected_source_retrieved": true,
+      "exact_citations": "passed",
+      "reviewed_gap": "passed",
+      "unknown_date_gap": "passed",
+      "document_ids": [
+        "consumer-protection-2019"
+      ],
+      "evidence_ids": [
+        "26eee434f406b4d48411838c",
+        "9f669e7122d7e8800d6fcf5e",
+        "4166280c9e63a15067572bd5",
+        "891842de3b86a0b16d786b24",
+        "f1da35692ffe9195762c7bf3"
+      ],
+      "retrieval_seconds": 0.2195698909999919
+    },
+    {
+      "domain": "Contracts",
+      "question": "Find compensation for loss or damage caused by breach of contract.",
+      "status": "supported",
+      "expected_source_retrieved": true,
+      "exact_citations": "passed",
+      "reviewed_gap": "passed",
+      "unknown_date_gap": "passed",
+      "document_ids": [
+        "indian-contract-1872",
+        "specific-relief-1963"
+      ],
+      "evidence_ids": [
+        "d7a67a7f8c684084fefb7a80",
+        "a0d4d05fdae8b138f8b6d707",
+        "16264c2344fc42136c745408",
+        "217cfb86e11aa6982b6052fb",
+        "5344d27186f62f534989655c"
+      ],
+      "retrieval_seconds": 0.22808110299956752
+    },
+    {
+      "domain": "Tenancy and property",
+      "question": "Find the Transfer of Property Act definition of a lease.",
+      "status": "supported",
+      "expected_source_retrieved": true,
+      "exact_citations": "passed",
+      "reviewed_gap": "passed",
+      "unknown_date_gap": "passed",
+      "document_ids": [
+        "transfer-property-1882"
+      ],
+      "evidence_ids": [
+        "b80f3b310b261f31355a07c0",
+        "d760d41ae004b29c4508a600",
+        "fb060ebd076be223baa8c306",
+        "e31b1d1ff0cf254112eee6ae",
+        "0200207883323e8ca08b8569"
+      ],
+      "retrieval_seconds": 0.2324389900004462
+    },
+    {
+      "domain": "Family law",
+      "question": "Find the Hindu Succession Act passage on devolution of interest in coparcenary property.",
+      "status": "supported",
+      "expected_source_retrieved": true,
+      "exact_citations": "passed",
+      "reviewed_gap": "passed",
+      "unknown_date_gap": "passed",
+      "document_ids": [
+        "hindu-succession-1956"
+      ],
+      "evidence_ids": [
+        "5f8c5c3361a014d48ddb30e6",
+        "3d125caa25b7f1e37828d255",
+        "c9bdeed8187fd50ed5aa0a7e",
+        "8185799945d73ec42d86e570",
+        "56d7c9912342e304c6512647"
+      ],
+      "retrieval_seconds": 0.21483334799995646
+    },
+    {
+      "domain": "Criminal and civil procedure",
+      "question": "Find the Limitation Act passage about extension of the prescribed period in certain cases.",
+      "status": "supported",
+      "expected_source_retrieved": true,
+      "exact_citations": "passed",
+      "reviewed_gap": "passed",
+      "unknown_date_gap": "passed",
+      "document_ids": [
+        "limitation-1963"
+      ],
+      "evidence_ids": [
+        "750a8bae7b2fd7d4d50893ce",
+        "ada00e74e755dbc5310456af",
+        "8331ca1c9077da7a52edd03c",
+        "8800dde4ff2bb9dcffcf35de",
+        "f6819513a8efb6f895dca158"
+      ],
+      "retrieval_seconds": 0.3111060000010184
+    },
+    {
+      "domain": "Corporate and tax",
+      "question": "Find the Companies Act passage on incorporation of a company.",
+      "status": "supported",
+      "expected_source_retrieved": true,
+      "exact_citations": "passed",
+      "reviewed_gap": "passed",
+      "unknown_date_gap": "passed",
+      "document_ids": [
+        "companies-2013",
+        "llp-2008"
+      ],
+      "evidence_ids": [
+        "bcdf6fe65ede5fb1ba13cdfa",
+        "e3500f6bd0eed97a86a66d1b",
+        "5aa082daf9b8472adbcca164",
+        "3ad941a9324cf3ae5b9e5818",
+        "aecad63a1172436b28083b2c"
+      ],
+      "retrieval_seconds": 0.36572461600007955
+    },
+    {
+      "domain": "Other specialist areas",
+      "question": "Find legal recognition of electronic records in the Information Technology Act.",
+      "status": "supported",
+      "expected_source_retrieved": true,
+      "exact_citations": "passed",
+      "reviewed_gap": "passed",
+      "unknown_date_gap": "passed",
+      "document_ids": [
+        "information-technology-2000"
+      ],
+      "evidence_ids": [
+        "0a4ab9e8b5030b8cbafd9a4f",
+        "e4657145f72bc7dd96cc8430",
+        "ec824286612f02e2f0ea2196",
+        "991cfae2a5d6c0322a6a2ddb",
+        "c1654fe4586ba7b1cbf2ccf4"
+      ],
+      "retrieval_seconds": 0.23738866900021094
+    }
+  ],
+  "corpus_signature": "fa65a3c5784e2dadd6914ec12ef560be76ea0e6280919266bed8b1f9e21eb0f3",
+  "cloud_tests": {
+    "passed": 105,
+    "failed": 0,
+    "skipped": 0
+  },
+  "selected_bundle_files": 43,
+  "original_api_payloads_included": false,
+  "private_data_or_database_included": false,
+  "reuse_records": "docs/CORPUS_REUSE.md and data/bundled/manifest.json",
+  "fresh_export_status": "base UI, synthetic isolation, offline 21-source import and eight-domain workflows passed",
+  "base_only_tests": {
+    "passed": 104,
+    "failed": 0,
+    "skipped": 1,
+    "skip_reason": "Optional native FAISS absent"
+  },
+  "fresh_shell_setup": "passed on Linux using a new base/dev virtual environment; includes offline corpus load and pip check",
+  "tested_core_hashes": {
+    "vidhaan/app.py": "2607c93343c09fd5322276b4cc73186e3b8d0bf34ef33c0d8dc291452a02cbb8",
+    "vidhaan/constraints.txt": "81f85eb5c833c42b25b6dc4cd66d753ae32735b7f985b3028d15f3e7ac3bef8e",
+    "vidhaan/pyproject.toml": "530f2c1601efd2d133ea0dcc4d405a8785dbfa1f18425c9109c0876fda79a8bd",
+    "vidhaan/requirements-base.txt": "51d6e5af5e75e96978772eaf274a296c0e8d701b2761747f7427b76e3783e32f",
+    "vidhaan/requirements-dev.txt": "509ff51d6e47cd3f3988df5657c4b11e11d3376dad5106a24ed3d1ef4ff25abf",
+    "vidhaan/requirements-embeddings.txt": "0604b82f92c5a48a224106089154d7f4d7efc0c8ef29b125735a34c6ddc1f393",
+    "vidhaan/requirements-faiss.txt": "9dba5ea4db3d3c483cb08d52ddec5b3f07f3c967234c0d07b0ebcc6f7e8cd60a",
+    "vidhaan/requirements-reranking.txt": "04d89b12ced354bb7fff398e666dbd662d13ab69ef48271f2d9bfd3ec52f620a",
+    "vidhaan/scripts/build_benchmark.py": "ad0412492f043468a74371711d513644ebd7e11afc3a0c3d9d410603ecdf96b0",
+    "vidhaan/scripts/document_corpus.py": "738b878592f24404d5cddf157205e162c6a9930f89807c1319bdf070ff3ecc85",
+    "vidhaan/scripts/package_project.py": "82589df578f579120b87cc571dd779e6e0a7ab023314867e9b1e71941673c15e",
+    "vidhaan/scripts/prepare_bundle.py": "29408ebfd3ce871899c3bda5df04b879be9479286bc382d54f79c9c70edf2675",
+    "vidhaan/scripts/run_mac.sh": "8b0071bd3d056a1d93b5618dff6b867ca468a0d8389dba80310d8adc12951272",
+    "vidhaan/scripts/run_windows.ps1": "a9ee1cb672e1a978cdbf331d027fccbf3a0861a54d45284302a24542122334aa",
+    "vidhaan/scripts/setup_mac.sh": "f54db52e995f7d85305e39246dffc4a11fd49d3dc765f10e334c1c1e810c2c8c",
+    "vidhaan/scripts/setup_windows.ps1": "fa60059e25098ea0ab1f299853b2cda2287224f9880b7643659b214f56382716",
+    "vidhaan/scripts/validate_corpus.py": "48f9ef3abb15ffe468d46a68d55a2a066bdbed3f4e30c5d38a55b6a0d585f13c",
+    "vidhaan/scripts/validate_export.py": "9238f14883f5cfa6534a7a7d16899c41c29f5cfe42ca33352a742f8ee866def7",
+    "vidhaan/tests/conftest.py": "858e5cf21c2b5eaedc250b06c5d41908ba03c2885a0df3fc6e34ecafe28a7304",
+    "vidhaan/tests/test_answers.py": "88484319216941dccfa42ef49e46431e974d6f06e2f2f023523b7fe5c0a7a168",
+    "vidhaan/tests/test_base_mode.py": "022d540dcd5aaf96c0b75213f00467b01200f30cf8e51e7e18525d4ceafdbfea",
+    "vidhaan/tests/test_bundled.py": "812f16b029b155cabdd877fbbf8a876319ebf48e4a6b112d1f99c9b0f84fa9c7",
+    "vidhaan/tests/test_chunking.py": "e9e01bd3fdb3edc4ca129b08a2515b5c4e5bdfb6fa4ff73613f8ee02804a14b0",
+    "vidhaan/tests/test_indexes.py": "0d172188f42da3fb3740bdf55f2f823a9f7e18bfe7b93e650e453274c8975fad",
+    "vidhaan/tests/test_ingestion.py": "ae47ce49d84763e5be3232c79a84d92e11e1af8a8e1c78fad081af3856ec8c34",
+    "vidhaan/tests/test_official_sections.py": "cff0ef2ea00bff30ced1516e6dc5223d6d349eeca719e8f7ed72395d2c3bc445",
+    "vidhaan/tests/test_packaging.py": "5a6f18f092afb3f57969a9a2f53e5e55b8dff53649dd44a3dac7fad1bc1beb5a",
+    "vidhaan/tests/test_retrieval.py": "3e63385d27a15ec5adaa7af617d3deff5bb067ab8c50f4e2f5dde783930837f9",
+    "vidhaan/tests/test_sources.py": "e7a4dfd04f9b52bd7e38cb334f3b5f84db27d8ab7ab5c8fd932d89082bea737d",
+    "vidhaan/tests/test_ui.py": "159d9816a69845f8e8b0148616f61aa5248b8ee204a19040dc417538e6c1c9f5",
+    "vidhaan/vidhaan/__init__.py": "b349c628ed91319fefb3c1f30fc853de08ce8ff6b448aad193780552d9539ec4",
+    "vidhaan/vidhaan/answering.py": "4a8c4c45b0a4796fe1f691fa199ac831585f56b8aa4ff7fb5a49c78a92fef3ee",
+    "vidhaan/vidhaan/bundled.py": "4286b849f33fe570278cc0a7885ec485c6ec64b0e6ffcc27667ab0b1a57c00bc",
+    "vidhaan/vidhaan/chunking.py": "046595091cfeb1bd98939b1b278904422c3563447fe939679f01be2979493e46",
+    "vidhaan/vidhaan/citations.py": "bf13f66a25a0c7c370c114753f042ae762451588b8089caceb4c28f257164fa0",
+    "vidhaan/vidhaan/cli.py": "41be8d16826d2934f24e36e4529e01ae90b57bc1e9980ab8684f7e7d2fcb91f1",
+    "vidhaan/vidhaan/config.py": "8dd9a8768b9d181857fe04d09b7b63a7884324ea3217bc4dc6ba8e1a606b366c",
+    "vidhaan/vidhaan/diagnostics.py": "90f6b6794ff6c7280b23bd6ab1542fec3cd989f2a8f5a855fbe4612bd3baaef6",
+    "vidhaan/vidhaan/evaluation.py": "dac3ffbe79af41db67565cdc9b91e2bf57de1030827ad512af2c5f383a5eaff4",
+    "vidhaan/vidhaan/indexing.py": "0c78a2f89b9165ab45b42618d93509992b8d515ca122e74c33a293c3dfc1d73f",
+    "vidhaan/vidhaan/ingestion.py": "037205d4381a784411af37544bad4ecd88b4722f1b51221f000e5da9786061ce",
+    "vidhaan/vidhaan/models.py": "715bacb19be8649d5d908ad79c47b96c1b61ce17d2906da7d57ee7dca364cc5b",
+    "vidhaan/vidhaan/official_sections.py": "8575d5cb9676c8ab43aff7ff51f355c338f1a823b1b05042857564849c5a4670",
+    "vidhaan/vidhaan/providers.py": "904e547b043667a00a028b461be5354aee102467c08c6218554ff3d85ebb18b0",
+    "vidhaan/vidhaan/registry.py": "2c1c21832e28bd81231f66a8a3738f9217e140e7dbc985835a91f2fa2283e7dd",
+    "vidhaan/vidhaan/retrieval.py": "03508f5a2affb22fc5f6bdf919ffb816cf17c4ae04c8c0cab5db1823a2f42b58",
+    "vidhaan/vidhaan/sources.py": "461bd49a74f7d368f8e085d74b66f8647263f9e0ae9aa6decf12cd353275c57b",
+    "vidhaan/vidhaan/ui.py": "b0f90d6fd6dd8a29cf2bebef17d8b4f990a5137e04b48b750bf2d6a7599e9baa"
+  },
+  "fresh_setup_consumer_search": "passed",
+  "fresh_run_script_health": "passed"
+}

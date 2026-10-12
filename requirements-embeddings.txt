@@ -1,0 +1,6 @@
+-r requirements-base.txt
+# CPU wheels on Windows/Linux. macOS wheels use the normal PyPI distribution.
+--extra-index-url https://download.pytorch.org/whl/cpu
+torch==2.8.0+cpu ; sys_platform != "darwin"
+torch==2.8.0 ; sys_platform == "darwin"
+sentence-transformers==5.1.0

@@ -1,0 +1,146 @@
+{
+  "created_at": "2026-10-12T17:42:12.958313+00:00",
+  "note": "Actual exploratory inspections during this expansion. Excluded files are not counted in indexed coverage. Search labels such as English were checked against extracted body text. Per-request timestamps were not captured.",
+  "attempts": [
+    {
+      "discovery_index": "https://www.legislative.gov.in/cms/wp-json/custom/api/search?s=it",
+      "index_id": 13455,
+      "title": "The Information Technology Act, 2000-2023010613",
+      "url": "https://www.legislative.gov.in/static/uploads/2025/07/e7ba12f33c0a4bbb3e29bdc2dcd36ec2.pdf",
+      "downloaded_bytes": 463550,
+      "sha256": "2e4438a89548a2c3b62b60948aebd85b218fb1a6d5cb14d62298cab5027daeaf",
+      "physical_pages": 51,
+      "status": "excluded_from_english_corpus",
+      "reason": "Regional-language translation / garbled legacy-font extraction; not usable English legal body"
+    },
+    {
+      "discovery_index": "https://www.legislative.gov.in/cms/wp-json/custom/api/search?s=family",
+      "index_id": 14054,
+      "title": "The Hindu Marriage Act, 1955 pt 1-2023010619",
+      "url": "https://www.legislative.gov.in/static/uploads/2025/07/e70528ec3bb76a743f1aa77c43dcb2f0.pdf",
+      "downloaded_bytes": 72966,
+      "sha256": "45d6e8a0865e72cdab04c2030256d67f321fa7f59db2a70294cbb77b1d27a893",
+      "physical_pages": 4,
+      "status": "excluded_from_english_corpus",
+      "reason": "Regional-language translation / garbled legacy-font extraction; not usable English legal body"
+    },
+    {
+      "discovery_index": "https://www.legislative.gov.in/cms/wp-json/custom/api/search?s=rti",
+      "index_id": 14329,
+      "title": "The Right to Information Act, 2005-2023010976-1",
+      "url": "https://www.legislative.gov.in/static/uploads/2025/07/546eceddae5676d9f29842a14922159b.pdf",
+      "downloaded_bytes": 252609,
+      "sha256": "cac7fa6b472bdc3df4d1df9442971bd8d0874d419eff72214ee274ed5fce748f",
+      "physical_pages": 33,
+      "status": "excluded_from_english_corpus",
+      "reason": "Regional-language translation / garbled legacy-font extraction; not usable English legal body"
+    },
+    {
+      "discovery_index": "https://www.legislative.gov.in/cms/wp-json/custom/api/search?s=relief",
+      "index_id": 14410,
+      "title": "The Specific Relief Act, 1963-2023011270",
+      "url": "https://www.legislative.gov.in/static/uploads/2025/07/822bebb3f7a8828df2bb925568f136ac.pdf",
+      "downloaded_bytes": 729733,
+      "sha256": "1ef49aee5107890a0e06bf44407984955c827afcc6f0744762ac2af73ffa5c4a",
+      "physical_pages": 21,
+      "status": "excluded_from_english_corpus",
+      "reason": "Image-only scan; no usable extracted text"
+    },
+    {
+      "discovery_index": "https://www.legislative.gov.in/cms/wp-json/custom/api/search?s=property",
+      "index_id": 15239,
+      "title": "The Transfer of Property Act,1882-2023011997-2",
+      "url": "https://www.legislative.gov.in/static/uploads/2025/07/4a2637701f9e76e00c906630d3b733c2.pdf",
+      "downloaded_bytes": 2730860,
+      "sha256": "47741d06e723e45f2040036994fea3ff1959a6505a7ebfad84173c5f475873ac",
+      "physical_pages": 6,
+      "status": "excluded_from_english_corpus",
+      "reason": "Image-only scan; no usable extracted text"
+    },
+    {
+      "discovery_index": "https://www.legislative.gov.in/cms/wp-json/custom/api/search?s=partnership",
+      "index_id": 16043,
+      "title": "The Indian Partnership Act, 1932",
+      "url": "https://www.legislative.gov.in/static/uploads/2025/07/0e034900ef147b2b987cc46a2773d673.pdf",
+      "downloaded_bytes": 2287837,
+      "sha256": "0149a437a2eb43826398df6c994e966ba737992b6063bbe7ab5446ec632d3e89",
+      "physical_pages": 34,
+      "status": "excluded_from_english_corpus",
+      "reason": "Image-only scan; no usable extracted text"
+    },
+    {
+      "discovery_index": "https://www.legislative.gov.in/cms/wp-json/custom/api/search?s=consumer",
+      "index_id": 16119,
+      "title": "The Consumer Protection Act, 1986",
+      "url": "https://www.legislative.gov.in/static/uploads/2025/07/c82d9d736817d1105becd5b2964a7a83.pdf",
+      "downloaded_bytes": 696802,
+      "sha256": "edf8aba30f4856db14d682f8940a2c50f239401d84da677bc71066517fb388d3",
+      "physical_pages": 10,
+      "status": "excluded_from_english_corpus",
+      "reason": "Image-only scan; no usable extracted text"
+    },
+    {
+      "discovery_index": "https://www.legislative.gov.in/cms/wp-json/custom/api/search?s=contract",
+      "index_id": 16405,
+      "title": "The Indian Contract Act, 1872 of 09",
+      "url": "https://www.legislative.gov.in/static/uploads/2025/07/3b024ee65db92d97e2f91bd67b20413b.pdf",
+      "downloaded_bytes": 7684779,
+      "sha256": "12d9fe6c3d482d1d0a7c08759eeca8a8dd8d18801d3f5d935e0dd9f21cf9797f",
+      "physical_pages": 45,
+      "status": "excluded_from_english_corpus",
+      "reason": "Image-only scan; no usable extracted text"
+    },
+    {
+      "discovery_index": "https://www.legislative.gov.in/cms/wp-json/custom/api/search?s=gst",
+      "index_id": 16574,
+      "title": "The Integrated Goods and Services Tax Act, 2017",
+      "url": "https://www.legislative.gov.in/static/uploads/2025/07/0249e37377cb47d86c28043a9514de30.pdf",
+      "downloaded_bytes": 384721,
+      "sha256": "672646848a9c7d23830c80a2d70d48eb4d0002bd3b2d176f264889bbf2091d65",
+      "physical_pages": 24,
+      "status": "excluded_from_english_corpus",
+      "reason": "Regional-language translation / garbled legacy-font extraction; not usable English legal body"
+    },
+    {
+      "discovery_index": "https://www.legislative.gov.in/cms/wp-json/custom/api/search?s=criminal",
+      "index_id": 20195,
+      "title": "The Bharatiya Nagarik Suraksha Sanhita, 2023",
+      "url": "https://www.legislative.gov.in/static/uploads/2025/09/40c122d56c18aac08dcb93892c9dd865.pdf",
+      "downloaded_bytes": 2882961,
+      "sha256": "1922bbd2b3d0807d8f9cdf2d8951b569c3e615a6d8aa4035270d70f5ceec3db3",
+      "physical_pages": 386,
+      "status": "excluded_from_english_corpus",
+      "reason": "Regional-language translation / garbled legacy-font extraction; not usable English legal body"
+    }
+  ],
+  "network_observations": [
+    {
+      "url": "https://backend.indiacode.gov.in/server/api/discover/search/objects",
+      "status": "HTTP 200; public searches returned zero records"
+    },
+    {
+      "url": "https://www.mca.gov.in/content/mca/global/en/acts-rules/ebooks/acts.html",
+      "status": "HTTP 403 / proxy denial"
+    },
+    {
+      "url": "https://www.consumeraffairs.gov.in/",
+      "status": "HTTP 403"
+    },
+    {
+      "url": "https://sikkimjudicialacademy.nic.in/",
+      "status": "CONNECT proxy 403"
+    },
+    {
+      "url": "https://law.delhi.gov.in/",
+      "status": "CONNECT proxy 403"
+    },
+    {
+      "url": "https://www.mha.gov.in/en/commoncontent/new-criminal-laws",
+      "status": "HTTP 200; three readable English Gazette Acts acquired"
+    },
+    {
+      "url": "https://www.incometaxindia.gov.in/all-acts",
+      "status": "HTTP 200; official public English Act collection discovered"
+    }
+  ]
+}

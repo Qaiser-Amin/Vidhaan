@@ -1,0 +1,10 @@
+-c constraints.txt
+fastapi
+uvicorn
+python-multipart
+pypdf
+rank-bm25
+httpx
+pydantic
+numpy
+python-dotenv

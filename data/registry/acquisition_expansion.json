@@ -1,0 +1,280 @@
+[
+  {
+    "document_id": "consumer-protection-2019",
+    "attempted_at": "2026-10-12T17:35:24.097022+00:00",
+    "url": "https://www.incometaxindia.gov.in/consumer-protection-act-2019",
+    "status": "imported",
+    "final_url": "https://www.incometaxindia.gov.in/consumer-protection-act-2019",
+    "version_id": "1dc3a37431511b7f06244cc7",
+    "checksum": "c2539eb78d182cdca7e8e94c733f5dc80c9ab0bc01d9ae7f9910a47abcaaceda",
+    "title_check": "consumer protection act, 2019",
+    "warnings": [],
+    "section_records": 109,
+    "response_checksums": [
+      "c0876d3f4d50f68a4baf7681a4d9f5b8662a1ca527a8be1dcfd5254f0d46138b"
+    ]
+  },
+  {
+    "document_id": "indian-contract-1872",
+    "attempted_at": "2026-10-12T17:35:29.687608+00:00",
+    "url": "https://www.incometaxindia.gov.in/indian-contract-act-1872",
+    "status": "imported",
+    "final_url": "https://www.incometaxindia.gov.in/indian-contract-act-1872",
+    "version_id": "4542c8d95044b33f3e9e5398",
+    "checksum": "11e450b8b15f2da01bc060e538d55ee94b1942298b20dbd076d28db5d7569aad",
+    "title_check": "indian contract act, 1872",
+    "warnings": [],
+    "section_records": 193,
+    "response_checksums": [
+      "77bd836d49fd81256589483b8da4e5d8bd681a80f9604ab7ffc41495d95baf0b"
+    ]
+  },
+  {
+    "document_id": "specific-relief-1963",
+    "attempted_at": "2026-10-12T17:35:37.163942+00:00",
+    "url": "https://www.incometaxindia.gov.in/specific-relief-act-1963",
+    "status": "imported",
+    "final_url": "https://www.incometaxindia.gov.in/specific-relief-act-1963",
+    "version_id": "1134666f0a774f83b6727e90",
+    "checksum": "0fdebfffc8fe5c242e3d6fa74cbbf62ea94093f6abe5c9257890fa871ccf522e",
+    "title_check": "specific relief act, 1963",
+    "warnings": [],
+    "section_records": 49,
+    "response_checksums": [
+      "2dd704db36f5affb6a321c3cedeaf639a345c24ccccde5d0c492d143285a38dc"
+    ]
+  },
+  {
+    "document_id": "sale-of-goods-1930",
+    "attempted_at": "2026-10-12T17:35:37.979290+00:00",
+    "url": "https://www.incometaxindia.gov.in/sale-of-goods-act-1930",
+    "status": "imported",
+    "final_url": "https://www.incometaxindia.gov.in/sale-of-goods-act-1930",
+    "version_id": "f07afc9bd904a0f5d4954f4d",
+    "checksum": "5c2a7d863e298f10000aeb459120176457e6d44691f675a815e279ffdc078e1b",
+    "title_check": "sale of goods act, 1930",
+    "warnings": [],
+    "section_records": 67,
+    "response_checksums": [
+      "cae0fc38a5a8372eb51c3c87d78deeb0789c2f3f9542d59bd93d131ad1cbe301"
+    ]
+  },
+  {
+    "document_id": "transfer-property-1882",
+    "attempted_at": "2026-10-12T17:35:40.808440+00:00",
+    "url": "https://www.incometaxindia.gov.in/transfer-of-property-act-1882",
+    "status": "imported",
+    "final_url": "https://www.incometaxindia.gov.in/transfer-of-property-act-1882",
+    "version_id": "9ef14f6c4d4739047431e611",
+    "checksum": "3d4c8da13aeebe3759056a812e29b49fc7ecd89172a9c239e8045a244872d307",
+    "title_check": "transfer of property act, 1882",
+    "warnings": [],
+    "section_records": 145,
+    "response_checksums": [
+      "26ae51aafe82b6f8aac9796c514193bf5bab30618475b4ce8bfd1f76f425fcf7"
+    ]
+  },
+  {
+    "document_id": "rera-2016",
+    "attempted_at": "2026-10-12T17:35:46.294770+00:00",
+    "url": "https://www.incometaxindia.gov.in/real-estate-regulation-and-development-act-2016",
+    "status": "imported",
+    "final_url": "https://www.incometaxindia.gov.in/real-estate-regulation-and-development-act-2016",
+    "version_id": "9f232f9ed11c1d07e0b1331a",
+    "checksum": "ba80bc7db7ec198eca7fac47491b318a0ad5e78409de872ed05e265352654eb5",
+    "title_check": "real estate (regulation and development) act, 2016",
+    "warnings": [],
+    "section_records": 92,
+    "response_checksums": [
+      "3798b09ffcc03714c371db1ffd4ab6f289e255e65a57d3edfb35e4f0fb055b1b"
+    ]
+  },
+  {
+    "document_id": "hindu-marriage-1955",
+    "attempted_at": "2026-10-12T17:35:50.133619+00:00",
+    "url": "https://www.incometaxindia.gov.in/hindu-marriage-act-1955",
+    "status": "imported",
+    "final_url": "https://www.incometaxindia.gov.in/hindu-marriage-act-1955",
+    "version_id": "958ab5a986d1fea86e316251",
+    "checksum": "636f1965a9d958bcabdc19610d2b33987b32085b298a50b8c93bf515d4c3cbe0",
+    "title_check": "hindu marriage act, 1955",
+    "warnings": [],
+    "section_records": 36,
+    "response_checksums": [
+      "ab891508535495b2004701424f925decc0ca3206bf9d893f2fc3ffdff169b3a3"
+    ]
+  },
+  {
+    "document_id": "hindu-succession-1956",
+    "attempted_at": "2026-10-12T17:35:52.396291+00:00",
+    "url": "https://www.incometaxindia.gov.in/hindu-succession-act-1956",
+    "status": "imported",
+    "final_url": "https://www.incometaxindia.gov.in/hindu-succession-act-1956",
+    "version_id": "fd7efc4667d311031bf63a15",
+    "checksum": "b9930300109e846e06d7f851df500d5bcb02d29689351f35cdc452e1ebf0e894",
+    "title_check": "hindu succession act, 1956",
+    "warnings": [],
+    "section_records": 31,
+    "response_checksums": [
+      "0bc5f764079799437ee28039ef642d4c98fd0a0725fc942914aa906238caa2f6"
+    ]
+  },
+  {
+    "document_id": "limitation-1963",
+    "attempted_at": "2026-10-12T17:35:54.251293+00:00",
+    "url": "https://www.incometaxindia.gov.in/limitation-act-1963",
+    "status": "imported",
+    "final_url": "https://www.incometaxindia.gov.in/limitation-act-1963",
+    "version_id": "1705a890fb8d81786b8504a6",
+    "checksum": "0f69018c0c2358d4361e388244365a18b099cd4939536ba71ecd648e71b90b4b",
+    "title_check": "limitation act, 1963",
+    "warnings": [],
+    "section_records": 34,
+    "response_checksums": [
+      "3d69c5ded199fe79ff56e8595c0710349b375129699bc3c4dfb61fc4451f75a4"
+    ]
+  },
+  {
+    "document_id": "companies-2013",
+    "attempted_at": "2026-10-12T17:35:55.048306+00:00",
+    "url": "https://www.incometaxindia.gov.in/companies-act-2013",
+    "status": "imported",
+    "final_url": "https://www.incometaxindia.gov.in/companies-act-2013",
+    "version_id": "16dd36bac0e9716b9f0f1e83",
+    "checksum": "77e989f8d6f9a64f8b4a0f7d1d58eb153338b02be18ab3896f67440ee8f46916",
+    "title_check": "companies act, 2013",
+    "warnings": [],
+    "section_records": 539,
+    "response_checksums": [
+      "139b7c2847b510792a893688cc43631adce1200945198d3c41a15250677ec853",
+      "87333b433c25398879a0eeacfd6cff6700ec47bfaee67818d242d4d1a39bfb7d",
+      "e019b07e723923959f90cc2bad7b293b861dd1add210bbaa480e399c9d0bcc89"
+    ]
+  },
+  {
+    "document_id": "llp-2008",
+    "attempted_at": "2026-10-12T17:36:16.256792+00:00",
+    "url": "https://www.incometaxindia.gov.in/limited-liability-partnership-act-2008",
+    "status": "imported",
+    "final_url": "https://www.incometaxindia.gov.in/limited-liability-partnership-act-2008",
+    "version_id": "01973b407eec46909c146c91",
+    "checksum": "03a8e56626b5da980756f637616aa144b1353ef830ece42e25ef90d1c9708711",
+    "title_check": "limited liability partnership act, 2008",
+    "warnings": [],
+    "section_records": 92,
+    "response_checksums": [
+      "582e0901a6bcd3862940699af120cec53d4bb90f28ef3e0046a75c93efae270b"
+    ]
+  },
+  {
+    "document_id": "information-technology-2000",
+    "attempted_at": "2026-10-12T17:36:20.404507+00:00",
+    "url": "https://www.incometaxindia.gov.in/information-technology-act-2000",
+    "status": "imported",
+    "final_url": "https://www.incometaxindia.gov.in/information-technology-act-2000",
+    "version_id": "856d7e447beba22d16de68b4",
+    "checksum": "924c1667cc509a68b57a8ab1cff1b54ad6e74aa50213fb1c08f8223d8fb0f423",
+    "title_check": "information technology act, 2000",
+    "warnings": [],
+    "section_records": 126,
+    "response_checksums": [
+      "7bb55a0aeb91c45338d8b6fb6fdb1a598b0a0b31d0e45e84c83ea4cfd5382407"
+    ]
+  },
+  {
+    "document_id": "environment-protection-1986",
+    "attempted_at": "2026-10-12T17:36:25.982230+00:00",
+    "url": "https://www.incometaxindia.gov.in/environment-protection-act-1986",
+    "status": "imported",
+    "final_url": "https://www.incometaxindia.gov.in/environment-protection-act-1986",
+    "version_id": "9857c9a6ad92332c12d54f2c",
+    "checksum": "5d2a9410efaa191e4469b4f0fea2743229f71881507adcfd42e9433fb0e67906",
+    "title_check": "environment protection act, 1986",
+    "warnings": [],
+    "section_records": 37,
+    "response_checksums": [
+      "3b9e9f9e1762499533984609b4155fdd3e683e3b3c793ab458f90d89e136d1f4"
+    ]
+  },
+  {
+    "document_id": "bns-2023",
+    "attempted_at": "2026-10-12T17:36:27.852001+00:00",
+    "url": "https://www.mha.gov.in/sites/default/files/2024-04/250883_english_01042024.pdf",
+    "status": "imported",
+    "final_url": "https://www.mha.gov.in/sites/default/files/2024-04/250883_english_01042024.pdf",
+    "version_id": "2cead44f95e5ccfed21bbe9c",
+    "checksum": "c9da896e7a16c481a46235789f74f545b7a9ed7f3a5c8049d0b1b9252c6731f4",
+    "title_check": "bharatiya nyaya sanhita, 2023",
+    "warnings": []
+  },
+  {
+    "document_id": "bsa-2023",
+    "attempted_at": "2026-10-12T17:36:40.388837+00:00",
+    "url": "https://www.mha.gov.in/sites/default/files/2024-04/250882_english_01042024_0.pdf",
+    "status": "imported",
+    "final_url": "https://www.mha.gov.in/sites/default/files/2024-04/250882_english_01042024_0.pdf",
+    "version_id": "c8165aa93ca3eb8932687ea7",
+    "checksum": "13e2b6eb66add222c7262ccaa0b08d58e48ca22cdf0953f6541123ef039de239",
+    "title_check": "bharatiya sakshya adhiniyam, 2023",
+    "warnings": []
+  },
+  {
+    "document_id": "bnss-2023",
+    "attempted_at": "2026-10-12T17:36:47.433536+00:00",
+    "url": "https://www.mha.gov.in/sites/default/files/2024-04/250884_2_english_01042024.pdf",
+    "status": "imported",
+    "final_url": "https://www.mha.gov.in/sites/default/files/2024-04/250884_2_english_01042024.pdf",
+    "version_id": "e234978fb620c6512c8c6540",
+    "checksum": "5e60e2afe30d0fe7eca4f8126301146b76c86a444e690581f81eb564843517fe",
+    "title_check": "bharatiya nagarik suraksha sanhita, 2023",
+    "warnings": []
+  },
+  {
+    "document_id": "right-information-2005",
+    "attempted_at": "2026-10-12T17:36:55.016146+00:00",
+    "url": "https://www.incometaxindia.gov.in/documents/20117/43006/Right-to-Information-Act-2005_2025-12-18_02-40-52_23e83c_en.pdf/3e785a46-62ce-813f-8e22-bd913271ed99?version=2.0&t=1773766013390&download=true",
+    "status": "imported",
+    "final_url": "https://www.incometaxindia.gov.in/documents/20117/43006/Right-to-Information-Act-2005_2025-12-18_02-40-52_23e83c_en.pdf/3e785a46-62ce-813f-8e22-bd913271ed99?version=2.0&t=1773766013390&download=true",
+    "version_id": "2407c2f388cbab26dc3f4cdf",
+    "checksum": "dce2ecd272e07793698fdf7b19c6f878d1ab4dddd5f62fcbe4b8abe57c27a3dc",
+    "title_check": "right to information act, 2005",
+    "warnings": []
+  },
+  {
+    "document_id": "income-tax-transition-faq-2026",
+    "attempted_at": "2026-10-12T17:37:12.339417+00:00",
+    "url": "https://www.incometaxindia.gov.in/documents/20117/43120/Updated-FQAs-on-Interplay%26Transitions.pdf/dda21cfd-28be-d931-ad5c-6459ecbd2ea7?version=2.0&t=1775128133037&download=true",
+    "status": "imported",
+    "final_url": "https://www.incometaxindia.gov.in/documents/20117/43120/Updated-FQAs-on-Interplay%26Transitions.pdf/dda21cfd-28be-d931-ad5c-6459ecbd2ea7?version=2.0&t=1775128133037&download=true",
+    "version_id": "c4c7c8723848a225f4a307fb",
+    "checksum": "cf1d4ad8e7c7bc144dae8102f0418b2b8bbf4e2789e9a10dabf296fe8c43b62a",
+    "title_check": "income-tax act, 2025",
+    "warnings": []
+  },
+  {
+    "document_id": "consumer-protection-2019",
+    "attempted_at": "2026-10-12T17:52:22.257486+00:00",
+    "url": "https://www.incometaxindia.gov.in/consumer-protection-act-2019",
+    "status": "duplicate",
+    "final_url": "https://www.incometaxindia.gov.in/consumer-protection-act-2019",
+    "version_id": "1dc3a37431511b7f06244cc7",
+    "checksum": "c2539eb78d182cdca7e8e94c733f5dc80c9ab0bc01d9ae7f9910a47abcaaceda",
+    "title_check": "consumer protection act, 2019",
+    "warnings": [],
+    "section_records": 109,
+    "response_checksums": [
+      "c0876d3f4d50f68a4baf7681a4d9f5b8662a1ca527a8be1dcfd5254f0d46138b"
+    ]
+  },
+  {
+    "document_id": "bsa-2023",
+    "attempted_at": "2026-10-12T17:52:24.115593+00:00",
+    "url": "https://www.mha.gov.in/sites/default/files/2024-04/250882_english_01042024_0.pdf",
+    "status": "duplicate",
+    "final_url": "https://www.mha.gov.in/sites/default/files/2024-04/250882_english_01042024_0.pdf",
+    "version_id": "c8165aa93ca3eb8932687ea7",
+    "checksum": "13e2b6eb66add222c7262ccaa0b08d58e48ca22cdf0953f6541123ef039de239",
+    "title_check": "bharatiya sakshya adhiniyam, 2023",
+    "warnings": []
+  }
+]

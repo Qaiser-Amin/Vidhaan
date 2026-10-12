@@ -1,0 +1,16 @@
+{
+  "live_http_health": "passed",
+  "run_script_restart": "passed",
+  "actual_official_ui_search": "passed",
+  "exact_quote_citation_validation": "passed",
+  "answer_status": "supported",
+  "evidence_count": 5,
+  "optional_model_use": false,
+  "author": "Qaiser Amin Ganaie",
+  "corpus_signature": "fa5f3b94e9b919427470dc83853e89f6b971067a2f4f2217f0a982dc2ba5f2d7",
+  "expanded_actual_ui_searches": [
+    "consumer collection with section links",
+    "BNSS Gazette PDF"
+  ],
+  "expanded_ui_status": "passed"
+}

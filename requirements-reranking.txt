@@ -1,0 +1,2 @@
+-r requirements-embeddings.txt
+# CrossEncoder is provided by sentence-transformers; no second framework.

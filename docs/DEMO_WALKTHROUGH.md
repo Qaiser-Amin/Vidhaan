@@ -1,0 +1,14 @@
+# University demonstration
+
+1. Explain VIDHAAN's goal: local source-based Indian legal research, authored by Qaiser Amin Ganaie. Distinguish retrieval engineering from legal correctness.
+2. Install the base profile and open the app. Show that Ollama/PyTorch are unnecessary for BM25 evidence mode.
+3. Setup/launch loads 21 included source documents without source downloads. Open Corpus coverage and show all eight domains and zero reviewed versions. Direct startup can use Workspace settings → Load project documents offline. The larger cloud acquisition has two additional Labour FAQs that are omitted from distribution under their source terms. Open `docs/domains/README.md` for the eight original guides and gaps.
+4. In Demo research, ask: **What passage covers wholesome drinking water in plantations?** Choose Read full context to open the passage and surrounding section, inspect the exact quote, physical page and official URL, then download/export the references.
+5. Select Consumer law and ask **Find the Consumer Protection Act findings of the District Commission.** Inspect the department section link, exact passage and surrounding section. Explain that this is an English department-hosted compilation with compact section records and acquisition response hashes; PDF pagination does not apply. Then select Criminal and civil procedure to inspect a BNSS Gazette PDF with physical pages.
+6. Select an as-of date. With unknown effective-date metadata the app should show an evidence gap. Select Reviewed research: zero eligible reviewed sources. Ask **Can my employer dismiss me?** and show the focused state/category clarification.
+7. Upload an invented private employment clause, label it as a classroom document, and search Private session. Demonstrate paired clause/official-evidence inspection as a possible issue requiring review. Clear session private files/history.
+8. Load the synthetic classroom fixture explicitly. Show its large SYNTHETIC label and that Demo research cannot retrieve it.
+9. Open Workspace settings and its Technical diagnostics. Explain missing local Ollama/model or dense snapshot rather than claiming a generated or dense result occurred. On your laptop only, optionally install/cache models and rerun the workflow.
+10. Open Evaluation: 54 questions for the bundled corpus (15 development / 39 held-out); the full cloud collection separately has 61. Human legal correctness and semantic support are pending. Run `pytest` and `python -m scripts.validate_corpus`; mock tests verify failure handling, not legal/model accuracy.
+
+Record actual laptop timings and memory before making hardware claims. Discuss lexical false positives, retrieval misses, incomplete coverage and missing state/current-law review. Show the included source documents, accompanying original guides, source notices and scoped reproduction records. Private data and models stay outside the ZIP.

@@ -1,0 +1,313 @@
+{
+  "created_at": "2026-10-12T17:47:26.661134+00:00",
+  "corpus_signature": "fa5f3b94e9b919427470dc83853e89f6b971067a2f4f2217f0a982dc2ba5f2d7",
+  "official_child_chunks": 5819,
+  "sources": 23,
+  "domain_count": 8,
+  "source_integrity": [
+    {
+      "document_id": "bns-2023",
+      "sha256": "c9da896e7a16c481a46235789f74f545b7a9ed7f3a5c8049d0b1b9252c6731f4",
+      "integrity": "passed",
+      "section_records": null
+    },
+    {
+      "document_id": "bnss-2023",
+      "sha256": "5e60e2afe30d0fe7eca4f8126301146b76c86a444e690581f81eb564843517fe",
+      "integrity": "passed",
+      "section_records": null
+    },
+    {
+      "document_id": "bonded-labour-1976",
+      "sha256": "074a5d80e3f5b784104326fff169db99b33a26db4f72d900972eacf1571bf950",
+      "integrity": "passed",
+      "section_records": null
+    },
+    {
+      "document_id": "bsa-2023",
+      "sha256": "13e2b6eb66add222c7262ccaa0b08d58e48ca22cdf0953f6541123ef039de239",
+      "integrity": "passed",
+      "section_records": null
+    },
+    {
+      "document_id": "companies-2013",
+      "sha256": "77e989f8d6f9a64f8b4a0f7d1d58eb153338b02be18ab3896f67440ee8f46916",
+      "integrity": "passed",
+      "section_records": 539
+    },
+    {
+      "document_id": "consumer-protection-2019",
+      "sha256": "c2539eb78d182cdca7e8e94c733f5dc80c9ab0bc01d9ae7f9910a47abcaaceda",
+      "integrity": "passed",
+      "section_records": 109
+    },
+    {
+      "document_id": "contract-labour-rules-1971",
+      "sha256": "ad5a6bcab0c368ea145e8aa0263143c28a457d5ff7db12aa338bb6f7b7021cad",
+      "integrity": "passed",
+      "section_records": null
+    },
+    {
+      "document_id": "environment-protection-1986",
+      "sha256": "5d2a9410efaa191e4469b4f0fea2743229f71881507adcfd42e9433fb0e67906",
+      "integrity": "passed",
+      "section_records": 37
+    },
+    {
+      "document_id": "hindu-marriage-1955",
+      "sha256": "636f1965a9d958bcabdc19610d2b33987b32085b298a50b8c93bf515d4c3cbe0",
+      "integrity": "passed",
+      "section_records": 36
+    },
+    {
+      "document_id": "hindu-succession-1956",
+      "sha256": "b9930300109e846e06d7f851df500d5bcb02d29689351f35cdc452e1ebf0e894",
+      "integrity": "passed",
+      "section_records": 31
+    },
+    {
+      "document_id": "income-tax-transition-faq-2026",
+      "sha256": "cf1d4ad8e7c7bc144dae8102f0418b2b8bbf4e2789e9a10dabf296fe8c43b62a",
+      "integrity": "passed",
+      "section_records": null
+    },
+    {
+      "document_id": "indian-contract-1872",
+      "sha256": "11e450b8b15f2da01bc060e538d55ee94b1942298b20dbd076d28db5d7569aad",
+      "integrity": "passed",
+      "section_records": 193
+    },
+    {
+      "document_id": "information-technology-2000",
+      "sha256": "924c1667cc509a68b57a8ab1cff1b54ad6e74aa50213fb1c08f8223d8fb0f423",
+      "integrity": "passed",
+      "section_records": 126
+    },
+    {
+      "document_id": "labour-faq-2025-12",
+      "sha256": "c7ac8b5f23d5b545fea2ce54268c50ecf9e4271b6494e5bf4e75f5fbfb14b584",
+      "integrity": "passed",
+      "section_records": null
+    },
+    {
+      "document_id": "labour-faq-2026-03",
+      "sha256": "d55818a3956bebf5445e515e25999d5ee5b94e58e371554b24197470cf4ee2ed",
+      "integrity": "passed",
+      "section_records": null
+    },
+    {
+      "document_id": "limitation-1963",
+      "sha256": "0f69018c0c2358d4361e388244365a18b099cd4939536ba71ecd648e71b90b4b",
+      "integrity": "passed",
+      "section_records": 34
+    },
+    {
+      "document_id": "llp-2008",
+      "sha256": "03a8e56626b5da980756f637616aa144b1353ef830ece42e25ef90d1c9708711",
+      "integrity": "passed",
+      "section_records": 92
+    },
+    {
+      "document_id": "plantations-1951",
+      "sha256": "76e98b4a114778783eeefb5de637c09d51de7463cf68a675087a9ba36b30b59f",
+      "integrity": "passed",
+      "section_records": null
+    },
+    {
+      "document_id": "rera-2016",
+      "sha256": "ba80bc7db7ec198eca7fac47491b318a0ad5e78409de872ed05e265352654eb5",
+      "integrity": "passed",
+      "section_records": 92
+    },
+    {
+      "document_id": "right-information-2005",
+      "sha256": "dce2ecd272e07793698fdf7b19c6f878d1ab4dddd5f62fcbe4b8abe57c27a3dc",
+      "integrity": "passed",
+      "section_records": null
+    },
+    {
+      "document_id": "sale-of-goods-1930",
+      "sha256": "5c2a7d863e298f10000aeb459120176457e6d44691f675a815e279ffdc078e1b",
+      "integrity": "passed",
+      "section_records": 67
+    },
+    {
+      "document_id": "specific-relief-1963",
+      "sha256": "0fdebfffc8fe5c242e3d6fa74cbbf62ea94093f6abe5c9257890fa871ccf522e",
+      "integrity": "passed",
+      "section_records": 49
+    },
+    {
+      "document_id": "transfer-property-1882",
+      "sha256": "3d4c8da13aeebe3759056a812e29b49fc7ecd89172a9c239e8045a244872d307",
+      "integrity": "passed",
+      "section_records": 145
+    }
+  ],
+  "rows": [
+    {
+      "domain": "Labour and employment",
+      "question": "What passage covers wholesome drinking water in plantations?",
+      "status": "supported",
+      "expected_source_retrieved": true,
+      "exact_citations": "passed",
+      "reviewed_gap": "passed",
+      "unknown_date_gap": "passed",
+      "document_ids": [
+        "plantations-1951",
+        "contract-labour-rules-1971"
+      ],
+      "evidence_ids": [
+        "b23333560a318972219d7924",
+        "174895ed3bd388fa0737c2c3",
+        "4bfe4b50af385ca3913cba9c",
+        "db85422387b33fce18657fc0",
+        "0bd8a78613f5a08713caeb25"
+      ],
+      "retrieval_seconds": 0.6439074489999257
+    },
+    {
+      "domain": "Consumer law",
+      "question": "Find the Consumer Protection Act passage on findings of the District Commission.",
+      "status": "supported",
+      "expected_source_retrieved": true,
+      "exact_citations": "passed",
+      "reviewed_gap": "passed",
+      "unknown_date_gap": "passed",
+      "document_ids": [
+        "consumer-protection-2019"
+      ],
+      "evidence_ids": [
+        "26eee434f406b4d48411838c",
+        "9f669e7122d7e8800d6fcf5e",
+        "4166280c9e63a15067572bd5",
+        "891842de3b86a0b16d786b24",
+        "f1da35692ffe9195762c7bf3"
+      ],
+      "retrieval_seconds": 0.2205040740000186
+    },
+    {
+      "domain": "Contracts",
+      "question": "Find compensation for loss or damage caused by breach of contract.",
+      "status": "supported",
+      "expected_source_retrieved": true,
+      "exact_citations": "passed",
+      "reviewed_gap": "passed",
+      "unknown_date_gap": "passed",
+      "document_ids": [
+        "indian-contract-1872",
+        "specific-relief-1963"
+      ],
+      "evidence_ids": [
+        "d7a67a7f8c684084fefb7a80",
+        "a0d4d05fdae8b138f8b6d707",
+        "16264c2344fc42136c745408",
+        "217cfb86e11aa6982b6052fb",
+        "5344d27186f62f534989655c"
+      ],
+      "retrieval_seconds": 0.23410078699998849
+    },
+    {
+      "domain": "Tenancy and property",
+      "question": "Find the Transfer of Property Act definition of a lease.",
+      "status": "supported",
+      "expected_source_retrieved": true,
+      "exact_citations": "passed",
+      "reviewed_gap": "passed",
+      "unknown_date_gap": "passed",
+      "document_ids": [
+        "transfer-property-1882"
+      ],
+      "evidence_ids": [
+        "b80f3b310b261f31355a07c0",
+        "d760d41ae004b29c4508a600",
+        "fb060ebd076be223baa8c306",
+        "e31b1d1ff0cf254112eee6ae",
+        "0200207883323e8ca08b8569"
+      ],
+      "retrieval_seconds": 0.2361139770000591
+    },
+    {
+      "domain": "Family law",
+      "question": "Find the Hindu Succession Act passage on devolution of interest in coparcenary property.",
+      "status": "supported",
+      "expected_source_retrieved": true,
+      "exact_citations": "passed",
+      "reviewed_gap": "passed",
+      "unknown_date_gap": "passed",
+      "document_ids": [
+        "hindu-succession-1956"
+      ],
+      "evidence_ids": [
+        "5f8c5c3361a014d48ddb30e6",
+        "3d125caa25b7f1e37828d255",
+        "c9bdeed8187fd50ed5aa0a7e",
+        "8185799945d73ec42d86e570",
+        "56d7c9912342e304c6512647"
+      ],
+      "retrieval_seconds": 0.22581144900050276
+    },
+    {
+      "domain": "Criminal and civil procedure",
+      "question": "Find the Limitation Act passage about extension of the prescribed period in certain cases.",
+      "status": "supported",
+      "expected_source_retrieved": true,
+      "exact_citations": "passed",
+      "reviewed_gap": "passed",
+      "unknown_date_gap": "passed",
+      "document_ids": [
+        "limitation-1963"
+      ],
+      "evidence_ids": [
+        "750a8bae7b2fd7d4d50893ce",
+        "ada00e74e755dbc5310456af",
+        "8331ca1c9077da7a52edd03c",
+        "8800dde4ff2bb9dcffcf35de",
+        "f6819513a8efb6f895dca158"
+      ],
+      "retrieval_seconds": 0.32165191500007495
+    },
+    {
+      "domain": "Corporate and tax",
+      "question": "Find the Companies Act passage on incorporation of a company.",
+      "status": "supported",
+      "expected_source_retrieved": true,
+      "exact_citations": "passed",
+      "reviewed_gap": "passed",
+      "unknown_date_gap": "passed",
+      "document_ids": [
+        "companies-2013",
+        "llp-2008"
+      ],
+      "evidence_ids": [
+        "bcdf6fe65ede5fb1ba13cdfa",
+        "e3500f6bd0eed97a86a66d1b",
+        "5aa082daf9b8472adbcca164",
+        "3ad941a9324cf3ae5b9e5818",
+        "aecad63a1172436b28083b2c"
+      ],
+      "retrieval_seconds": 0.393450835999829
+    },
+    {
+      "domain": "Other specialist areas",
+      "question": "Find legal recognition of electronic records in the Information Technology Act.",
+      "status": "supported",
+      "expected_source_retrieved": true,
+      "exact_citations": "passed",
+      "reviewed_gap": "passed",
+      "unknown_date_gap": "passed",
+      "document_ids": [
+        "information-technology-2000"
+      ],
+      "evidence_ids": [
+        "0a4ab9e8b5030b8cbafd9a4f",
+        "e4657145f72bc7dd96cc8430",
+        "ec824286612f02e2f0ea2196",
+        "991cfae2a5d6c0322a6a2ddb",
+        "c1654fe4586ba7b1cbf2ccf4"
+      ],
+      "retrieval_seconds": 0.2527982039991912
+    }
+  ],
+  "scope": "Real BM25 exact-extract workflow; no generated legal claims; human legal review pending"
+}

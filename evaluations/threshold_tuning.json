@@ -1,0 +1,36 @@
+{
+  "split": "development",
+  "cases": 10,
+  "candidates": [
+    {
+      "gate": 1,
+      "run_cases": 10,
+      "evidence_scored_cases": 8,
+      "recall_at_k": 0.75,
+      "mrr": 0.6666666666666666,
+      "median_latency_seconds": 0.030457597499889744,
+      "behavior_accuracy": 0.9
+    },
+    {
+      "gate": 2,
+      "run_cases": 10,
+      "evidence_scored_cases": 8,
+      "recall_at_k": 0.625,
+      "mrr": 0.5416666666666666,
+      "median_latency_seconds": 0.029396295999731592,
+      "behavior_accuracy": 0.9
+    },
+    {
+      "gate": 3,
+      "run_cases": 10,
+      "evidence_scored_cases": 8,
+      "recall_at_k": 0.5,
+      "mrr": 0.4166666666666667,
+      "median_latency_seconds": 0.029169523500058858,
+      "behavior_accuracy": 0.9
+    }
+  ],
+  "chosen_gate": 1,
+  "selection_rationale": "Keep single-term legal lookup available; document failure to reject all semantically irrelevant queries. No probability/confidence interpretation.",
+  "scope_note": "Historical gate comparison on the original five employment documents and ten development cases, before the corpus expansion. Gate retained without tuning on expanded held-out results; do not treat these metrics as current corpus measurements."
+}

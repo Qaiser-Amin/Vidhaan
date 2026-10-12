@@ -1,0 +1,59 @@
+[
+  {
+    "document_id": "plantations-1951",
+    "attempted_at": "2026-10-12T16:05:53.084559+00:00",
+    "url": "https://www.labour.gov.in/static/uploads/2025/06/c31b22eb5da24a4bf298e0af85312f4e.pdf",
+    "status": "imported",
+    "final_url": "https://www.labour.gov.in/static/uploads/2025/06/c31b22eb5da24a4bf298e0af85312f4e.pdf",
+    "version_id": "8db53934ad9da1665cedbc04",
+    "checksum": "76e98b4a114778783eeefb5de637c09d51de7463cf68a675087a9ba36b30b59f",
+    "title_check": "the plantations labour act, 1951",
+    "warnings": []
+  },
+  {
+    "document_id": "bonded-labour-1976",
+    "attempted_at": "2026-10-12T16:05:55.640464+00:00",
+    "url": "https://www.labour.gov.in/static/uploads/2025/06/8df9950fe225ddb8f0a79e38c044e94d.pdf",
+    "status": "imported",
+    "final_url": "https://www.labour.gov.in/static/uploads/2025/06/8df9950fe225ddb8f0a79e38c044e94d.pdf",
+    "version_id": "ba11045f4b601ac3a7bbd6d6",
+    "checksum": "074a5d80e3f5b784104326fff169db99b33a26db4f72d900972eacf1571bf950",
+    "title_check": "the bonded labour system (abolition) act, 1976",
+    "warnings": []
+  },
+  {
+    "document_id": "contract-labour-rules-1971",
+    "attempted_at": "2026-10-12T16:05:56.148260+00:00",
+    "url": "https://www.labour.gov.in/static/uploads/2025/06/8753816f61f0c4e552591579c2b5daa2.pdf",
+    "status": "imported",
+    "final_url": "https://www.labour.gov.in/static/uploads/2025/06/8753816f61f0c4e552591579c2b5daa2.pdf",
+    "version_id": "b9ff1ca74346c0bf2397cbe7",
+    "checksum": "ad5a6bcab0c368ea145e8aa0263143c28a457d5ff7db12aa338bb6f7b7021cad",
+    "title_check": "contract labour (regulation & abolition)",
+    "warnings": [
+      "Physical PDF page 57: empty extraction; OCR may be needed"
+    ]
+  },
+  {
+    "document_id": "labour-faq-2026-03",
+    "attempted_at": "2026-10-12T16:05:59.073751+00:00",
+    "url": "https://www.labour.gov.in/static/uploads/2026/03/a4ccf4c6d97c4f1f36a6d83f8c64213d.pdf",
+    "status": "imported",
+    "final_url": "https://www.labour.gov.in/static/uploads/2026/03/a4ccf4c6d97c4f1f36a6d83f8c64213d.pdf",
+    "version_id": "50c4894435bd24ded0923902",
+    "checksum": "d55818a3956bebf5445e515e25999d5ee5b94e58e371554b24197470cf4ee2ed",
+    "title_check": "additional faqs on labour codes",
+    "warnings": []
+  },
+  {
+    "document_id": "labour-faq-2025-12",
+    "attempted_at": "2026-10-12T16:05:59.940317+00:00",
+    "url": "https://www.labour.gov.in/static/uploads/2026/01/9fb60321f0028fc2fe08d3b3d8626dd7.pdf",
+    "status": "imported",
+    "final_url": "https://www.labour.gov.in/static/uploads/2026/01/9fb60321f0028fc2fe08d3b3d8626dd7.pdf",
+    "version_id": "0928e510f47fa137ee91a089",
+    "checksum": "c7ac8b5f23d5b545fea2ce54268c50ecf9e4271b6494e5bf4e75f5fbfb14b584",
+    "title_check": "faqs on labour codes",
+    "warnings": []
+  }
+]
