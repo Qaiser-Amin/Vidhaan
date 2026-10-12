@@ -29,6 +29,8 @@ REPORT_FILES={
     'evaluations/bundle_validation.json','evaluations/bundled/results.json','evaluations/bundled/results.csv',
     'evaluations/bundled/benchmark.json',
     'evaluations/web_validation.json',
+    'data/registry/acquisition_domain_expansion.json', 'evaluations/domain_index_validation.json',
+    'evaluations/bundled/development/results.json', 'evaluations/bundled/development/results.csv',
 }
 FRONTEND_FILES={'frontend/package.json','frontend/package-lock.json','frontend/index.html',
                 'frontend/vite.config.js','frontend/playwright.config.js',

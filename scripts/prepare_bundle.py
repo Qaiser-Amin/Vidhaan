@@ -7,7 +7,8 @@ from pathlib import Path
 from vidhaan.config import ROOT, get_settings
 from vidhaan.registry import Registry
 from vidhaan.official_sections import load_section_records, RENDERER
-from vidhaan.bundled import verify_bundle
+from vidhaan.bundled import verify_bundle, load_bundle
+from vidhaan.lexical import payload, filename
 from scripts.document_corpus import GUIDES
 
 COPYRIGHT = 'https://www.incometaxindia.gov.in/w/section-52-114'
@@ -18,6 +19,7 @@ def prepare():
     registry = Registry(get_settings().data_dir)
     acquisition = json.loads((ROOT / 'data/registry/source_manifest.json').read_text())
     selected = {x['metadata']['document_id'] for x in acquisition['sources']} - EXCLUDED
+    acquisition_by_id = {x['metadata']['document_id']: x for x in acquisition['sources']}
     versions = [v for v in registry.versions('official') if v['document_id'] in selected and v['active']]
     if len(versions) != len(selected): raise ValueError('Acquire one active inspected version of each selected source first')
     staging = Path(tempfile.mkdtemp(prefix='.bundle-stage-', dir=ROOT / 'data'))
@@ -42,8 +44,13 @@ def prepare():
             entry = {'file': name, 'guide': 'guides/' + GUIDES[source.domain][0] + '.md'}
             if source.instrument_type == 'Act':
                 entry.update(reuse_basis='legislation_with_original_matter', reuse_reference=COPYRIGHT + ' — Copyright Act, 1957, section 52(1)(q)(ii)')
-            elif source.instrument_type == 'Rules':
-                entry.update(reuse_basis='official_gazette_matter', reuse_reference=COPYRIGHT + ' — section 52(1)(q)(i); G.S.R. 190/191 reproduced in source')
+            elif source.instrument_type in {'Rules', 'Regulations', 'Guidelines'}:
+                inspected = acquisition_by_id[source.document_id]
+                reference = inspected.get('reuse_reference')
+                if not reference and source.document_id == 'contract-labour-rules-1971':
+                    reference = COPYRIGHT + ' — section 52(1)(q)(i); G.S.R. 190/191 reproduced in source'
+                if not reference: raise ValueError('Inspected Gazette reuse reference required: ' + source.document_id)
+                entry.update(reuse_basis='official_gazette_matter', reuse_reference=reference)
             elif source.document_id == 'income-tax-transition-faq-2026' and source.redistribution_permitted:
                 entry.update(reuse_basis='department_reuse_policy', reuse_reference='https://www.incometaxindia.gov.in/copyright-policy')
             else: raise ValueError('No established bundle reuse basis: ' + source.document_id)
@@ -61,6 +68,23 @@ def prepare():
                 entry['section_receipt'] = receipt_name
             entry['source'] = source.model_copy(update={'provenance_notes': notes}).model_dump(mode='json')
             manifest['sources'].append(entry)
+        (staging / 'manifest.json').write_text(json.dumps(manifest, indent=2) + '\n', encoding='utf-8')
+        # Build against precisely the offline document/receipt rendering, never the
+        # cloud database (which can contain extra sources or private sessions).
+        from vidhaan.models import Domain
+        with tempfile.TemporaryDirectory(prefix='vidhaan-official-index-') as temporary:
+            offline = Registry(Path(temporary))
+            load_bundle(offline, staging)
+            offline_versions = offline.versions('official'); chunks = offline.chunks(namespace='official')
+            manifest['indexes'] = []
+            for domain in Domain:
+                index = payload(domain, offline_versions, chunks)
+                if not 10 <= len(index['sources']) <= 15:
+                    raise ValueError('The release requires 10–15 sources per domain: ' + domain.value)
+                name = 'indexes/' + filename(domain)
+                write(name, (json.dumps(index, ensure_ascii=False, separators=(',', ':')) + '\n').encode())
+                manifest['indexes'].append({'domain': domain.value, 'file': name, 'source_count': len(index['sources']),
+                                            'chunk_count': len(index['chunk_ids']), 'signature': index['signature']})
         (staging / 'manifest.json').write_text(json.dumps(manifest, indent=2) + '\n', encoding='utf-8')
         verify_bundle(staging)
         target = ROOT / 'data/bundled'

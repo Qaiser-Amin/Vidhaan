@@ -1,0 +1,700 @@
+{
+  "renderer": "official-sections-v1",
+  "receipt_mode": "bundled-section-records-v1",
+  "category_id": 15800014,
+  "source_document_sha256": "0e550427065a6e7b7740829bfee975535f6bd436b5b2d95531c45c9b44a91a24",
+  "sections": [
+    {
+      "id": "15802853",
+      "number": "1",
+      "locator": "Section 1: Short title, extent and commencement",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-1-257",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/15802853",
+      "body": "ADVOCATES ACT, 1961\n[25 OF 1961]\nAn Act to amend and consolidate the law relating to legal practitioners and to provide for the constitution of Bar Councils and an All India Bar.\nBe it enacted by Parliament in the Twelfth Year of the Republic of India as follows:\nCHAPTER I\nPRELIMINARY\nShort title, extent and commencement\n1. (1) This Act may be called the Advocates Act, 1961.\n(2) It extends to the whole of India.\n(3) It shall, in relation to the territories other than those referred to in sub-section (4), come into force on such date as the Central Government may, by notification in the Official Gazette, appoint, and different dates may be appointed for different provisions of this Act.\n(4) This Act shall, in relation to the State of Jammu and Kashmir and the Union Territory of Goa, Daman and Diu, come into force on such date as the Central Government may, by notification in the Official Gazette, appoint in this behalf, and different dates may be appointed for different provisions of this Act.\n*Dated 19-5-1961."
+    },
+    {
+      "id": "15802865",
+      "number": "2",
+      "locator": "Section 2: Definitions",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-2-230",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/15802865",
+      "body": "Definitions\n2. (1) In this Act, unless the context otherwise requires,—\n(a) \"advocate\" means an advocate entered in any roll under the provisions of this Act;\n(b) \"appointed day\", in relation to any provision of this Act, means the day on which that provision comes into force;\n(c) [Omitted by Act 107 of 1976, w.e.f. 15-10-1976]\n(d) \"Bar Council\" means a Bar Council constituted under this Act;\n(e) \"Bar Council of India\" means the Bar Council constituted under section 4 for the territories to which this Act extends;\n(f) [Omitted by Act 60 of 1973, w.e.f. 31-1-1974]\n(g) \"High Court\", except in sub-section (1) and sub-section (1A) of section 34 and in sections 42 and 43, does not include a court of the Judicial Commissioner, and, in relation to a State Bar Council, means,—\n(i) in the case of a Bar Council constituted for a State or for a State and one or more Union Territories, the High Court for the State;\n(ii) in the case of the Bar Council constituted for Delhi, the High Court of Delhi;\n(h) \"law graduate\" means a person who has obtained a bachelor's degree in law from any university established by law in India;\n(i) \"legal practitioner\" means an advocate or vakil of any High Court, a pleader mukhtar or revenue agent;\n(j) \"prescribed\" means prescribed by rules made under this Act;\n(k) \"roll\" means a roll of advocates prepared and maintained under this Act;\n(l) \"State\" does not include a Union Territory;\n(m) \"State Bar Council\" means a Bar Council constituted under section 3;\n(n) \"State roll\" means a roll of advocates prepared and maintained by a State Bar Council under section 17.\n(2) Any reference in this Act to a law which is not in force [***] in the Union Territory of Goa, Daman and Diu, shall, in relation to [***] that territory, be construed as a reference to the corresponding law, if any, in force in that State or that Territory, as the case may be.\n1. Words \"in the State of Jammu and Kashmir or\" omitted by the Jammu and Kashmir Reorganisation (Adaptation of Central Laws) Order, 2020 w.e.f. 18-3-2020, and also by the Union Territory of Ladakh Reorganisation (Adaptation of Central Laws) Order, 2020, w.e.f. 23-10-2020.\n2. By Act No. 18 of 1987, w.e.f. 30-5-1987, Goa is now a State.\n3. Words \"that State or\" omitted by the Jammu and Kashmir Reorganisation (Adaptation of Central Laws) Order, 2020 w.e.f. 18-3-2020, and also by the Union Territory of Ladakh Reorganisation (Adaptation of Central Laws) Order, 2020, w.e.f. 23-10-2020."
+    },
+    {
+      "id": "15802877",
+      "number": "3",
+      "locator": "Section 3: State Bar Councils",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-3-250",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/15802877",
+      "body": "CHAPTER II\nBAR COUNCILS\nState Bar Councils\n3. (1) There shall be a Bar Council—\n(a) for each of the States of Andhra Pradesh, Bihar, Gujarat, [***], [Jharkhand], [Madhya Pradesh, Chhattisgarh], Karnataka, Orissa, Rajasthan, [Uttar Pradesh, [Uttarakhand, Meghalaya, Manipur and Tripura]], to be known as the Bar Council of that State;\n[(b) for the States of Arunachal Pradesh, Assam, Mizoram and Nagaland to be known as the Bar Council of Arunachal Pradesh, Assam, Mizoram and Nagaland;]\n(c) for the State of Kerala and the Union Territory of Lakshadweep, to be known as the Bar Council of Kerala;\n(cc) for the [State of Tamil Nadu] and the Union Territory of Pondicherry to be known as the Bar Council of Madras;\n[(ccc) for the States of Maharashtra and Goa and the Union Territories of Dadra and Nagar Haveli and Daman and Diu, to be known as the Bar Council of Maharashtra and Goa;]\n[(d) for the States of Punjab and Haryana and the Union Territory of Chandigarh, to be known as the Bar Council of Punjab and Haryana;\n(dd) for the State of Himachal Pradesh, to be known as the Bar Council of Himachal Pradesh;]\n(e) for the State of West Bengal and the [Union Territory of Andaman and Nicobar Islands], to be known as the Bar Council of West Bengal; and\n(f) for the Union Territory of Delhi, to be known as the Bar Council of Delhi.\n[(g) for the Union territory of Jammu and Kashmir and Union territory of Ladakh, to be known as the Bar Council of Jammu and Kashmir; and Ladakh.]\n(2) A State Bar Council shall consist of the following members, namely:—\n(a) in the case of the State Bar Council of Delhi, the Additional Solicitor-General of India ex officio; [in the case of the State Bar Council of Assam, Arunachal Pradesh, Mizoram and Nagaland, the Advocate-General of each of the States of Assam, Arunachal Pradesh, Mizoram and Nagaland], ex officio; in the case of the State Bar Council of Punjab and Haryana, the Advocate-General of each of the States of Punjab and Haryana, ex officio;] and in the case of any other State Bar Council, the Advocate-General of the State, ex officio;\n[(b) in the case of a State Bar Council with an electorate not exceeding five thousand, fifteen members, in the case of a State Bar Council, with an electorate exceeding five thousand but not exceeding ten thousand, twenty members, and in the case of a State Bar Council with an electorate exceeding ten thousand, twenty-five members, elected in accordance with the system of proportional representation by means of the single transferable vote from amongst advocates on the electoral roll of the State Bar Council:]\n[Provided that as nearly as possible one-half of such elected members shall, subject to any rules that may be made in this behalf by the Bar Council of India, be persons who have for at least ten years been advocates on a State roll, and in computing the said period of ten years in relation to any such person, there shall be included any period during which the person has been an advocate enrolled under the Indian Bar Councils Act, 1926 (38 of 1926).]\n[(3) There shall be a Chairman and a Vice-Chairman of each State Bar Council elected by the Council in such manner as may be prescribed.\n(3A) Every person holding office as Chairman or as Vice-Chairman of any State Bar Council immediately before the commencement of the Advocates (Amendment) Act, 1977 (38 of 1977) shall, on such commencement, cease to hold office as Chairman or Vice-Chairman, as the case may be:\nProvided that every such person shall continue to carry on the duties of his office until the Chairman or the Vice-Chairman, as the case may be, of each State Bar Council, elected after the commencement of the Advocates (Amendment) Act, 1977 (38 of 1977), assumes charge of the office.]\n[(4) An advocate shall be disqualified from voting at an election under sub-section (2) or for being chosen as, and for being, a member of a State Bar Council, unless he possesses such qualifications or satisfies such conditions as may be prescribed in this behalf by the Bar Council of India, and subject to any such rules that may be made, an electoral roll shall be prepared and revised from time to time by each State Bar Council.\n(5) Nothing in the proviso to sub-section (2) shall affect the term of office of any member elected before the commencement of the Advocates (Amendment) Act, 1964 (21 of 1964), but every election after such commencement shall be held in accordance with the provisions of the rules made by the Bar Council of India to give effect to the said proviso.]\n[(6) Nothing in clause (b) of sub-section (2) shall affect the representation of elected members in any State Bar Council as constituted immediately before the commencement of the Advocates (Amendment) Act, 1973 (60 of 1973), until that State Bar Council is reconstituted in accordance with the provisions of this Act.]\n1. Words \"Jammu and Kashmir\" omitted by the Jammu and Kashmir Reorganisation Act, 2019, w.e.f. 9-8-2019.\n2. Inserted by Act No. 30 of 2000, w.e.f. 15-11-2000.\n3. Substituted for \"and Madhya Pradesh\" by Act No. 28 of 2000, w.e.f. 1-11-2000.\n4. Substituted for \"and Uttar Pradesh\" by Act No. 29 of 2000, w.e.f. 9-11-2000.\n5. Substituted for \"and Uttaranchal\" by Act 26 of 2012, w.e.f. 23-3-2013 vide SO 733(E), dated 15-3-2013.\n6. Substituted by Act 26 of 2012, w.e.f. 23-3-2013.\n7. Substituted for \"State of Madras\" by Madras State (Alteration of Name) Adaptation of Laws on Union Subjects) Order, 1970, w.e.f. 14-1-1969.\n8. Now \"Tamil Nadu\".\n9. Substituted by Act 18 of 1987, w.e.f. 30-5-1987.\n10. Substituted by Act 53 of 1970, w.e.f. 25-1-1971.\n11. Substituted for \"Union Territories of Tripura and the Andaman and Nikobar Islands\", by Act 81 of 1971, w.e.f. 21-1-1972.\n12. Inserted by the Jammu and Kashmir Reorganisation Act, 2019, w.e.f. 9-8-2019.\n13. Substituted for \"in the case of the State Bar Council of Assam, Nagaland, Meghalaya, Manipur and Tripura, the Advocate-General of each of the States of Assam, Manipur, Meghalaya, Nagaland and Tripura\" by Act 26 of 2012, w.e.f. 23-3-2013\n14. Substituted by Act 60 of 1973, w.e.f. 31-1-1974.\n15. Inserted by Act 21 of 1964, w.e.f. 16-5-1964.\n16. Substituted by Act 38 of 1977, w.e.f. 31-10-1977.\n17. Inserted by Act 60 of 1973, w.e.f. 31-1-1974."
+    },
+    {
+      "id": "15802889",
+      "number": "4",
+      "locator": "Section 4: Bar Council of India",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-4-289",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/15802889",
+      "body": "Bar Council of India\n4. (1) There shall be a Bar Council for the territories to which this Act extends to be known as the Bar Council of India which shall consist of the following members, namely:—\n(a) the Attorney-General of India, ex officio;\n(b) the Solicitor-General of India, ex officio;\n(bb) [Omitted by Act 38 of 1977]\n(c) one member elected by each State Bar Council from amongst its members.\n[(1A) No person shall be eligible for being elected as a member of the Bar Council of India unless he possesses the qualifications specified in the proviso to sub-section (2) of section 3.]\n[(2) There shall be a Chairman and a Vice-Chairman of the Bar Council of India elected by the Council in such manner as may be prescribed.\n(2A) A person holding office as Chairman or as Vice-Chairman of the Bar Council of India immediately before the commencement of the Advocates (Amendment) Act, 1977 (38 of 1977), shall, on such commencement, cease to hold office as Chairman or Vice-Chairman, as the case may be:\nProvided that such person shall continue to carry on the duties of his office until the Chairman or the Vice-Chairman, as the case may be, of the Council, elected after the commencement of the Advocates (Amendment) Act, 1977 (38 of 1977), assumes charge of the office.]\n[(3) The term of office of a member of the Bar Council of India elected by the State Bar Council shall—\n(i) in the case of a member of a State Bar Council who holds office ex officio, be two years from the date of his election [or till he ceases to be a member of the State Bar Council, whichever is earlier]; and\n(ii) in any other case, be for the period for which he holds office as a member of the State Bar Council:\nProvided that every such member shall continue to hold as a member of the Bar Council of India until his successor is elected.]\n1. Inserted by Act 60 of 1973, w.e.f. 31-1-1974.\n2. Substituted by Act 38 of 1977, w.e.f. 31-10-1977.\n3. Inserted by Act 21 of 1964, w.e.f. 16-5-1964."
+    },
+    {
+      "id": "15802901",
+      "number": "5",
+      "locator": "Section 5: Bar Council to be body corporate",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-5-248",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/15802901",
+      "body": "Bar Council to be body corporate\n5. Every Bar Council shall be a body corporate having perpetual succession and a common seal, with power to acquire and hold property, both movable and immovable, and to contract, and may by the name by which it is known sue and be sued."
+    },
+    {
+      "id": "15802913",
+      "number": "6",
+      "locator": "Section 6: Functions of State Bar Councils",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-6-246",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/15802913",
+      "body": "Functions of State Bar Councils\n6. (1) The functions of a State Bar Council shall be—\n(a) to admit persons as advocates on its roll;\n(b) to prepare and maintain such roll;\n(c) to entertain and determine cases of misconduct against advocates on its roll;\n(d) to safeguard the rights, privileges and interests of advocates on its roll;\n[(dd) to promote the growth of Bar Associations for the purposes of effective implementation of the welfare schemes referred to in clause (a) of sub-section (2) of this section and clause (a) of sub-section (2) of section 7;]\n(e) to promote and support law reform;\n[(ee) to conduct seminars and organise talks on legal topics by eminent jurists and publish journals and papers of legal interest;\n(eee) to organise legal aid to the poor in the prescribed manner;]\n(f) to manage and invest the funds of the Bar Council;\n(g) to provide for the election of its members;\n[(gg) to visit and inspect universities in accordance with the directions given under clause (i) of sub-section (1) of section 7;]\n(h) to perform all other functions conferred on it by or under this Act;\n(i) to do all other things necessary for discharging the aforesaid functions.\n[(2) A State Bar Council may constitute one or more funds in the prescribed manner for the purpose of—\n(a) giving financial assistance to organise welfare schemes for the indigent, disabled or other advocates;\n(b) giving legal aid or advice in accordance with the rules made in this behalf;\n[(c) establishing law libraries.]\n(3) A State Bar Council may receive any grants, donations, gifts or benefactions for all or any of the purposes specified in sub-section (2) which shall be credited to the appropriate fund or funds constituted under that sub-section.]\n1. Inserted by Act 70 of 1993, w.e.f. 26-12-1993.\n2. Inserted by Act 60 of 1973, w.e.f. 31-1-1974.\n1. Substituted by Act 60 of 1973, w.e.f. 31-1-1974.\n2. Inserted by Act 70 of 1993, w.e.f. 26-12-1993."
+    },
+    {
+      "id": "15802925",
+      "number": "7",
+      "locator": "Section 7: Functions of Bar Council of India",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-7-244",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/15802925",
+      "body": "Functions of Bar Council of India\n7.[(1)] The functions of the Bar Council of India shall be—\n(a) [Omitted by Act 60 of 1973]\n(b) to lay down standards of professional conduct and etiquette for advocates;\n(c) to lay down the procedure to be followed by its disciplinary committee and the disciplinary committee of each State Bar Council;\n(d) to safeguard the rights, privileges and interests of advocates;\n(e) to promote and support law reform;\n(f) to deal with and dispose of any matter arising under this Act, which may be referred to it by a State Bar Council;\n(g) to exercise general supervision and control over State Bar Councils;\n(h) to promote legal education and to lay down standards of such education in consultation with the universities in India imparting such education and the State Bar Councils;\n(i) to recognise universities whose degree in law shall be a qualification for enrolment as an advocate and for that purpose to visit and inspect universities; [or cause the Stat e Bar Councils to visit and inspect universities in accordance with such directions as it may give in this behalf;]\n[(ia) to conduct seminars and organise talks on legal topics by eminent jurists and publish journals and papers of legal interest;\n(ib) to organise legal aid to the poor in the prescribed manner;\n(ic) to recognise on a reciprocal basis foreign qualifications in law obtained outside India for the purpose of admission as an advocate under this Act;]\n(j) to manage and invest the funds of the Bar Council;\n(k) to provide for the election of its members;\n(l) to perform all other functions conferred on it by or under this Act;\n(m) to do all other things necessary for discharging the aforesaid functions.\n[(2) The Bar Council of India may constitute one or more funds in the prescribed manner for the purpose of—\n(a) giving financial assistance to organise welfare schemes for indigent, disabled or other advocates;\n(b) giving legal aid or advice in accordance with the rules made in this behalf;\n[(c) establishing law libraries.]\n(3) The Bar Council of India may receive any grants, donations, gifts or benefactions for all or any of the purposes specified in sub-section (2) which shall be credited to the appropriate fund or funds constituted under that sub-section.]\n2. Inserted by Act 70 of 1993, w.e.f. 26-12-1993.\n3. Renumbered as sub-section (1) by Act 60 of 1973, w.e.f. 31-1-1974.\n4. Inserted by Act 60 of 1973, w.e.f. 31-1-1974.\n1. Inserted by Act 60 of 1973, w.e.f. 31-1-1974.\n2. Inserted by Act 70 of 1993, w.e.f. 26-12-1993."
+    },
+    {
+      "id": "15802937",
+      "number": "7A",
+      "locator": "Section 7A: Membership in international bodies",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-7a-11",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/15802937",
+      "body": "[Membership in international bodies\n7A. The Bar Council of India may become a member of international legal bodies such as the International Bar Association or the International Legal Aid Association, contribute such sums as it thinks fit to such bodies by way of subscription or otherwise and authorise expenditure on the participation of its representatives in any international legal conference or seminar.]\n2. Inserted by Act 70 of 1993, w.e.f. 26-12-1993."
+    },
+    {
+      "id": "15802949",
+      "number": "8",
+      "locator": "Section 8: Term of office of members of State Bar Council",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-8-242",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/15802949",
+      "body": "Term of office of members of State Bar Council\n[8. (1) The term of office of an elected member of a State Bar Council (other than an elected member thereof referred to in section 54) shall be five years from the date of publication of the result of his election :\nProvided that where a State Bar Council fails to provide for the election of its member before the expiry of the said term, the Bar Council of India may, by order for reasons to be recorded in writing, extend the said term for a period not exceeding six months.\n3. Substituted by Act 70 of 1993, w.e.f. 26-12-1993."
+    },
+    {
+      "id": "15802961",
+      "number": "8A",
+      "locator": "Section 8A: Constitution of special committee in the absence of election",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-8a-7",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/15802961",
+      "body": "Constitution of special committee in the absence of election\n8A. (1) Where a State Bar Council fails to provide for the election of its member before the expiry of the term of five years or the extended term, as the case may be, referred to in section 8, the Bar Council of India shall, on and from the date immediately following the day of such expiry, constitute a Special Committee consisting of—\n(i) the ex officio member of the State Bar Council referred to in clause (a) of sub-section (2) of section 3 to be the Chairman :\nProvided that where there are more than one ex officio members, the senior most amongst them shall be the Chairman; and\n(ii) two members to be nominated by the Bar Council of India from amongst advocates on the electoral roll of the State Bar Council,\nto discharge the functions of the State Bar Council until the Bar Council is constituted under this Act.\n(2) On the constitution of the Special Committee and until the State Bar Council is constituted—\n(a) all properties and assets vesting in the State Bar Council shall vest in the Special Committee;\n(b) all rights, liabilities and obligations of the State Bar Council, whether arising out of any contract or otherwise, shall be the rights, liabilities and obligations of the Special Committee;\n(c) all proceedings pending before the State Bar Council in respect of any disciplinary matter or otherwise shall stand transferred to the Special Committee.\n(3) The Special Committee constituted under sub-section (1) shall, in accordance with such directions as the Bar Council of India may give to it in this behalf, hold elections to the State Bar Council within a period of six months from the date of its constitution under sub-section (1), and where, for any reason the Special Committee is not in a position to conduct election within the said period of six months, the Bar Council of India may, for reasons to be recorded by it in writing, extend the said period.]"
+    },
+    {
+      "id": "15802973",
+      "number": "9",
+      "locator": "Section 9: Disciplinary committees",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-9-240",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/15802973",
+      "body": "Disciplinary committees\n9. (1) A Bar Council shall constitute one or more disciplinary committees, each of which shall consist of three persons of whom two shall be persons elected by the Council from amongst its members and the other shall be a person co-opted by the Council from amongst advocates who possess the qualifications specified in the proviso to sub-section (2) of section 3\nand who are not members of the Council, and the senior-most advocate amongst the members of a disciplinary committee shall be the Chairman thereof.\n(2) Notwithstanding anything contained in sub-section (1), any disciplinary committee constituted prior to the commencement of the Advocates (Amendment) Act, 1964 (21 of 1964) may dispose of the proceedings pending before it as if this section had not been amended by the said Act."
+    },
+    {
+      "id": "15802985",
+      "number": "9A",
+      "locator": "Section 9A: Constitution of legal aid committees",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-9a",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/15802985",
+      "body": "Constitution of legal aid committees\n[9A. (1) A Bar Council may constitute one or more legal aid committees each of which shall consist of such number of members, not exceeding nine but not less than five, as may be prescribed.\n(2) The qualifications, the method of selection and the term of office of the member of a legal aid committee shall be such as may be prescribed.]\n1. Inserted by Act 60 of 1973, w.e.f. 31-1-1974."
+    },
+    {
+      "id": "15802997",
+      "number": "10",
+      "locator": "Section 10: Constitution of committees other than disciplinary committees",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-10-239",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/15802997",
+      "body": "Constitution of committees other than disciplinary committees\n10. (1) A State Bar Council shall constitute the following standing committees, namely:—\n(a) an executive committee consisting of five members elected by the Council from amongst its members;\n(b) an enrolment committee consisting of three members elected by the Council from amongst its members.\n(2) The Bar Council of India shall constitute the following standing committees, namely:—\n(a) an executive committee consisting of nine members elected by the Council from amongst its members;\n(b) a legal education committee consisting of ten members, of whom five shall be persons elected by the Council from amongst its members and five shall be persons co-opted by the Council who are not members thereof.\n(3) A State Bar Council and the Bar Council of India may constitute from amongst its members such other committees as it may deem necessary for the purposes of carrying out the provisions of this Act."
+    },
+    {
+      "id": "15803009",
+      "number": "10A",
+      "locator": "Section 10A: Transaction of business by Bar Councils and committees thereof",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-10a",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/15803009",
+      "body": "Transaction of business by Bar Councils and committees thereof\n[10A.[(1) The Bar Council of India shall meet at New Delhi or at such other place as it may, for reasons to be recorded in writing, determine.\n(2) A State Bar Council shall meet at its headquarters or at such other place as it may, for reasons to be recorded in writing, determine.]\n(3) The committees other than disciplinary committees constituted by the Bar Councils shall meet at the headquarters of the respective Bar Councils.\n(4) Every Bar Council and every committee thereof except the disciplinary committees shall observe such rules of procedure in regard to the transaction of business at their meetings as may be prescribed.\n(5) The disciplinary committees constituted under section 9 shall meet at such times and places and shall observe such rules of procedure in regard to the transaction of business at their meetings as may be prescribed.]\n1. Inserted by Act 60 of 1973, w.e.f. 31-1-1974.\n2. Substituted by Act 70 of 1993, w.e.f. 26-12-1993."
+    },
+    {
+      "id": "15803021",
+      "number": "10B",
+      "locator": "Section 10B: Disqualification of members of Bar Council",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-10b",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/15803021",
+      "body": "Disqualification of members of Bar Council\n[10B.] An elected member of a Bar Council shall be deemed to have vacated his officer if he is declared by the Bar Council of which he is a member to have been absent without sufficient excuse from three consecutive meetings of such Council, or if his name is, for any cause, removed from the roll of advocates or if he is otherwise disqualified under any rule made by the Bar Council of India.\n1. Section 10A renumbered as 10B by Act 60 of 1973, w.e.f. 31-1-1974."
+    },
+    {
+      "id": "15803033",
+      "number": "11",
+      "locator": "Section 11: Staff of Bar Council",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-11-236",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/15803033",
+      "body": "Staff of Bar Council\n11. (1) Every Bar Council shall appoint a secretary and may appoint an accountant and such number of other persons on its staff as it may deem necessary.\n(2) The secretary and the accountant, if any, shall possess such qualifications as may be prescribed."
+    },
+    {
+      "id": "15803045",
+      "number": "12",
+      "locator": "Section 12: Accounts and audit",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-12-232",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/15803045",
+      "body": "Accounts and audit\n12. (1) Every Bar Council shall cause to be maintained such books of accounts and other books in such form and in such manner as may be prescribed.\n(2) The accounts of a Bar Council shall be audited by auditors duly qualified to act as auditors of companies under the Companies Act, 1956 (1 of 1956), at such times and in such manner as may be prescribed.\n[(3) As soon as may be practicable at the end of each financial year, but not later than the 31st day of December of the year next following, a State Bar Council shall send a copy of its accounts together with a copy of the report of the auditors thereon to the Bar Council of India and shall cause the same to be published in the Official Gazette.\n(4) As soon as may be practicable at the end of each financial year, but not later than the 31st day of December of the year next following, the Bar Council of India shall send a copy of its accounts together with a copy of the report of the auditors thereon to the Central Government and shall cause the same to be published in the Gazette of India.]\n2. Substituted by Act 60 of 1973, w.e.f. 31-1-1974."
+    },
+    {
+      "id": "15803057",
+      "number": "13",
+      "locator": "Section 13: Vacancies in Bar Councils and committees thereof not to invalidate action taken",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-13-228",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/15803057",
+      "body": "Vacancies in Bar Councils and committees thereof not to invalidate action taken\n13. No act done by a Bar Council or any committee thereof shall be called in question on the ground merely of the existence of any vacancy in, or any defect in the constitution of the Council or committee, as the case may be."
+    },
+    {
+      "id": "15803069",
+      "number": "14",
+      "locator": "Section 14: Election to Bar Councils not to be questioned on certain grounds",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-14-224",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/15803069",
+      "body": "Election to Bar Councils not to be questioned on certain grounds\n14. No election of a member to a Bar Council shall be called in question on the ground merely that due notice thereof has not been given to any person entitled to vote thereat, if notice of the date has, not less than thirty days before that date, been published in the Official Gazette."
+    },
+    {
+      "id": "15803081",
+      "number": "15",
+      "locator": "Section 15: Power to make rules",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-15-224",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/15803081",
+      "body": "Power to make rules\n15. (1) A Bar Council may make rules to carry out the purposes of this Chapter.\n(2) In particular, and without prejudice to the generality of the foregoing power, such rules may provide for—\n[(a) the election of members of the Bar Council by secret ballot including the conditions subject to which persons can exercise the right to vote by postal ballot, the preparation and revision of electoral rolls and the manner in which the results of election shall be published;]\n(b) [Omitted by Act 60 of 1973];\n[(c) the manner of election of the Chairman and the Vice-Chairman of the Bar Council];\n(d) the manner in which and the authority by which doubts and disputes as to the validity of an election to the Bar Council [or to the office of the Chairman or Vice-Chairman] shall be finally decided;\n(e) [Omitted by Act 23 of 1966];\n(f) the filling of casual vacancies in the Bar Council;\n(g) the powers and duties of the Chairman and the Vice-Chairman of the Bar Council;\n[(ga) the constitution of one or more funds by a Bar Council for the purpose of giving financial assistance or giving legal aid or advice referred to in sub-section (2) of section 6 and sub-section (2) of section 7;\n(gb) organisation of legal aid and advice to the poor, constitution and functions of committees and sub-committees for that purpose and description of proceedings in connection with which legal aid or advice may be given];\n(h) the summoning and holding of meetings of the Bar Council, [***] the conduct of business thereat, and the number of members necessary to constitute a quorum;\n(i) the constitution and functions of any committee of the Bar Council and the term of office of members of any such committee;\n(j) the summoning and holding of meetings, the conduct of business of any such committee, and the number of members necessary to constitute a quorum;\n(k) the qualifications and the conditions of service of the secretary, the accountant and other employees of the Bar Council;\n(l) the maintenance of books of accounts and other books by the Bar Council;\n(m) the appointment of auditors and the audit of the accounts of the Bar Council;\n(n) the management and investment of the funds of the Bar Council.\n(3) No rules made under this section by a State Bar Council shall have effect unless they have been approved by the Bar Council of India.\n1. Substituted by Act 60 of 1973, w.e.f. 31-1-1974.\n2. Inserted by Act 38 of 1977, w.e.f. 31-10-1977.\n3. Inserted by Act 60 of 1973, w.e.f. 31-1-1974.\n4. Words \"the times and places where such meetings are to be held\" omitted by Act 60 of 1973, w.e.f. 31-1-1974."
+    },
+    {
+      "id": "15803093",
+      "number": "16",
+      "locator": "Section 16: Senior and other advocates",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-16-221",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/15803093",
+      "body": "CHAPTER III\nADMISSION AND ENROLMENT OF ADVOCATES\nSenior and other advocates\n16. (1) There shall be two classes of advocates, namely, senior advocates and other advocates.\n(2) An advocate may, with his consent, be designated as senior advocate if the Supreme Court or a High Court is of opinion that by virtue of his ability, [standing at the Bar or special knowledge of experience in law] he is deserving of such distinction.\n(3) Senior advocates shall, in the matter of their practice, be subject to such restrictions as the Bar Council of India may, in the interest of the legal profession, prescribe.\n(4) An advocate of the Supreme Court who was a senior advocate of that court immediately before the appointed day shall, for the purposes of this section, be deemed to be a senior advocate:\n[Provided that where any such senior advocate makes an application before the 31st December, 1965 to the Bar Council maintaining the roll in which his name has been entered that he does not desire to continue as a senior advocate, the Bar Council may grant the application and the roll shall be altered accordingly].\n1. Substituted for \"experience and standing at the Bar\" by Act 60 of 1973, w.e.f. 31-1-1974.\n2. Inserted by Act 21 of 1964, w.e.f. 16-5-1964."
+    },
+    {
+      "id": "15803105",
+      "number": "17",
+      "locator": "Section 17: State Bar Councils to maintain roll of advocates",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-17-219",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/15803105",
+      "body": "State Bar Councils to maintain roll of advocates\n17. (1) Every State Bar Council, shall prepare and maintain a roll of advocates in which shall be entered the names and addresses of—\n(a) all persons who were entered as advocates on the roll of any High Court under the Indian Bar Councils Act, 1926 (38 of 1926), immediately before the appointed day [including persons, being citizens of India, who before the 15th day of August, 1947, were enrolled as advocates under the said Act in any area which before the said date was comprised within India as defined in the Government of India Act, 1935, and who at any time] express an intention in the prescribed manner to practise within the jurisdiction of the Bar Council;\n(b) all other persons who are admitted to be advocates on the roll of the State Bar Council under this Act on or after the appointed day.\n(2) Each such roll of advocates shall consist of two parts, the first part containing the names of senior advocates and the second part, the names of other advocates.\n(3) Entries in each part of the roll of advocates prepared and maintained by a State Bar Council under this section shall be in the order of seniority, [and, subject to any rule that may be made by the Bar Council of India in this behalf, such seniority shall be determined] as follows:—\n(a) the seniority of an advocate referred to in clause (a) of sub-section (1) shall be determined in accordance with his date of enrolment under the Indian Bar Council Act, 1926 (38 of 1926);\n(b) the seniority of any person who was a senior advocate of the Supreme Court immediately before the appointed day shall, for the purposes of the first part of the State roll, be determined in accordance with such principles as the Bar Council of India may specify;\n(c) [Omitted by Act 60 of 1973]\n(d) the seniority of any other person who, on or after the appointed day, is enrolled as a senior advocate or is admitted as an advocate shall be determined by the date of such enrolment or admission, as the case may be;\n[(e) notwithstanding anything contained in clause (a), the seniority of an attorney enrolled whether before or after the commencement of the Advocates (Amendment) Act, 1980 as an advocate shall be determined in accordance with the date of his enrolment as an attorney.]\n(4) No person shall be enrolled as an advocate on the roll of more than one State Bar Council.\n1. Substituted for \"and who within the prescribed time\" by Act 60 of 1973, w.e.f. 31-1-1974.\n2. Substituted for \"and, such seniority shall be determined\" by Act 21 of 1964, w.e.f. 16-5-1964.\n1. Inserted by Act 47 of 1980, w.e.f. 29-11-1980."
+    },
+    {
+      "id": "15803117",
+      "number": "18",
+      "locator": "Section 18: Transfer of name from one State roll to another",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-18-207",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/15803117",
+      "body": "Transfer of name from one State roll to another\n18. (1) Notwithstanding anything contained in section 17, any person whose name is entered as an advocate on the roll of any State Bar Council may make an application in the prescribed form to the Bar Council of India for the transfer of his name from the roll of that State Bar Council to the roll of any other State Bar Council and, on receipt of any such application the Bar Council of India shall direct that the name of such person shall, without the payment of any fee, be removed from the roll of the first mentioned State Bar Council and entered in the roll of the other State Bar Council and the State Bar Councils concerned shall comply with such direction:\n[Provided that where any such application for transfer is made by a person against whom any disciplinary proceeding is pending or where for any other reason it appears to the Bar Council of India that the application for transfer has not been made bona fide and that the transfer should not be made, the Bar Council of India may, after giving the person making the application an opportunity of making a representation in this behalf, reject the application].\n(2) For the removal of doubts it is hereby declared that where on an application made by an advocate under sub-section (1), his name is transferred from the roll of one State Bar Council to that of another, he shall retain the same seniority in the latter roll to which he was entitled in the former roll.\n2. Inserted by Act 21 of 1964, w.e.f. 16-5-1964."
+    },
+    {
+      "id": "15803129",
+      "number": "19",
+      "locator": "Section 19: State Bar Councils to send copies of rolls of advocates to the Bar Council of India",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-19-200",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/15803129",
+      "body": "State Bar Councils to send copies of rolls of advocates to the Bar Council of India\n19. Every State Bar Council shall send to the Bar Council of India an authenticated copy of the roll of advocates prepared by it for the first time under this Act and shall thereafter communicate to the Bar Council of India all alterations in, the addition to, any such roll, as soon as the same have been made."
+    },
+    {
+      "id": "15803141",
+      "number": "20",
+      "locator": "Section 20: Special provision for enrolment of certain Supreme Court advocates",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-20-199",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/15803141",
+      "body": "Special provision for enrolment of certain Supreme Court advocates\n[20. (1) Notwithstanding anything contained in this chapter, every advocate who was entitled as of right to practise in the Supreme Court immediately before the appointed day and whose name is not entered in any State roll may, within the prescribed time, express his intention in the prescribed form to the Bar Council of India for the entry of his name in the roll of a State Bar Council and on receipt thereof the Bar Council of India shall direct that the name of such advocate shall, without payment of any fee, be entered in the roll of that State Bar Council, and the State Bar Council concerned shall comply with such direction.\n(2) Any entry in the State roll made in compliance with the direction of the Bar Council of India under sub-section (1) shall be made in the order of seniority determined in accordance with the provisions of sub-section (3) of section 17.\n(3) Where an advocate referred to in sub-section (1) omits or fails to express his intention within the prescribed time, his name shall be entered in the roll of the State Bar Council of Delhi].\n1. Substituted by Act 60 of 1973, w.e.f. 31-1-1974."
+    },
+    {
+      "id": "15803153",
+      "number": "21",
+      "locator": "Section 21: Disputes regarding seniority",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-21-197",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/15803153",
+      "body": "Disputes regarding seniority\n21. (1) Where the date of seniority of two or more persons is the same, the one senior in age shall be reckoned as senior to the other.\n[(2) Subject as aforesaid, if any dispute arises with respect to the seniority of any person, it shall be referred to the State Bar Council concerned for decision].\n1. Substituted by Act 60 of 1973, w.e.f. 31-1-1974."
+    },
+    {
+      "id": "15803165",
+      "number": "22",
+      "locator": "Section 22: Certificate of enrolment",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-22-212",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/15803165",
+      "body": "Certificate of enrolment\n[22. (1) There shall be issued a certificate of enrolment in the prescribed form by the State Bar Council to every person whose name is entered in the roll of advocates maintained by it under this Act.\n(2) Every person whose name is so entered in the State roll shall notify any change in the place of his permanent residence to the State Bar Council concerned within ninety days of such change].\n1. Substituted by Act 60 of 1973, w.e.f. 31-1-1974."
+    },
+    {
+      "id": "15803177",
+      "number": "23",
+      "locator": "Section 23: Right of pre-audience",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-23-210",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/15803177",
+      "body": "Right of pre-audience\n23. (1) The Attorney-General of India shall have pre-audience over all other advocates.\n(2) Subject to the provisions of sub-section (1), the Solicitor-General of India shall have pre-audience over all other advocates.\n(3) Subject to t he provisions of sub-sections (1) and (2), the Additional Solicitor-General of India shall have pre-audience over all other advocates.\n[(3A) Subject to the provisions of sub-sections (1), (2) and (3), the second Additional Solicitor-General of India shall have pre-audience over all other advocates.]\n(4) Subject to the provisions of sub-sections (1), [(2), (3) and (3A)], the Advocate-General of any State shall have pre-audience over all other advocates, and the right of pre-audience among Advocates-General inter se shall be determined by their respective seniority.\n(5) Subject as aforesaid—\n(i) senior advocates shall have pre-audience over other advocates; and\n(ii) the right of pre-audience over senior advocates inter se and other advocates inter se shall be determined by their respective seniority.\n2. Inserted by Act 47 of 1980, w.e.f. 29-11-1980.\n3. Substituted for \"(2) and (3)\" by Act 47 of 1980, w.e.f. 29-11-1980."
+    },
+    {
+      "id": "15803189",
+      "number": "24",
+      "locator": "Section 24: Persons who may be admitted as advocates on a State roll",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-24-208",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/15803189",
+      "body": "Persons who may be admitted as advocates on a State roll\n24. (1) Subject to the provisions of this Act, and the rules made thereunder, a person shall be qualified to be admitted as an advocate on a State roll, if he fulfills the following conditions, namely:—\n(a) he is a citizen of India:\nProvided that subject to the other provisions contained in this Act, a national of any other country may be admitted as an advocate on a State roll, if citizens of India, duly qualified, are permitted to practice law in that other country;\n(b) he has completed the age of twenty-one years;\n(c) he has obtained a degree in law—\n(i) before the [12th day of March, 1967], from any university in the territory of India; or\n(ii) before the 15th day of August, 1947, from any university in any area which was comprised before that date within India as defined by the Government of India Act, 1935; or\n[(iii) after the 12th day of March, 1967, save as provided in sub-clause (iiia) after undergoing a three-year course of study in law from any university in India which is recognised for the purposes of this Act by the Bar Council of India; or\n(iiia) after undergoing a course of study in law, the duration of which is not less than two academic years commencing from the academic year 1967-68 or any earlier academic year from any university in India which is recognised for the purposes of this Act by the Bar Council of India; or]\n[(iv) in any other case, from any university outside the territory of India, if the degree is recognised for the purposes of this Act by the Bar Council of India; or]\n[he is a barrister and is called to the Bar on or before the 31st day of December, 1976 [or has passed the articled clerk's examination or any other examination specified by the High Court at Bombay or Calcutta for enrolment as an attorney of that High Court]; or has obtained such other foreign qualification in law as is recognised by the Bar Council of India for the purpose of admission as an advocate under this Act];\n(d) [Omitted by Act 60 of 1973]\n(e) he fulfills such other conditions as may be specified in the rules made by the State Bar Council under this Chapter;\n[(f) he has paid, in respect of the enrolment, stamp duty, if any, chargeable under the Indian Stamp Act, 1899 and an enrolment fee payable to the State Bar Council of [six hundred rupees and to the Bar Council of India, one hundred and fifty rupees by way of a bank draft drawn in favour of that Council]:\nProvided that where such person is a member of the scheduled castes or the scheduled tribes and produces a certificate to that effect from such authority as may be prescribed, the enrolment fee payable by him to the State Bar Council shall be [one hundred rupees and to the Bar Council of India, twenty-five rupees.]\n[Explanation : For the purposes of this sub-section, a person, shall be deemed to have obtained a degree in law from a university in India on the date on which the results of the examination for that degree are published by the university on its notice board or otherwise declaring him to have passed that examination].\n(2) Notwithstanding anything contained in sub-section (1), a vakil or a pleader who is a law graduate may be admitted as an advocate on a State roll, if he—\n(a) makes an application for such enrolment in accordance with the provisions of this Act, not later than two years from the appointed day; and\n(b) fulfil the conditions specified in clauses (a), (b) and (f) of sub-section (1).\n[(3) Notwithstanding anything contained in sub-section (1) a person who—\n(a) [***] has, for at least three years, been a vakil or a pleader or a mukhtar, or was entitled at any time to be enrolled under any law [***] as an advocate of a High Court (including a High Court of a former Part B State) or of a Court of Judicial Commissioner in any Union territory; or\n[(aa) before the 1st day of December, 1961, was entitled otherwise than as an advocate to practise the profession of law (whether by way of pleading or acting or both) by virtue of the provision of any law, or who would have been so entitled had he not been in public service on the said date; or]\n(b) [Omitted by Act 60 of 1973]\n(c) before the 1st day of April, 1937, has been an advocate of any High Court in any area which was comprised within Burma as defined in the Government of India Act, 1935; or\n(d) is entitled to be enrolled as an advocate under any rule made by the Bar Council of India in this behalf,\nmay be admitted as an advocate on a State roll if he—\n(i) makes an application for such enrolment in accordance with the provisions of this Act; and\n(ii) fulfills the conditions specified in clauses (a), (b), (e) and (f) of sub-section (1).\n(4) [Omitted by Act 107 of 1976]\n1. Subtituted for \"28th day of February, 1963\" by Act 60 of 1973, w.e.f. 31-1-1974.\n2. Substituted by Act 60 of 1973, w.e.f. 31-1-1974.\n3. Inserted by Act 21 of 1964, w.e.f. 16-5-1964.\n1. Substituted for \"he is a barrister\" by Act 60 of 1973, w.e.f. 31-1-1974.\n2. Inserted by Act 107 of 1976, w.e.f. 15-10-1976.\n3. Substituted by Act 60 of 1973, w.e.f. 31-11-1974.\n4. Substituted for \"two hundred and fifty rupees\" by Act 70 of 1993, w.e.f. 26-12-1993.\n5. Substituted for \"one hundred and twenty-five rupees\" by Act 70 of 1993, w.e.f. 26-12-1993.\n6. Inserted by Act 14 of 1962, w.e.f. 30-3-1962.\n7. Inserted by Act 21 of 1964, w.e.f. 16-5-1964.\n8. Words \"before the 31st day of March, 1964, and then in force\" omitted by Act 33 of 1968, w.e.f. 5-6-1968.\n9. Inserted by Act 60 of 1973, w.e.f. 31-1-1974."
+    },
+    {
+      "id": "15803201",
+      "number": "24A",
+      "locator": "Section 24A: Disqualification for enrolment",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-24a-5",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/15803201",
+      "body": "Disqualification for enrolment\n[24A. (1) No person shall be admitted as an advocate on a State roll—\n(a) if he is convicted of an offence involving moral turpitude;\n(b) if he is convicted of an offence under the provisions of the Untouchability (Offences) Act, 1955;\n[(c) if he is dismissed or removed from employment or office under the State on any charge involving moral turpitude.\nExplanation : In this clause, the expression \"State\" shall have the meaning assigned to it under Article 12 of the Constitution]:\nProvided that the disqualification for enrolment as aforesaid shall cease to have effect after a period of two years has elapsed since his [release or dismissal or, as the case may be, removal.]\n(2) Nothing contained in sub-section (1) shall apply to a person who having been found guilty is dealt with under the provisions of the Probation of Offenders Act, 1958 (20 of 1958).]\n1. Inserted by Act 60 of 1973, w.e.f. 31-1-1974.\n2. Inserted by Act 70 of 1993, w.e.f. 26-12-1993.\n3. Substituted by Act 70 of 1993, w.e.f. 26-12-1993."
+    },
+    {
+      "id": "15803213",
+      "number": "25",
+      "locator": "Section 25: Authority to whom applications for enrolment may be made",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-25-207",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/15803213",
+      "body": "Authority to whom applications for enrolment may be made\n25. An application for admission as an advocate shall be made in the prescribed form to the State Bar Council within whose jurisdiction the applicant proposes to practise."
+    },
+    {
+      "id": "15803225",
+      "number": "26",
+      "locator": "Section 26: Disposal of an application for admission as an advocate",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-26-206",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/15803225",
+      "body": "Disposal of an application for admission as an advocate\n26. (1) A State Bar Council shall refer every application for admission as an advocate to its enrolment committee, and subject to the provisions of sub-sections (2) and (3) [and to any direction that may be given in writing by the State Bar Council in this behalf], such committee shall dispose of the application in the prescribed manner:\n[Provided that the Bar Council of India may, if satisfied, either on a reference made to it in this behalf or otherwise, that any person has got his name entered on the roll of advocates by misrepresentation as to an essential fact or by fraud or undue influence, remove the name of such person from the roll of advocates after giving him an opportunity of being heard.]\n(2) Where the enrolment committee of a State Bar Council proposes to refuse any such application, it shall refer the application for opinion to the Bar Council of India and every such reference shall be accompanied by a statement of the grounds in support of the refusal of the application.\n(3) The enrolment committee of a State Bar Council shall dispose of any application referred to the Bar Council of India under sub-section (2) in conformity with the opinion of the Bar Council of India.\n[(4) Where the enrolment committee of a State Bar Council has refused any application for admission as an advocate on its roll, the State Bar Council shall, as soon as may be, send intimation to all other State Bar Councils about such refusal stating the name, address and qualifications of the person whose application was refused and the grounds for the refusal.]\n1. Inserted by Act 21 of 1964, w.e.f. 16-5-1964."
+    },
+    {
+      "id": "15803237",
+      "number": "26A",
+      "locator": "Section 26A: Power to remove names from roll",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-26a-6",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/15803237",
+      "body": "Power to remove names from roll\n[26A. A State Bar Council may remove from the State roll the name of any advocate who is dead or from whom a request has been received to that effect.]\n2. Substituted by Act 60 of 1973, w.e.f. 31-1-1974."
+    },
+    {
+      "id": "15803249",
+      "number": "27",
+      "locator": "Section 27: Application once refused not to be entertained by another Bar Council except in certain circumstances",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-27-203",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/15803249",
+      "body": "Application once refused not to be entertained by another Bar Council except in certain circumstances\n27. Where a State Bar Council has refused the application of any person for admission as an advocate on its roll, no other State Bar Council shall entertain an application for admission of such person as an advocate on its roll, except with the previous consent in writing of the State Bar Council which refused the application and of the Bar Council of India."
+    },
+    {
+      "id": "15803261",
+      "number": "28",
+      "locator": "Section 28: Power to make rules",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-28-201",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/15803261",
+      "body": "Power to make rules\n28. (1) A State Bar Council may make rules to carry out the purposes of this chapter.\n(2) In particular, and without prejudice to the generality of the foregoing power, such rules may provide for—\n[(a) the time within which and form in which an advocate shall express his intention for the entry of his name in the roll of a State Bar Council under section 20;]\n(b) [Omitted by Act 60 of 1973]\n(c) the form in which an application shall be made to the Bar Council for admission as an advocate on its roll and the manner in which such application shall be disposed of by the enrolment committee of the Bar Council;\n(d) the conditions subject to which a person may be admitted as an advocate on any such roll;\n(e) the instalments in which the enrolment fee may be paid.\n(3) No rules made under this chapter shall have effect unless they have been approved by the Bar Council of India.\n2. Substituted by Act 60 of 1973, w.e.f. 31-1-1974."
+    },
+    {
+      "id": "15803273",
+      "number": "29",
+      "locator": "Section 29: Advocates to be the only recognised class of persons entitled to practise law",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-29-201",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/15803273",
+      "body": "CHAPTER IV\nRIGHT TO PRACTISE\nAdvocates to be the only recognised class of persons entitled to practise law\n29. Subject to the provisions of this Act and any rules made thereunder, there, shall as from the appointed day, be only one class of persons entitled to practise the profession of law, namely, advocates."
+    },
+    {
+      "id": "15803285",
+      "number": "30",
+      "locator": "Section 30: Right of advocates to practise",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-30-200",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/15803285",
+      "body": "Right of advocates to practise\n30. Subject to the provisions of this Act, every advocate whose name is entered in the [State roll] shall be entitled as of right to practise throughout the territories to which this Act extends,—\n(i) in all courts including the Supreme Court;\n(ii) before any tribunal or person legally authorised to take evidence; and\n(iii) before any other authority or person before whom such advocate is by or under any law for the time being in force entitled to practise.\n1. Substituted for \"common roll\" by Act 60 of 1973, w.e.f. 31-1-1974."
+    },
+    {
+      "id": "15803297",
+      "number": "31",
+      "locator": "Section 31: Special provision for attorney",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-31-192",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/15803297",
+      "body": "31. Special provision for attorney\n[Repealed by Act 107 of 1976, w.e.f. 1-1-1977]"
+    },
+    {
+      "id": "15803309",
+      "number": "32",
+      "locator": "Section 32: Power of court to permit appearances in particular cases",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-32-186",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/15803309",
+      "body": "Power of court to permit appearances in particular cases\n32. Notwithstanding anything contained in this chapter, any court, authority or person may permit any person, not enrolled as an advocate under this Act, to appear before it or him in any particular case."
+    },
+    {
+      "id": "15803321",
+      "number": "33",
+      "locator": "Section 33: Advocates alone entitled to practise",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-33-181",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/15803321",
+      "body": "Advocates alone entitled to practise\n33. Except as otherwise provided in this Act or in any other law for the time being in force, no person shall, on or after the appointed day, be entitled to practise in any court or before any authority or person unless he is enrolled as an advocate under this Act."
+    },
+    {
+      "id": "15803333",
+      "number": "34",
+      "locator": "Section 34: Power of High Courts to make rules",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-34-176",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/15803333",
+      "body": "Power of High Courts to make rules\n34. (1) The High Court may make rules laying down the conditions subject to which an advocate shall be permitted to practise in the High Court and the courts subordinate thereto.\n[(1A) The High Court shall make rules for fixing and regulating by taxation or otherwise the fees payable as costs by any party in respect of the fees of his adversary's advocate upon all proceedings in the High Court or in any court subordinate thereto.]\n[(2) Without prejudice to the provisions contained in sub-section (1), the High Court at Calcutta may make rules providing for the holding of the Intermediate and the Final examinations for articled clerks to be passed by the persons referred to in section 58AG for the purpose of being admitted as advocates on the State roll and any other matter connected therewith.]\n(3) [Omitted by Act 107 of 1976]\n1. Inserted by Act 60 of 1973, w.e.f. 31-1-1974.\n1. Inserted by Act 38 of 1977, w.e.f. 31-10-1977."
+    },
+    {
+      "id": "15803345",
+      "number": "35",
+      "locator": "Section 35: Punishment of advocates for misconduct",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-35-175",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/15803345",
+      "body": "CHAPTER V\nCONDUCT OF ADVOCATES\nPunishment of advocates for misconduct\n35. (1) Where on receipt of a complaint or otherwise a State Bar Council has reason to believe that any advocate on its roll has been guilty of professional or other misconduct, it shall refer the case for disposal to its disciplinary committee.\n[(1A) The State Bar Council may, either of its own motion or on application made to it by any person interested, withdraw a proceeding pending before its disciplinary committee and direct the inquiry to be made by any other disciplinary committee of that State Bar Council.]\n(2) The disciplinary committee of a State Bar Council shall fix a date for the hearing of the case and shall cause a notice thereof to be given to the advocate concerned and to the Advocate-General of the State.\n(3) The disciplinary committee of a State Bar Council after giving the advocate concerned and the Advocate-General an opportunity of being heard, may make any of the following orders, namely:—\n(a) dismiss the complaint or, where the proceedings were initiated at the instance of the State Bar Council, direct that the proceedings be filed;\n(b) reprimand the advocate;\n(c) suspend the advocate from practice for such period as it may deem fit;\n(d) remove the name of the advocate from the State roll of advocates.\n(4) Where an advocate is suspended from practice under clause (c) of sub-section (3) he shall, during the period of suspension, be debarred from practising in any court or before any authority or person in India.\n(5) Where any notice is issued to the Advocate-General under sub-section (2), the Advocate-General may appear before the disciplinary committee of the State Bar Council either in person or through any advocate appearing on his behalf.\n[Explanation : In this section, [section 37 and section 38], the expressions \"Advocate-General\" and \"Advocate-General of the State\" shall, in relation to the Union Territory of Delhi, mean the Additional Solicitor General of India.\n2. Inserted by Act 60 of 1973, w.e.f. 31-1-1974.\n1. Inserted by Act 21 of 1964, w.e.f. 16-5-1964.\n2. Inserted by Act 60 of 1973, w.e.f. 31-1-1974."
+    },
+    {
+      "id": "15803357",
+      "number": "36",
+      "locator": "Section 36: Disciplinary powers of Bar Council of India",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-36-172",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/15803357",
+      "body": "Disciplinary powers of Bar Council of India\n36. (1) Where on receipt of a complaint or otherwise the Bar Council of India has reason to believe that any advocate whose name is not entered on any State roll has been guilty of professional or other misconduct, it shall refer the case for disposal to its disciplinary committee.\n(2) Notwithstanding anything contained in this chapter, the disciplinary committee of the Bar Council of India may, [either of its own motion or on a report by any State Bar Council or on an application made to it by any person interested], withdraw for inquiry before itself any proceedings for disciplinary action against any advocate pending before the disciplinary committee of any State Bar Council and disposed of the same.\n(3) The disciplinary committee of the Bar Council of India, in disposing of any case under this section, shall observe, so far as may be, the procedure laid down in section 35, the references to the Advocate-General in that section being construed as references to the Attorney-General of India.\n(4) In disposing of any proceedings under this section the disciplinary committee of the Bar Council of India may make any order which the disciplinary committee of a State Bar Council can make under sub-section (3) of section 35, and where any proceedings have been withdrawn for inquiry [before the disciplinary committee of the Bar Council of India], the State Bar Council concerned shall give effect to any such order.\n1. Substituted for \"of its own motion\" by Act 60 of 1973, w.e.f. 31-1-1974.\n2. Substituted for \"before the Bar Council of India\" by Act 60 of 1973, w.e.f. 31-1-1974."
+    },
+    {
+      "id": "15803369",
+      "number": "36A",
+      "locator": "Section 36A: Changes in constitution of disciplinary committees",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-36a-7",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/15803369",
+      "body": "Changes in constitution of disciplinary committees\n[36A. Whenever in respect of any proceedings under section 35 or section 36, a disciplinary committee of the State Bar Council or a disciplinary committee of the Bar Council of India ceases to exercise jurisdiction and is succeeded by another committee which has and exercises jurisdiction, the disciplinary committee of the State Bar Council or the disciplinary committee of the Bar Council of India, as the case may be, so succeeding may continue the proceedings from the stage at which the proceedings were so left by its predecessor committee.\n3. Inserted by Act 60 of 1973, w.e.f. 31-1-1974."
+    },
+    {
+      "id": "15803381",
+      "number": "36B",
+      "locator": "Section 36B: Disposal of disciplinary proceedings",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-36b-2",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/15803381",
+      "body": "Disposal of disciplinary proceedings\n36B. (1) The disciplinary committee of a State Bar Council shall dispose of the complaint received by it under section 35 expeditiously and in each case the proceedings shall be concluded within a period of one year from the date of the receipt of complaint or the date of initiation of the proceedings at the instance of the State Bar Council, as the case may be, failing which such proceedings shall stand transferred to the Bar Council of India which may dispose of the same as if it were a proceeding withdrawn for inquiry under sub-section (2) of section 36.\n(2) Notwithstanding anything contained in sub-section (1), where on the commencement of the Advocates (Amendment) Act, 1973 (60 of 1973), any proceedings in respect of any disciplinary matter against an advocate is pending before the disciplinary committee of a State Bar Council, that disciplinary committee of the State Bar Council shall dispose of the same within a period of six months from the date of such commencement or within a period of one year from the date of the receipt of the complaint or, as the case may be, the date of initiation of the proceedings at the instance of the State Bar Council, whichever is later, failing which such proceedings shall stand transferred to the Bar Council of India for disposal under sub-section (1).]"
+    },
+    {
+      "id": "15803393",
+      "number": "37",
+      "locator": "Section 37: Appeal to the Bar Council of India",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-37-170",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/15803393",
+      "body": "Appeal to the Bar Council of India\n37. (1) Any person aggrieved by an order of the disciplinary committee of a State Bar Council made [under section 35] [or the Advocate-General of the State] may, within sixty days of the date of the communication of the order to him, prefer an appeal to the Bar Council of India.\n(2) Every such appeal shall be heard by the disciplinary committee of the Bar Council of India which may pass such order [including an order varying the punishment awarded by the disciplinary committee of the State Bar Council] thereon as it deems fit:\n[Provided that no order of the disciplinary committee of the State Bar Council shall be varied by the disciplinary committee of the Bar Council of India so as to prejudicially affect the person aggrieved without giving him reasonable opportunity of being heard.]\n1. Substituted for \"under sub-section (3) of section 35\", by Act 21 of 1964, w.e.f. 16-5-1964.\n2. Inserted by Act 60 of 1973, w.e.f. 31-1-1974."
+    },
+    {
+      "id": "15803405",
+      "number": "38",
+      "locator": "Section 38: Appeal to the Supreme Court",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-38-168",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/15803405",
+      "body": "Appeal to the Supreme Court\n38. Any person aggrieved by an order made by the disciplinary committee of the Bar Council of India under section 36 or section 37 or the Attorney-General of India [or the Advocate-General of the State concerned, as the case may be], within sixty days of the date on which the order is communicated to him, prefer an appeal to the Supreme Court and the Supreme Court may pass such order [including an order varying the punishment awarded by the disciplinary committee of the Bar Council of India] thereon as it deems fit:\n[Provided that no order of the disciplinary committee of the State Bar Council of India shall be varied by the Supreme Court so as to prejudicially affect the person aggrieved without giving him a reasonable opportunity of being heard.]\n1. Inserted by Act 60 of 1973, w.e.f. 31-1-1974."
+    },
+    {
+      "id": "15803417",
+      "number": "39",
+      "locator": "Section 39: Application of sections 5 and 12 of Limitation Act, 1963",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-39-166",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/15803417",
+      "body": "Application of sections 5 and 12 of Limitation Act, 1963\n[39. The provisions of sections 5 and 12 of the Limitation Act, 1963 (36 of 1963), shall, so far as may be, apply to appeals under section 37 and section 38.\n2. Substituted by Act 60 of 1973, w.e.f. 31-1-1974."
+    },
+    {
+      "id": "15803429",
+      "number": "40",
+      "locator": "Section 40: Stay of order",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-40-166",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/15803429",
+      "body": "Stay of order\n40.[(1)] An appeal, made under section 37 or section 38, shall not operate as a stay of the order appealed against, but the disciplinary committee of the Bar Council of India, or the Supreme Court, as the case may be, may for sufficient cause direct the stay of such order on such terms and conditions as it may deem fit.\n[(2) Where an application is made for the stay of the order before the expiration of the times allowed for appealing therefrom under section 37 or section 38, the disciplinary committee of the State Bar Council, or the disciplinary committee of the Bar Council of India, as the case may be, may, for sufficient cause, direct the stay of such order on such terms and conditions as it may deem fit.]\n3. Section 40 renumbered as sub-section (1) thereof and sub-section (2) inserted by Act 60 of 1973, w.e.f. 31-1-1974."
+    },
+    {
+      "id": "15803441",
+      "number": "41",
+      "locator": "Section 41: Alteration in roll of advocates",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-41-160",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/15803441",
+      "body": "Alteration in roll of advocates\n41. (1) Where an order is made under this chapter reprimanding or suspending an advocate, a record of the punishment shall be entered against his name—\n(a) in the case of an advocate whose name is entered in a State roll, in that roll;\n(b) [Omitted by Act 60 of 1973]\nanywhere any order is made removing an advocate from practice, his name shall be struck off the State roll [* * *].\n(2) [Omitted by Act 60 of 1973]\n(3) Where any advocate is suspended or removed from practice, the certificate granted to him under section 22, in respect of his enrolment shall be recalled.\n1. Words \"or the common roll, as the case may be\" omitted by Act 60 of 1973, w.e.f. 31-1-1974."
+    },
+    {
+      "id": "15803453",
+      "number": "42",
+      "locator": "Section 42: Powers of disciplinary committee",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-42-159",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/15803453",
+      "body": "Powers of disciplinary committee\n42. (1) The disciplinary committee of the Bar Council shall have the same powers as are vested in a Civil Court under the Code of Civil Procedure, 1908 (5 of 1908), in respect of the following matters, namely,—\n(a) summoning and enforcing the attendance of any person and examining him on oath;\n(b) requiring discovery and production of any documents;\n(c) receiving evidence on affidavits;\n(d) requisitioning any public record or copies thereof from any court or office;\n(e) issuing commissions for the examination of witnesses or documents;\n(f) any other matter which may be prescribed:\nProvided that no such disciplinary committee shall have the right to require the attendance of—\n(a) any presiding officer of a court except with the previous sanction of the High Court to which such court is subordinate;\n(b) any officer of a Revenue Court except with the previous sanction of the State Government.\n(2) All proceedings before a disciplinary committee of a Bar Council shall be deemed to be judicial proceedings within the meaning of sections 193 and 228 of the Indian Penal Code, 1860 (45 of 1860), and every such disciplinary committee shall be deemed to be a Civil Court for the purpose of sections 480, 482 and 485 of the Code of Criminal Procedure, 1898 (5 of 1898).\n(3) For the purposes of exercising any of the powers conferred by sub-section (1), a disciplinary committee may send to any civil court in the territories to which this Act extends, any summons or other process, for the attendance of a witness or the production of a document required by the committee or any commission which it desires to issue, and the Civil Court shall cause such process to be served or such commission to be issued, as the case may be, and may enforce any such process as if it were a process for attendance or production before itself.\n[(4) Notwithstanding the absence of the Chairman or any member of a disciplinary committee on a date fixed for the hearing of a case before it, the disciplinary committee may, if it so thinks fit, hold or continue the proceedings on the date so fixed and no such proceedings and no order made by the disciplinary committee in any such proceedings shall be invalid merely by reason of the absence of the Chairman or member thereof on any such date:\nProvided that no final orders of the nature referred to in sub-section (3) of section 35 can be made in any proceedings unless the Chairman and other members of the disciplinary committee are present.\n(5) Where no final order of the nature referred to in sub-section (3) of section 35 can be made in any proceeding in accordance with the opinion of the Chairman and the members of a disciplinary committee either for want of majority opinion amongst themselves or otherwise, the case, with their opinion thereon, shall be laid before the Chairman of the Bar Council concerned or if the Chairman of the Bar Council is acting as the Chairman or a member of the disciplinary committee, before the Vice-Chairman of the Bar Council, and the said Chairman or the Vice-Chairman of the Bar Council, as the case may be, after such hearing as he thinks fit, shall deliver his opinion and the final order of the disciplinary committee shall follow such opinion].\n2. Now the Code of Criminal Procedure, 1973 (2 of 1974).\n3. Sub-sections (4) and (5) inserted by Act 60 of 1973, w.e.f. 31-1-1974."
+    },
+    {
+      "id": "15803465",
+      "number": "42A",
+      "locator": "Section 42A: Powers of Bar Council of India and other committees",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-42a-4",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/15803465",
+      "body": "Powers of Bar Council of India and other committees\n[42A. The provisions of section 42, shall so far as may be, apply in relation to the Bar Council of India, the enrolment committee, the election committee, the legal aid committee, or any other committee of a Bar Council as they apply in relation to the disciplinary committee of a Bar Council].\n1. Inserted by Act 60 of 1973, w.e.f. 31-1-1974."
+    },
+    {
+      "id": "15803477",
+      "number": "43",
+      "locator": "Section 43: Cost of proceedings before a disciplinary committee",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-43-157",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/15803477",
+      "body": "Cost of proceedings before a disciplinary committee\n43. The disciplinary committee to a Bar Council may make such order as to the cost of any proceedings before it as it may deem fit and any such order shall be executable as if it were an order—\n(a) in the case of an order of the disciplinary committee of the Bar Council of India, of the Supreme Court;\n(b) in the case of an order of the disciplinary committee of a State Bar Council, of the High Court."
+    },
+    {
+      "id": "15803489",
+      "number": "44",
+      "locator": "Section 44: Review of orders by disciplinary committee",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-44-155",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/15803489",
+      "body": "Review of orders by disciplinary committee\n44. The disciplinary committee of a Bar Council may of its own motion or otherwise review any order [within sixty days of the date of that order] passed by it under this Chapter:\nProvided that no such order of review of the disciplinary committee of a State Bar Council shall have effect unless it has been approved by the Bar Council of India.\n1. Inserted by Act 60 of 1973, w.e.f. 31-1-1974."
+    },
+    {
+      "id": "15803501",
+      "number": "45",
+      "locator": "Section 45: Penalty for persons illegally practising in courts and before other authorities",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-45-153",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/15803501",
+      "body": "CHAPTER VI\nMISCELLANEOUS\nPenalty for persons illegally practising in courts and before other authorities\n45. Any person who practises in any court or before any authority or person, in or before whom he is not entitled to practise under the provisions of this Act, shall be punishable with imprisonment for a term which may extend to six months."
+    },
+    {
+      "id": "15803513",
+      "number": "45A",
+      "locator": "Section 45A: Power to frame and publish lists of touts",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-45a-6",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/15803513",
+      "body": "[Power to frame and publish lists of touts.\n45A. (1) Every High Court, District Judge, Sessions Judge, District Magistrate, and every Revenue-officer, not being below the rank of a Collector of a district (each as regards their or his own Court and the Courts, if any, subordinate thereto) may frame and publish lists of persons proved to their or his satisfaction, or to the satisfaction of any subordinate Court as provided in sub-section (3) by evidence of general repute or otherwise, habitually to act as touts, and may, from time to time, alter and amend such lists.\nExplanation.—The passing of a resolution, declaring any person to be or not to be a tout, by a majority of the members present at a meeting, specially convened for the purpose, of an association of persons entitled to practice as legal practitioners in any Court or revenue-office, shall be evidence of the general repute of such person for the purposes of this sub-section.\n(2) No person's name shall be included in any such list until he shall have had an opportunity of showing cause against such inclusion.\n(3) Any authority empowered under sub-section (1) to frame and publish a list of touts may send to any Court subordinate to such authority the names of any persons alleged or suspected to be touts, and order that Court to hold an inquiry in regard to such persons; and the subordinate Court shall thereupon hold an inquiry into the conduct of such persons and, after giving each such person an opportunity of showing cause as provided in sub-section (2), shall report to the authority which has ordered the inquiry the name of each such person who has been proved to the satisfaction of the subordinate Court to be a tout; and that authority may include the name of any such person in the list of touts framed and published by that authority:\nProvided that such authority shall hear any such person who, before his name has been so included, appears before it and desires to be heard.\n(4) A copy of every such list shall be kept hung up in every Court to which the same relates.\n(5) The Court or Judge may, by general or special order, exclude from the precincts of the Court any person whose name is included in any such list.\n(6) Any person who acts as a tout whilst his name is included in any such list shall be punishable with imprisonment which may extend to three months, or with fine which may extend to five hundred rupees, or with both.\n(7) For the purposes of this section,—\n(a) \"Judge\" means the presiding judicial officer in every Civil and Criminal Court, by whatever title he is designated;\n(b) \"subordinate Court\" means all Courts subordinate to the High Court, including Courts of Small Causes established under any law for the time being in force;\n(c) \"revenue-office\" includes all Courts (other than Civil Courts) trying suits under any law for the time being in force relating to landholders and their tenants or agents;\n(d) \"tout\" means a person—\n(i) who procures, in consideration of any remuneration moving from any legal practitioner, the employment of the legal practitioner in any legal business; or who proposes to any legal practitioner or to any person interested in any legal business to procure, in consideration of any remuneration moving from either of them, the employment of the legal practitioner in such business; or\n(ii) who for the purposes of such procurement frequents the precincts of Civil or Criminal Courts or of revenue-offices, or railway stations, landing stages, lodging places or other places of public resort.]\n1. Inserted by the Advocates (Amendment) Act, 2023, w.e.f. 30-9-2024."
+    },
+    {
+      "id": "15803525",
+      "number": "46",
+      "locator": "Section 46: Payment of part of enrolment fees to the Bar Council of India",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-46-153",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/15803525",
+      "body": "Payment of part of enrolment fees to the Bar Council of India\n46. [Omitted by Act 70 of 1993]"
+    },
+    {
+      "id": "15803537",
+      "number": "46A",
+      "locator": "Section 46A: Financial assistance to State Bar Council",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-46a-34",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/15803537",
+      "body": "Financial assistance to State Bar Council\n[46A. The Bar Council of India may, if it is satisfied that any State Bar Council is in need of funds for the purpose of performing its functions under this Act, give such financial assistance as it deems fit to that Bar Council by way of grant or otherwise.]\n1. Inserted by Act 60 of 1973, w.e.f. 31-1-1974."
+    },
+    {
+      "id": "15803549",
+      "number": "47",
+      "locator": "Section 47: Reciprocity",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-47-152",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/15803549",
+      "body": "Reciprocity\n47. (1) Where any country, specified by the Central Government in this behalf by notification in the Official Gazette, prevents citizens of India from practising the profession of law or subjects them to unfair discrimination in that country, no subject of any such country shall be entitled to practise the profession of law in India.\n(2) Subject to the provisions of sub-section (1), the Bar Council of India may prescribe the conditions, if any, subject to which foreign qualifications in law obtained by persons other than citizens of India shall be recognised for the purpose of admission as an advocate under this Act."
+    },
+    {
+      "id": "15803561",
+      "number": "48",
+      "locator": "Section 48: Indemnity against legal proceedings",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-48-148",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/15803561",
+      "body": "Indemnity against legal proceedings\n48. No suit or other legal proceeding shall lie against any Bar Council or any committee thereof or a member of a Bar Council [or any committee thereof] for any act in good faith done or intended to be done in pursuance of the provisions of this Act or of any rules made thereunder.\n1. Inserted by Act 60 of 1973, w.e.f. 31-1-1974."
+    },
+    {
+      "id": "15803573",
+      "number": "48A",
+      "locator": "Section 48A: Power of revision",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-48a-2",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/15803573",
+      "body": "Power of revision\n[48A. (1) The Bar Council of India may, at any time, call for the record of any proceeding under this Act which has been disposed of by a State Bar Council or a Committee thereof, and from which no appeal lies, for the purpose of satisfying itself as to the legality or propriety of such disposal and may pass such orders in relation thereto as it may think fit.\n(2) No order which prejudicially affects any person shall be passed under this section without giving him a reasonable opportunity of being heard.]\n1. Inserted by Act 21 of 1964, w.e.f. 16-5-1964."
+    },
+    {
+      "id": "15803585",
+      "number": "48AA",
+      "locator": "Section 48AA: Review",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-48aa",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/15803585",
+      "body": "[Power to give directions\n48B. (1) For the proper and efficient discharge of the functions of a State Bar council or any committee thereof, the Bar Council of India may, in the exercise of its powers of general supervision and control, give such directions to the State Bar Council or any committee thereof as may appear to it to be necessary, and the State Bar Council or the committee shall comply with such directions.\n(2) Where a State Bar Council is unable to perform its functions for any reason whatsoever, the Bar Council of India may, without prejudice to the generality of the foregoing power, give such directions to the ex officio member thereof as may appear to it to be necessary, and such directions shall have effect, notwithstanding anything contained in the rules made by the State Bar Council.]\n1. Inserted by Act 21 of 1964, w.e.f. 16-5-1964."
+    },
+    {
+      "id": "15803597",
+      "number": "48B",
+      "locator": "Section 48B: Power to give directions",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-48b-1",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/15803597",
+      "body": "Review\n[48AA. The Bar Council of India or any of its committees, other than its disciplinary committee, may of its own motion or otherwise review any order, within sixty days of the date of that order, passed by it under this Act.]\n2. Inserted by Act 60 of 1973, w.e.f. 31-1-1974."
+    },
+    {
+      "id": "15803609",
+      "number": "49",
+      "locator": "Section 49: General power of the Bar Council of India to make rules",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-49-146",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/15803609",
+      "body": "General power of the Bar Council of India to make rules\n49.[(1)] The Bar Council of India may make rules for discharging its functions under this Act, and in particular, such rules may prescribe—\n[(a) the conditions subject to which an advocate may be entitled to vote at an election to the State Bar Council, including the qualifications or dis-qualifications of voters, and the manner in which an electoral roll of voters may be prepared and revised by a State Bar Council;]\n(ab) qualifications for membership of a Bar Council and the qualifications for such membership;\n(ac) the time within which and the manner in which effect may be given to the proviso to sub-section (2) of section 3;\n(ad) the manner in which the name of any advocate may be prevented from being entered in more than one State roll;\n(ae) the manner in which the seniority among advocates may be determined;\n[(af) the minimum qualifications required for admission to a course of degree in law in any recognised university;]\n(ag) the class or category of persons entitled to be enrolled as advocates;\n(ah) the conditions subject to which an advocate shall have the right to practise and the circumstances under which a person shall be deemed to practise as an advocate in a court;]\n(b) the form in which an application shall be made for the transfer of the name of an advocate from one State roll to another;\n(c) the standard of professional conduct and etiquette to be observed by advocates;\n(d) the standards of legal education to be observed by universities in India and the inspection of universities for that purpose;\n(e) the foreign qualifications in law obtained by persons other than citizens of India which shall be recognised for the purpose of admission as an advocate under this Act;\n(f) the procedure to be followed by the disciplinary committee of a State Bar Council and by its own disciplinary committee;\n(g) the restrictions in the matter of practice to which senior advocates shall be subject;\n[(gg) the form of dresses or robes to be worn by advocates, having regard to the climatic conditions, appearing before any court or tribunal;]\n(h) the fees which may be levied in respect of any matter under this Act;\n[(i) general principles for guidance of State Bar Councils and the manner in which directions issued or orders made by the Bar Council of India may be enforced;]\n(j) any other matter which may be prescribed:\n[Provided that no rules made with reference to clause (c) or clause (gg) shall have effect unless they have been approved by the Chief Justice of India]:\n[Provided further that] no rules made with reference to clause (e) shall have effect unless they have been approved by the Central Government.\n[(2) Notwithstanding anything contained in the first proviso to sub-section (1), any rule made with reference to clause (c) or clause (gg) of the said sub-section and in force immediately before commencement of the Advocates (Amendment) Act, 1973 (60 of 1973), shall continue in force until altered or repealed or amended in accordance with the provisions of this Act.]\n2. Inserted by Act 60 of 1973, w.e.f. 31-1-1974.\n3. Section 49 renumbered as sub-section (1) thereof by Act 60 of 1973, w.e.f. 31-1-1974.\n4. Substituted by Act 21 of 1964, w.e.f. 16-5-1964.\n1. Substituted by Act 60 of 1973, w.e.f. 31-1-1974.\n2. Inserted by Act 60 of 1973, w.e.f. 31-1-1974.\n3. Substituted by Act 21 of 1964, w.e.f. 31-1-1974.\n4. Substituted for \"Provided that\" by Act 60 of 1973, w.e.f. 31-1-1974."
+    },
+    {
+      "id": "15803621",
+      "number": "49A",
+      "locator": "Section 49A: Power of Central Government to make rules",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-49a-1",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/15803621",
+      "body": "[Power of Central Government to make rules\n49A. (1) The Central Government may, by notification in the Official Gazette, make rules for carrying out the purposes of this Act including rules with respect to any matter for which the Bar Council of India or a State Bar Council has power to make rules.\n(2) In particular and without prejudice to the generality of the foregoing power, such rules may provide for—\n(a) qualifications for membership of a Bar Council and disqualifications for such membership;\n(b) the manner in which the Bar Council of India may exercise supervision and control over State Bar Councils and the manner in which the directions issued or orders made by the Bar Council of India may be enforced;\n(c) the class or category of persons entitled to be enrolled as advocates under this Act;\n(d) the category of persons who may be exempted from undergoing a course of training and passing an examination prescribed under clause (d) of sub-section (1) of section 24;\n(e) the manner in which seniority among advocates may be determined;\n(f) the procedure to be followed by a disciplinary committee of a Bar Council in hearing cases and the procedure to be followed by a disciplinary committee of the Bar Council of India in hearing appeals;\n(g) any other matter which may be prescribed.\n(3) Rules under this section may be made either for the whole of India or for all or any of the Bar Councils.\n(4) If any provision of a rule made by a Bar Council is repugnant to any provision of a rule made by the Central Government under this section, then, the rule under this section, whether made before or after the rule made by the Bar Council, shall prevail and the rule made by the Bar Council shall, to the extent of the repugnancy, be void.\n[(5) Every rule made under this section shall be laid, as soon as may be after it is made, before each House of Parliament, while it is in session, for a total period of thirty days which may be comprised in one session or in two or more successive sessions and if, before the expiry of the sessions immediately following the session or the successive sessions aforesaid, both Houses agree in making any modification in the rule or both Houses agree that the rule should not be made, the rule shall thereafter have effect only in such modified form or be of no effect, as the case may be; so, however, that any such modification or annulment shall be without prejudice to the validity of anything previously done under that rule.]\n1. Inserted by Act 21 of 1964, w.e.f. 16-5-1964.\n1. Substituted by Act 60 of 1973, w.e.f. 31-12-1974."
+    },
+    {
+      "id": "15803633",
+      "number": "50",
+      "locator": "Section 50: Repeal of certain enactments",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-50-145",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/15803633",
+      "body": "Repeal of certain enactments\n50. (1) On the date on which a State Bar Council is constituted under this Act, the provisions of sections 3 to 7 (inclusive), sub-sections (1), (2) and (3) of section 15 and section 20 of the Indian Bar Council Act, 1926 (38 of 1926), shall stand repealed in the territory for which the State Bar Council is constituted.\n(2) On the date on which Chapter III comes into force, the following shall stand repealed, namely,—\n(a) sections 6, 7, 18 and 37 of the Legal Practitioners Act, 1879 (18 of 1879), and so much of sections 8, 9, 16, 17, 19 and 41 of that Act as relate to the admission and enrolment of legal practitioners;\n(b) sections 3, 4 and 6 of the Bombay Pleaders Act, 1920 (Bombay Act 17 of 1920);\n(c) so much of section 8 of the Indian Bar Councils Act, 1926 (38 of 1926), as relates to the admission and enrolment of legal practitioners;\n(d) the provisions of the Letters Patent of any High Court and of any other law insofar as they relate to the admission and enrolment of legal practitioners.\n(3) On the date of which Chapter IV comes into force, the following shall stand repealed, namely,—\n(a) sections 4, 5, 10 and 20 of the Legal Practitioners Act, 1879 (18 of 1879), and so much of sections 8, 9, 19 and 41 of that Act as confer on legal practitioners the right to practise in any court or before any authority or person;\n(b) sections 5, 7, 8 and 9 of the Bombay Pleaders Act, 1920 (Bombay Act 17 of 1920);\n(c) section 14 of the Indian Bar Councils Act, 1926 (38 of 1926), and so much of sections 8 and 15 of that Act as confer on legal practitioners the right to practise in any court or before any authority or person;\n(d) the Supreme Court Advocates (Practice in High Courts) Act, 1951 (18 of 1951);\n(e) the provisions of the Letters Patent of any High Court and of any other law conferring on legal practitioners the right to practise in any court or before any authority or person.\n(4) On the date on which Chapter V comes into force, the following shall stand repealed, namely,—\n(a) sections 12 to 15 (inclusive), sections 21 to 24 (inclusive) and sections 39 and 40 of the Legal Practitioners Act, 1879 (18 of 1879), and so much of sections 16, 17 and 41 of that Act as relate to the suspension, removal or dismissal of legal practitioners;\n(b) sections 24 to 27 (inclusive) of the Bombay Pleaders Act, 1920 (17 of 1920);\n(c) sections 10 to 13 (inclusive) of the Indian Bar Councils Act, 1926 (38 of 1926);\n(d) the provisions of the Letters Patent of any High Court and of any other law insofar as they relate to the suspension, removal or dismissal of legal practitioners.\n(5) When the whole of this Act has come into force—\n(a) the remaining provisions of the Acts referred to in this section which do not stand repealed by virtue of any of the foregoing provisions of this section except sections 1, 3 and 36 of the Legal Practitioners Act, 1879 (18 of 1879) shall stand repealed;\n(b) the enactments specified in the Schedule shall stand repealed to the extent mentioned therein.\n[(6) On the date on which section 45A of the Advocates Act, 1961 comes into force, sections 1, 3 and 36 of the Legal Practitioners Act, 1879 shall stand repealed.]\n1. Inserted by the Advocates (Amendment) Act, 2023, w.e.f. 30-9-2024."
+    },
+    {
+      "id": "15803645",
+      "number": "51",
+      "locator": "Section 51: Rule of construction",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-51-145",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/15803645",
+      "body": "Rule of construction\n51. On and from the appointed day, references in any enactment to an advocate enrolled by a High Court in any form of words shall be construed as references to an advocate enrolled under this Act."
+    },
+    {
+      "id": "15803657",
+      "number": "52",
+      "locator": "Section 52: Saving",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-52-146",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/15803657",
+      "body": "Saving\n52. Nothing in this Act shall be deemed to affect the power of the Supreme Court make rules under article 145 of the Constitution—\n(a) for laying down the conditions subject to which a senior advocate shall be entitled to practise in that court;\n(b) for determining the persons who shall be entitled to [act or plead] in that court.\n1. Substituted for \"act\" by Act 70 of 1993, w.e.f. 26-12-1993."
+    },
+    {
+      "id": "15803669",
+      "number": "53",
+      "locator": "Section 53: Elections to first State Bar Council",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-53-148",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/15803669",
+      "body": "CHAPTER VII\nTEMPORARY AND TRANSITIONAL PROVISIONS\nElections to first State Bar Council\n53. Notwithstanding anything contained in this Act, the elected members of a State Bar Council, constituted for the first time under this Act, shall be elected by and from amongst advocates, vakils, pleaders and attorneys who on the date of the election are entitled as of right to practise in the High Court and are ordinarily practising within the territory for which the Bar Council is to be constituted.\nExplanation : Where the territory for which the Bar Council is to be constituted includes a Union territory, the expression \"High Court\" shall include the court of the Judicial Commissioner of that Union territory."
+    },
+    {
+      "id": "15803681",
+      "number": "54",
+      "locator": "Section 54: Term of office of members of first 1[ x x x] State Bar Council",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-54-146",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/15803681",
+      "body": "Term of office of members of first [ x x x] State Bar Council\n54. Notwithstanding anything contained in this Act, the term of office of the [x x x] elected members of [***] a State Bar Council constituted for the first time, shall be two years from the date of the first meeting of the Council:\n[Provided that such members shall continue to hold office until the State Bar Council is reconstituted in accordance with the provisions of this Act.]\n1. Words \"the Bar Council of India and\" omitted by Act 21 of 1964, w.e.f. 16-5-1964.\n2. Words \"nominated and\" omitted by Act 14 of 1962, w.e.f. 30-3-1962.\n3. Inserted by Act 21 of 1964, w.e.f. 16-5-1964."
+    },
+    {
+      "id": "15803693",
+      "number": "55",
+      "locator": "Section 55: Rights of certain existing legal practitioners not affected",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-55-142",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/15803693",
+      "body": "Rights of certain existing legal practitioners not affected\n55. Notwithstanding anything contained in this Act,—\n(a) every pleader or vakil practising as such immediately before the date on which Chapter IV comes into force (hereinafter in this section referred to as the said date) by virtue of the provisions of the Legal Practitioners Act, 1879 (18 of 1879), the Bombay Pleaders Act, 1920 (17 of 1920) or any other law who does not elect to be, or is not qualified to be enrolled as an advocate under this Act;\n(b) [Omitted by Act 107 of 1976]\n[(c) every mukhtar practising as such immediately before the said date by virtue of the provisions of the Legal Practitioners Act, 1879 (18 of 1879), or any other law, who does not elect to be, or is not qualified to be, enrolled as an advocate under this Act;\n(d) every revenue agent practising as such immediately before the said date by virtue of the provisions of the Legal Practitioners Act 1879 (18 of 1879) or any other law,]\nshall, notwithstanding the repeal by this Act of the relevant provisions of the Legal Practitioners Act, 1879 (18 of 1879), the Bombay Pleaders Act, 1920 (Bombay Act, 17 of 1920), or other law, continue to enjoy the same rights as respects practice in any court or revenue office or before any authority or person and be subject to the disciplinary jurisdiction of the same authority which he enjoyed or, as the case may be, to which he was subject immediately before the said date and accordingly the relevant provisions of the Acts or law aforesaid shall have effect in relation to such persons as if they had not been repealed.\n4. Substituted by Act 21 of 1964, w.e.f. 16-5-1964."
+    },
+    {
+      "id": "15803705",
+      "number": "56",
+      "locator": "Section 56: Dissolution of existing Bar Council",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-56-141",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/15803705",
+      "body": "Dissolution of existing Bar Council\n56. (1) On the constitution under this Act of a State Bar Council, other then the Bar Council of Delhi (hereinafter referred to as the new Bar Council)—\n(a) all properties and assets vesting in the corresponding Bar Council shall vest in the new Bar Council;\n(b) all rights, liabilities and obligations of the corresponding Bar Council, whether arising out of any contract or otherwise, shall be the rights, liabilities and obligations respectively of this new Bar Council;\n(c) all proceedings pending before the corresponding Bar Council in respect of any disciplinary matter or otherwise shall stand transferred to the new Bar Council.\n(2) In this section, \"corresponding Bar Council\" in relation to a State Bar Council, other than the Bar Council of Delhi, means the Bar Council for the High Court in the territory for which the State Bar Council is constituted under this Act."
+    },
+    {
+      "id": "15803717",
+      "number": "57",
+      "locator": "Section 57: Power to make rules pending the constitution of a Bar Council",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-57-141",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/15803717",
+      "body": "Power to make rules pending the constitution of a Bar Council\n57. Until a Bar Council is constituted under this Act the power of that Bar council to make rules under this Act shall be exercised—\n(a) in the case of the Bar Council of India, by the Supreme Court;\n(b) in the case of a State Bar Council, by the High Court."
+    },
+    {
+      "id": "15803729",
+      "number": "58",
+      "locator": "Section 58: Special provisions during the transitional period",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-58-139",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/15803729",
+      "body": "Special provisions during the transitional period\n[58. (1) Where a State Bar Council has not been constituted under this Act or where a State Bar Council so constituted is unable to perform its functions by reason of any order of a court or otherwise, the functions of the Bar Council or any committee thereof, insofar as they relate to the admission and enrolment of advocates, shall be performed by the High Court in accordance with the provisions of this Act.\n(2) Until Chapter IV comes into force, a State Bar Council or a High Court performing the functions of a State Bar Council may enrol any person to be an advocate on a State roll, if he is qualified to be so enrolled under this Act, notwithstanding that no rules have been made under section 28 or that the rules so made have not been approved by the Bar Council of India, and every person so enrolled shall, until that chapter comes into force, be entitled to all the rights of practice conferred on an advocate under section 14 of the Indian Bar Councils Act, 1926 (38 of 1926).\n(3) Not withstanding anything contained in this Act, every person who, immediately before the 1st day of December, 1961, was an advocate on the roll of any High Court under the Indian Bar Councils Act, 1926 or who has been enrolled as an advocate under this Act shall, until Chapter IV comes into force, be entitled as of right to practise in the Supreme Court, subject to the rules made by the Supreme Court in this behalf.\n(4) Notwithstanding the repeal by sub-section (2) of section 50 of the provisions of the Legal Practitioners Act, 1879 (18 of 1879) or of the Bombay Pleaders Act, 1920 (17 of 1920) [or of any other law relating to the admission and enrolment of legal practitioners, the provisions of the Acts and law aforesaid] and any rules made thereunder insofar as they relate to [the renewal or the issue by way of renewal] of a certificate to a legal practitioner authorising him to practise shall have effect until Chapter IV comes into force and, accordingly, every certificate issued or renewed to a legal practitioner (who is not enrolled as an advocate under this Act) which is or purports to be issued or renewed under the provisions of either of the aforesaid Acts [or of the other law] during the period beginning with the 1st day of December, 1961 and ending with the date on which Chapter IV comes into force, shall be deemed to have been validly issued or renewed.]\n1. Inserted by Act 14 of 1962, w.r.e.f. 16-8-1961.\n2. Substituted for \"relating to the admission and enrolment of legal practitioners, the provisions of those Acts\" by Act 32 of 1962, w.r.e.f. 16-8-1961.\n3. Substituted for \"the issue and renewal\" by Act 21 of 1964, w.e.f. 16-5-1964.\n4. Inserted by Act 32 of 1962, w.e.f. 16-8-1961."
+    },
+    {
+      "id": "15803741",
+      "number": "58A",
+      "locator": "Section 58A: Special provisions with respect to certain advocates",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-58a-4",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/15803741",
+      "body": "[Special provisions with respect to certain advocates\n58A. (1) Not withstanding anything contained in this Act, all advocates who, immediately before the 26th day of July, 1948, were entitled to practise in the High Court in Allahabad or the Chief Court in Oudh and who under the provisions of the United Provinces High Courts (Amalgamation) Order, 1948 were recognised as advocates entitled to practise in the new High Court of Judicature at Allahabad but whose names were not formally entered on the roll of advocates of that High Court merely by reason of the non-payment of the fee payable to the Bar Council of the said High Court, and all advocates who were enrolled as such between the said date and the 26th day of May, 1952, shall, for the purposes of clause (a) of sub-section (1) of section 17 be deemed to be persons who were entered as advocates on the roll of the said High Court under the Indian Bar Councils Act, 1926 (38 of 1926) and every such person may, on an application being made in this behalf, be admitted as an advocate on the State roll of Uttar Pradesh.\n(2) Not withstanding anything contained in this Act, all advocates who, immediately before the 10th day of October, 1952 were entitled to practise in the High Court of Hyderabad but whose names were not formally entered on the roll of advocates of that High Court merely by reason of the non-payment of the fee payable to the Bar Council of the said High Court shall, for the purposes of clause (a) of sub-section (1) of section 17 be deemed to be persons who were entered as advocates on the roll of the said High Court under the Indian Bar Councils Act, 1926 (38 of 1926) and every such person may, on an application being made in this behalf, be admitted as an advocate on the State roll of Andhra Pradesh or of Maharashtra.\n(3) Not withstanding anything contained in this Act, all advocates who, immediately before the 1st day of May, 1960, were entitled to practise in the High Court of Bombay and who applied to get their names entered on the roll of advocates of the High Court of Gujarat under the provisions of section 8 of the Indian Bar Councils Act, 1926 (38 of 1926), but whose names were not so entered by reason of the repeal of the said provision shall, for the purposes of clause (a) of sub-section (1) of section 17, be deemed to be persons who were entered as advocates on the roll of the High Court of Gujarat under the said Act and every such person may, on an application being made in this behalf, be admitted as an advocate on the State roll of Gujarat.\n(4) Notwithstanding anything contained in this Act, all persons who, immediately before the 1st day of December, 1961, were advocates on the roll of the Court of Judicial Commissioner in any Union Territory under any law in force in that territory shall, for the purposes of clause (a) of sub-section (1) of section 17, be deemed to be persons who were entered as advocates on the roll of a High Court under the Indian Bar Councils Act, 1926 (38 of 1926) and every such person may, on an application made in this behalf, be admitted as an advocate on the State roll maintained in respect of that Union Territory.\n1. Inserted by Act 21 of 1964, w.e.f. 16-5-1964."
+    },
+    {
+      "id": "15803753",
+      "number": "58AA",
+      "locator": "Section 58AA: Special provisions in relation to the Union Territory of Pondicherry",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-58aa-1",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/15803753",
+      "body": "[Special provisions in relation to the Union Territory of Pondicherry\n58AA. (1) Notwithstanding anything contained in this Act, all persons who immediately before the date on which the provisions of Chapter II are brought into force in the Union Territory of Pondicherry, were entitled to practise the profession of law (whether by way of pleading or acting or both) under any law in force in the said Union territory or who would have been so entitled had they not been in public service on the said date shall for the purposes of clause (a) of sub-section (1) of section 17, be deemed to be persons who were entered as advocates on the roll of a High Court under the Indian Bar Councils Act, 1926 (38 of 1926) and every such person may, on an application made in this behalf within such time as may be specified by the Bar Council of Madras, be admitted as an advocate on the State roll maintained in respect of the said Union Territory.\n(2) Notwithstanding anything contained in this Act, every person who immediately before the date on which the provisions of Chapter IV are brought into force in the Union Territory of Pondicherry, was practising the profession of law (whether by way of pleading or acting or both or in any other way) by virtue of the provisions of any law in force in the said Union Territory, who does not elect to be or is not qualified to be, enrolled as an advocate under sub-section (1), shall, notwithstanding the repeal of the relevant provisions of such law by the Pondicherry (Extension of Laws) Act, 1968 (26 of 1968) continue to enjoy the same rights as respects in any court or revenue office or before any authority or person and be subject to the disciplinary jurisdiction of the same authority which he enjoyed, or, as the case may be, to which he was subject, immediately before the said date and accordingly the relevant provisions of the law aforesaid shall have effect in relation to such persons as if they had not been repealed.]\n1. Inserted by Act 26 of 1968, w.e.f. 24-5-1968."
+    },
+    {
+      "id": "15803765",
+      "number": "58AB",
+      "locator": "Section 58AB: Special provisions with respect to certain persons enrolled by Mysore 3State Bar Council",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-58ab",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/15803765",
+      "body": "[Special provisions with respect to certain persons enrolled by Mysore State Bar Council\n58AB. Notwithstanding anything contained in this Act or any judgment, decree or order of any court or any resolution passed or direction given by the Bar Council of India, every person who was admitted as an advocate on the State roll by the State Bar Council of Mysoreduring the period beginning with the 28th day of February, 1963, and ending on the 31st day of March, 1964 on the basis of his having obtained a certificate of pleadership from the High Court of Karnataka, shall, save as otherwise provided, be deemed to have been validly admitted as an advocate on that State roll and accordingly entitled to practise the profession of law (whether by way of pleading or acting or both):\nProvided that where any such person has been elected to be enrolled as an advocate on the roll of any other State Bar Council, his name shall be deemed to have been struck off the roll of the State Bar Council, of Karnataka from the date he was enrolled by the other State Bar Council:\nProvided further that the seniority of such person, whether his name is borne on the State roll of the State Bar Council of Karnataka, or on the State roll of any other Bar Council, shall, for the purposes of clause (d) of sub-section (3) of section 17, be determined by reckoning the 16th day of May, 1964, as the date of admission.]\n2. Inserted by Act 33 of 1968, w.e.f. 5-6-1968.\n3. \"Mysore\" is re-named as \"Karnataka\" by Act 3 of 1973, w.e.f. 1-11-1973."
+    },
+    {
+      "id": "15803777",
+      "number": "58AC",
+      "locator": "Section 58AC: Special provisions with respect to certain persons enrolled by Uttar Pradesh State Bar Council",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-58ac",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/15803777",
+      "body": "[Special provisions with respect to certain persons enrolled by Uttar Pradesh State Bar Council\n58AC. Notwithstanding anything contained in this Act or any judgment, decree or order of any court, every person who was enrolled as an advocate by the High Court during the period beginning with the 2nd day of January, 1962 and ending on the 25th day of May, 1962 and was subsequently admitted as an advocate on the State roll by the State Bar Council of Uttar Pradesh shall be deemed to have been validly admitted as an advocate on that State roll from the date of his enrolment by the High Court and accordingly entitled to practise the profession of law (whether by way of pleading or acting or both).\n1. Sections 58AC, 58AD, 58AE and 58AF inserted by Act 60 of 1973, w.e.f. 31-1-1974."
+    },
+    {
+      "id": "15803789",
+      "number": "58AD",
+      "locator": "Section 58AD: Special provisions with respect to certain persons migrating to India",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-58ad",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/15803789",
+      "body": "Special provisions with respect to certain persons migrating to India\n58AD. Notwithstanding the repeal by this Act of the provisions of the Legal Practitioners Act, 1879 (18 of 1879), or of any other law relating to the admission and enrolment of legal practitioners (hereafter in this section referred to as such Act or law), every person who migrates to the territory of India from any area which, before the 15th day of August, 1947, was comprised within India as defined in the Government of India Act, 1935, and who has, before such migration, been a pleader, mukhtar or revenue agent in any such area under any law in force therein, may be admitted and enrolled under the relevant provisions of such Act or law as a pleader, mukhtar or, as the case may be, revenue agent, if he—\n(a) makes an application for the purpose to the appropriate authority under such Act or law; and\n(b) is a citizen of India and fulfils other conditions, if any, specified in this behalf by the appropriate authority aforesaid,\nand notwithstanding the repeal by this Act of the relevant provisions of such Act or law, every pleader, mukhtar or revenue agent so enrolled shall have the same right as respects practise in any court or revenue office or before any other authority or person and be subject to the disciplinary jurisdiction of the same authority to which he would be subject under the relevant provisions of such Act or law as if they had not been repealed and accordingly, those provisions shall have effect in relation to such persons."
+    },
+    {
+      "id": "15803801",
+      "number": "58AE",
+      "locator": "Section 58AE: Special provisions in relation to the Union Territory of Goa, Daman and Diu",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-58ae",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/15803801",
+      "body": "Special provisions in relation to the Union Territory of Goa, Daman and Diu\n58AE. (1) Notwithstanding anything contained in this Act, all persons who, immediately before the date on which the provisions of Chapter III are brought into force in the Union Territory of Goa, Daman and Diu were entitled to practise the profession of law (whether by way of pleading or acting or both) under any law in force in the said Union Territory or who would have been so entitled had they not been in public service on the said date, shall, for the purpose of clause (a) of sub-section (1) of section 17, be deemed to be persons who were entered as advocates on the roll of a High Court under the Indian Bar Councils Act, 1926 (38 of 1926), and every such person may, on an application made in this behalf within such time as may be specified by the Bar Council of Maharashtra, be admitted as an advocate on the State roll maintained in respect of the said Union Territory:\nProvided that the provisions of this sub-section shall not apply to any person who, on the date of the application aforesaid, was not a citizen of India.\n(2) Not withstanding anything contained in this Act, every person who, immediately before the date on which the provisions of Chapter IV are brought into force in the Union Territory of Goa, Daman and Diu, was practising the profession of law (whether by way of pleading or acting or both or in any other way) by virtue of the provisions of any law in force in the said Union Territory, or who does not elect to be or is not qualified to be enrolled as an advocate under sub-section (1), shall, notwithstanding the repeal by this Act of the relevant provisions of such law, continue to enjoy the same rights as respects practise in any court or revenue office or before any other authority or person and be subject to the disciplinary jurisdiction of the same authority which he enjoyed, or, as the case may be, to which he was subject, immediately before the said date and accordingly the relevant provisions of the law aforesaid shall have effect in relation to such persons as if they had not been repealed.\n(3) On the date on which this Act or any part thereof comes into force in the Union Territory of Goa, Daman and Diu, the law in force in that Union Territory which corresponds to this Act or such part and which does not stand repealed by virtue of the provisions of section 50 of this Act, shall also stand repealed."
+    },
+    {
+      "id": "15803813",
+      "number": "58AF",
+      "locator": "Section 58AF: Special provisions in relation to Jammu and Kashmir",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-58af",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/15803813",
+      "body": "Special provisions in relation to Jammu and Kashmir\n58AF. [***]\n1. Omitted by the Jammu and Kashmir Reorganisation (Adaptation of Central Laws) Order, 2020, w.e.f. 18-3-2020, and also by the Union Territory of Ladakh Reorganisation (Adaptation of Central Laws) Order, 2020, w.e.f. 23-10-2020. Prior to its omission said section as inserted by Advocates (Amendment) Act, 1973 , w.e.f. 31-1-1974, read as under:\n\"58AF. Special provisions in relation to Jammu and Kashmir- (1) Not withstanding anything contained in this Act, all advocate who, immediately before the date on which the provisions of Chapter III are brought into force in the State of Jammu and Kashmir, were entitled to practise in the High Court of that State, or who would have been so entitled had they not been in public service on the said date, shall, for the purpose of clause (a) of sub-section (1) of section 17, be deemed to be persons who were entered as advocates on the roll of a High Court under the Indian Bar Councils Act, 1926 (38 of 1926), and every such person may, on an application made in this behalf within such time as may be specified by the Bar Council of India, be admitted as an advocate on the State roll maintained in respect of the said State.\n(2) Not withstanding anything contained in this Act, every person who, immediately before the date on which the provisions of Chapter III are brought into force in the State of Jammu and Kashmir, was entitled otherwise than an advocate to practise the profession of law (whether by way of pleading or acting or both) by virtue of the provisions of any law in force in the said State, or who would have been so entitled had he not been in public service on the said date, may be admitted as an advocate on the State roll maintained in respect of the said State, if he—\n(i) makes an application for such enrolment in accordance with the provisions of this Act; and\n(ii) fulfils the conditions specified in clauses (a), (b), (e) and (f) of sub-section (1) of section 24.\n(3) Not withstanding anything contained in this Act, every person who, immediately before the date on which the provisions of Chapter IV are brought into force in the State of Jammu and Kashmir, was practising the profession of law (whether by way of pleading or acting or both or in any other way) by virtue of the provisions of any law in force therein, or who does not elect to be or is not qualified to be enrolled as an advocate under sub-section (1) or sub-section (2), shall, notwithstanding the repeal by this Act of the relevant provisions of such law, continue to enjoy the same rights as respects practise in any court or revenue office or before any other authority or person and be subject to the disciplinary jurisdiction of the same authority which he enjoyed, or, as the case may be, to which he was subject, immediately before the said date and accordingly the relevant provisions of the law aforesaid shall have effect in relation to such persons as if they had not been repealed.\n(4) On the date on which this Act or any part thereof comes into force in the State of Jammu and Kashmir, the law in force in that State which corresponds to this Act or such part thereof which does not stand repealed by virtue of the provisions of section 50 of this Act, shall also stand repealed.\""
+    },
+    {
+      "id": "15803825",
+      "number": "58AG",
+      "locator": "Section 58AG: Special provisions in relation to articled clerks",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-58ag",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/15803825",
+      "body": "Special provisions in relation to articled clerks\n[58AG. Notwithstanding anything contained in this Act, every person who, immediately before the 31st day of December, 1976, has commenced his articleship and passed the Preliminary examination, for the purpose of enrolment as an attorney of the High Court at Calcutta in accordance with the rules made under sub-section (2) of section 34, before the omission of that sub-section by the Advocates (Amendment) Act, 1976 (107 of 1976), may be admitted as an advocate on the State roll if he—\n(i) passes, on or before the 31st day of December, 1980,—\n(a) the Final examination in a case where such person has, before the 31st day of December, 1976, passed the Intermediate examination,\n(b) the Intermediate and the Final examinations in any other case.\nExplanation : For the purpose of this clause, the High Court at Calcutta may prescribe such rules as may be necessary under sub-section (2) of section 34, specifying the nature of the examination and any other matter relating thereto;\n(ii) makes an application for such enrolment in accordance with the provisions of this Act; and\n(iii) fulfils the conditions specified in clauses (a), (b), (e) and (f) of sub-section (1) of section 24.]\n1. Inserted by Act 38 of 1977, w.e.f. 31-10-1977."
+    },
+    {
+      "id": "15803837",
+      "number": "58B",
+      "locator": "Section 58B: Special provisions relating to certain disciplinary proceedings",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-58b-4",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/15803837",
+      "body": "Special provisions relating to certain disciplinary proceedings\n[58B. (1) As from the 1st day of September, 1963, every proceeding in respect of any disciplinary matter in relation to an existing advocate of a High Court shall, save as provided in the first proviso to sub-section (2), be disposed of by the State Bar Council in relation to that High Court, as if the existing advocate had been enrolled as an advocate on its roll.\n(2) If immediately before the said date, there is any proceeding in respect of any disciplinary matter in relation to an existing advocate pending before any High Court under the Indian Bar Councils Act, 1926 (38 of 1926), such proceeding shall stand transferred to the State Bar Council in relation to that High Court, as if it were a proceeding pending before the corresponding Bar Council under clause (c) of sub-section (1) of section 56:\nProvided that where in respect of any such proceeding the High Court has received the finding of a Tribunal constituted under section 11 of the Indian Bar Councils Act, 1926 (38 of 1926), the High Court shall dispose of the case and it shall be lawful for the High Court to exercise for the purpose all powers conferred on it under section 12 of the said Act as if that section had not been repealed:\nProvided further that where the High Court has referred back any case for further inquiry under sub-section (4) of section 12 of the said Act, the proceeding shall stand transferred to the State Bar Council in relation to the High Court as if it were proceeding before corresponding Bar Council under clause (c) of sub-section (1) of section 56.\n(3) If immediately before the said date there is any proceeding in respect of any disciplinary matter pending in relation to any pleader, vakil, mukhtar or attorney, who has been enrolled as an advocate on any State roll under the Act, such proceeding shall stand transferred to the State Bar Council on the roll of which he has been enrolled and be dealt with under this Act as if it were a proceeding arising against him thereunder.\n(4) In this section \"existing advocate\" means a person who was enrolled as an advocate on the roll of any High Court under the Indian Bar Councils Act, 1926 (38 of 1926), and who, at the time when any proceeding in respect of any disciplinary matter initiated against him, is not enrolled as an advocate on a State roll under this Act.\n(5) The provisions of this section shall have effect, notwithstanding anything contained in this Act.]\n2. Inserted by Act 21 of 1964, w.e.f. 16-5-1964."
+    },
+    {
+      "id": "15803849",
+      "number": "59",
+      "locator": "Section 59: Removal of difficulties",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-59-136",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/15803849",
+      "body": "Removal of difficulties\n[59. (1) If any difficulty arises in giving effect to the provisions of this Act, particularly in relation to the transition from the enactments repealed by this Act to the provisions of this Act, the Central Government may, by order published in the Official Gazette, make such provision not inconsistent with the purposes of this Act, as appear to it to be necessary or expedient for removing the difficulty.\n(2) An order under sub-section (1) may be made so as to have retrospective effect from the date not earlier than the 1st day of December, 1961.]\n1. Inserted by Act 14 of 1962."
+    },
+    {
+      "id": "15803861",
+      "number": "60",
+      "locator": "Section 60: Powers of Central Government to make rules",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-60-132",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/15803861",
+      "body": "Powers of Central Government to make rules\n[60. (1) Until rules in respect of any matter under this Act are made by a State Bar Council and approved by the Bar Council of India, the power to make rules in respect of that matter shall be exercisable by the Central Government.\n(2) The Central Government after consultation with the Bar Council of India may, by notification in the Official Gazette, make rules under sub-section (1) either for any State Bar Council or generally for all State Bar Councils and the rules so made shall have effect, notwithstanding anything contained in this Act.\n(3) Where in respect of any matter any rules are made by the Central Government under this section for any State Bar Council, and in respect of the same matter, rules are made by the State Bar Council and approved by the Bar Council of India, the Central Government may, by notification in the Official Gazette, direct that the rules made by it in respect of such matter shall cease to be in force in relation to that Bar Council with effect from such date as may be specified in the notification and on the issue of such notification, the rules made by the Central Government shall, accordingly, cease to be in force except as respects things done or omitted to be done before the said date.]\n2. Inserted by Act 32 of 1962, w.e.f. 14-9-1962."
+    },
+    {
+      "id": "15803873",
+      "number": "Schedule",
+      "locator": "Schedule: REPEAL OF CERTAIN ENACTMENTS",
+      "source_url": "https://www.incometaxindia.gov.in/w/schedule-29",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/15803873",
+      "body": "SCHEDULE\n[Refer section 50(5)]\nREPEAL OF CERTAIN ENACTMENTS\nShort title Extent of repeal\n1. Legal Practitioners (Women) Act, 1923 (23 of 1923) The whole\n2. Legal Practitioners (Fees) Act, 1926 (21 of 1926) The whole\n3. States Reorganisation Act, 1956 (37 of 1956) Section 53\n4. Bombay Reorganisation Act, 1960 (11 of 1960) Section 31"
+    }
+  ],
+  "acquisition_response_checksums": [
+    "288bd4d12b078e492c52d303952ec20f358575be0e4ab6a29b75b51c1172fde9"
+  ],
+  "note": "Verified body records and acquisition hashes; original HTML/API payloads retained in the acquisition workspace, not redistributed."
+}

@@ -26,6 +26,7 @@ def main(argv=None):
     search.add_argument('--namespace',default='official');search.add_argument('--review-mode',choices=['demo','reviewed','synthetic'],default='demo')
     search.add_argument('--domain',choices=[d.value for d in Domain]);search.add_argument('--jurisdiction',choices=['central','state','unknown']);search.add_argument('--state');search.add_argument('--as-of');search.add_argument('--generate',action='store_true')
     index=sub.add_parser('index-dense');index.add_argument('--namespace',default='official')
+    sub.add_parser('index-bm25')
     cache=sub.add_parser('cache-model');cache.add_argument('--reranker',action='store_true')
     review=sub.add_parser('review');review.add_argument('version_id');review.add_argument('--status',choices=['reviewed','unreviewed','rejected'],required=True);review.add_argument('--notes',required=True);review.add_argument('--verified-on')
     delete=sub.add_parser('delete');delete.add_argument('version_id')
@@ -75,6 +76,9 @@ def main(argv=None):
         elif args.command=='index-dense':
             from .indexing import build_dense
             emit(build_dense(registry,settings,args.namespace))
+        elif args.command=='index-bm25':
+            from .lexical import build_all
+            emit(build_all(registry))
         elif args.command=='cache-model':
             from .indexing import load_embedding
             if args.reranker:

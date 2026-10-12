@@ -8,12 +8,22 @@ from html.parser import HTMLParser
 import hashlib
 import json
 import re
+import unicodedata
 from .chunking import stable_id, split_exact
 from .models import Chunk
 
 ORIGIN = 'https://www.incometaxindia.gov.in'
 API = ORIGIN + '/o/search/v1.0/search'
 RENDERER = 'official-sections-v1'
+
+
+def title_in_body(expected, actual):
+    """Compare title typography without rewriting any retained legal source text."""
+    def checked(value):
+        value = unicodedata.normalize('NFKC', value).replace('\u00ad', '')
+        value = re.sub(r"[\[\]'’]", '', value)
+        return ' '.join(value.casefold().split())
+    return checked(expected) in checked(actual)
 
 
 class BodyText(HTMLParser):
@@ -146,7 +156,7 @@ def fetch_sections(client, entry, allowlist, request_bytes):
     records = render_items(items, category_id)
     # Check the title against actual source body text, never our editorial title.
     actual = ' '.join(' '.join(r['body'] for r in records).split()).casefold()
-    if entry['title_check'].casefold() not in actual:
+    if not title_in_body(entry['title_check'], actual):
         raise ValueError('Official body does not contain the expected Act title')
     return document_bytes(entry, records), records, responses
 

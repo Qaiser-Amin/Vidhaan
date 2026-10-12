@@ -58,14 +58,17 @@ assert answer.status=='supported' and 'SYNTHETIC' in answer.text
 if bundled:
  from scripts.validate_corpus import validate as validate_real_corpus
  real=validate_real_corpus(registry,settings)
- assert real['sources']==21 and real['domain_count']==8 and real['official_child_chunks']==5786
+ manifest=json.loads(__import__('pathlib').Path('data/bundled/manifest.json').read_text())
+ assert real['sources']==len(manifest['sources']) and real['domain_count']==8
+ assert all(10 <= r['sources'] <= 15 for r in registry.coverage('official'))
+ assert len(manifest['indexes'])==8
 else:
  assert not ResearchService(registry,settings).answer('written consent').evidence
  real=None
 print(json.dumps({'base_web_ui':'passed','consumer_api_context_export':'passed' if bundled else 'empty corpus','synthetic_bm25':'passed','bundled_corpus':{'sources':real['sources'],'domains':real['domain_count'],'passages':real['official_child_chunks']} if real else None,
  'optional_dependencies':{m:importlib.util.find_spec(m) is not None for m in ['torch','sentence_transformers','faiss']}}))
 '''
-    result=subprocess.run([str(python),'-c',script],cwd=root,capture_output=True,text=True,timeout=120)
+    result=subprocess.run([str(python),'-c',script],cwd=root,capture_output=True,text=True,timeout=240)
     if result.returncode:raise RuntimeError(result.stdout+result.stderr)
     return json.loads(result.stdout.strip().splitlines()[-1])
 

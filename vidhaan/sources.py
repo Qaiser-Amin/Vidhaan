@@ -59,7 +59,9 @@ def download_manifest(registry, manifest: Path, client=None):
                     raise ValueError('Official file differs from the recorded sample checksum; inspect it as a new source version')
                 filename = safe_filename(entry.get('filename') or Path(urlsplit(url).path).name)
                 pages, warnings = extract(content, Path(filename).suffix.lower())
-                actual = ' '.join(p.text for p in pages[:5]).casefold()
+                title_pages = entry.get('title_scan_pages', 5)
+                if not isinstance(title_pages, int) or not 1 <= title_pages <= 30: raise ValueError('Invalid body-title page bound')
+                actual = ' '.join(p.text for p in pages[:title_pages]).casefold()
                 expected = entry.get('title_check')
                 if not expected or records is None and expected.casefold() not in ' '.join(actual.split()):
                     raise ValueError("Downloaded text does not contain the manifest's expected title")

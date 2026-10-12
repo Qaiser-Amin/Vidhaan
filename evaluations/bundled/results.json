@@ -1,24 +1,24 @@
 {
   "schema_version": 1,
-  "corpus_signature": "fa65a3c5784e2dadd6914ec12ef560be76ea0e6280919266bed8b1f9e21eb0f3",
-  "created_at": "2026-10-12T18:20:35.058540+00:00",
+  "corpus_signature": "704ff102decf836411043bcd6648e96dbfbf3cae4be846e7504e3b12f3cd458d",
+  "created_at": "2026-10-12T21:29:46.396658+00:00",
   "environment": {
     "os": "Linux-6.18.44-x86_64-with-glibc2.41",
     "python": "3.12.14",
     "processor": "",
-    "rss_bytes": 194342912,
+    "rss_bytes": 362119168,
     "target_laptop": false
   },
   "split": "heldout",
-  "case_count": 39,
+  "case_count": 47,
   "k": 5,
   "summaries": {
     "bm25": {
-      "run_cases": 39,
-      "evidence_scored_cases": 33,
-      "recall_at_k": 0.8484848484848485,
-      "mrr": 0.7080808080808081,
-      "median_latency_seconds": 0.36815274999935355,
+      "run_cases": 47,
+      "evidence_scored_cases": 41,
+      "recall_at_k": 0.8292682926829268,
+      "mrr": 0.6065040650406504,
+      "median_latency_seconds": 0.3665426839979773,
       "behavior_accuracy": 1
     },
     "dense": {
@@ -45,18 +45,18 @@
       "mode": "bm25",
       "status": "run",
       "recall_at_k": 1.0,
-      "mrr": 1.0,
+      "mrr": 0.5,
       "behavior_correct": true,
       "human_legal_support": "pending",
       "evidence_ids": [
+        "b83cb617bdf4786e59b81756",
         "28562d23f232fceabc5acb68",
         "8fde55a24e1d0df7cdc9258b",
         "84bafdd441d2b5109b89a964",
-        "b23d89fc88116a9c44f70e8d",
-        "27c7fd482ce0631dbe0c8170"
+        "c86a281991fe25b2dd1a7a6e"
       ],
       "actual_behavior": "supported",
-      "latency_seconds": 0.5733800229991175
+      "latency_seconds": 3.088610929000424
     },
     {
       "case_id": "heldout-08",
@@ -71,33 +71,14 @@
         "b23d89fc88116a9c44f70e8d",
         "f5365edb221d995386b3b8cf",
         "04f13ebc5f839d0e4df975e1",
-        "4584c60a69755caca2cd868f",
-        "2cacf0328307dbd404b7fef2"
+        "2cacf0328307dbd404b7fef2",
+        "3135bc9e212268cc2f9e2b8e"
       ],
       "actual_behavior": "supported",
-      "latency_seconds": 0.5330116919994907
+      "latency_seconds": 0.8671337189989572
     },
     {
       "case_id": "heldout-09",
-      "split": "heldout",
-      "mode": "bm25",
-      "status": "run",
-      "recall_at_k": 1.0,
-      "mrr": 1.0,
-      "behavior_correct": true,
-      "human_legal_support": "pending",
-      "evidence_ids": [
-        "2bc9bd6d3ae057656b36ab24",
-        "bcdf6fe65ede5fb1ba13cdfa",
-        "94d22a98b9c2d4085ee2f6d7",
-        "4584c60a69755caca2cd868f",
-        "f5365edb221d995386b3b8cf"
-      ],
-      "actual_behavior": "supported",
-      "latency_seconds": 0.5003289129999757
-    },
-    {
-      "case_id": "heldout-10",
       "split": "heldout",
       "mode": "bm25",
       "status": "run",
@@ -106,14 +87,33 @@
       "behavior_correct": true,
       "human_legal_support": "pending",
       "evidence_ids": [
-        "b23d89fc88116a9c44f70e8d",
+        "4599d65a8c812406defd3c06",
+        "2bc9bd6d3ae057656b36ab24",
+        "bcdf6fe65ede5fb1ba13cdfa",
         "94d22a98b9c2d4085ee2f6d7",
-        "f5365edb221d995386b3b8cf",
-        "8fde55a24e1d0df7cdc9258b",
-        "b34e0cea144f3f5b065246cc"
+        "4584c60a69755caca2cd868f"
       ],
       "actual_behavior": "supported",
-      "latency_seconds": 0.5268553229998361
+      "latency_seconds": 0.9016014840017306
+    },
+    {
+      "case_id": "heldout-10",
+      "split": "heldout",
+      "mode": "bm25",
+      "status": "run",
+      "recall_at_k": 1.0,
+      "mrr": 0.3333333333333333,
+      "behavior_correct": true,
+      "human_legal_support": "pending",
+      "evidence_ids": [
+        "b23d89fc88116a9c44f70e8d",
+        "3135bc9e212268cc2f9e2b8e",
+        "94d22a98b9c2d4085ee2f6d7",
+        "f5365edb221d995386b3b8cf",
+        "8fde55a24e1d0df7cdc9258b"
+      ],
+      "actual_behavior": "supported",
+      "latency_seconds": 0.9576722720012185
     },
     {
       "case_id": "heldout-11",
@@ -128,11 +128,11 @@
         "b23d89fc88116a9c44f70e8d",
         "27c7fd482ce0631dbe0c8170",
         "94d22a98b9c2d4085ee2f6d7",
-        "4584c60a69755caca2cd868f",
-        "f5365edb221d995386b3b8cf"
+        "f5365edb221d995386b3b8cf",
+        "3135bc9e212268cc2f9e2b8e"
       ],
       "actual_behavior": "supported",
-      "latency_seconds": 0.4866440429996146
+      "latency_seconds": 0.9392932720002136
     },
     {
       "case_id": "heldout-12",
@@ -140,18 +140,18 @@
       "mode": "bm25",
       "status": "run",
       "recall_at_k": 1.0,
-      "mrr": 1.0,
+      "mrr": 0.3333333333333333,
       "behavior_correct": true,
       "human_legal_support": "pending",
       "evidence_ids": [
+        "36fb06205bd1d57275dc144f",
+        "ce87c3793a54a430209b2011",
         "e3f5e3cefa885814928ac4d4",
-        "1d81574c3136b70f599cee52",
-        "8fde55a24e1d0df7cdc9258b",
-        "b03abe683c7ad8df88f46c1f",
-        "1d070e011e7921c675cece50"
+        "a46ab0fb1c06ffd8e9019d15",
+        "1d81574c3136b70f599cee52"
       ],
       "actual_behavior": "supported",
-      "latency_seconds": 0.5080443440001545
+      "latency_seconds": 0.9375593329968979
     },
     {
       "case_id": "heldout-13",
@@ -166,11 +166,11 @@
         "b23d89fc88116a9c44f70e8d",
         "4584c60a69755caca2cd868f",
         "f5365edb221d995386b3b8cf",
-        "8fde55a24e1d0df7cdc9258b",
-        "84bafdd441d2b5109b89a964"
+        "3135bc9e212268cc2f9e2b8e",
+        "e86bbfec1b4a8e15b49eb62d"
       ],
       "actual_behavior": "supported",
-      "latency_seconds": 0.4827457709998271
+      "latency_seconds": 1.0073604799981695
     },
     {
       "case_id": "heldout-14",
@@ -178,18 +178,18 @@
       "mode": "bm25",
       "status": "run",
       "recall_at_k": 1.0,
-      "mrr": 0.5,
+      "mrr": 0.3333333333333333,
       "behavior_correct": true,
       "human_legal_support": "pending",
       "evidence_ids": [
         "8fde55a24e1d0df7cdc9258b",
+        "df213e37171ddbba94040e2a",
         "8a8878139f0f33ec81098d47",
         "84bafdd441d2b5109b89a964",
-        "881c2667ac6017a7a138214a",
-        "20528e89708ee13ddb6159b5"
+        "881c2667ac6017a7a138214a"
       ],
       "actual_behavior": "supported",
-      "latency_seconds": 0.5002167849997932
+      "latency_seconds": 0.9585261640022509
     },
     {
       "case_id": "heldout-15",
@@ -204,11 +204,11 @@
         "9b23c5b5c50bc42fbc17cf50",
         "ff9e1e1b0d5bbebec89a40b1",
         "71db9a41e15b0252010a0d23",
-        "a2de538170fc8672f48ec143",
-        "d0071c031e6b294d1345c475"
+        "9b704960331c38757ff20c03",
+        "a2de538170fc8672f48ec143"
       ],
       "actual_behavior": "supported",
-      "latency_seconds": 0.5136950549986068
+      "latency_seconds": 0.9092295949994877
     },
     {
       "case_id": "heldout-16",
@@ -227,7 +227,7 @@
         "edb48b75126d1434c098350c"
       ],
       "actual_behavior": "supported",
-      "latency_seconds": 0.5430136619997938
+      "latency_seconds": 0.9327205709996633
     },
     {
       "case_id": "heldout-17",
@@ -246,7 +246,7 @@
         "9b704960331c38757ff20c03"
       ],
       "actual_behavior": "supported",
-      "latency_seconds": 0.516028821000873
+      "latency_seconds": 0.9602660470009141
     },
     {
       "case_id": "heldout-18",
@@ -260,12 +260,12 @@
       "evidence_ids": [
         "0b006bc049f6cb90fc975e37",
         "edb48b75126d1434c098350c",
-        "9b23c5b5c50bc42fbc17cf50",
         "4cf5b801605127b9124303de",
+        "9b23c5b5c50bc42fbc17cf50",
         "ff9e1e1b0d5bbebec89a40b1"
       ],
       "actual_behavior": "supported",
-      "latency_seconds": 0.5479403410008672
+      "latency_seconds": 0.986011247998249
     },
     {
       "case_id": "heldout-19",
@@ -279,12 +279,12 @@
       "evidence_ids": [
         "edb48b75126d1434c098350c",
         "0b006bc049f6cb90fc975e37",
-        "9b23c5b5c50bc42fbc17cf50",
         "4cf5b801605127b9124303de",
+        "9b23c5b5c50bc42fbc17cf50",
         "ff9e1e1b0d5bbebec89a40b1"
       ],
       "actual_behavior": "supported",
-      "latency_seconds": 0.516989220999676
+      "latency_seconds": 0.9788069219976023
     },
     {
       "case_id": "heldout-20",
@@ -300,10 +300,10 @@
         "9b23c5b5c50bc42fbc17cf50",
         "ff9e1e1b0d5bbebec89a40b1",
         "71db9a41e15b0252010a0d23",
-        "1579899f427bb5200b6d75fe"
+        "75f0f2c0ddfbd3fc12a8b500"
       ],
       "actual_behavior": "supported",
-      "latency_seconds": 0.552651035000963
+      "latency_seconds": 0.9468578000014531
     },
     {
       "case_id": "heldout-21",
@@ -317,12 +317,12 @@
       "evidence_ids": [
         "9b23c5b5c50bc42fbc17cf50",
         "ff9e1e1b0d5bbebec89a40b1",
-        "71db9a41e15b0252010a0d23",
         "5c8256e8e81a5e996752dd11",
-        "9b704960331c38757ff20c03"
+        "71db9a41e15b0252010a0d23",
+        "6d920f553bcf8d1e4d8e1ad3"
       ],
       "actual_behavior": "supported",
-      "latency_seconds": 0.509993089001
+      "latency_seconds": 0.9693927689986594
     },
     {
       "case_id": "heldout-22",
@@ -341,7 +341,7 @@
         "aee5834b5e1c96463d1ab37a"
       ],
       "actual_behavior": "supported",
-      "latency_seconds": 0.5435101910006779
+      "latency_seconds": 0.938250193001295
     },
     {
       "case_id": "heldout-23",
@@ -360,7 +360,7 @@
         "8ae2ca228a769fb77a356045"
       ],
       "actual_behavior": "supported",
-      "latency_seconds": 0.5024627319999126
+      "latency_seconds": 0.9894622859974334
     },
     {
       "case_id": "heldout-24",
@@ -373,13 +373,13 @@
       "human_legal_support": "pending",
       "evidence_ids": [
         "b4077164a33416ddfe770fda",
-        "6efc28ae78733b345210e402",
-        "1c5a85107e9133903b83ba90",
         "5985a260b60ce56dcd018b39",
+        "6efc28ae78733b345210e402",
+        "8ae2ca228a769fb77a356045",
         "843bdf21724cafc574ec8ca6"
       ],
       "actual_behavior": "supported",
-      "latency_seconds": 0.5119413979991805
+      "latency_seconds": 0.9433745499991346
     },
     {
       "case_id": "heldout-25",
@@ -392,32 +392,32 @@
       "human_legal_support": "pending",
       "evidence_ids": [
         "784bf613d264a35694c04b8a",
-        "1e4fdbe959c0341fec2ebc34",
-        "484696f6f1e06ae1c3ebd7cd",
         "87f881a8de770000f9bbc2a1",
-        "df3b38d8ea4dfe777d51fdf4"
+        "672b8f217cbebb885943cbf7",
+        "02a031775e19388985a85e82",
+        "f2ca18cad25cc1efb3b7b650"
       ],
       "actual_behavior": "supported",
-      "latency_seconds": 0.4981188159999874
+      "latency_seconds": 1.0071752469993953
     },
     {
       "case_id": "heldout-27",
       "split": "heldout",
       "mode": "bm25",
       "status": "run",
-      "recall_at_k": 1.0,
-      "mrr": 0.3333333333333333,
+      "recall_at_k": 0.0,
+      "mrr": 0.0,
       "behavior_correct": true,
       "human_legal_support": "pending",
       "evidence_ids": [
-        "253341f1e41d6cdc1a3bb16f",
-        "f1da35692ffe9195762c7bf3",
-        "f2c3efeb5fe6c3a885c032c9",
-        "a5b22a8c6e34cae2af1a3872",
-        "4166280c9e63a15067572bd5"
+        "e4d602d87a5fbac4dce42417",
+        "fbcfeadc0a2f20fd1e9d1b3f",
+        "10bd573e753b0f39e2f1906e",
+        "334a4de26cba63941264212b",
+        "aa7a046b01c26887f1a28454"
       ],
       "actual_behavior": "supported",
-      "latency_seconds": 0.24740978800036828
+      "latency_seconds": 0.27168293299837387
     },
     {
       "case_id": "heldout-28",
@@ -430,13 +430,13 @@
       "human_legal_support": "pending",
       "evidence_ids": [
         "26eee434f406b4d48411838c",
+        "aa7a046b01c26887f1a28454",
+        "e4d602d87a5fbac4dce42417",
         "9f669e7122d7e8800d6fcf5e",
-        "4166280c9e63a15067572bd5",
-        "891842de3b86a0b16d786b24",
-        "f1da35692ffe9195762c7bf3"
+        "5ceba308b1296b8c584b142a"
       ],
       "actual_behavior": "supported",
-      "latency_seconds": 0.2318221840014303
+      "latency_seconds": 0.23669589400014956
     },
     {
       "case_id": "heldout-30",
@@ -449,13 +449,13 @@
       "human_legal_support": "pending",
       "evidence_ids": [
         "6f23f8cddee381bbdc5c9336",
-        "bc7fec9fe56136dde58f0d94",
+        "bffe54a4092aed2ed2c9a905",
+        "157e5cdc001984c7b0bcdf88",
         "ed3ece5cc260158b74a2530a",
-        "9f0514fc06ed8c588cb406b1",
-        "e8bb1b1e3c154ab3d1c74345"
+        "bc7fec9fe56136dde58f0d94"
       ],
       "actual_behavior": "supported",
-      "latency_seconds": 0.25095944999884523
+      "latency_seconds": 0.3065252429987595
     },
     {
       "case_id": "heldout-31",
@@ -470,11 +470,11 @@
         "8b72c73f84928ed75fc52b96",
         "0f2e6d47d356dc71b93f768f",
         "144467add8c0efb2e9b655e1",
-        "cc5bec3837deba6c53baa6f6",
-        "2f511711afba3b87ead7ad5d"
+        "2f511711afba3b87ead7ad5d",
+        "cc5bec3837deba6c53baa6f6"
       ],
       "actual_behavior": "supported",
-      "latency_seconds": 0.2330871100002696
+      "latency_seconds": 0.26099734399758745
     },
     {
       "case_id": "heldout-33",
@@ -493,7 +493,7 @@
         "e3164a76da7ebba81710a4d6"
       ],
       "actual_behavior": "supported",
-      "latency_seconds": 0.2511037189997296
+      "latency_seconds": 0.2897841039994091
     },
     {
       "case_id": "heldout-34",
@@ -506,13 +506,13 @@
       "human_legal_support": "pending",
       "evidence_ids": [
         "9372199b68d84b57acebabd9",
+        "01bcf6c685338039cc27a24c",
         "cbee7f475c535b44942be574",
-        "b140ce36bf459cbe3aa47463",
-        "c1c5e8ea7aeea8f4ef755d67",
-        "07e4a21b1952ae895fb88e45"
+        "084cf33cb26f0153c9dbfec3",
+        "b140ce36bf459cbe3aa47463"
       ],
       "actual_behavior": "supported",
-      "latency_seconds": 0.23134362199925818
+      "latency_seconds": 0.31128332300067996
     },
     {
       "case_id": "heldout-36",
@@ -520,18 +520,18 @@
       "mode": "bm25",
       "status": "run",
       "recall_at_k": 1.0,
-      "mrr": 1.0,
+      "mrr": 0.25,
       "behavior_correct": true,
       "human_legal_support": "pending",
       "evidence_ids": [
-        "d4f4f56cfd3449728b196d34",
+        "95ecd15e40db7dcf9b2e7daf",
         "87960f1b4a619f815181921b",
-        "1c4494e69bc5d576411b41cd",
-        "3fcbb15c2ecfea85e5d1c097",
-        "37e0a9ccd1db5fa4596972be"
+        "d6410c8265dfd0d4ad6b586d",
+        "d4f4f56cfd3449728b196d34",
+        "073061916e718ddf457ab459"
       ],
       "actual_behavior": "supported",
-      "latency_seconds": 0.22375146099875565
+      "latency_seconds": 0.22037503899991862
     },
     {
       "case_id": "heldout-37",
@@ -550,7 +550,7 @@
         "56d7c9912342e304c6512647"
       ],
       "actual_behavior": "supported",
-      "latency_seconds": 0.23632710499987297
+      "latency_seconds": 0.25729841299835243
     },
     {
       "case_id": "heldout-39",
@@ -569,7 +569,7 @@
         "f6819513a8efb6f895dca158"
       ],
       "actual_behavior": "supported",
-      "latency_seconds": 0.3291907879993232
+      "latency_seconds": 0.35870451600203523
     },
     {
       "case_id": "heldout-40",
@@ -582,13 +582,13 @@
       "human_legal_support": "pending",
       "evidence_ids": [
         "7eeb5adc6d446a0d6935a3fa",
+        "a09e6631da5658cfc64e2f30",
         "f761afc879cc56866d79ca52",
         "8c538550919db19cee305886",
-        "243eeb1b693b3ff2582e7a57",
-        "46fa76ae6cdfcfd749057bab"
+        "243eeb1b693b3ff2582e7a57"
       ],
       "actual_behavior": "supported",
-      "latency_seconds": 0.31686853599967435
+      "latency_seconds": 0.3665426839979773
     },
     {
       "case_id": "heldout-42",
@@ -601,13 +601,13 @@
       "human_legal_support": "pending",
       "evidence_ids": [
         "a2415bcba4c285c38611a72f",
-        "b30806d3613a217c12757ba6",
-        "79363c02ebd19969e11c0199",
         "98f8338ff5c9d96f38390d40",
-        "68abb195c27a685950bd587e"
+        "b30806d3613a217c12757ba6",
+        "68abb195c27a685950bd587e",
+        "79363c02ebd19969e11c0199"
       ],
       "actual_behavior": "supported",
-      "latency_seconds": 0.36815274999935355
+      "latency_seconds": 0.7185490310002933
     },
     {
       "case_id": "heldout-43",
@@ -620,13 +620,13 @@
       "human_legal_support": "pending",
       "evidence_ids": [
         "1af0af2efb90ab54ed8df57b",
-        "91906676df3c755a8cc17a29",
         "a24767b9bc346fe7d385125a",
-        "9d1c4750d13791def148280f",
-        "a6803567ac1f5b346e16ca6d"
+        "91906676df3c755a8cc17a29",
+        "7302538101c4555a4b817829",
+        "9d1c4750d13791def148280f"
       ],
       "actual_behavior": "supported",
-      "latency_seconds": 0.356837112998619
+      "latency_seconds": 0.5444443739979761
     },
     {
       "case_id": "heldout-45",
@@ -641,11 +641,11 @@
         "5999dab50dac96a2b3222208",
         "b40d6190279ada2cb1dc488e",
         "220293e46f95dcda73c05544",
-        "8b1d2636dc553eb8ea47aa2f",
-        "b6ae3f508955dc2417fb7702"
+        "e4d4befb1d92c22717a3b0e2",
+        "a82dd4ed74dc91af23faf025"
       ],
       "actual_behavior": "supported",
-      "latency_seconds": 0.23752400299963483
+      "latency_seconds": 0.3554539719989407
     },
     {
       "case_id": "heldout-46",
@@ -659,15 +659,167 @@
       "evidence_ids": [
         "ed1733cfe5046e1c29673d22",
         "e96056dc5cbbd2d3bf5a2a9e",
-        "f339336645fc65e169f2153b",
-        "84ec38a6c7176e8466685251",
-        "6352f876a24a31c5854e5376"
+        "c9b163b4234fdbec9ae4e717",
+        "aeb4436a6a0beea09aafeeba",
+        "84ec38a6c7176e8466685251"
       ],
       "actual_behavior": "supported",
-      "latency_seconds": 0.2504900749991066
+      "latency_seconds": 0.2895236889999069
     },
     {
-      "case_id": "heldout-behavior-49",
+      "case_id": "heldout-47",
+      "split": "heldout",
+      "mode": "bm25",
+      "status": "run",
+      "recall_at_k": 1.0,
+      "mrr": 0.5,
+      "behavior_correct": true,
+      "human_legal_support": "pending",
+      "evidence_ids": [
+        "264ffb92eff8e4ff6d6379c1",
+        "dbc2b34e8b1786eb8729563f",
+        "9c6b2326d6f0f899e8181ba9",
+        "0624c3edd96f90c0d9017701",
+        "914d00e14834ccb814fe344e"
+      ],
+      "actual_behavior": "supported",
+      "latency_seconds": 0.3328653979988303
+    },
+    {
+      "case_id": "heldout-48",
+      "split": "heldout",
+      "mode": "bm25",
+      "status": "run",
+      "recall_at_k": 1.0,
+      "mrr": 1.0,
+      "behavior_correct": true,
+      "human_legal_support": "pending",
+      "evidence_ids": [
+        "098be4018345a5bf8e248106",
+        "5cfa288fef1724fe59b58941",
+        "cf77591a9503c667f2156cb6",
+        "c6472aa1eefd1c512d791d57",
+        "6869bfc4c64753bd90acaa4e"
+      ],
+      "actual_behavior": "supported",
+      "latency_seconds": 0.2766190420006751
+    },
+    {
+      "case_id": "heldout-49",
+      "split": "heldout",
+      "mode": "bm25",
+      "status": "run",
+      "recall_at_k": 1.0,
+      "mrr": 0.25,
+      "behavior_correct": true,
+      "human_legal_support": "pending",
+      "evidence_ids": [
+        "583290ff74f294e9a219acb2",
+        "828c2bb32d1c3dd4f499a958",
+        "c698ac088189effd694ad318",
+        "ba1357cd59632387dcaa8f21",
+        "8953eac6b47270f9b545a15d"
+      ],
+      "actual_behavior": "supported",
+      "latency_seconds": 0.27491677299985895
+    },
+    {
+      "case_id": "heldout-50",
+      "split": "heldout",
+      "mode": "bm25",
+      "status": "run",
+      "recall_at_k": 0.0,
+      "mrr": 0.0,
+      "behavior_correct": true,
+      "human_legal_support": "pending",
+      "evidence_ids": [
+        "e52d6e611cab6a47a82188f7",
+        "0deed7d6a96c687c2a438adb",
+        "79d0714d35b8776819b87763",
+        "8ef84d0f9e87b5bb29cc177b",
+        "edcf3e7c43539377ce90c7ee"
+      ],
+      "actual_behavior": "supported",
+      "latency_seconds": 0.2882804100008798
+    },
+    {
+      "case_id": "heldout-51",
+      "split": "heldout",
+      "mode": "bm25",
+      "status": "run",
+      "recall_at_k": 1.0,
+      "mrr": 1.0,
+      "behavior_correct": true,
+      "human_legal_support": "pending",
+      "evidence_ids": [
+        "bfb54438f1d6d3c2a103064c",
+        "70bdd20110c936198bd076dd",
+        "2dc2f802e8bd3079f9cb8f75",
+        "3c543ed48f1b3b6e6d1b0d94",
+        "42a1fde223b1c2ba88ff7ce2"
+      ],
+      "actual_behavior": "supported",
+      "latency_seconds": 0.23005772699980298
+    },
+    {
+      "case_id": "heldout-52",
+      "split": "heldout",
+      "mode": "bm25",
+      "status": "run",
+      "recall_at_k": 1.0,
+      "mrr": 0.5,
+      "behavior_correct": true,
+      "human_legal_support": "pending",
+      "evidence_ids": [
+        "51f038f3e456e57579f0e56e",
+        "1fe5dd25f51e13202b8dd106",
+        "e115daf2b4cdb17bf15d558d",
+        "4c7530c950bcb0cc2a774bf0",
+        "ad03588b0d42b71ae44a45c7"
+      ],
+      "actual_behavior": "supported",
+      "latency_seconds": 0.346555279000313
+    },
+    {
+      "case_id": "heldout-53",
+      "split": "heldout",
+      "mode": "bm25",
+      "status": "run",
+      "recall_at_k": 1.0,
+      "mrr": 0.3333333333333333,
+      "behavior_correct": true,
+      "human_legal_support": "pending",
+      "evidence_ids": [
+        "a6c21446cf9b42099384ab63",
+        "8a94b2e3e10a7c24a72243a6",
+        "d7fc27df20602580e2da0422",
+        "2997d6dedc299fbd511eb131",
+        "d02240d96f89ae5bb7f50980"
+      ],
+      "actual_behavior": "supported",
+      "latency_seconds": 0.6018457259997376
+    },
+    {
+      "case_id": "heldout-54",
+      "split": "heldout",
+      "mode": "bm25",
+      "status": "run",
+      "recall_at_k": 1.0,
+      "mrr": 1.0,
+      "behavior_correct": true,
+      "human_legal_support": "pending",
+      "evidence_ids": [
+        "d51c228d3d495c20cddd2293",
+        "6f25a6a726adab3fa66841fe",
+        "92d44642f7c0b84277e254fb",
+        "23f20b1b27a8c545984217b9",
+        "c1994d1c9c2fdd1367633597"
+      ],
+      "actual_behavior": "supported",
+      "latency_seconds": 0.30689552600233583
+    },
+    {
+      "case_id": "heldout-behavior-57",
       "split": "heldout",
       "mode": "bm25",
       "status": "run",
@@ -677,10 +829,10 @@
       "human_legal_support": "pending",
       "evidence_ids": [],
       "actual_behavior": "needs clarification",
-      "latency_seconds": 1.6581001546001062e-05
+      "latency_seconds": 1.82939984370023e-05
     },
     {
-      "case_id": "heldout-behavior-50",
+      "case_id": "heldout-behavior-58",
       "split": "heldout",
       "mode": "bm25",
       "status": "run",
@@ -690,10 +842,10 @@
       "human_legal_support": "pending",
       "evidence_ids": [],
       "actual_behavior": "needs clarification",
-      "latency_seconds": 0.0001210549999086652
+      "latency_seconds": 0.00058228399939253
     },
     {
-      "case_id": "heldout-behavior-51",
+      "case_id": "heldout-behavior-59",
       "split": "heldout",
       "mode": "bm25",
       "status": "run",
@@ -703,10 +855,10 @@
       "human_legal_support": "pending",
       "evidence_ids": [],
       "actual_behavior": "needs clarification",
-      "latency_seconds": 7.024000296951272e-06
+      "latency_seconds": 4.477399852476083e-05
     },
     {
-      "case_id": "heldout-behavior-52",
+      "case_id": "heldout-behavior-60",
       "split": "heldout",
       "mode": "bm25",
       "status": "run",
@@ -716,10 +868,10 @@
       "human_legal_support": "pending",
       "evidence_ids": [],
       "actual_behavior": "insufficient evidence",
-      "latency_seconds": 0.21750289699957648
+      "latency_seconds": 0.21856654399744002
     },
     {
-      "case_id": "heldout-behavior-53",
+      "case_id": "heldout-behavior-61",
       "split": "heldout",
       "mode": "bm25",
       "status": "run",
@@ -729,10 +881,10 @@
       "human_legal_support": "pending",
       "evidence_ids": [],
       "actual_behavior": "insufficient evidence",
-      "latency_seconds": 0.24001356100052362
+      "latency_seconds": 0.24526470599812455
     },
     {
-      "case_id": "heldout-behavior-54",
+      "case_id": "heldout-behavior-62",
       "split": "heldout",
       "mode": "bm25",
       "status": "run",
@@ -742,7 +894,7 @@
       "human_legal_support": "pending",
       "evidence_ids": [],
       "actual_behavior": "insufficient evidence",
-      "latency_seconds": 0.21842764299981354
+      "latency_seconds": 0.5809158760021091
     },
     {
       "case_id": "heldout-07",
@@ -1141,7 +1293,7 @@
       "latency_seconds": null
     },
     {
-      "case_id": "heldout-behavior-49",
+      "case_id": "heldout-47",
       "split": "heldout",
       "mode": "dense",
       "status": "not_run",
@@ -1153,7 +1305,7 @@
       "latency_seconds": null
     },
     {
-      "case_id": "heldout-behavior-50",
+      "case_id": "heldout-48",
       "split": "heldout",
       "mode": "dense",
       "status": "not_run",
@@ -1165,7 +1317,7 @@
       "latency_seconds": null
     },
     {
-      "case_id": "heldout-behavior-51",
+      "case_id": "heldout-49",
       "split": "heldout",
       "mode": "dense",
       "status": "not_run",
@@ -1177,7 +1329,7 @@
       "latency_seconds": null
     },
     {
-      "case_id": "heldout-behavior-52",
+      "case_id": "heldout-50",
       "split": "heldout",
       "mode": "dense",
       "status": "not_run",
@@ -1189,7 +1341,7 @@
       "latency_seconds": null
     },
     {
-      "case_id": "heldout-behavior-53",
+      "case_id": "heldout-51",
       "split": "heldout",
       "mode": "dense",
       "status": "not_run",
@@ -1201,7 +1353,103 @@
       "latency_seconds": null
     },
     {
-      "case_id": "heldout-behavior-54",
+      "case_id": "heldout-52",
+      "split": "heldout",
+      "mode": "dense",
+      "status": "not_run",
+      "recall_at_k": null,
+      "mrr": null,
+      "behavior_correct": null,
+      "human_legal_support": "pending",
+      "reason": "Dense snapshot missing. Cache the embedding weights, then run index-dense; BM25 remains available.",
+      "latency_seconds": null
+    },
+    {
+      "case_id": "heldout-53",
+      "split": "heldout",
+      "mode": "dense",
+      "status": "not_run",
+      "recall_at_k": null,
+      "mrr": null,
+      "behavior_correct": null,
+      "human_legal_support": "pending",
+      "reason": "Dense snapshot missing. Cache the embedding weights, then run index-dense; BM25 remains available.",
+      "latency_seconds": null
+    },
+    {
+      "case_id": "heldout-54",
+      "split": "heldout",
+      "mode": "dense",
+      "status": "not_run",
+      "recall_at_k": null,
+      "mrr": null,
+      "behavior_correct": null,
+      "human_legal_support": "pending",
+      "reason": "Dense snapshot missing. Cache the embedding weights, then run index-dense; BM25 remains available.",
+      "latency_seconds": null
+    },
+    {
+      "case_id": "heldout-behavior-57",
+      "split": "heldout",
+      "mode": "dense",
+      "status": "not_run",
+      "recall_at_k": null,
+      "mrr": null,
+      "behavior_correct": null,
+      "human_legal_support": "pending",
+      "reason": "Dense snapshot missing. Cache the embedding weights, then run index-dense; BM25 remains available.",
+      "latency_seconds": null
+    },
+    {
+      "case_id": "heldout-behavior-58",
+      "split": "heldout",
+      "mode": "dense",
+      "status": "not_run",
+      "recall_at_k": null,
+      "mrr": null,
+      "behavior_correct": null,
+      "human_legal_support": "pending",
+      "reason": "Dense snapshot missing. Cache the embedding weights, then run index-dense; BM25 remains available.",
+      "latency_seconds": null
+    },
+    {
+      "case_id": "heldout-behavior-59",
+      "split": "heldout",
+      "mode": "dense",
+      "status": "not_run",
+      "recall_at_k": null,
+      "mrr": null,
+      "behavior_correct": null,
+      "human_legal_support": "pending",
+      "reason": "Dense snapshot missing. Cache the embedding weights, then run index-dense; BM25 remains available.",
+      "latency_seconds": null
+    },
+    {
+      "case_id": "heldout-behavior-60",
+      "split": "heldout",
+      "mode": "dense",
+      "status": "not_run",
+      "recall_at_k": null,
+      "mrr": null,
+      "behavior_correct": null,
+      "human_legal_support": "pending",
+      "reason": "Dense snapshot missing. Cache the embedding weights, then run index-dense; BM25 remains available.",
+      "latency_seconds": null
+    },
+    {
+      "case_id": "heldout-behavior-61",
+      "split": "heldout",
+      "mode": "dense",
+      "status": "not_run",
+      "recall_at_k": null,
+      "mrr": null,
+      "behavior_correct": null,
+      "human_legal_support": "pending",
+      "reason": "Dense snapshot missing. Cache the embedding weights, then run index-dense; BM25 remains available.",
+      "latency_seconds": null
+    },
+    {
+      "case_id": "heldout-behavior-62",
       "split": "heldout",
       "mode": "dense",
       "status": "not_run",
@@ -1609,7 +1857,7 @@
       "latency_seconds": null
     },
     {
-      "case_id": "heldout-behavior-49",
+      "case_id": "heldout-47",
       "split": "heldout",
       "mode": "hybrid",
       "status": "not_run",
@@ -1621,7 +1869,7 @@
       "latency_seconds": null
     },
     {
-      "case_id": "heldout-behavior-50",
+      "case_id": "heldout-48",
       "split": "heldout",
       "mode": "hybrid",
       "status": "not_run",
@@ -1633,7 +1881,7 @@
       "latency_seconds": null
     },
     {
-      "case_id": "heldout-behavior-51",
+      "case_id": "heldout-49",
       "split": "heldout",
       "mode": "hybrid",
       "status": "not_run",
@@ -1645,7 +1893,7 @@
       "latency_seconds": null
     },
     {
-      "case_id": "heldout-behavior-52",
+      "case_id": "heldout-50",
       "split": "heldout",
       "mode": "hybrid",
       "status": "not_run",
@@ -1657,7 +1905,7 @@
       "latency_seconds": null
     },
     {
-      "case_id": "heldout-behavior-53",
+      "case_id": "heldout-51",
       "split": "heldout",
       "mode": "hybrid",
       "status": "not_run",
@@ -1669,7 +1917,103 @@
       "latency_seconds": null
     },
     {
-      "case_id": "heldout-behavior-54",
+      "case_id": "heldout-52",
+      "split": "heldout",
+      "mode": "hybrid",
+      "status": "not_run",
+      "recall_at_k": null,
+      "mrr": null,
+      "behavior_correct": null,
+      "human_legal_support": "pending",
+      "reason": "Dense snapshot missing. Cache the embedding weights, then run index-dense; BM25 remains available.",
+      "latency_seconds": null
+    },
+    {
+      "case_id": "heldout-53",
+      "split": "heldout",
+      "mode": "hybrid",
+      "status": "not_run",
+      "recall_at_k": null,
+      "mrr": null,
+      "behavior_correct": null,
+      "human_legal_support": "pending",
+      "reason": "Dense snapshot missing. Cache the embedding weights, then run index-dense; BM25 remains available.",
+      "latency_seconds": null
+    },
+    {
+      "case_id": "heldout-54",
+      "split": "heldout",
+      "mode": "hybrid",
+      "status": "not_run",
+      "recall_at_k": null,
+      "mrr": null,
+      "behavior_correct": null,
+      "human_legal_support": "pending",
+      "reason": "Dense snapshot missing. Cache the embedding weights, then run index-dense; BM25 remains available.",
+      "latency_seconds": null
+    },
+    {
+      "case_id": "heldout-behavior-57",
+      "split": "heldout",
+      "mode": "hybrid",
+      "status": "not_run",
+      "recall_at_k": null,
+      "mrr": null,
+      "behavior_correct": null,
+      "human_legal_support": "pending",
+      "reason": "Dense snapshot missing. Cache the embedding weights, then run index-dense; BM25 remains available.",
+      "latency_seconds": null
+    },
+    {
+      "case_id": "heldout-behavior-58",
+      "split": "heldout",
+      "mode": "hybrid",
+      "status": "not_run",
+      "recall_at_k": null,
+      "mrr": null,
+      "behavior_correct": null,
+      "human_legal_support": "pending",
+      "reason": "Dense snapshot missing. Cache the embedding weights, then run index-dense; BM25 remains available.",
+      "latency_seconds": null
+    },
+    {
+      "case_id": "heldout-behavior-59",
+      "split": "heldout",
+      "mode": "hybrid",
+      "status": "not_run",
+      "recall_at_k": null,
+      "mrr": null,
+      "behavior_correct": null,
+      "human_legal_support": "pending",
+      "reason": "Dense snapshot missing. Cache the embedding weights, then run index-dense; BM25 remains available.",
+      "latency_seconds": null
+    },
+    {
+      "case_id": "heldout-behavior-60",
+      "split": "heldout",
+      "mode": "hybrid",
+      "status": "not_run",
+      "recall_at_k": null,
+      "mrr": null,
+      "behavior_correct": null,
+      "human_legal_support": "pending",
+      "reason": "Dense snapshot missing. Cache the embedding weights, then run index-dense; BM25 remains available.",
+      "latency_seconds": null
+    },
+    {
+      "case_id": "heldout-behavior-61",
+      "split": "heldout",
+      "mode": "hybrid",
+      "status": "not_run",
+      "recall_at_k": null,
+      "mrr": null,
+      "behavior_correct": null,
+      "human_legal_support": "pending",
+      "reason": "Dense snapshot missing. Cache the embedding weights, then run index-dense; BM25 remains available.",
+      "latency_seconds": null
+    },
+    {
+      "case_id": "heldout-behavior-62",
       "split": "heldout",
       "mode": "hybrid",
       "status": "not_run",

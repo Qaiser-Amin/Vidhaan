@@ -27,6 +27,7 @@ class Source(BaseModel):
     domain: Domain
     namespace: str = "official"
     topics: list[str] = Field(default_factory=list)
+    related_domain_passages: dict[Domain, list[str]] = Field(default_factory=dict)
     instrument_type: str | None = None
     issuing_authority: str | None = None
     act_number: str | None = None
@@ -53,6 +54,15 @@ class Source(BaseModel):
     reviewer_notes: str | None = None
     provenance_notes: str | None = None
     redistribution_permitted: bool = False
+
+    def allows_domain(self, domain):
+        return self.domain == domain or bool(self.related_domain_passages.get(domain))
+
+    def includes_passage(self, chunk, domain):
+        if chunk.domain != self.domain: return False
+        if self.domain == domain: return True
+        selected = self.related_domain_passages.get(domain, [])
+        return 'chunk:' + chunk.chunk_id in selected or bool(chunk.locator and 'locator:' + chunk.locator in selected)
 
     @model_validator(mode="after")
     def boundaries(self):

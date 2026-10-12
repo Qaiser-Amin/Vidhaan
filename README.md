@@ -28,26 +28,28 @@ If Windows blocks local scripts, use the process-only execution-policy command i
 
 ## Actual coverage and first official workflow
 
-The final project includes **21 official-host documents across all eight domains, yielding 5,786 official child passages; zero legally reviewed versions**. Setup and launch scripts load the included corpus locally, so normal research needs no source download. The sources come from the Ministry of Labour, Ministry of Home Affairs and Income Tax Department. See the [eight domain guides](docs/domains/README.md), [source inventory](DATA_SOURCES.md) and [reproduction records](docs/CORPUS_REUSE.md).
+The final project includes **83 distinct official-host documents, 16,297 child passages and eight portable BM25 inverted indexes**. Each domain contains 10–12 sources. Setup and launch load documents and verify their indexes locally; ordinary research needs no source network access or AI model. Sources come from Income Tax Department, India Code, Ministry of Labour, Ministry of Home Affairs and Ministry of Consumer Affairs. See the [domain guides](docs/domains/README.md), [source inventory](DATA_SOURCES.md) and [reuse records](docs/CORPUS_REUSE.md).
 
-The cloud acquisition contains 23 sources and 5,819 passages. Two Labour Ministry FAQs require reproduction permission and remain optional downloads; the final ZIP includes the other 21 sources.
+The retained cloud corpus has 85 documents and 16,330 passages. Two permission-restricted Labour FAQs remain optional downloads.
 
 | Domain | Indexed sources |
 |---|---:|
-| Labour and employment | 3 |
-| Consumer law | 1 |
-| Contracts | 3 |
-| Tenancy and property | 2 |
-| Family law | 2 |
-| Criminal and civil procedure | 4 |
-| Corporate and tax | 3 |
-| Other specialist areas | 3 |
+| Labour and employment | 12 |
+| Consumer law | 11 |
+| Contracts | 10 |
+| Tenancy and property | 10 |
+| Family law | 10 |
+| Criminal and civil procedure | 11 |
+| Corporate and tax | 12 |
+| Other specialist areas | 12 |
 
-Every domain has representative material; coverage is incomplete. Family coverage is Hindu marriage/succession; civil coverage includes limitation rather than the full CPC; tax coverage is a transition FAQ rather than the full tax statutes. State/UT tenancy and employment collections are absent. Mixed state-amendment passages have conservative unknown scope.
+Family law includes five primary Acts and five related sources with explicitly selected maintenance, gifts, trusts, partition and historical marital-evidence passages. Shared documents are stored once; domain totals overlap. This does not establish coverage of ten personal-law frameworks. State/UT law, several personal-law frameworks, the full CPC, complete notifications and case law remain gaps.
 
 This is a historical acquisition snapshot, not a guarantee of current law. Act/rule commencement and version applicability metadata are unknown. As-of-date research excludes those versions rather than treating website publication dates as commencement. Two other child-labour PDFs inspected were image-only and were not counted as parsed/indexed.
 
-**Full selected source documents are included in `data/bundled/documents`.** Statutory texts accompany the original guides under the recorded reproduction basis; source notices remain intact. Thirteen Act collections also include compact, checksum-verified section records and acquisition response hashes. Original HTML/API payloads, private data, databases and model weights are excluded.
+**Full selected source documents are included in `data/bundled/documents`.** Statutory texts accompany the original guides under the recorded reproduction basis; source notices remain intact. Sixty-six Act collections also include compact, checksum-verified section records and acquisition response hashes. Original HTML/API payloads, private data, databases and model weights are excluded.
+
+The official-domain indexes are in `data/bundled/indexes`. They persist term postings, document lengths, source/version checksums and chunk fingerprints, with no private content. Offline loading verifies them against source chunks. Review/date/jurisdiction filters are applied before BM25 scoring. Rebuild local lexical indexes explicitly with `python -m vidhaan.cli index-bm25`; dense/model indexes remain optional and are not included.
 
 The documented setup/run scripts load the sources automatically. For direct/manual startup or a different data directory, load them explicitly without a network connection, or use **Load project documents offline** in Workspace settings:
 
@@ -61,9 +63,9 @@ The documented setup/run scripts load the sources automatically. For direct/manu
 .venv/bin/python -m vidhaan.cli search 'What passage covers wholesome drinking water in plantations?'
 ```
 
-Inspect title, exact quote, source URL, version/checksum and review status. PDFs retain physical pages. Thirteen English Act documents are reproducible renderings of the department's public section collection: authoritative section/schedule labels and original JSON response checksums are retained; no PDF pagination is invented. The downloader checks actual source body titles, complete pagination and Act membership. Missing, partial or changed collections are reported; a checksum mismatch requires inspected version updates. No silent synthetic substitute is imported.
+Inspect title, exact quote, source URL, version/checksum and review status. PDFs retain physical pages. Sixty-six English Act documents are reproducible renderings of the department's public section collection: authoritative section/schedule labels and original JSON response checksums are retained; no PDF pagination is invented. The downloader checks actual source body titles, complete pagination and Act membership. Missing, partial or changed collections are reported; a checksum mismatch requires inspected version updates. No silent synthetic substitute is imported.
 
-Repeated offline loads preserve user review, excluded versions and newer source versions. The previously acquired Bonded Labour original is included, so its earlier HTTP 403 does not block first use. `python -m vidhaan.cli acquire` remains an explicit online command for the 23-source acquisition manifest; byte changes and network failures are reported. No source download runs automatically.
+Repeated offline loads preserve user review, excluded versions and newer source versions. The previously acquired Bonded Labour original is included, so its earlier HTTP 403 does not block first use. `python -m vidhaan.cli acquire` remains an explicit online command for the 85-source acquisition manifest; byte changes and network failures are reported. No source download runs automatically.
 
 For an immediate offline engineering demo, explicitly load the invented fixture:
 
@@ -142,6 +144,6 @@ configs/ docs/           profiles, design and walkthrough
 .venv/bin/python scripts/package_project.py
 ```
 
-For tests install the dev profile first. The full acquired-corpus benchmark has 61 cases; the included 21-source corpus has 54 (15 development / 39 held-out), with results in `evaluations/bundled`. Rebuild labels after source/chunk/metadata changes; the builder omits only the two known download-only FAQs when absent. Labels use passage anchors independently of rankings and require human inspection. Corpus mismatches fail evaluation. `validate_corpus` verifies the inspected unreviewed snapshot and its eight domain searches; update review/date expectations after real review.
+For tests install the dev profile first. The included 83-source benchmark has 62 cases (15 development / 47 held-out); the current full-manifest builder defines 69 cases, with measured offline results in `evaluations/bundled`. Rebuild labels after source/chunk/metadata changes; the builder omits only the two known download-only FAQs when absent. Labels use passage anchors independently of rankings and require human inspection. Corpus mismatches fail evaluation. `validate_domain_indexes` checks a fresh offline load, all eight indexes and the 10–15 document target. `validate_corpus` verifies the inspected unreviewed snapshot and its eight domain searches; update review/date expectations after real review.
 
 See [SETUP_WINDOWS.md](SETUP_WINDOWS.md), [SETUP_MAC.md](SETUP_MAC.md), [DATA_SOURCES.md](DATA_SOURCES.md), [EVALUATION.md](EVALUATION.md), [LIMITATIONS.md](LIMITATIONS.md), [BUILD_STATUS.md](BUILD_STATUS.md), and the [university demo](docs/DEMO_WALKTHROUGH.md).

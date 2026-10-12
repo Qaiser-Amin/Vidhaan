@@ -1,0 +1,845 @@
+{
+  "created_at": "2026-10-12T21:28:02.328824+00:00",
+  "status": "passed",
+  "network": "disabled",
+  "unique_sources": 83,
+  "source_integrity": [
+    {
+      "document_id": "aadhaar-targeted-delivery-of-financial-and-other-subsides-benefits-and-services-act-2016",
+      "sha256": "82bb734ec3668d73cc47b82eb081e934ec5ff8fa7d48362ab9f6979e53573919",
+      "integrity": "passed",
+      "section_records": 69
+    },
+    {
+      "document_id": "advocates-act-1961",
+      "sha256": "0e550427065a6e7b7740829bfee975535f6bd436b5b2d95531c45c9b44a91a24",
+      "integrity": "passed",
+      "section_records": 86
+    },
+    {
+      "document_id": "air-prevention-and-control-of-pollution-act-1981",
+      "sha256": "9bfc47486bfed267a9c3ece989160b3e0b2685c384a8ca4a7331148c18ca3eeb",
+      "integrity": "passed",
+      "section_records": 65
+    },
+    {
+      "document_id": "apprentices-act-1961",
+      "sha256": "3599220890589546c8ac2ec0db1b4d9ab6d9df45607b774c2a0275b886c65246",
+      "integrity": "passed",
+      "section_records": 44
+    },
+    {
+      "document_id": "arbitration-and-conciliation-act-1996",
+      "sha256": "41dbe2a5b54e609783d8b8afefdb5e44317105fb3e88b2047a2f73ab06e31b5e",
+      "integrity": "passed",
+      "section_records": 114
+    },
+    {
+      "document_id": "black-money-undisclosed-foreign-income-and-assets-and-imposition-of-tax-act-2015",
+      "sha256": "521b0ef7730e3599600ea38a2d48b70cb755976062df7fa23eb551626db3cd1a",
+      "integrity": "passed",
+      "section_records": 88
+    },
+    {
+      "document_id": "bns-2023",
+      "sha256": "c9da896e7a16c481a46235789f74f545b7a9ed7f3a5c8049d0b1b9252c6731f4",
+      "integrity": "passed",
+      "section_records": null
+    },
+    {
+      "document_id": "bnss-2023",
+      "sha256": "5e60e2afe30d0fe7eca4f8126301146b76c86a444e690581f81eb564843517fe",
+      "integrity": "passed",
+      "section_records": null
+    },
+    {
+      "document_id": "bonded-labour-1976",
+      "sha256": "074a5d80e3f5b784104326fff169db99b33a26db4f72d900972eacf1571bf950",
+      "integrity": "passed",
+      "section_records": null
+    },
+    {
+      "document_id": "bsa-2023",
+      "sha256": "13e2b6eb66add222c7262ccaa0b08d58e48ca22cdf0953f6541123ef039de239",
+      "integrity": "passed",
+      "section_records": null
+    },
+    {
+      "document_id": "charitable-and-religious-trusts-act-1920",
+      "sha256": "26f2a2c4c546acd63e53dcde489cf590ee97cbc8e097b90541fb2d5f33367bee",
+      "integrity": "passed",
+      "section_records": 12
+    },
+    {
+      "document_id": "charitable-endowments-act-1890",
+      "sha256": "196e4bb58ac6f23c4044c78964684abcb0d2b4207cc1fb49ad5ece948925965f",
+      "integrity": "passed",
+      "section_records": 17
+    },
+    {
+      "document_id": "chartered-accountants-act-1949",
+      "sha256": "d6e2ad4d46acd6e738eb203dd3314f2b2068e74498bb3f5eb382f25f3638267a",
+      "integrity": "passed",
+      "section_records": 66
+    },
+    {
+      "document_id": "companies-2013",
+      "sha256": "77e989f8d6f9a64f8b4a0f7d1d58eb153338b02be18ab3896f67440ee8f46916",
+      "integrity": "passed",
+      "section_records": 539
+    },
+    {
+      "document_id": "company-secretaries-act-1980",
+      "sha256": "5123202c13ca56a4748cf01067c13f513e1fe41873d87c390b7fb801f0a7ad79",
+      "integrity": "passed",
+      "section_records": 65
+    },
+    {
+      "document_id": "competition-act-2002",
+      "sha256": "f10c5ec100ce7983dd4ee99e231033eb2a01724e7d1df28aaf3e3879700de588",
+      "integrity": "passed",
+      "section_records": 99
+    },
+    {
+      "document_id": "consumer-council-2020",
+      "sha256": "c8ebf0ca928a23df6c448c4d8b669703d4196739c12babd055feb071cc42cfd4",
+      "integrity": "passed",
+      "section_records": null
+    },
+    {
+      "document_id": "consumer-dark-patterns-2023",
+      "sha256": "5961a07f1bc0778ee362165b262cd29cd99291ac76bd8b79bb2fa2bd50aa0472",
+      "integrity": "passed",
+      "section_records": null
+    },
+    {
+      "document_id": "consumer-direct-selling-2021",
+      "sha256": "1fe6c562987e4a94a59739fd16187f3f90e55d926d0b010fd69b4ce8bb181098",
+      "integrity": "passed",
+      "section_records": null
+    },
+    {
+      "document_id": "consumer-ecommerce-2020",
+      "sha256": "3012b37f6f6dba2d29523abf10f43fbb3a503768e578ef0fa02e4b9e4593bd0c",
+      "integrity": "passed",
+      "section_records": null
+    },
+    {
+      "document_id": "consumer-ecommerce-amendment-2021",
+      "sha256": "a7db1f7a8c900e0bc9c7fcb1f2921130ff85e6fac517fb5222efcf76cf559654",
+      "integrity": "passed",
+      "section_records": null
+    },
+    {
+      "document_id": "consumer-mediation-2020",
+      "sha256": "03e1a2b838afd37f1df5cec8cb10bed9256cb3bb8e9509fd7328c15ce089ae48",
+      "integrity": "passed",
+      "section_records": null
+    },
+    {
+      "document_id": "consumer-mediation-regulations-2020",
+      "sha256": "0a61b4e738b4c9181d53ba8f8febaef278c798050998377c7f28a32ccb30465e",
+      "integrity": "passed",
+      "section_records": null
+    },
+    {
+      "document_id": "consumer-procedure-2020",
+      "sha256": "07eb8fd33f2b165e9d768476f30641dda84590546206c9c1a426ca00a6467a89",
+      "integrity": "passed",
+      "section_records": null
+    },
+    {
+      "document_id": "consumer-protection-2019",
+      "sha256": "c2539eb78d182cdca7e8e94c733f5dc80c9ab0bc01d9ae7f9910a47abcaaceda",
+      "integrity": "passed",
+      "section_records": 109
+    },
+    {
+      "document_id": "contract-labour-rules-1971",
+      "sha256": "ad5a6bcab0c368ea145e8aa0263143c28a457d5ff7db12aa338bb6f7b7021cad",
+      "integrity": "passed",
+      "section_records": null
+    },
+    {
+      "document_id": "copyright-act-1957",
+      "sha256": "41088c83e6691d6e54ad0613cf627535a1320faabee525edbe84e5ea9ba8eade",
+      "integrity": "passed",
+      "section_records": 105
+    },
+    {
+      "document_id": "depositories-act-1996",
+      "sha256": "9a6d6febc4aa5063cb56b3db74562c108b0257707068bfd4c6d1c9454311c318",
+      "integrity": "passed",
+      "section_records": 61
+    },
+    {
+      "document_id": "designs-act-2000",
+      "sha256": "f41af0cdc654a4391732d335e74c686c37d2cc4b73ec29523afe859db738ac7d",
+      "integrity": "passed",
+      "section_records": 48
+    },
+    {
+      "document_id": "digital-personal-data-protection-act-2023",
+      "sha256": "13b49114e8bdf531acaf0363db467ef71feb08b0625e74d447cf12d3d37997dd",
+      "integrity": "passed",
+      "section_records": 45
+    },
+    {
+      "document_id": "economic-offences-inapplicability-of-limitation-act-1974",
+      "sha256": "8460e67d4f479e241ce415ee95033cf624d5ca2a2b19bed9c0d0b9aa9713bd67",
+      "integrity": "passed",
+      "section_records": 3
+    },
+    {
+      "document_id": "employees-compensation-act-1923",
+      "sha256": "d2456788a79cb61e49bd4bb6b21e0c236f22702007765d4e2fbc0db55d960472",
+      "integrity": "passed",
+      "section_records": 51
+    },
+    {
+      "document_id": "employees-provident-funds-and-miscellaneous-provisions-act-1952",
+      "sha256": "c079a454192e90a5fed1ac87fa0bbdbd07efed49008120c469aa032648c69fdc",
+      "integrity": "passed",
+      "section_records": 72
+    },
+    {
+      "document_id": "employees-state-insurance-act-1948",
+      "sha256": "195af6ac459ca41e8b6c811a4f05976525b7fde97f681533b7296ae09a1b11a7",
+      "integrity": "passed",
+      "section_records": 142
+    },
+    {
+      "document_id": "environment-protection-1986",
+      "sha256": "5d2a9410efaa191e4469b4f0fea2743229f71881507adcfd42e9433fb0e67906",
+      "integrity": "passed",
+      "section_records": 37
+    },
+    {
+      "document_id": "essential-commodities-act-1955",
+      "sha256": "28deaeddb760a4f1a66d9b0437d46e99f65490700f20dd702516b6cd0453ebfe",
+      "integrity": "passed",
+      "section_records": 30
+    },
+    {
+      "document_id": "factories-act-1948",
+      "sha256": "107540ca1fc75e7a5bcce8025a621c1fc82a0be86990a015f1a298de534cf364",
+      "integrity": "passed",
+      "section_records": 144
+    },
+    {
+      "document_id": "fair-land-acquisition-2013",
+      "sha256": "7a4a528baa0c959bd2995f7a372350dc2bbc4a3cfb6b3d3d4a64d2ba4e561116",
+      "integrity": "passed",
+      "section_records": 118
+    },
+    {
+      "document_id": "foreign-exchange-management-act-1999",
+      "sha256": "1525a31c1be0315e15dc9804fcda31818bbe3895d76040441c1636361540c8ee",
+      "integrity": "passed",
+      "section_records": 52
+    },
+    {
+      "document_id": "general-clauses-act-1897",
+      "sha256": "ec46fdb36fc21987edac4251471e9e08399c3d7858fb7b579bc492f76ad86209",
+      "integrity": "passed",
+      "section_records": 37
+    },
+    {
+      "document_id": "hindu-adoptions-and-maintenance-act-1956",
+      "sha256": "f90140d97d9ccfefe890e9cd321d42bd12dea48963cc64d0b0a495a1bc8de15a",
+      "integrity": "passed",
+      "section_records": 30
+    },
+    {
+      "document_id": "hindu-marriage-1955",
+      "sha256": "636f1965a9d958bcabdc19610d2b33987b32085b298a50b8c93bf515d4c3cbe0",
+      "integrity": "passed",
+      "section_records": 36
+    },
+    {
+      "document_id": "hindu-minority-and-guardianship-act-1956",
+      "sha256": "99dd970321d1180936b5466aceec226ef44030b5cfefbb2793a7832171dd6018",
+      "integrity": "passed",
+      "section_records": 13
+    },
+    {
+      "document_id": "hindu-succession-1956",
+      "sha256": "b9930300109e846e06d7f851df500d5bcb02d29689351f35cdc452e1ebf0e894",
+      "integrity": "passed",
+      "section_records": 31
+    },
+    {
+      "document_id": "income-tax-act-2025",
+      "sha256": "9d6f032a243d39fc4fcfdee230ec7568373875e9279f16d0420528a7ec3118e6",
+      "integrity": "passed",
+      "section_records": 1105
+    },
+    {
+      "document_id": "income-tax-transition-faq-2026",
+      "sha256": "cf1d4ad8e7c7bc144dae8102f0418b2b8bbf4e2789e9a10dabf296fe8c43b62a",
+      "integrity": "passed",
+      "section_records": null
+    },
+    {
+      "document_id": "indian-contract-1872",
+      "sha256": "11e450b8b15f2da01bc060e538d55ee94b1942298b20dbd076d28db5d7569aad",
+      "integrity": "passed",
+      "section_records": 193
+    },
+    {
+      "document_id": "indian-easements-act-1882",
+      "sha256": "a494793cbd4eb9a205820f4af356c900af4511b25bce9f7a438a547d685c90e1",
+      "integrity": "passed",
+      "section_records": 64
+    },
+    {
+      "document_id": "indian-evidence-act-1872",
+      "sha256": "4b45a694a92a3f9a2d4b9df0ac375a6432908660fc79adfc9a4af8b93ada0a10",
+      "integrity": "passed",
+      "section_records": 186
+    },
+    {
+      "document_id": "indian-partnership-act-1932",
+      "sha256": "09c547274155793a52e976f552e3ac5531372a45f5a05f68fb29f09f75d38325",
+      "integrity": "passed",
+      "section_records": 76
+    },
+    {
+      "document_id": "indian-stamp-act-1899",
+      "sha256": "91d9c7b1e0473390bd7dc1ba9a4216377ac5b5d475e25bada2d622b577b3ccd2",
+      "integrity": "passed",
+      "section_records": 100
+    },
+    {
+      "document_id": "indian-trusts-act-1882",
+      "sha256": "2df35ee26225e4bfa3745464705e11be96a8b42220775b6455560c4a1890f787",
+      "integrity": "passed",
+      "section_records": 98
+    },
+    {
+      "document_id": "industrial-disputes-act-1947",
+      "sha256": "a81bb66c7b131f2272bbc1c0e3d1ff99f6c61cd6f50171108a0254bb3bd70e8a",
+      "integrity": "passed",
+      "section_records": 87
+    },
+    {
+      "document_id": "information-technology-2000",
+      "sha256": "924c1667cc509a68b57a8ab1cff1b54ad6e74aa50213fb1c08f8223d8fb0f423",
+      "integrity": "passed",
+      "section_records": 126
+    },
+    {
+      "document_id": "legal-metrology-act-2009",
+      "sha256": "fe2b46c61cfe3e953a23c25adcd919df45a94cf69781066df3e62984d2d42cf3",
+      "integrity": "passed",
+      "section_records": 57
+    },
+    {
+      "document_id": "limitation-1963",
+      "sha256": "0f69018c0c2358d4361e388244365a18b099cd4939536ba71ecd648e71b90b4b",
+      "integrity": "passed",
+      "section_records": 34
+    },
+    {
+      "document_id": "llp-2008",
+      "sha256": "03a8e56626b5da980756f637616aa144b1353ef830ece42e25ef90d1c9708711",
+      "integrity": "passed",
+      "section_records": 92
+    },
+    {
+      "document_id": "maternity-benefit-act-1961",
+      "sha256": "62adec8e523720aebb7ab58d5d81b5ff903c932ef6290e5c3494faeb42f3b61f",
+      "integrity": "passed",
+      "section_records": 34
+    },
+    {
+      "document_id": "micro-small-and-medium-enterprises-development-act-2006",
+      "sha256": "ae2e5f4bb6d0760bf1606504e1cbce6076642dd1beec4944616e0baa1a71e856",
+      "integrity": "passed",
+      "section_records": 36
+    },
+    {
+      "document_id": "multi-state-co-operative-societies-act-2002",
+      "sha256": "a51d2fc083f86d464129b16ac32062563d94039b0b7fbdb7e21fd1a9648cd9ed",
+      "integrity": "passed",
+      "section_records": 151
+    },
+    {
+      "document_id": "national-green-tribunal-act-2010",
+      "sha256": "0f1ec2a7d72f949ff8eea38e1fa3a5d02ced24ec8512bda96d835057d4ff57ca",
+      "integrity": "passed",
+      "section_records": 42
+    },
+    {
+      "document_id": "negotiable-instruments-act-1881",
+      "sha256": "1314b06671cf436067986d1c28b8cde1f645b8de0f1f5c3a1a738d2b1c4d9c6c",
+      "integrity": "passed",
+      "section_records": 156
+    },
+    {
+      "document_id": "partition-act-1893",
+      "sha256": "883d4a4fc6c6afb2c0a86cb6eb84ccbb84d42064f5dd1d261f2b0bccdcde1bb3",
+      "integrity": "passed",
+      "section_records": 10
+    },
+    {
+      "document_id": "patents-act-1970",
+      "sha256": "9799f804f78fdaebf61189fe18b149953fa604a9011b08cc5dd0930c32aff800",
+      "integrity": "passed",
+      "section_records": 176
+    },
+    {
+      "document_id": "payment-of-bonus-act-1965",
+      "sha256": "2651fa284a1afe2ce9af079d80e61d69132221a867f9aa5e2e0cbca9e49966b8",
+      "integrity": "passed",
+      "section_records": 45
+    },
+    {
+      "document_id": "payment-of-gratuity-act-1972",
+      "sha256": "b5759ba0d7ca742c61c6a5c7db0b5536a0998d307ba5765667db2c7a0101e0a5",
+      "integrity": "passed",
+      "section_records": 20
+    },
+    {
+      "document_id": "plantations-1951",
+      "sha256": "76e98b4a114778783eeefb5de637c09d51de7463cf68a675087a9ba36b30b59f",
+      "integrity": "passed",
+      "section_records": null
+    },
+    {
+      "document_id": "prevention-of-corruption-act-1988",
+      "sha256": "107fbfa7f125139858f38c6124d5b2ed87749eabf6943fa13c2cbb7071f2b39f",
+      "integrity": "passed",
+      "section_records": 41
+    },
+    {
+      "document_id": "prohibition-of-benami-property-transactions-act-1988",
+      "sha256": "ae794f7a66651359557a255562db9ca240ca6d892217d34f806d973828f9701e",
+      "integrity": "passed",
+      "section_records": 75
+    },
+    {
+      "document_id": "recovery-of-debts-and-bankruptcy-act-1993",
+      "sha256": "625fdf9c4ffc30a2c56569c4af61055e54e82616f2857cc428a7a52b1435c939",
+      "integrity": "passed",
+      "section_records": 45
+    },
+    {
+      "document_id": "registration-act-1908",
+      "sha256": "932fdfd0820f61f52324c8826ea02181b641bb4056a9ded9912e52316878b4ce",
+      "integrity": "passed",
+      "section_records": 97
+    },
+    {
+      "document_id": "rera-2016",
+      "sha256": "ba80bc7db7ec198eca7fac47491b318a0ad5e78409de872ed05e265352654eb5",
+      "integrity": "passed",
+      "section_records": 92
+    },
+    {
+      "document_id": "right-information-2005",
+      "sha256": "dce2ecd272e07793698fdf7b19c6f878d1ab4dddd5f62fcbe4b8abe57c27a3dc",
+      "integrity": "passed",
+      "section_records": null
+    },
+    {
+      "document_id": "sale-of-goods-1930",
+      "sha256": "5c2a7d863e298f10000aeb459120176457e6d44691f675a815e279ffdc078e1b",
+      "integrity": "passed",
+      "section_records": 67
+    },
+    {
+      "document_id": "securities-and-exchange-board-of-india-act-1992",
+      "sha256": "27286dd473dcb505a8086519898db3f9487bec9e8493d2965c22a14bb2f0a415",
+      "integrity": "passed",
+      "section_records": 93
+    },
+    {
+      "document_id": "securities-contracts-regulation-act-1956",
+      "sha256": "8bea241e54b79e8180eada64649199a3e51edee04080715d717b2b0bd65c5399",
+      "integrity": "passed",
+      "section_records": 78
+    },
+    {
+      "document_id": "securitisation-and-reconstruction-of-financial-assets-and-enforcement-of-security-interest-act-2002",
+      "sha256": "eac3c49c34b8bd4f550ec9e80c6a9d679352ec81a49388d1de3d2dca431fa8e5",
+      "integrity": "passed",
+      "section_records": 64
+    },
+    {
+      "document_id": "special-court-trial-of-offences-relating-to-transactions-in-securities-act-1992",
+      "sha256": "5a5a9aaf56d30596a0031991bf6049796f6f0c9f6352b0a136b62695b0c59e90",
+      "integrity": "passed",
+      "section_records": 19
+    },
+    {
+      "document_id": "special-marriage-1954",
+      "sha256": "fd5af2c71f5f5a378c99049ce70160e2961780cf6e821f441cbbfecb577f0f19",
+      "integrity": "passed",
+      "section_records": null
+    },
+    {
+      "document_id": "specific-relief-1963",
+      "sha256": "0fdebfffc8fe5c242e3d6fa74cbbf62ea94093f6abe5c9257890fa871ccf522e",
+      "integrity": "passed",
+      "section_records": 49
+    },
+    {
+      "document_id": "trade-marks-act-1999",
+      "sha256": "f58a8cbc56ff2bb331922068d6010232853a5b9f56974106a0ec1e6846599a2e",
+      "integrity": "passed",
+      "section_records": 168
+    },
+    {
+      "document_id": "transfer-property-1882",
+      "sha256": "3d4c8da13aeebe3759056a812e29b49fc7ecd89172a9c239e8045a244872d307",
+      "integrity": "passed",
+      "section_records": 145
+    },
+    {
+      "document_id": "water-prevention-and-control-of-pollution-act-1974",
+      "sha256": "37d96fd112eada0057144d4cae5a4d0f5011b8587c138bf8539381b672baee8b",
+      "integrity": "passed",
+      "section_records": 75
+    }
+  ],
+  "section_collections": 66,
+  "official_child_passages": 16297,
+  "corpus_signature": "704ff102decf836411043bcd6648e96dbfbf3cae4be846e7504e3b12f3cd458d",
+  "coverage": [
+    {
+      "domain": "Labour and employment",
+      "sources": 12,
+      "versions": 12,
+      "collected": 12,
+      "parsed": 12,
+      "indexed": 12,
+      "reviewed": 0,
+      "primary_sources": 12,
+      "related_sources": 0,
+      "states": []
+    },
+    {
+      "domain": "Consumer law",
+      "sources": 11,
+      "versions": 11,
+      "collected": 11,
+      "parsed": 11,
+      "indexed": 11,
+      "reviewed": 0,
+      "primary_sources": 11,
+      "related_sources": 0,
+      "states": []
+    },
+    {
+      "domain": "Contracts",
+      "sources": 10,
+      "versions": 10,
+      "collected": 10,
+      "parsed": 10,
+      "indexed": 10,
+      "reviewed": 0,
+      "primary_sources": 10,
+      "related_sources": 0,
+      "states": []
+    },
+    {
+      "domain": "Tenancy and property",
+      "sources": 10,
+      "versions": 10,
+      "collected": 10,
+      "parsed": 10,
+      "indexed": 10,
+      "reviewed": 0,
+      "primary_sources": 10,
+      "related_sources": 0,
+      "states": []
+    },
+    {
+      "domain": "Family law",
+      "sources": 10,
+      "versions": 10,
+      "collected": 10,
+      "parsed": 10,
+      "indexed": 10,
+      "reviewed": 0,
+      "primary_sources": 5,
+      "related_sources": 5,
+      "states": []
+    },
+    {
+      "domain": "Criminal and civil procedure",
+      "sources": 11,
+      "versions": 11,
+      "collected": 11,
+      "parsed": 11,
+      "indexed": 11,
+      "reviewed": 0,
+      "primary_sources": 11,
+      "related_sources": 0,
+      "states": []
+    },
+    {
+      "domain": "Corporate and tax",
+      "sources": 12,
+      "versions": 12,
+      "collected": 12,
+      "parsed": 12,
+      "indexed": 12,
+      "reviewed": 0,
+      "primary_sources": 12,
+      "related_sources": 0,
+      "states": []
+    },
+    {
+      "domain": "Other specialist areas",
+      "sources": 12,
+      "versions": 12,
+      "collected": 12,
+      "parsed": 12,
+      "indexed": 12,
+      "reviewed": 0,
+      "primary_sources": 12,
+      "related_sources": 0,
+      "states": []
+    }
+  ],
+  "indexes": [
+    {
+      "domain": "Labour and employment",
+      "file": "bm25-employment.json",
+      "sources": 12,
+      "chunks": 1676,
+      "signature": "1a8d0f84a4b6e7cbe90b831af1db3c0d8ef59d9afb5bea3fa432ba4afc206efb",
+      "sha256": "c5271528f2416488a046bbc5c02d08303b57294b5b1ce957ecb5a7b2ce6355de"
+    },
+    {
+      "domain": "Consumer law",
+      "file": "bm25-consumer.json",
+      "sources": 11,
+      "chunks": 646,
+      "signature": "3d682ebd7b0f24a032b0a23ff2e923586ceed5e1240560b65c845e1e29e72608",
+      "sha256": "49e44afef59a32438e8db275f998785779e4d70323d645b6bd5009532645cf2d"
+    },
+    {
+      "domain": "Contracts",
+      "file": "bm25-contracts.json",
+      "sources": 10,
+      "chunks": 1412,
+      "signature": "6573bab4d1f870c3f210247915c9c48389632b9b25ad911bd78e45af0a513f7f",
+      "sha256": "63c1226a20f7f00da08d1d1c5185aa078417c12c3f2e122887e8018b13f294b2"
+    },
+    {
+      "domain": "Tenancy and property",
+      "file": "bm25-property.json",
+      "sources": 10,
+      "chunks": 1083,
+      "signature": "3edd62fe67703e74453987c2a23efd6bd8c112f50aeb24b59e616965785f7d64",
+      "sha256": "fe87e9a5399791f86a1b0eb58b567d56a9775a96019191dc7ad5bcd3158b446c"
+    },
+    {
+      "domain": "Family law",
+      "file": "bm25-family.json",
+      "sources": 10,
+      "chunks": 358,
+      "signature": "3463b0a0e1a35a5ba51f2d251b061814b98eb352fec05319a6f8f3660c81e1bb",
+      "sha256": "1e041cb3d969842fe159d2fdc1ebcd105421722a726f113f5ac7fd7c57e40061"
+    },
+    {
+      "domain": "Criminal and civil procedure",
+      "file": "bm25-procedure.json",
+      "sources": 11,
+      "chunks": 2346,
+      "signature": "a71dc78007ec0a51883448702aed65ba713eef5644785880fbb49fb6c805541b",
+      "sha256": "dee84ea5aec132d6e6463c2093c9ab6c513dd54a0104aa63e60a8c2841c63f2c"
+    },
+    {
+      "domain": "Corporate and tax",
+      "file": "bm25-corporate.json",
+      "sources": 12,
+      "chunks": 6981,
+      "signature": "08d64398a9d0ad154327cc114f2572fda99416c88f9c787da672d510179d0321",
+      "sha256": "4f807a429d8a7ced8a212346122e517476aeaa93ca5102d5504d8c05f8862207"
+    },
+    {
+      "domain": "Other specialist areas",
+      "file": "bm25-specialist.json",
+      "sources": 12,
+      "chunks": 1707,
+      "signature": "87c53fcb8df532195c9135e54888f9f92a4b1f15d745b4d015dff488676dddf4",
+      "sha256": "aa8eddd5acfc31eefa5f0f5bec58589b491bdef49d68e38e1f3ca5c71ce8b1a8"
+    }
+  ],
+  "representative_searches": [
+    {
+      "domain": "Labour and employment",
+      "question": "What passage covers wholesome drinking water in plantations?",
+      "status": "supported",
+      "expected_source_retrieved": true,
+      "exact_citations": "passed",
+      "reviewed_gap": "passed",
+      "unknown_date_gap": "passed",
+      "document_ids": [
+        "plantations-1951",
+        "factories-act-1948",
+        "contract-labour-rules-1971"
+      ],
+      "evidence_ids": [
+        "b23333560a318972219d7924",
+        "9f91d27ad8e6a3403d183c34",
+        "f4aed8cbde4377004f497b8a",
+        "174895ed3bd388fa0737c2c3",
+        "4bfe4b50af385ca3913cba9c"
+      ],
+      "retrieval_seconds": 0.2672879149977234
+    },
+    {
+      "domain": "Consumer law",
+      "question": "Find the Consumer Protection Act passage on findings of the District Commission.",
+      "status": "supported",
+      "expected_source_retrieved": true,
+      "exact_citations": "passed",
+      "reviewed_gap": "passed",
+      "unknown_date_gap": "passed",
+      "document_ids": [
+        "consumer-protection-2019",
+        "consumer-mediation-regulations-2020",
+        "consumer-mediation-2020"
+      ],
+      "evidence_ids": [
+        "26eee434f406b4d48411838c",
+        "aa7a046b01c26887f1a28454",
+        "e4d602d87a5fbac4dce42417",
+        "9f669e7122d7e8800d6fcf5e",
+        "5ceba308b1296b8c584b142a"
+      ],
+      "retrieval_seconds": 0.3030174889972841
+    },
+    {
+      "domain": "Contracts",
+      "question": "Find compensation for loss or damage caused by breach of contract.",
+      "status": "supported",
+      "expected_source_retrieved": true,
+      "exact_citations": "passed",
+      "reviewed_gap": "passed",
+      "unknown_date_gap": "passed",
+      "document_ids": [
+        "indian-contract-1872",
+        "specific-relief-1963"
+      ],
+      "evidence_ids": [
+        "d7a67a7f8c684084fefb7a80",
+        "a0d4d05fdae8b138f8b6d707",
+        "217cfb86e11aa6982b6052fb",
+        "16264c2344fc42136c745408",
+        "77416a1186dbba3db6dc5c9f"
+      ],
+      "retrieval_seconds": 0.3225805050024064
+    },
+    {
+      "domain": "Tenancy and property",
+      "question": "Find the Transfer of Property Act definition of a lease.",
+      "status": "supported",
+      "expected_source_retrieved": true,
+      "exact_citations": "passed",
+      "reviewed_gap": "passed",
+      "unknown_date_gap": "passed",
+      "document_ids": [
+        "charitable-endowments-act-1890",
+        "transfer-property-1882"
+      ],
+      "evidence_ids": [
+        "8ef84d0f9e87b5bb29cc177b",
+        "e082f4ee35f17d829b53364c",
+        "b80f3b310b261f31355a07c0",
+        "d760d41ae004b29c4508a600",
+        "fb060ebd076be223baa8c306"
+      ],
+      "retrieval_seconds": 0.3205044079986692
+    },
+    {
+      "domain": "Family law",
+      "question": "Find the Hindu Succession Act passage on devolution of interest in coparcenary property.",
+      "status": "supported",
+      "expected_source_retrieved": true,
+      "exact_citations": "passed",
+      "reviewed_gap": "passed",
+      "unknown_date_gap": "passed",
+      "document_ids": [
+        "hindu-succession-1956"
+      ],
+      "evidence_ids": [
+        "5f8c5c3361a014d48ddb30e6",
+        "3d125caa25b7f1e37828d255",
+        "c9bdeed8187fd50ed5aa0a7e",
+        "8185799945d73ec42d86e570",
+        "56d7c9912342e304c6512647"
+      ],
+      "retrieval_seconds": 0.1986743800007389
+    },
+    {
+      "domain": "Criminal and civil procedure",
+      "question": "Find the Limitation Act passage about extension of the prescribed period in certain cases.",
+      "status": "supported",
+      "expected_source_retrieved": true,
+      "exact_citations": "passed",
+      "reviewed_gap": "passed",
+      "unknown_date_gap": "passed",
+      "document_ids": [
+        "limitation-1963"
+      ],
+      "evidence_ids": [
+        "750a8bae7b2fd7d4d50893ce",
+        "ada00e74e755dbc5310456af",
+        "8331ca1c9077da7a52edd03c",
+        "8800dde4ff2bb9dcffcf35de",
+        "f6819513a8efb6f895dca158"
+      ],
+      "retrieval_seconds": 0.3655193580016203
+    },
+    {
+      "domain": "Corporate and tax",
+      "question": "Find the Companies Act passage on incorporation of a company.",
+      "status": "supported",
+      "expected_source_retrieved": true,
+      "exact_citations": "passed",
+      "reviewed_gap": "passed",
+      "unknown_date_gap": "passed",
+      "document_ids": [
+        "companies-2013"
+      ],
+      "evidence_ids": [
+        "bcdf6fe65ede5fb1ba13cdfa",
+        "e3500f6bd0eed97a86a66d1b",
+        "3ad941a9324cf3ae5b9e5818",
+        "955de0877b8fafee38317b3e",
+        "aecad63a1172436b28083b2c"
+      ],
+      "retrieval_seconds": 0.7664353479995043
+    },
+    {
+      "domain": "Other specialist areas",
+      "question": "Find legal recognition of electronic records in the Information Technology Act.",
+      "status": "supported",
+      "expected_source_retrieved": true,
+      "exact_citations": "passed",
+      "reviewed_gap": "passed",
+      "unknown_date_gap": "passed",
+      "document_ids": [
+        "information-technology-2000",
+        "aadhaar-targeted-delivery-of-financial-and-other-subsides-benefits-and-services-act-2016"
+      ],
+      "evidence_ids": [
+        "0a4ab9e8b5030b8cbafd9a4f",
+        "e4657145f72bc7dd96cc8430",
+        "ec824286612f02e2f0ea2196",
+        "06e82905d16dad1be2c3689b",
+        "991cfae2a5d6c0322a6a2ddb"
+      ],
+      "retrieval_seconds": 0.35667174699847237
+    }
+  ],
+  "family_related_maintenance": "passed",
+  "dense_indexes": "not built; optional weights unavailable",
+  "legal_review": "pending"
+}

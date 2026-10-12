@@ -103,3 +103,58 @@ def test_packaging_includes_only_declared_corpus_files(registry,tmp_path):
         assert 'vidhaan/data/bundled/documents/synthetic.txt' in archive.namelist()
         assert 'vidhaan/data/bundled/guides/original.md' in archive.namelist()
         assert not any('undeclared-private' in name for name in archive.namelist())
+
+
+def indexed_bundle(registry, tmp_path):
+    from vidhaan.lexical import payload, filename
+    folder, manifest, source = make_bundle(registry, tmp_path)
+    local = Registry(tmp_path/'index-build'); load_bundle(local, folder)
+    (folder/'indexes').mkdir(); manifest['indexes'] = []
+    for domain in Domain:
+        data = payload(domain, local.versions('official'), local.chunks(namespace='official'))
+        name = 'indexes/' + filename(domain); (folder/name).write_text(json.dumps(data))
+        manifest['files'][name] = hashlib.sha256((folder/name).read_bytes()).hexdigest()
+        manifest['indexes'].append({'domain': domain.value, 'file': name, 'source_count': len(data['sources']),
+                                    'chunk_count': len(data['chunk_ids']), 'signature': data['signature']})
+    (folder/'manifest.json').write_text(json.dumps(manifest))
+    return folder, manifest
+
+
+def test_offline_portable_indexes_and_exclusions(registry, tmp_path, monkeypatch):
+    from vidhaan.lexical import ensure_domain
+    folder, manifest = indexed_bundle(registry, tmp_path); target = Registry(tmp_path/'loaded')
+    monkeypatch.setattr(httpx, 'Client', lambda *a, **k: (_ for _ in ()).throw(AssertionError('No network')))
+    load_bundle(target, folder)
+    for entry in manifest['indexes']:
+        data = json.loads((target.data_dir/'indexes'/Path(entry['file']).name).read_text())
+        assert data['signature'] == entry['signature']
+    version = target.versions('official')[0]; target.deactivate(version['version_id'])
+    load_bundle(target, folder)
+    tokens, report = ensure_domain(target, Domain.contracts)
+    assert not tokens and report['sources'] == 0 and not target.versions('official')[0]['active']
+
+
+def test_index_cannot_smuggle_an_undeclared_source(registry, tmp_path):
+    folder, manifest = indexed_bundle(registry, tmp_path)
+    entry = next(e for e in manifest['indexes'] if e['domain'] == Domain.contracts.value)
+    path = folder/entry['file']; data = json.loads(path.read_text())
+    data['sources'][0]['document_id'] = 'private-unapproved'
+    path.write_text(json.dumps(data)); manifest['files'][entry['file']] = hashlib.sha256(path.read_bytes()).hexdigest()
+    (folder/'manifest.json').write_text(json.dumps(manifest)); target = Registry(tmp_path/'fresh')
+    with pytest.raises(ValueError, match='undeclared'): load_bundle(target, folder)
+    assert not target.versions('official')
+
+
+def test_new_related_scope_preserves_existing_manual_review(registry, tmp_path):
+    folder, manifest, source = make_bundle(registry, tmp_path)
+    target = Registry(tmp_path/'existing-project'); load_bundle(target, folder)
+    version = target.versions('official')[0]
+    target.review(version['version_id'], 'reviewed', 'SYNTHETIC engineering review', '2026-10-12')
+    target.deactivate(version['version_id'])
+    selector = 'chunk:' + target.chunks(version['version_id'])[0].chunk_id
+    manifest['sources'][0]['source']['related_domain_passages'] = {Domain.family.value: [selector]}
+    (folder/'manifest.json').write_text(json.dumps(manifest)); load_bundle(target, folder)
+    retained = target.versions('official')[0]
+    assert retained['source'].related_domain_passages[Domain.family] == [selector]
+    assert retained['source'].review_status == 'reviewed'
+    assert str(retained['source'].last_verification_date) == '2026-10-12' and not retained['active']

@@ -23,7 +23,7 @@ Setup loads the included corpus offline. Validate source-based evidence, or expl
 .\.venv\Scripts\python.exe -m vidhaan.cli search 'wholesome drinking water in plantations'
 ```
 
-Download/type/title/checksum failures are actionable errors. Do not replace an expected checksum to make it pass; inspect an actual new official version first. If government sites are inaccessible, import a downloaded official file with explicit source metadata using the CLI, or use the separate synthetic demo. The final ZIP starts with 21 included sources; an empty source-only checkout has no coverage until sources are imported.
+Download/type/title/checksum failures are actionable errors. Do not replace an expected checksum to make it pass; inspect an actual new official version first. If government sites are inaccessible, import a downloaded official file with explicit source metadata using the CLI, or use the separate synthetic demo. The final ZIP starts with 83 included sources; an empty source-only checkout has no coverage until sources are imported.
 
 ## Optional CPU embeddings and generation
 
@@ -76,4 +76,4 @@ Troubleshooting: missing `py -3.12` means Python/launcher installation; missing 
 
 ## Included corpus
 
-The final ZIP contains 21 source documents across all eight domains. Setup and launch load them offline with checksum checks; first loading builds the local text index. Repeat loads preserve review and excluded/newer versions. Two Labour Ministry FAQs remain optional online downloads under their source terms. Use Workspace settings → Load project documents offline for direct Python startup. See `docs/CORPUS_REUSE.md` for attribution and reproduction records.
+The final ZIP contains 83 source documents and eight portable BM25 indexes across all eight domains. Setup and launch load them offline with checksum checks; loading verifies the included inverted indexes against local source chunks. Repeat loads preserve review and excluded/newer versions. Two Labour Ministry FAQs remain optional online downloads under their source terms. Use Workspace settings → Load project documents offline for direct Python startup. See `docs/CORPUS_REUSE.md` for attribution and reproduction records.

@@ -1,0 +1,440 @@
+Micro, Small And Medium Enterprises Development Act, 2006
+
+Source: Income Tax Department, Ministry of Finance, Government of India
+https://www.incometaxindia.gov.in/micro-small-and-medium-enterprises-development-act-2006
+English department collection; legal currency and applicability unreviewed.
+Editorial section labels precede source body text. HTML layout whitespace is normalized.
+No physical PDF pagination is asserted. Original API responses and section links are retained.
+
+[Section 1: Short title and commencement]
+MICRO, SMALL AND MEDIUM ENTERPRISES DEVELOPMENT ACT, 2006
+[27 OF 2006]
+An Act to provide for facilitating the promotion and development and enhancing the competitiveness of micro, small and medium enterprises and for matters connected therewith or incidental thereto.
+WHEREAS a declaration as to expediency of control of certain industries by the Union was made under section 2 of the Industries (Development and Regulation) Act, 1951;
+AND WHEREAS it is expedient to provide for facilitating the promotion and development and enhancing the competitiveness of micro, small and medium enterprises and for matters connected therewith or incidental thereto;
+BE it enacted by Parliament in the Fifty-seventh Year of the Republic of India as follows :â€”
+CHAPTER I
+PRELIMINARY
+Short title and commencement.
+1. (1) This Act may be called the Micro, Small and Medium Enterprises Development Act, 2006.
+(2) It shall come into force on such date as the Central Government may, by notification, appoint; and different dates may be appointed for different provisions of this Act and any reference in any such provision to the commencement of this Act shall be construed as a reference to the coming into force of that provision.
+© Copyright. Taxmann Publications Pvt. Ltd.
+
+[Section 2: Definitions]
+Definitions
+2. In this Act, unless the context otherwise requires,—
+(a)
+"Advisory Committee" means the committee constituted by the Central Government under sub-section (2) of section 7;
+(b)
+"appointed day" means the day following immediately after the expiry of the period of fifteen days from the day of acceptance or the day of deemed acceptance of any goods or any services by a buyer from a supplier.
+Explanation : For the purposes of this clause, —
+(i)
+"the day of acceptance" means, —
+(a)
+the day of the actual delivery of goods or the rendering of services; or
+(b)
+where any objection is made in writing by the buyer regarding acceptance of goods or services within fifteen days from the day of the delivery of goods or the rendering of services, the day on which such objection is removed by the supplier;
+(ii)
+"the day of deemed acceptance" means, where no objection is made in writing by the buyer regarding acceptance of goods or services within fifteen days from the day of the delivery of goods or the rendering of services, the day of the actual delivery of goods or the rendering of services;
+(c)
+"Board" means the National Board for Micro, Small and Medium Enterprises established under section 3;
+(d)
+"buyer" means whoever buys any goods or receives any services from a supplier for consideration;
+[(da)
+"Development Commissioner" means the administrative head of the office of Development Commissioner of the Government of India in the Ministry of Micro, Small and Medium Enterprises;]
+(e)
+"enterprise" means an industrial undertaking or a business concern or any other establishment, by whatever name called, engaged in the manufacture or production of goods, in any manner, pertaining to any industry specified in the First Schedule to the Industries (Development and Regulation) Act, 1951 (65 of 1951) or engaged in providing or rendering of any service or services;
+(f)
+"goods" means every kind of movable property other than actionable claims and money;
+(g)
+"medium enterprise" means an enterprise classified as such under [***] sub-section (1) of section 7;
+(h)
+"micro enterprise" means an enterprise classified as such under [***] sub-section (1) of section 7;
+(i)
+"National Bank" means the National Bank for Agriculture and Rural Development established under section 3 of the National Bank for Agriculture and Rural Development Act, 1981 (61 of 1981);
+(j)
+"notification" means a notification published in the Official Gazette [and the expression "notify" shall be construed accordingly];
+(k)
+"prescribed" means prescribed by rules made under this Act;
+(l)
+"Reserve Bank" means the Reserve Bank of India constituted under section 3 of the Reserve Bank of India Act, 1934 (2 of 1934);
+(m)
+"small enterprise" means an enterprise classified as such under [***] sub-section (1) of section 7;
+(n)
+"supplier" means a micro or small enterprise, which has filed a memorandum with the authority referred to in sub-section (1) of section 8, and includes, —
+(i)
+the National Small Industries Corporation, being a company, registered under the Companies Act, 1956 (1 of 1956);
+(ii)
+the Small Industries Development Corporation of a State or a Union territory, by whatever name called, being a company registered under the Companies Act, 1956 (1 of 1956);
+(iii)
+any company, co-operative society, trust or a body, by whatever name called, registered or constituted under any law for the time being in force and engaged in selling goods produced by micro or small enterprises and rendering services which are provided by such enterprises;
+(o)
+"Small Industries Bank" means the Small Industries Development Bank of India established under sub-section (1) of section 3 of the Small Industries Development Bank of India Act, 1989 (39 of 1989);
+(p)
+"State Government", in relation to a Union territory, means the Administrator thereof appointed under article 239 of the Constitution.
+© Copyright. Taxmann Publications Pvt. Ltd.
+
+[Section 3: Establishment of Board]
+CHAPTER II
+NATIONAL BOARD FOR MICRO, SMALL AND MEDIUM ENTERPRISES
+Establishment of Board
+3. (1) With effect from such date as the Central Government may, by notification, appoint, there shall be established, for the purposes of this Act, a Board to be known as the National Board for Micro, Small and Medium Enterprises.
+(2) The head office of the Board shall be at Delhi.
+(3) The Board shall consist of the following members, namely: —
+(a)
+the Minister in charge of the Ministry or Department of the Central Government having administrative control of the micro, small and medium enterprises who shall be the ex officio Chairperson of the Board;
+(b)
+the Minister of State or a Deputy Minister, if any, in the Ministry or Department of the Central Government having administrative control of the micro, small and medium enterprises who shall be ex officio Vice-Chairperson of the Board, and where there is no such Minister of State or Deputy Minister, such person as may be appointed by the Central Government to be the Vice-Chairperson of the Board;
+(c)
+six Ministers of the State Governments having administrative control of the departments of small industries or, as the case may be, micro, small and medium enterprises, to be appointed by the Central Government to represent such regions of the country as may be notified by the Central Government in this behalf, ex officio;
+(d)
+three Members of Parliament of whom two shall be elected by the House of the People and one by the Council of States;
+(e)
+the Administrator of a Union territory to be appointed by the Central Government, ex officio;
+(f)
+the Secretary to the Government of India in charge of the Ministry or Department of the Central Government having administrative control of the micro, small and medium enterprises, ex officio;
+(g)
+four Secretaries to the Government of India, to represent the Ministries of the Central Government dealing with commerce and industry, finance, food processing industries, labour and planning to be appointed by the Central Government, ex officio;
+(h)
+the Chairman of the Board of Directors of the National Bank, ex officio;
+(i)
+the Chairman and managing director of the Board of Directors of the Small Industries Bank, ex officio;
+(j)
+the Chairman, Indian Banks Association, ex officio;
+(k)
+one officer of the Reserve Bank, not below the rank of an Executive Director, to be appointed by the Central Government to represent the Reserve Bank;
+(l)
+twenty persons to represent the associations of micro, small and medium enterprises, including not less than three persons representing associations of women's enterprises and not less than three persons representing associations of micro enterprises, to be appointed by the Central Government;
+(m)
+three persons of eminence, one each from the fields of economics, industry and science and technology, not less than one of whom shall be a woman, to be appointed by the Central Government;
+(n)
+two representatives of Central Trade Union Organisations, to be appointed by the Central Government; and
+(o)
+[the Development Commissioner] in the Ministry or Department of the Central Government having administrative control of the micro, small and medium enterprises to be appointed by the Central Government, who shall be the Member-Secretary of the Board, ex officio.
+(4) The term of office of the members of the Board, other than ex officio members of the Board, the manner of filling vacancies, and the procedure to be followed in the discharge of their functions by the members of the Board, shall be such as may be prescribed:
+Provided that the term of office of an ex officio member of the Board shall continue so long as he holds the office by virtue of which he is such a member.
+(5) No act or proceedings of the Board shall be invalid merely by reason of —
+(a)
+any vacancy in, or any defect in the constitution of, the Board; or
+(b)
+any defect in the appointment of a person acting as a member of the Board; or
+(c)
+any irregularity in the procedure of the Board not affecting the merits of the case.
+(6) The Board shall meet at least once in every three months in a year.
+(7) The Board may associate with itself, in such manner and for such purposes as it may deem necessary, any person or persons whose assistance or advice it may desire in complying with any of the provisions of this Act and a person so associated shall have the right to take part in the discussions of the Board relevant to the purposes for which he has been associated but shall not have the right to vote.
+(8) Without prejudice to sub-section (7), the Chairperson of the Board shall, for not less than two of the meetings of the Board in a year, invite such Ministers of the State Governments having administrative control of the departments of small scale industries or, as the case may be, the micro, small and medium enterprises, or the Administrators of Union territories and representatives of such other associations of micro, small and medium enterprises, as he may deem necessary for carrying out the purposes of this Act.
+(9) It is hereby declared that the office of member of the Board shall not disqualify its holder for being chosen as, or for being, a member of either House of Parliament.
+© Copyright. Taxmann Publications Pvt. Ltd.
+
+[Section 4: Removal of member from Board]
+Removal of member from Board.
+4. (1) The Central Government may remove a member of the Board from it, if heâ€”
+(a) Â is, or at any time has been, adjudged as insolvent; or
+(b) Â is, or becomes, of unsound mind and stands so declared by a competent court; or
+(c) Â refuses to act or becomes incapable of acting as a member of the Board; or
+(d) Â has been convicted of an offence which, in the opinion of the Central Government, involves moral turpitude; or
+(e) Â has so abused, in the opinion of the Central Government, his position as a member of the Board as to render his continuance in the Board detrimental to the interests of the general public.
+(2) Notwithstanding anything contained in sub-section (1), no member shall be removed from his office on the grounds specified in clauses (c) to (e) of that sub-section unless he has been given a reasonable opportunity of being heard in the matter.
+© Copyright. Taxmann Publications Pvt. Ltd.
+
+[Section 5: Functions of Board]
+Functions of Board.
+5. The Board shall, subject to the general directions of the Central Government, perform all or any of the following functions, namely :â€”
+(a) Â examine the factors affecting the promotion and development of micro, small and medium enterprises and review the policies and programmes of the Central Government in regard to facilitating the promotion and development and enhancing the competitiveness of such enterprises and the impact thereof on such enterprises;
+(b) Â make recommendations on matters referred to in clause (a) or on any other matter referred to it by the Central Government which, in the opinion of that Government, is necessary or expedient for facilitating the promotion and development and enhancing the competitiveness of the micro, small and medium enterprises; and
+(c) Â advise the Central Government on the use of the Fund or Funds constituted under section 12 .
+© Copyright. Taxmann Publications Pvt. Ltd.
+
+[Section 6: Powers and functions of Member-Secretary of Board]
+Powers and functions of Member-Secretary of Board
+6. Subject to other provisions of this Act, the Member-Secretary of the Board shall exercise such powers and perform such functions as may be prescribed.
+© Copyright. Taxmann Publications Pvt. Ltd.
+
+[Section 7: Classification of enterprises]
+CHAPTER III
+CLASSIFICATION OF ENTERPRISES, ADVISORY COMMITTEE AND MEMORANDUM OF MICRO, SMALL AND MEDIUM ENTERPRISES
+Classification of enterprises
+7.[(1) Notwithstanding anything contained in section 11B of the Industries (Development and Regulation) Act, 1951 (65 of 1951), the Central Government may, by notification, classify the enterprises as micro, small and medium enterprises, having regard to the provisions of sub-sections (4) and (5), and subject to such limits as it may consider necessary as to both of the following criteria, namely: —
+(a)
+investment in plant and machinery or equipment; and
+(b)
+turnover.
+Explanation 1.—For the removal of doubts, it is hereby clarified that in calculating the investment in plant and machinery, the cost of pollution control, research and development, industrial safety devices and such other items as may be specified, by notification, shall be excluded.
+Explanation 2.—It is clarified that the provisions of section 29B of the Industries (Development and Regulation) Act, 1951 (65 of 1951) shall be applicable to the enterprises specified in this sub-section.]
+(2) The Central Government shall, by notification, constitute an Advisory Committee consisting of the following members, namely: —
+(a)
+the Secretary to the Government of India in the Ministry or Department of the Central Government having administrative control of the small and medium enterprises who shall be the Chairperson, ex officio;
+(b)
+not more than five officers of the Central Government possessing necessary expertise in matters relating to micro, small and medium enterprises, members, ex officio;
+(c)
+not more than three representatives of the State Governments, members, ex officio; and
+(d)
+one representative each of the associations of micro, small and medium enterprises, members, ex officio.
+(3) The Member-Secretary of the Board shall also be the ex-officio Member-Secretary of the Advisory Committee.
+(4) The Central Government shall, prior to classifying any class or classes of enterprises under sub-section (1), obtain the recommendations of the Advisory Committee.
+(5) The Advisory Committee shall examine the matters referred to it by the Board in connection with any subject referred to in section 5 and furnish its recommendations to the Board.
+(6) The Central Government may seek the advice of the Advisory Committee on any of the matters specified in section 9, 10, 11, 12 or 14 of Chapter IV.
+(7) The State Government may seek advice of the Advisory Committee on any of the matters specified in the rules made under section 30.
+(8) The Advisory Committee shall, after considering the following matters, communicate its recommendations or advice to the Central Government or, as the case may be, State Government or the Board, namely: —
+(a)
+the level of employment in a class or classes of enterprises;
+(b)
+the level of investments in plant and machinery or equipment in a class or classes of enterprises;
+(c)
+the need of higher investment in plant and machinery or equipment for technological upgradation, employment gene ration and enhanced competitiveness of the class or classes of enterprises;
+(d)
+the possibility of promoting and diffusing entrepreneurship in micro, small or medium enterprises; and
+(e)
+the international standards for classification of small and medium enterprises.
+(9) Notwithstanding anything contained in section 11B of the Industries (Development and Regulation) Act, 1951 (65 of 1951) and clause (h) of section 2 of the Khadi and Village Industries Commission Act, 1956 (61 of 1956), the Central Government may, while classifying any class or classes of enterprises under sub-section (1), vary, from time to time, the criterion of investment and also consider criteria or standards in respect of employment or turnover of the enterprises and include in such classification the micro or tiny enterprises or the village enterprises, as part of small enterprises.
+© Copyright. Taxmann Publications Pvt. Ltd.
+
+[Section 8: Memorandum of micro, small and medium enterprises]
+[Memorandum of micro, small And medium enterprises .
+8. (1)The Central Government shall notify a national digital platform for free and voluntary filing of memorandum for registration of micro, small and medium enterprises, to empower and enable them to avail the benefits from the Central Government under the provisions of this Act in such form and manner as may be prescribed by the Central Government.
+(2) The State Government may notify a State digital platform for free and voluntary filing of memorandum for registration of micro, small and medium enterprises in the State, to avail the applicable benefits from the State Government in such form and manner as may be prescribed by the State Government.
+Explanation.—For the purposes of this section, it is hereby clarified that the State Government may also provide to micro, small and medium enterprises registered under sub-section (1), applicable benefits under their Schemes.]
+© Copyright. Taxmann Publications Pvt. Ltd.
+
+[Section 9: Measures for promotion and development]
+CHAPTER IV
+MEASURES FOR PROMOTION, DEVELOPMENT AND ENHANCEMENT OF COMPETITIVENESS OF MICRO, SMALL AND MEDIUM ENTERPRISES
+Measures for promotion and development.
+9. The Central Government may, from time to time, for the purposes of facilitat- ing the promotion and development and enhancing the competitiveness of micro, small and medium enterprises, particularly of the micro and small enterprises, by way of development of skill in the employees, management and entrepreneurs, provisioning for technological upgradation marketing assistance or infrastructure facilities and cluster development of such enterprises with a view to strengthening backward and forward linkages, specify, by notification, such programmes, guidelines or instructions, as it may deem fit.
+© Copyright. Taxmann Publications Pvt. Ltd.
+
+[Section 10: Credit facilities]
+Credit facilities.
+10. The policies and practices in respect of credit to the micro, small and medium enterprises shall be progressive and such as may be specified in the guidelines or instructions issued by the Reserve Bank, from time to time, to ensure timely and smooth flow of credit to such enterprises, minimise the incidence of sickness among and enhance the competitiveness of such enterprises.
+© Copyright. Taxmann Publications Pvt. Ltd.
+
+[Section 11: Procurement preference policy]
+Procurement preference policy.
+11. For facilitating promotion and development of micro and small enterprises, the Central Government or the State Government may, by order notify from time to time, preference policies in respect of procurement of goods and services, produced and provided by micro and small enterprises, by its Ministries or departments, as the case may be, or its aided institutions and public sector enterprises.
+© Copyright. Taxmann Publications Pvt. Ltd.
+
+[Section 12: Funds]
+Funds.
+12. There shall be constituted, by notification, one or more Funds to be called by such name as may be specified in the notification and there shall be credited thereto any grants made by the Central Government under section 13.
+© Copyright. Taxmann Publications Pvt. Ltd.
+
+[Section 13: Grants by Central Government]
+Grants by Central Government.
+13. The Central Government may, after due appropriation made by Parliament by law in this behalf, credit to the Fund or Funds by way of grants for the purposes of this Act, such sums or money as that Government may consider necessary to provide.
+© Copyright. Taxmann Publications Pvt. Ltd.
+
+[Section 14: Administration and utilisation of Fund or Funds]
+Administration and utilisation of Fund or Funds
+14. (1) The Central Government shall have the power to administer the Fund or Funds in such manner as may be prescribed.
+(2) The Fund or Funds shall be utilised exclusively for the measures specified in [***] section 9.
+(3) The Central Government shall be responsible for the co-ordination and ensuring timely utilisation and release of sums in accordance with such criteria as may be prescribed.
+© Copyright. Taxmann Publications Pvt. Ltd.
+
+[Section 15: Liability of buyer to make payment]
+CHAPTER V
+DELAYED PAYMENTS TO MICRO AND SMALL ENTERPRISES
+Liability of buyer to make payment
+15. Where any supplier, supplies any goods or renders any services to any buyer, the buyer shall make payment therefor on or before the date agreed upon between him and the supplier in writing or, where there is no agreement in this behalf, before the appointed day :
+Provided that in no case the period agreed upon between the supplier and the buyer in writing shall exceed forty-five days from the day of acceptance or the day of deemed acceptance.
+© Copyright. Taxmann Publications Pvt. Ltd.
+
+[Section 15A: Mandatory settlement of receivables through Trade Receivables Discounting System]
+[Mandatory settlement of receivables through Trade Receivables Discounting System.
+15A. (1) Notwithstanding anything contained in this Act or any other law for the time being in force, every Central Public Sector Enterprise shall, in respect of procurement of goods or services from micro, small and medium enterprises, route the settlement of invoices through a Trade Receivables Discounting System platform, authorised by the Reserve Bank, in such form and manner as may be prescribed by the Central Government.
+(2) The Central Government may, by notification, specify any other authority, body, or entity other than Central Public Sector Enterprise, in respect of procurement of goods or services from micro, small and medium enterprises, who shall thereafter route the settlement of invoices as provided for in sub-section (1), in such form and manner as may be prescribed by the Central Government.
+(3) The State Government may, by notification, specify such State Public Sector Enterprise, any other authority, body, or entity, in respect of procurement of goods or services from micro, small and medium enterprises, who shall thereafter route the settlement of invoices as provided for in sub-section (1), in such form and manner as may be prescribed by the State Government.
+Explanation.—For the purposes of this section, the expression "Trade Receivables Discounting System" means an electronic platform for facilitating the financing or discounting of trade receivables of micro, small and medium enterprises in accordance with the guidelines issued by the Reserve Bank from time to time.]
+© Copyright. Taxmann Publications Pvt. Ltd.
+
+[Section 16: Date from which and rate at which interest is payable]
+Date from which and rate at which interest is payable.
+16. Where any buyer fails to make payment of the amount to the supplier, as required under section 15 , the buyer shall, notwithstanding anything contained in any agreement between the buyer and the supplier or in any law for the time being in force, be liable to pay compound interest with monthly rests to the supplier on that amount from the appointed day or, as the case may be, from the date immediately following the date agreed upon, at three times of the bank rate notified by the Reserve Bank.
+© Copyright. Taxmann Publications Pvt. Ltd.
+
+[Section 17: Recovery of amount due]
+Recovery of amount due.
+17. For any goods supplied or services rendered by the supplier, the buyer shall be liable to pay the amount with interest thereon as provided under section 16.
+© Copyright. Taxmann Publications Pvt. Ltd.
+
+[Section 18: Reference to Micro and Small Enterprises Facilitation Council]
+[Reference to Micro and Small Enterprises Facilitation Council.
+18. (1) Notwithstanding anything contained in any other law for the time being in force, any party to a dispute may, with regard to any amount due under section 17, make a reference to the Micro and Small Enterprises Facilitation Council.
+(2) On receipt of a reference under sub-section (1), the Council shall either conduct mediation itself or refer the matter to any mediation service provider as provided under the Mediation Act, 2023.
+(3) The conduct of mediation under this section shall be as per the provisions of the Mediation Act, 2023 [except the time-limit for completion of mediation provided under section 18 of that Act, and for the purposes of this Act, such time-limit shall be as per sub-section (3A).]
+[(3A) The Micro and Small Enterprises Facilitation Council or mediation service provider, as the case may be, shall complete the mediation within a period of ninety days from the date fixed for first appearance.]
+(4) Where the mediation initiated under sub-section (3) is not successful and stands terminated without any settlement between the parties, the Council shall [within a period of thirty days from the date of termination of mediation] either itself take up the dispute for arbitration or refer it to any institution or centre providing alternative dispute resolution services for such arbitration and the provisions of the Arbitration and Conciliation Act, 1996 (26 of 1996), shall, then apply to the dispute as if the arbitration was in pursuance of an arbitration agreement referred to in sub-section (1) of section 7 of that Act.
+[(4A) Notwithstanding anything contained in any other law for the time being in force, the Micro and Small Enterprises Facilitation Council or any institution or centre providing alternative dispute resolution services, as the case may be, shall make the award within a period of ninety days from the date of completion of pleadings.]
+[(5) Notwithstanding anything contained in any other law for the time being in force, the Micro and Small Enterprises Facilitation Council or mediation service provider or any institution or centre providing alternative dispute resolution services shall have jurisdiction to act as a mediator or arbitrator under this section in a dispute between the supplier, whose official address as per the registration made under section 8, is located within its jurisdiction and a buyer located anywhere in India.
+(6) The Central Government may, by notification, establish an online mechanism for conducting online mediation or arbitration through audio-video and other electronic means, under this section.
+(7) The procedure and manner of online mechanism referred to in sub-section (6) shall be such as may be prescribed by the Central Government.
+Explanation.—For the purposes of this Act, the expression "audio-video and other electronic means" shall include use of any communication device for video conferencing, filing of pleadings, communication, recording of evidence, transmission of electronic communication, for the purposes of conduct of arbitral proceedings and any other matters incidental thereto.]]
+© Copyright. Taxmann Publications Pvt. Ltd.
+
+[Section 18A: Enforcement of mediated settlement agreements and arbitral awards]
+[Enforcement of mediated settlement agreements and arbitral awards.
+18A. (1) The mediated settlement agreement or arbitral award made by the Micro and Small Enterprises Facilitation Council itself or mediation service provider or any institution or centre providing alternative dispute resolution services to which a reference is made under section 18, may be recovered as an arrear of land revenue by the State Government through District Collector or Deputy Commissioner or any such authority notified by the State in this behalf, where the assets of the buyer is located.
+(2) The amount determined by the mediated settlement agreement or arbitral award shall constitute a valid and legally enforceable debt and is liable to be recognised under the provisions of the Insolvency and Bankruptcy Code, 2016.]
+© Copyright. Taxmann Publications Pvt. Ltd.
+
+[Section 19: Application for setting aside decree, award or order]
+[Application for setting aside decree, award or mediated settlement agreement.
+19. (1) No application for setting aside any decree, award, other order or mediated settlement agreement made under section 18 shall be entertained by any court unless the applicant (not being a supplier) has mandatorily deposited with it seventy-five per cent. of the amount in terms of the award or the mediated settlement agreement, as the case may be.
+(2) Pending disposal of the application to set aside the decree, award, other order or mediated settlement agreement, as the case may be, the court shall order that such percentage of the amount deposited shall be paid to the supplier, as it considers reasonable under the circumstances of the case:
+Provided that if the application has been pending for more than six months, the court shall order to pay to the supplier a sum equivalent to at least fifty per cent. of the amount awarded from the amount deposited by the applicant.
+(3) The application under sub-section (1) shall be filed within the jurisdiction of the court where official address of the supplier is located as referred to in section 8.]
+© Copyright. Taxmann Publications Pvt. Ltd.
+
+[Section 20: Establishment of Micro and Small Enterprises Facilitation Council]
+[Establishment of Micro and Small Enterprises Facilitation Council.
+20. (1) The State Government shall, by notification, establish adequate number of Micro and Small Enterprises Facilitation Council, in addition to the existing Council, at such places, exercising such jurisdiction, and for such areas, as may be specified in that notification.
+(2) The Micro and Small Enterprises Facilitation Council shall meet on regular basis for timely resolution of references made under section 18, at such intervals and in accordance with such procedure as may be prescribed by the State Government.
+(3) The State Government may provide adequate infrastructure and resources, including physical infrastructure, digital systems and trained manpower, as may be necessary for effective and timely disposal of references, to the Council established under this section.]
+© Copyright. Taxmann Publications Pvt. Ltd.
+
+[Section 21: Composition of Micro and Small Enterprises Facilitation Council]
+[Composition of Micro and Small Enterprises Facilitation Council.
+21. (1) The Micro and Small Enterprises Facilitation Council shall consist of not less than three but not more than five members.
+(2) Each Micro and Small Enterprises Facilitation Council constituted by the State Government shall include the following members, namely:—
+(a)
+an officer not below the rank of Joint Director as the Chairperson of the Micro and Small Enterprises Facilitation Council; and
+(b)
+one or more office-bearers or representatives of associations of micro or small industry or enterprises; and
+(c)
+at least one member from the field of law.
+(3) Subject to the provisions of sub-sections (1) and (2), the composition of the Micro and Small Enterprises Facilitation Council, the manner of filling vacancies of its members and the procedure to be followed in the discharge of their functions by the members shall be such, as may be prescribed by the State Government.]
+© Copyright. Taxmann Publications Pvt. Ltd.
+
+[Section 22: Requirement to specify unpaid amount with interest in the annual statement of accounts]
+Requirement to specify unpaid amount with interest in the annual statement of accounts.
+22. Where any buyer is required to get his annual accounts audited under any law for the time being in force, such buyer shall furnish the following additional information in his annual statement of accounts, namely:â€”
+(i) Â the principal amount and the interest due thereon (to be shown separately) remaining unpaid to any supplier as at the end of each accounting year;
+(ii) Â the amount of interest paid by the buyer in terms of section 16, along with the amounts of the payment made to the supplier beyond the appointed day during each accounting year;
+(iii) Â the amount of interest due and payable for the period of delay in making payment (which have been paid but beyond the appointed day during the year) but without adding the interest specified under this Act;
+(iv) Â the amount of interest accrued and remaining unpaid at the end of each accounting year; and
+(v) Â the amount of further interest remaining due and payable even in the succeeding years, until such date when the interest dues as above are actually paid to the small enterprise, for the purpose of disallowance as a deductible expenditure under section 23.
+© Copyright. Taxmann Publications Pvt. Ltd.
+
+[Section 22A: Reporting of compliance]
+[Reporting of compliance.
+22A. (1) Every Central Public Sector Enterprise or any other authority, body or entity, notified by the Central Government, shall disclose the details of invoices of micro, small and medium enterprises routed and settled through Trade Receivables Discounting System platform as referred to in sub-sections (1) and (2) of section 15A, in such form and manner as may be prescribed by the Central Government.
+(2) Every State Public Sector Enterprise or any other authority, body, or entity, notified by the State Government, shall disclose the details of invoices of micro, small and medium enterprises routed and settled through Trade Receivables Discounting System platform as referred to in sub-section (3) of section 15A, in such form and manner as may be prescribed by the State Government.]
+© Copyright. Taxmann Publications Pvt. Ltd.
+
+[Section 23: Interest not to be allowed as deduction from income]
+Interest not to be allowed as deduction from income.
+23. Notwithstanding anything contained in the Income-tax Act, 1961 (43 of 1961), the amount of interest payable or paid by any buyer, under or in accordance with the provisions of this Act, shall not, for the purposes of computation of income under the Income-tax Act, 1961, be allowed as deduction.
+© Copyright. Taxmann Publications Pvt. Ltd.
+
+[Section 24: Overriding effect]
+Overriding effect.
+24. The provisions of sections 15 to 23 shall have effect notwithstanding anything inconsistent therewith contained in any other law for the time being in force.
+© Copyright. Taxmann Publications Pvt. Ltd.
+
+[Section 25: Scheme for closure of business of micro, small and medium enterprises]
+Scheme for closure of business of micro, small and medium enterprises.
+25. Notwithstanding anything contained in any law for the time being in force, the Central Government may, with a view to facilitating closure of business by a micro, small or medium enterprise, not being a company registered under the Companies Act, 1956 (1 of 1956), notify a Scheme within one year from the date of commencement of this Act.
+© Copyright. Taxmann Publications Pvt. Ltd.
+
+[Section 26: Appointment of officers and other employees]
+CHAPTER VI
+MISCELLANEOUS
+Appointment of officers and other employees.
+26. (1) The Central Government or the State Government may appoint such officers with such designations and such other employees as it thinks fit for the purposes of this Act and may entrust to them such of the powers and functions under this Act as it may deem fit.
+(2) The Officers appointed under sub-section (1) may, for the purposes of this Act, by order require any person to furnish such information, in such form, as may be prescribed.
+© Copyright. Taxmann Publications Pvt. Ltd.
+
+[Section 27: Penalty for contravention of section 8 or section 22 or section 26]
+[Penalty for contravention of section 8 or section 22 or section 26.
+27. (1) Whoever wilfully furnishes false information in the memorandum of registration filed under section 8 or fails to comply with the provisions of sub-section (2) of section 26 shall be—
+(a)
+warned at the first instance of non-compliance;
+(b)
+liable to penalty which shall not be less than one thousand rupees but which may extend to fifty thousand rupees in case of second or subsequent instances of non-compliance.
+(2) Where a buyer contravenes the provisions of section 22, he shall be—
+(a)
+warned at the first instance of non-compliance;
+(b)
+liable to penalty which shall not be less than ten thousand rupees but which may extend to fifty thousand rupees in case of second contravention;
+(c)
+punishable with fine which shall not be less than fifty thousand rupees but which may extend to one lakh rupees in case of third or subsequent contravention.
+(3) The penalties provided under this section shall be increased by ten per cent. of minimum amount of penalty provided therefor, after the expiry of every three years from the date of commencement of the Micro, Small and Medium Enterprises Development (Amendment) Act, 2026, as may be notified by the Central Government.]
+© Copyright. Taxmann Publications Pvt. Ltd.
+
+[Section 27A: Adjudication of penalties]
+[Adjudication of penalties.
+27A. (1) For the purposes of adjudging the penalties under section 27, the Central Government shall appoint the Development Commissioner to be an adjudicating officer for holding an inquiry and imposing penalty in such manner as may be prescribed by the Central Government:
+Provided that no such penalty shall be imposed without giving the person concerned a reasonable opportunity of being heard.
+(2) Whoever is aggrieved by an order of the adjudicating officer under sub-section (1) may prefer an appeal to the Secretary to the Government of India in charge of the Ministry or Department of the Central Government having administrative control of micro, small and medium enterprises, within a period of thirty days from the date of receipt of such order in such form and manner as may be prescribed by the Central Government.
+(3) An appeal may be admitted after the expiry of the period of thirty days if the appellant satisfies the appellate authority that he had sufficient cause for not preferring the appeal within that period.
+(4) The appellate authority may, after giving the party to the appeal an opportunity of being heard, pass such order as it may think fit.
+(5) An appeal under sub-section (2) shall be disposed of within a period of sixty days from the date of filing.
+(6) If penalty imposed by the adjudicating officer under sub-section (1) or by an order of the appellate authority under sub-section (4), is not deposited, the amount shall be recovered as an arrear of land revenue.]
+© Copyright. Taxmann Publications Pvt. Ltd.
+
+[Section 28: Jurisdiction of Courts]
+Jurisdiction of Courts.
+28. No court inferior to that of a Metropolitan Magistrate or a Magistrate of the first class shall try any offence punishable under this Act.
+© Copyright. Taxmann Publications Pvt. Ltd.
+
+[Section 29: Power to make rules]
+Power to make rules
+29. (1) The Central Government may, by notification, make rules to carry out the provisions of this Act.
+(2) In particular, and without prejudice to the generality of the foregoing power, such rules may provide for all or any of the following matters, namely: —
+(a)
+the term of office of the members of the Board, the manner of filling vacancies, and the procedure to be followed in the discharge of functions by the members of the Board under sub-section (4) of section 3;
+(b)
+the powers and functions of the Member-Secretary under section 6;
+[(ba)
+the form and manner to file memorandum for registration of micro, small and medium enterprises under sub-section (1) of section 8;]
+(c)
+the manner in which the Fund may be administered under sub-section (1) of section 14;
+(d)
+the criteria based on which sums may be released under sub-section (3) of section 14;
+[(da)
+the form and manner to route the settlement of invoices through Trade Receivables Discounting System platform under sub-sections (1) and (2) of section 15A;
+(db)
+the procedure and manner of online mechanism under sub-section (7) of section 18;
+(dc)
+the form and manner to disclose the details of invoices of micro, small and medium enterprises under sub-section (1) of section 22A;]
+(e)
+the information to be furnished and the form in which it is to be furnished under sub-section (2) of section 26;
+[(ea)
+the manner of holding inquiry and imposing penalties under sub-section (1) of section 27A;
+(eb)
+the form and manner of preferring appeal to the appellate authority against the order of adjudicating officer under sub-section (2) of section 27A; and]
+(f)
+any other matter which is to be or may be prescribed under this Act.
+(3) Every notification issued under section 9 and every rule made by the Central Government under this section shall be laid, as soon as may be after it is made, before each House of Parliament, while it is in session, for a total period of thirty days which may be comprised in one session or in two or more successive sessions, and if, before the expiry of the session immediately following the session or the successive sessions aforesaid, both Houses agree in making any modification in the notification or rule or both Houses agree that the notification or rule should not be made, the notification or rule shall thereafter have effect only in such modified form or be of no effect, as the case may be; so, however, that any such modification or annulment shall be without prejudice to the validity of anything previously done under that notification or rule.
+© Copyright. Taxmann Publications Pvt. Ltd.
+
+[Section 30: Power to make rules by State Government]
+Power to make rules by State Government
+30. (1) The State Government may, by notification, make rules to carry out the provisions of this Act.
+(2) In particular, and without prejudice to the generality of the foregoing power, such rules may provide for all or any of the following matters, namely: —
+[(a)
+the form and manner to file memorandum for registration of micro, small and medium enterprises under sub-section (2) of section 8;
+(b)
+the form and manner to route the settlement of invoices through Trade Receivables Discounting System platform under sub-section (3) of section 15A;
+(c)
+the intervals and procedure for meeting of the Micro and Small Enterprises Facilitation Council under sub-section (2) of section 20;
+(d)
+the composition of the Micro and Small Enterprises Facilitation Council, the manner of filling vacancies of the members and the procedure to be followed in the discharge of their functions by the members of that Council under sub-section (3) of section 21;
+(e)
+the form and manner to disclose the details of invoices of micro, small and medium enterprises under sub-section (2) of section 22A; and
+(f)
+any other matter which is to be, or may be, prescribed under this Act..]
+(3) The rule made under this section shall, as soon as may be after it is made, be laid before each House of the State Legislature where there are two Houses, and where there is one House of the State Legislature, before that House.
+© Copyright. Taxmann Publications Pvt. Ltd.
+
+[Section 31: Power to remove difficulties]
+Power to remove difficulties.
+31. (1) If any difficulty arises in giving effect to the provisions of this Act, the Central Government may, by order published in the Official Gazette, make such provisions not inconsistent with the provisions of this Act as may appear to be necessary for removing the difficulty:
+Provided that no order shall be made under this section after the expiry of two years from the commencement of this Act.
+(2) Every order made under this section shall, as soon as may be after it is made, be laid before each House of Parliament.
+© Copyright. Taxmann Publications Pvt. Ltd.
+
+[Section 32: Repeal of Act]
+Repeal of Act.
+32. (1) The Interest on Delayed Payments to Small Scale and Ancillary Industrial Undertakings Act, 1993 (32 of 1993) is hereby repealed.
+(2) Notwithstanding such repeal, anything done or any action taken under the Act so repealed under sub-section (1) shall be deemed to have been done or taken under the corresponding provisions of this Act.
+© Copyright. Taxmann Publications Pvt. Ltd.

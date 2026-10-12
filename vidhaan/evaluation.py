@@ -93,5 +93,5 @@ def evaluate(registry, settings, cases_path: Path, output: Path, modes=('bm25','
     (output/'results.json').write_text(json.dumps(report,indent=2),encoding='utf-8')
     with (output/'results.csv').open('w',newline='',encoding='utf-8') as fp:
         keys = ['case_id','split','mode','status','recall_at_k','mrr','behavior_correct','latency_seconds','human_legal_support']
-        writer=csv.DictWriter(fp,fieldnames=keys,extrasaction='ignore');writer.writeheader();writer.writerows(rows)
+        writer=csv.DictWriter(fp,fieldnames=keys,extrasaction='ignore',lineterminator='\n');writer.writeheader();writer.writerows(rows)
     return report

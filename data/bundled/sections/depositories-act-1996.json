@@ -1,0 +1,500 @@
+{
+  "renderer": "official-sections-v1",
+  "receipt_mode": "bundled-section-records-v1",
+  "category_id": 4208986,
+  "source_document_sha256": "9a6d6febc4aa5063cb56b3db74562c108b0257707068bfd4c6d1c9454311c318",
+  "sections": [
+    {
+      "id": "5407251",
+      "number": "1",
+      "locator": "Section 1: Short title, extent and commencement",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-1-156",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5407251",
+      "body": "Short title, extent and commencement\nDEPOSITORIES ACT, 1996\n[22 OF 1996]\nAn Act to provide for regulation of depositories in securities and for matters connected therewith or incidental thereto.\nBE it enacted by Parliament in the Forty-seventh Year of the Republic of India as follows :—\nCHAPTER I\nPRELIMINARY\nShort title, extent and commencement.\n1. (1) This Act may be called the Depositories Act, 1996.\n(2) It extends to the whole of India.\n(3) It shall be deemed to have come into force on the 20th day of September, 1995.\n© Copyright. Taxmann Publications Pvt. Ltd."
+    },
+    {
+      "id": "5407284",
+      "number": "2",
+      "locator": "Section 2: Definitions",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-2-157",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5407284",
+      "body": "Definitions\nDefinitions.\n2. (1) In this Act, unless the context otherwise requires,—\n(a) \"beneficial owner\" means a person whose name is recorded as such with a depository;\n(b) \"Board\" means the Securities and Exchange Board of India established under section 3 of the Securities and Exchange Board of India Act, 1992 (15 of 1992);\n(c) \"bye-laws\" means bye-laws made by a depository under section 26;\n(d) \"Company Law Board\" means the Board of Company Law Administration constituted under section 10E of the Companies Act, 1956 (1 of 1956);\n(e) \"depository\" means a company formed and registered under the Companies Act, 1956 (1 of 1956), and which has been granted a certificate of registration under sub-section (1A) of section 12 of the Securities and Exchange Board of India Act, 1992 (15 of 1992);\n(f) \"issuer\" means any person making an issue of securities;\n(g) \"participant\" means a person registered as such under sub-section (1A) of section 12 of the Securities and Exchange Board of India Act, 1992 (15 of 1992);\n(h) \"prescribed\" means prescribed by rules made under this Act;\n(i) \"record\" includes the records maintained in the form of books or stored in a computer or in such other form as may be determined by regulations;\n(j) \"registered owner\" means a depository whose name is entered as such in the register of the issuer;\n(k) \"regulations\" means the regulations made by the Board;\n[(ka) \"Securities Appellate Tribunal\" means a Securities Appellate Tribunal established under sub-section (1) of section 15K of the Securities and Exchange Board of India Act, 1992 (15 of 1992);]\n(l) \"security\" means such security as may be specified by the Board;\n(m) \"service\" means any service connected with recording of allotment of securities or transfer of ownership of securities in the record of a depository.\n(2) Words and expressions used herein and not defined but defined in the Companies Act, 1956 (1 of 1956), or the Securities Contracts (Regulation) Act, 1956 (42 of 1956), or the Securities and Exchange Board of India Act, 1992 (15 of 1992), shall have the meanings respectively assigned to them in those Acts.\n© Copyright. Taxmann Publications Pvt. Ltd."
+    },
+    {
+      "id": "5407317",
+      "number": "3",
+      "locator": "Section 3: Certificate of commencement of business by depositories.",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-3-155",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5407317",
+      "body": "CHAPTER II\nCERTIFICATE OF COMMENCEMENT OF BUSINESS\nCertificate of commencement of business by depositories.\n3 . (1) No depository shall act as a depository unless it obtains a certificate of commencement of business from the Board.\n(2) A certificate granted under sub-section (1) shall be in such form as may be specified by the regulations.\n(3) The Board shall not grant a certificate under sub-section (1) unless it is satisfied that the depository has adequate systems and safeguards to prevent manipulation of records and transactions :\nProvided that no certificate shall be refused under this section unless the depository concerned has been given a reasonable opportunity of being heard.\n© Copyright. Taxmann Publications Pvt. Ltd."
+    },
+    {
+      "id": "5407350",
+      "number": "4",
+      "locator": "Section 4: Agreement between depository and participant",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-4-156",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5407350",
+      "body": "CHAPTER III\nRIGHTS AND OBLIGATIONS OF DEPOSITORIES, PARTICIPANTS, ISSUERS AND BENEFICIAL OWNERS\nAgreement between depository and participant.\n4. (1) A depository shall enter into an agreement with one or more participants as its agent.\n(2) Every agreement under sub-section (1) shall be in such form as may be specified by the bye-laws.\n© Copyright. Taxmann Publications Pvt. Ltd."
+    },
+    {
+      "id": "5407383",
+      "number": "5",
+      "locator": "Section 5: Services of depository",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-5-155",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5407383",
+      "body": "Services of depository .\n5 . Any person, through a participant, may enter into an agreement, in such form as may be specified by the bye-laws, with any depository for availing its services.\n© Copyright. Taxmann Publications Pvt. Ltd."
+    },
+    {
+      "id": "5407416",
+      "number": "6",
+      "locator": "Section 6: Surrender of certificate of security.",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-6-156",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5407416",
+      "body": "Surrender of certificate of security.\n6. (1) Any person who has entered into an agreement under section 5 shall surrender the certificate of security, for which he seeks to avail the services of a depository, to the issuer in such manner as may be specified by the regulations.\n(2) The issuer, on receipt of certificate of security under sub-section (1), shall cancel the certificate of security and substitute in its records the name of the depository as a registered owner in respect of that security and inform the depository accordingly.\n(3) A depository shall, on receipt of information under sub-section (2), enter the name of the person referred to in sub-section (1) in its records, as the beneficial owner.\n© Copyright. Taxmann Publications Pvt. Ltd."
+    },
+    {
+      "id": "5407449",
+      "number": "7",
+      "locator": "Section 7: Registration of transfer of securities with depository",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-7-156",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5407449",
+      "body": "Registration of transfer of securities with depository\nRegistration of transfer of securities with depository.\n7. (1) Every depository shall, on receipt of intimation from a participant, register the transfer of security in the name of the transferee.\n[(1A) Every depository on receipt of intimation from a participant register any transfer of security in favour of an asset reconstruction company as defined in clause (ba) of sub-section (1) of section 2 of the Securitisation and Reconstruction of Financial Assets and Enforcement of Security Interest Act, 2002 (54 of 2002) along with or consequent upon transfer or assignment of financial asset of any bank or financial institution under sub-section (1) of section 5 of that Act.\n(1B) Every depository, on receipt of intimation from a participant, register any issue of new shares in favour of any bank or financial institution or asset reconstruction company or any other assignee of such bank or financial institution or asset reconstruction company, as the case may be, by conversion of part of their debt into shares pursuant to reconstruction of debts of the company agreed between the company and the bank or financial institution or asset reconstruction company.\nExplanation.—For the purpose of this section, the expressions \"asset reconstruction company\", \"bank\", and \"financial institution\" shall have the meanings assigned to them respectively under clauses (ba), (c) and (m) of sub-section (1) of section 2 of the Securitisation and Reconstruction of Financial Assets and Enforcement of Security Interest Act, 2002 (54 of 2002).]\n(2) If a beneficial owner or a transferee of any security seeks to have custody of such security the depository shall inform the issuer accordingly.\n© Copyright. Taxmann Publications Pvt. Ltd."
+    },
+    {
+      "id": "5407482",
+      "number": "8",
+      "locator": "Section 8: Options to receive security certificate or hold securities with depository.",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-8-156",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5407482",
+      "body": "Options to receive security certificate or hold securities with depository.\n8 . (1) Every person subscribing to securities offered by an issuer shall have the option either to receive the security certificates or hold securities with a depository.\n(2) Where a person opts to hold a security with a depository, the issuer shall intimate such depository the details of allotment of the security, and on receipt of such information the depository shall enter in its records the name of the allottee as the beneficial owner of that security.\n© Copyright. Taxmann Publications Pvt. Ltd."
+    },
+    {
+      "id": "5407515",
+      "number": "9",
+      "locator": "Section 9: Securities in depositories to be in fungible form",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-9-155",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5407515",
+      "body": "Securities in depositories to be in fungible form\nSecurities in depositories to be in fungible form.\n9. (1) All securities held by a depository shall be dematerialised and shall be in a fungible form.\n[(2) Nothing contained in sections 153, 153A, 153B, 187B, 187C and 372 of the Companies Act, 1956 (1 of 1956), shall apply to a depository in respect of securities held by it on behalf of the beneficial owners.]\n© Copyright. Taxmann Publications Pvt. Ltd."
+    },
+    {
+      "id": "5407548",
+      "number": "10",
+      "locator": "Section 10: Rights of depositories and beneficial owner.",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-10-154",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5407548",
+      "body": "Rights of depositories and beneficial owner.\n10 . (1) Notwithstanding anything contained in any other law for the time being in force, a depository shall be deemed to be the registered owner for the purposes of effecting transfer of ownership of security on behalf of a beneficial owner.\n(2) Save as otherwise provided in sub-section (1), the depository as a registered owner shall not have any voting rights or any other rights in respect of securities held by it.\n(3) The beneficial owner shall be entitled to all the rights and benefits and be subjected to all the liabilities in respect of his securities held by a depository.\n© Copyright. Taxmann Publications Pvt. Ltd."
+    },
+    {
+      "id": "5407581",
+      "number": "11",
+      "locator": "Section 11: Register of beneficial owner",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-11-152",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5407581",
+      "body": "Register of beneficial owner\nRegister of beneficial owner.\n11. Every depository shall maintain a register and an index of beneficial owners in the manner provided in sections 150, 151 and 152 of the Companies Act, 1956 (1 of 1956).\n© Copyright. Taxmann Publications Pvt. Ltd."
+    },
+    {
+      "id": "5407614",
+      "number": "12",
+      "locator": "Section 12: Pledge or hypothecation of securities held in a depository",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-12-153",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5407614",
+      "body": "Pledge or hypothecation of securities held in a depository .\n12 . (1) Subject to such regulations and bye-laws, as may be made in this behalf, a beneficial owner may with the previous approval of the depository create a pledge or hypothecation in respect of a security owned by him through a depository.\n(2) Every beneficial owner shall give intimation of such pledge or hypothecation to the depository and such depository shall thereupon make entries in its records accordingly.\n(3) Any entry in the records of a depository under sub-section (2) shall be evidence of a pledge or hypothecation.\n© Copyright. Taxmann Publications Pvt. Ltd."
+    },
+    {
+      "id": "5407647",
+      "number": "13",
+      "locator": "Section 13: Furnishing of information and records by depository and issuer.",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-13-152",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5407647",
+      "body": "Furnishing of information and records by depository and issuer.\n13. (1) Every depository shall furnish to the issuer information about the transfer of securities in the name of beneficial owners at such intervals and in such manner as may be specified by the bye-laws.\n(2) Every issuer shall make available to the depository copies of the relevant records in respect of securities held by such depository.\n© Copyright. Taxmann Publications Pvt. Ltd."
+    },
+    {
+      "id": "5407680",
+      "number": "14",
+      "locator": "Section 14: Option to opt out in respect of any security.",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-14-149",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5407680",
+      "body": "Option to opt out in respect of any security.\n14 . (1) If a beneficial owner seeks to opt out of a depository in respect of any security he shall inform the depository accordingly.\n(2) The depository shall on receipt of intimation under sub-section (1) make appropriate entries in its records and shall inform the issuer.\n(3) Every issuer shall, within thirty days of the receipt of intimation from the depository and on fulfilment of such conditions and on payment of such fees as may be specified by the regulations, issue the certificate of securities to the beneficial owner or the transferee, as the case may be.\n© Copyright. Taxmann Publications Pvt. Ltd."
+    },
+    {
+      "id": "5407713",
+      "number": "15",
+      "locator": "Section 15: Act 18 of 1891 to apply to depositories.",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-15-148",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5407713",
+      "body": "Act 18 of 1891 to apply to depositories.\n15. The Bankers' Books Evidence Act, 1891 shall apply in relation to a depository as if it were a bank as defined in section 2 of that Act.\n© Copyright. Taxmann Publications Pvt. Ltd."
+    },
+    {
+      "id": "5407746",
+      "number": "16",
+      "locator": "Section 16: Depositories to indemnify loss in certain cases.",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-16-148",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5407746",
+      "body": "Depositories to indemnify loss in certain cases.\n16. (1) Without prejudice to the provisions of any other law for the time being in force, any loss caused to the beneficial owner due to the negligence of the depository or the participant, the depository shall indemnify such beneficial owner.\n(2) Where the loss due to the negligence of the participant under sub-section (1) is indemnified by the depository, the depository shall have the right to recover the same from such participant.\n© Copyright. Taxmann Publications Pvt. Ltd."
+    },
+    {
+      "id": "5407779",
+      "number": "17",
+      "locator": "Section 17: Rights and obligations of depositories, etc.",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-17-147",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5407779",
+      "body": "Rights and obligations of depositories, etc.\n17 . (1) Subject to the provisions of this Act, the rights and obligations of the depositories, participants and the issuers whose securities are dealt with by a depository shall be specified by the regulations.\n(2) The eligibility criteria for admission of securities into the depository shall be specified by the regulations.\n© Copyright. Taxmann Publications Pvt. Ltd."
+    },
+    {
+      "id": "5407812",
+      "number": "18",
+      "locator": "Section 18: Power of Board to call for information and enquiry.",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-18-135",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5407812",
+      "body": "CHAPTER IV\nENQUIRY AND INSPECTION\nPower of Board to call for information and enquiry.\n18.. (1) The Board, on being satisfied that it is necessary in the public interest or in the interest of investors so to do, may, by order in writing,—\n(a) call upon any issuer, depository, participant or beneficial owner to furnish in writing such information relating to the securities held in a depository as it may require; or\n(b) authorise any person to make an enquiry or inspection in relation to the affairs of the issuer, beneficial owner, depository or participant, who shall submit a report of such enquiry or inspection to it within such period as may be specified in the order.\n(2) Every director, manager, partner, secretary, officer or employee of the depository or issuer or the participant or beneficial owner shall on demand produce before the person making the enquiry or inspection all information or such records and other documents in his custody having a bearing on the subject-matter of such enquiry or inspection.\n© Copyright. Taxmann Publications Pvt. Ltd."
+    },
+    {
+      "id": "5407845",
+      "number": "19",
+      "locator": "Section 19: Power of Board to give directions in certain cases",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-19-129",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5407845",
+      "body": "Power of Board to give directions in certain cases\nPower of Board to give directions in certain cases.\n19. [(1)] Save as provided in this Act, if after making or causing to be made an enquiry or inspection, the Board is satisfied that it is necessary—\n(i) in the interest of investors, or orderly development of securities market; or\n(ii) to prevent the affairs of any depository or participant being conducted in the manner detrimental to the interests of investors or securities market,\nit may issue such directions,—\n(a) to any depository or participant or any person associated with the securities market; or\n(b) to any issuer,\nas may be appropriate in the interest of investors or the securities market.\n[(2) Without prejudice to the provisions contained in sub-section (1) and section 19H, the Board may, by order, for reasons to be recorded in writing, levy penalty under sections 19A, 19B, 19C, 19D, 19E, 19F, 19FA, 19G after holding an inquiry in the prescribed manner.]\n[Explanation.—For the removal of doubts, it is hereby declared that power to issue directions under this section shall include and always be deemed to have been included the power to direct any person, who made profit or averted loss by indulging in any transaction or activity in contravention of the provisions of this Act or regulations made thereunder, to disgorge an amount equivalent to the wrongful gain made or loss averted by such contravention.]\n© Copyright. Taxmann Publications Pvt. Ltd."
+    },
+    {
+      "id": "5407878",
+      "number": "19A",
+      "locator": "Section 19A: Penalty for failure to furnish information, return, etc.",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-19a-2",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5407878",
+      "body": "Penalty for failure to furnish information, return, etc.\n[Penalty for failure to furnish information, return, etc.\n19A. Any person, who is required under this Act or any rules or regulations or bye-laws made thereunder,—\n(a) to furnish any information, document, books, returns or report to the Board, fails to furnish the same within the time specified therefor, he [or who furnishes or files false, incorrect or incomplete information, return, report, books or other documents] shall be liable to a penalty [which shall not be less than one lakh rupees but which may extend to one lakh rupees for each day during which such failure continues subject to a maximum of one crore rupees] for each such failure;\n(b) to file any return or furnish any information, books or other documents within the time specified therefor in the regulations or bye-laws, fails to file return or furnish the same within the time specified therefor, he [or who furnishes or files false, incorrect or incomplete information, return, report, books or other documents, he] shall be liable to a penalty [which shall not be less than one lakh rupees but which may extend to one lakh rupees for each day during which such failure continues subject to a maximum of one crore rupees];\n(c) to maintain books of account or records, fails to maintain the same, he shall be liable to a [which shall not be less than one lakh rupees but which may extend to one lakh rupees for each day during which such failure continues subject to a maximum of one crore rupees];\n© Copyright. Taxmann Publications Pvt. Ltd."
+    },
+    {
+      "id": "5407911",
+      "number": "19B",
+      "locator": "Section 19B: Penalty for failure to enter into an agreement",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-19b",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5407911",
+      "body": "Penalty for failure to enter into an agreement\nPenalty for failure to enter into an agreement.\n19B. If a depository or participant or any issuer or its agent or any person, who is registered as an intermediary under the provisions of section 12 of the Securities and Exchange Board of India Act, 1992 (15 of 1992), and is required under this Act or any rules or regulations made thereunder, to enter into an agreement, fails to enter into such agreement, such depository or participant or issuer or its agent or intermediary shall be liable to a penalty [which shall not be less than one lakh rupees but which may extend to one lakh rupees for each day during which such failure continues subject to a maximum of one crore rupees]; for every such failure.\n© Copyright. Taxmann Publications Pvt. Ltd."
+    },
+    {
+      "id": "5407944",
+      "number": "19C",
+      "locator": "Section 19C: Penalty for failure to redress investors' grievances",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-19c",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5407944",
+      "body": "Penalty for failure to redress investors' grievances\nPenalty for failure to redress investors' grievances.\n19C. If any depository or participant or any issuer or its agent or any person, who is registered as an intermediary under the provisions of section 12 of the Securities and Exchange Board of India Act, 1992 (15 of 1992), after having been called upon by the Board in writing, to redress the grievances of the investors, fails to redress such grievances within the time specified by the Board, such depository or participant or issuer or its agents or intermediary shall be liable to a penalty [which shall not be less than one lakh rupees but which may extend to one lakh rupees for each day during which such failure continues subject to a maximum of one crore rupees];\n© Copyright. Taxmann Publications Pvt. Ltd."
+    },
+    {
+      "id": "5407977",
+      "number": "19D",
+      "locator": "Section 19D: Penalty for delay in dematerialisation or issue of certificate of securities",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-19d",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5407977",
+      "body": "Penalty for delay in dematerialisation or issue of certificate of securities\nPenalty for delay in dematerialisation or issue of certificate of securities.\n19D. If any issuer or its agent or any person, who is registered as an intermediary under the provisions of section 12 of the Securities and Exchange Board of India Act, 1992 (15 of 1992), fails to dematerialise or issue the certificate of securities on opting out of a depository by the investors, within the time specified under this Act or regulations or bye-laws made thereunder or abets in delaying the process of dematerialisation or issue the certificate of securities on opting out of a depository of securities, such issuer or its agent or intermediary shall be liable to a penalty [which shall not be less than one lakh rupees but which may extend to one lakh rupees for each day during which such failure continues subject to a maximum of one crore rupees];\n© Copyright. Taxmann Publications Pvt. Ltd."
+    },
+    {
+      "id": "5408010",
+      "number": "19E",
+      "locator": "Section 19E: Penalty for failure to reconcile records",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-19e",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5408010",
+      "body": "Penalty for failure to reconcile records\nPenalty for failure to reconcile records.\n19E. If a depository or participant or any issuer or its agent or any person, who is registered as an intermediary under the provisions of section 12 of the Securities and Exchange Board of India Act, 1992 (15 of 1992), fails to reconcile the records of dematerialised securities with all the securities issued by the issuer as specified in the regulations, such depository or participant or issuer or its agent or intermediary shall be liable to a penalty [which shall not be less than one lakh rupees but which may extend to one lakh rupees for each day during which such failure continues subject to a maximum of one crore rupees];\n© Copyright. Taxmann Publications Pvt. Ltd."
+    },
+    {
+      "id": "5408043",
+      "number": "19F",
+      "locator": "Section 19F: Penalty for failure to comply with directions issued by Board under <a href=\"javascript:ShowMainContent('Act', 'CMSID', '102120000000002562', '');\">section 19</a> of the Act",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-19f",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5408043",
+      "body": "Penalty for failure to comply with directions issued by Board under <a href=\"javascript:ShowMainContent('Act', 'CMSID', '102120000000002562', '');\">section 19</a> of the Act\nPenalty for failure to comply with directions issued by Board under section 19 of the Act.\n19F. If any person fails to comply with the directions issued by the Board under section 19, within the time specified by it, he shall be liable to a penalty [which shall not be less than one lakh rupees but which may extend to one lakh rupees for each day during which such failure continues subject to a maximum of one crore rupees];\n© Copyright. Taxmann Publications Pvt. Ltd."
+    },
+    {
+      "id": "5408076",
+      "number": "19FA",
+      "locator": "Section 19FA: Penalty for failure to conduct business in a fair manner",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-19fa",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5408076",
+      "body": "[Penalty for failure to conduct business in a fair manner.\n19FA. Where a depository fails to conduct its business with its participants or any issuer or its agent or any person associated with the securities markets in a fair manner in accordance with the rules, regulations made by the Board or directions issued by the Board under this Act, it shall be liable to penalty which shall not be less than five crore rupees but which may extend to twenty-five crore rupees or three times the amount of gains made out of such failure, whichever is higher.]\n© Copyright. Taxmann Publications Pvt. Ltd."
+    },
+    {
+      "id": "5408109",
+      "number": "19G",
+      "locator": "Section 19G: Penalty for contravention where no separate penalty has been provided",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-19g",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5408109",
+      "body": "Penalty for contravention where no separate penalty has been provided\nPenalty for contravention where no separate penalty has been provided.\n19G. Whoever fails to comply with any provision of this Act, the rules or the regulations or bye-laws made or directions issued by the Board thereunder for which no separate penalty has been provided, shall be [liable to a penalty which shall not be less than one lakh rupees but which may extend to one crore rupees].\n© Copyright. Taxmann Publications Pvt. Ltd."
+    },
+    {
+      "id": "5408142",
+      "number": "19H",
+      "locator": "Section 19H: Power to adjudicate",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-19h",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5408142",
+      "body": "Power to adjudicate\nPower to adjudicate.\n19H. (1) For the purpose of adjudging under sections 19A, 19B, 19C, 19D, 19E, [ 19F, 19FA and 19G, the Board may] appoint any officer not below the rank of a Division Chief of the Securities and Exchange Board of India to be an adjudicating officer for holding an inquiry in the prescribed manner after giving any person concerned a reasonable opportunity of being heard for the purpose of imposing any penalty.\n(2) While holding an inquiry, the adjudicating officer shall have power to summon and enforce the attendance of any person acquainted with the facts and circumstances of the case to give evidence or to produce any document, which in the opinion of the adjudicating officer, may be useful for or relevant to the subject-matter of the inquiry and if, on such inquiry, he is satisfied that the person has failed to comply with the provisions of any of the sections specified in sub-section (1), he may impose such penalty as he thinks fit in accordance with the provisions of any of those sections.\n[(3) The Board may call for and examine the record of any proceedings under this section and if it considers that the order passed by the adjudicating officer is erroneous to the extent it is not in the interests of the securities market, it may, after making or causing to be made such inquiry as it deems necessary, pass an order enhancing the quantum of penalty, if the circumstances of the case so justify:\nProvided that no such order shall be passed unless the person concerned has been given an opportunity of being heard in the matter:\nProvided further that nothing contained in this sub-section shall be applicable after an expiry of a period of three months from the date of the order passed by the adjudicating officer or disposal of the appeal under section 23A, whichever is earlier.]\n© Copyright. Taxmann Publications Pvt. Ltd."
+    },
+    {
+      "id": "5408307",
+      "number": "19J",
+      "locator": "Section 19J: Crediting sums realised by way of penalties to Consolidated Fund of India.",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-19j",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5408307",
+      "body": "Crediting sums realised by way of penalties to Consolidated Fund of India.\n19J. All sums realised by way of penalties under this Act shall be credited to the Consolidated Fund of India.]\n© Copyright. Taxmann Publications Pvt. Ltd."
+    },
+    {
+      "id": "5408340",
+      "number": "20",
+      "locator": "Section 20: Offences",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-20-130",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5408340",
+      "body": "Offences\nCHAPTER V\n[MISCELLANEOUS]\n[Offences.\n20. (1) Without prejudice to any award of penalty by the adjudicating officer [or the Board] under this Act, if any person contravenes or attempts to contravene or abets the contravention of the provisions of this Act or of any rules or regulations or bye-laws made thereunder, he shall be punishable with imprisonment for a term which may extend to ten years, or with fine, which may extend to twenty-five crore rupees, or with both.\n(2) If any person fails to pay the penalty imposed by the [adjudicating officer or the Board or fails to comply with any] directions or orders, he shall be punishable with imprisonment for a term which shall not be less than one month but which may extend to ten years, or with fine, which may extend to twenty-five crore rupees, or with both.]\n© Copyright. Taxmann Publications Pvt. Ltd."
+    },
+    {
+      "id": "5408373",
+      "number": "21",
+      "locator": "Section 21: Contravention by companies",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-21-129",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5408373",
+      "body": "Contravention by companies\n[Contravention by companies.]\n21. (1) Where [a contravention of any of the provisions of this Act or any rule, regulation, direction or order made thereunder] has been committed by a company, every person who at the time the [contravention] was committed was in charge of, and was responsible to, the company for the conduct of the business of the company, as well as the company, shall be deemed to be guilty of the [contravention] and shall be liable to be proceeded against and punished accordingly :\nProvided that nothing contained in this sub-section shall render any such person liable to any punishment provided in this Act, if he proves that the [contravention] was committed without his knowledge or that he had exercised all due diligence to prevent the commission of such [contravention].\n(2) Notwithstanding anything contained in sub-section (1), where [a contravention of any of the provisions of this Act or any rule, regulation, direction or order made thereunder] has been committed by a company and it is proved that the [contravention] has been committed with the consent or connivance of, or is attributable to any neglect on the part of, any director, manager, secretary or other officer of the company, such director, manager, secretary or other officer shall also be deemed to be guilty of the [contravention] and shall be liable to be proceeded against and punished accordingly.\nExplanation.—For the purposes of this section,—\n(a) \"company\" means any body corporate and includes a firm or other association of individuals; and\n(b) \"director\", in relation to a firm, means a partner in the firm.\n© Copyright. Taxmann Publications Pvt. Ltd."
+    },
+    {
+      "id": "5408406",
+      "number": "22",
+      "locator": "Section 22: Cognizance of offences by courts",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-22-145",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5408406",
+      "body": "Cognizance of offences by courts\n[***]\n[Cognizance of offences by courts.\n22.(1) No court shall take cognizance of any offence punishable under this Act or any rules or regulations or bye-laws made thereunder, save on a complaint made by the Central Government or State Government or the Securities and Exchange Board of India or by any person.\n(2) [***]\n© Copyright. Taxmann Publications Pvt. Ltd."
+    },
+    {
+      "id": "5408439",
+      "number": "22A",
+      "locator": "Section 22A: Composition of certain offences.",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-22a-5",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5408439",
+      "body": "Composition of certain offences.\n22A . Notwithstanding anything contained in the Code of Criminal Procedure, 1973 (2 of 1974), any offence punishable under this Act, not being an offence punishable with imprisonment only, or with imprisonment and also with fine, may either before or after the institution of any proceeding, be compounded by a Securities Appellate Tribunal or a court before which such proceedings are pending.\n© Copyright. Taxmann Publications Pvt. Ltd."
+    },
+    {
+      "id": "5408472",
+      "number": "22B",
+      "locator": "Section 22B: Power to grant immunity.",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-22b-4",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5408472",
+      "body": "Power to grant immunity.\n22B. (1) The Central Government may, on recommendation by the Board, if the Central Government is satisfied, that any person, who is alleged to have violated any of the provisions of this Act or the rules or the regulations made thereunder, has made a full and true disclosure in respect of alleged violation, grant to such person, subject to such conditions as it may think fit to impose, immunity from prosecution for any offence under this Act, or the rules or the regulations made thereunder or also from the imposition of any penalty under this Act with respect to the alleged violation :\nProvided that no such immunity shall be granted by the Central Government in cases where the proceedings for the prosecution for any such offence have been instituted before the date of receipt of application for grant of such immunity :\nProvided further that recommendation of the Board under this sub-section shall not be binding upon the Central Government.\n(2) An immunity granted to a person under sub-section (1) may, at any time, be withdrawn by the Central Government, if it is satisfied that such person had, in the course of the proceedings, not complied with the condition on which the immunity was granted or had given false evidence, and thereupon such person may be tried for the offence with respect to which the immunity was granted or for any other offence of which he appears to have been guilty in connection with the contravention and shall also become liable to the imposition of any penalty under this Act to which such person would have been liable, had not such immunity been granted.]\n© Copyright. Taxmann Publications Pvt. Ltd."
+    },
+    {
+      "id": "5408505",
+      "number": "22C",
+      "locator": "Section 22C: Establishment of Special Courts",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-22c-4",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5408505",
+      "body": "Establishment of Special Courts\n[Establishment of Special Courts.\n22C. (1) The Central Government may, for the purpose of providing speedy trial of offences under this Act, by notification, establish or designate as many Special Courts as may be necessary.\n(2) A Special Court shall consist of a single judge who shall be appointed by the Central Government with the concurrence of the Chief Justice of the High Court within whose jurisdiction the judge to be appointed is working.\n(3) A person shall not be qualified for appointment as a judge of a Special Court unless he is, immediately before such appointment, holding the office of a Sessions Judge or an Additional Sessions Judge, as the case may be.]\n© Copyright. Taxmann Publications Pvt. Ltd."
+    },
+    {
+      "id": "5408538",
+      "number": "22D",
+      "locator": "Section 22D: Offences triable by Special Courts",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-22d-4",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5408538",
+      "body": "Offences triable by Special Courts.\n22D. Notwithstanding anything contained in the Code of Criminal Procedure, 1973 (2 of 1974), all offences under this Act committed prior to the date of commencement of the Securities Laws (Amendment) Second Ordinance, 2013 or on or after the date of such commencement, shall be taken cognizance of and triable by the Special Court established for the area in which the offence is committed or where there are more Special Courts than one for such area, by such one of them as may be specified in this behalf by the High Court concerned.\n© Copyright. Taxmann Publications Pvt. Ltd."
+    },
+    {
+      "id": "5408571",
+      "number": "22E",
+      "locator": "Section 22E: Appeal and Revision",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-22e-4",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5408571",
+      "body": "Appeal and Revision.\n22E. The High Court may exercise, so far as may be applicable, all the powers conferred by Chapters XXIX and XXX of the Code of Criminal Procedure, 1973 (2 of 1974) on a High Court, as if a Special Court within the local limits of the jurisdiction of the High Court were a Court of Session trying cases within the local limits of the jurisdiction of the High Court.\n© Copyright. Taxmann Publications Pvt. Ltd."
+    },
+    {
+      "id": "5408604",
+      "number": "22F",
+      "locator": "Section 22F: Application of Code to proceedings before Special Court",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-22f-1",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5408604",
+      "body": "Application of Code to proceedings before Special Court.\n22F. (1) Save as otherwise provided in this Act, the provisions of the Code of Criminal Procedure, 1973 shall apply to the proceedings before a Special Court and for the purposes of the said provisions, the Special Court shall be deemed to be a Court of Session and the person conducting prosecution before a Special Court shall be deemed to be a Public Prosecutor within the meaning of clause (u) of section 2 of the Code of Criminal Procedure, 1973 (2 of 1974).\n(2) The person conducting prosecution referred to in sub-section (1) should have been in practice as an Advocate for not less than seven years or should have held a post, for a period of not less than seven years, under the Union or a State, requiring special knowledge of law.\n© Copyright. Taxmann Publications Pvt. Ltd."
+    },
+    {
+      "id": "5408637",
+      "number": "22G",
+      "locator": "Section 22G: Transitional provisions",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-22g-1",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5408637",
+      "body": "Transitional provisions.\n22G. Any offence committed under this Act, which is triable by a Special Court shall, until a Special Court is established, be taken cognizance of and tried by a Court of Session exercising jurisdiction over the area, notwithstanding anything contained in the Code of Criminal Procedure, 1973 (2 of 1974):\nProvided that nothing contained in this section shall affect the powers of the High Court under section 407 of the Code to transfer any case or class of cases taken cognizance by a Court of Session under this section. ]\n© Copyright. Taxmann Publications Pvt. Ltd."
+    },
+    {
+      "id": "5408670",
+      "number": "23",
+      "locator": "Section 23: Appeals",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-23-144",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5408670",
+      "body": "Appeals\nAppeals.\n23. (1) Any person aggrieved by an order of the Board made [before the commencement of the Securities Laws (Second Amendment) Act, 1999] under this Act, or the regulations made thereunder may prefer an appeal to the Central Government within such time as may be prescribed.\n(2) No appeal shall be admitted if it is preferred after the expiry of the period prescribed therefor :\nProvided that an appeal may be admitted after the expiry of the period prescribed therefor if the appellant satisfies the Central Government that he had sufficient cause for not preferring the appeal within the prescribed period.\n(3) Every appeal made under this section shall be made in such form and shall be accompanied by a copy of the order appealed against and by such fees as may be prescribed.\n(4) The procedure for disposing of an appeal shall be such as may be prescribed :\nProvided that before disposing of an appeal, the appellant shall be given a reasonable opportunity of being heard.\n© Copyright. Taxmann Publications Pvt. Ltd."
+    },
+    {
+      "id": "5408703",
+      "number": "23A",
+      "locator": "Section 23A: Appeal to Securities Appellate Tribunal",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-23a-1",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5408703",
+      "body": "Appeal to Securities Appellate Tribunal\n[Appeal to Securities Appellate Tribunal.\n23A. (1) Save as provided in sub-section (2), any person aggrieved by an order of the Board made, on and after the commencement of the Securities Laws (Second Amendment) Act, 1999, under this Act, or the regulations made thereunder, [or by an order made by an adjudicating officer under this Act] may prefer an appeal to a Securities Appellate Tribunal having jurisdiction in the matter.\n(2) [***]\n(3) Every appeal under sub-section (1) shall be filed within a period of forty-five days from the date on which a copy of the order made by the Board is received by the person referred to in sub-section (1) and it shall be in such form and be accompanied by such fee as may be prescribed :\nProvided that the Securities Appellate Tribunal may entertain an appeal after the expiry of the said period of forty-five days if it is satisfied that there was sufficient cause for not filing it within that period.\n(4) On receipt of an appeal under sub-section (1), the Securities Appellate Tribunal may, after giving the parties to the appeal an opportunity of being heard, pass such orders thereon as it thinks fit, confirming, modifying or setting aside the order appealed against.\n(5) The Securities Appellate Tribunal shall send a copy of every order made by it to the Board and parties to the appeal.\n(6) The appeal filed before the Securities Appellate Tribunal under sub-section (1) shall be dealt with by it as expeditiously as possible and endeavour shall be made by it to dispose of the appeal finally within six months from the date of receipt of the appeal.\n© Copyright. Taxmann Publications Pvt. Ltd."
+    },
+    {
+      "id": "5408736",
+      "number": "23B",
+      "locator": "Section 23B: Procedure and powers of Securities Appellate Tribunal.",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-23b",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5408736",
+      "body": "Procedure and powers of Securities Appellate Tribunal.\n23B. (1) The Securities Appellate Tribunal shall not be bound by the procedure laid down by the Code of Civil Procedure, 1908 (5 of 1908), but shall be guided by the principles of natural justice and, subject to the other provisions of this Act and of any rules, the Securities Appellate Tribunal shall have powers to regulate their own procedure including the places at which they shall have their sittings.\n(2) The Securities Appellate Tribunal shall have, for the purpose of discharging their functions under this Act, the same powers as are vested in a civil court under the Code of Civil Procedure, 1908 (5 of 1908), while trying a suit, in respect of the following matters, namely :—\n(a) summoning and enforcing the attendance of any person and examining him on oath;\n(b) requiring the discovery and production of documents;\n(c) receiving evidence on affidavits;\n(d) issuing commissions for the examination of witnesses or documents;\n(e) reviewing its decisions;\n(f) dismissing an application for default or deciding it ex parte;\n(g) setting aside any order of dismissal of any application for default or any order passed by it ex parte; and\n(h) any other matter which may be prescribed.\n(3) Every proceeding before the Securities Appellate Tribunal shall be deemed to be a judicial proceeding within the meaning of sections 193 and 228, and for the purposes of section 196 of the Indian Penal Code (45 of 1860) and the Securities Appellate Tribunal shall be deemed to be a civil court for all the purposes of section 195 and Chapter XXVI of the Code of Criminal Procedure, 1973 (2 of 1974).\n© Copyright. Taxmann Publications Pvt. Ltd."
+    },
+    {
+      "id": "5408769",
+      "number": "23C",
+      "locator": "Section 23C: Right to legal representation.",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-23c",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5408769",
+      "body": "Right to legal representation.\n23C. The appellant may either appear in person or authorise one or more chartered accountants or company secretaries or cost accountants or legal practitioners or any of its officers to present his or its case before the Securities Appellate Tribunal.\nExplanation.—For the purposes of this section,—\n(a) \"chartered accountant\" means a chartered accountant as defined in clause (b) of sub-section (1) of section 2 of the Chartered Accountants Act, 1949 (38 of 1949) and who has obtained a certificate of practice under sub-section (1) of section 6 of that Act;\n(b) \"company secretary\" means a company secretary as defined in clause (c) of sub-section (1) of section 2 of the Company Secretaries Act, 1980 (56 of 1980) and who has obtained a certificate of practice under sub-section (1) of section 6 of that Act;\n(c) \"cost accountant\" means a cost accountant as defined in clause (b) of sub-section (1) of section 2 of the Cost and Works Accountants Act, 1959 (23 of 1959) and who has obtained a certificate of practice under sub-section (1) of section 6 of that Act;\n(d) \"legal practitioner\" means an advocate, vakil or an attorney of any High Court, and includes a pleader in practice.\n© Copyright. Taxmann Publications Pvt. Ltd."
+    },
+    {
+      "id": "5408802",
+      "number": "23D",
+      "locator": "Section 23D: Limitation.",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-23d",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5408802",
+      "body": "Limitation.\n23D. The provisions of the Limitation Act, 1963 (36 of 1963) shall, as far as may be, apply to an appeal made to a Securities Appellate Tribunal.\n© Copyright. Taxmann Publications Pvt. Ltd."
+    },
+    {
+      "id": "5408835",
+      "number": "23E",
+      "locator": "Section 23E: Civil court not to have jurisdiction.",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-23e",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5408835",
+      "body": "Civil court not to have jurisdiction.\n23E. No civil court shall have jurisdiction to entertain any suit or proceeding in respect of any matter which a Securities Appellate Tribunal is empowered by or under this Act to determine and no injunction shall be granted by any court or other authority in respect of any action taken or to be taken in pursuance of any power conferred by or under this Act.\n© Copyright. Taxmann Publications Pvt. Ltd."
+    },
+    {
+      "id": "5408868",
+      "number": "23F",
+      "locator": "Section 23F: Appeal to Supreme Court",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-23f",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5408868",
+      "body": "Appeal to Supreme Court\n[Appeal to Supreme Court.\n23F.Any person aggrieved by any decision or order of the Securities Appellate Tribunal may file an appeal to the Supreme Court within sixty days from the date of communication of the decision or order of the Securities Appellate Tribunal to him on any question of law arising out of such order :\nProvidedthat the Supreme Court may, if it is satisfied that the appellant was prevented by sufficient cause from filing the appeal within the said period, allow it to be filed within a further period not exceeding sixty days.]]\n© Copyright. Taxmann Publications Pvt. Ltd."
+    },
+    {
+      "id": "5408901",
+      "number": "23G",
+      "locator": "Section 23G: Powers of Board not to apply to International Financial Services Centre",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-23g",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5408901",
+      "body": "[23G. Powers of Board not to apply to International Financial Services Centre\nNotwithstanding anything contained in any other law for the time being in force, the powers exercisable by the Board under this Act,—\n(a) shall not extend to an International Financial Services Centre set up under sub-section (1) of section 18 of the Special Economic Zones Act, 2005 (28 of 2005);\n(b) shall be exercisable by the International Financial Services Centres Authority established under sub-section (1) of section 4 of the International Financial Services Centres Authority Act, 2019,\ninsofar as regulation of financial products, financial services and financial institutions that are permitted in the International Financial Services Centres are concerned.].\n© Copyright. Taxmann Publications Pvt. Ltd."
+    },
+    {
+      "id": "5408934",
+      "number": "24",
+      "locator": "Section 24: Power of Central Government to make rules",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-24-143",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5408934",
+      "body": "Power of Central Government to make rules\nPower of Central Government to make rules.\n24. (1) The Central Government may, by notification in the Official Gazette, make rules for carrying out the provisions of this Act.\n(2) In particular, and without prejudice to the generality of the foregoing power, such rules may provide for all or any of the following matters, namely :—\n[(a) the manner of inquiry under sub-section (1) of section 19H;\n(aa) the time within which an appeal may be preferred under sub-section (1) of section 23;]\n(b) the form in which an appeal may be preferred under sub-section (3) of section 23 and the fees payable in respect of such appeal ;\n(c) the procedure for disposing of an appeal under sub-section (4) of section 23;\n[(d) the form in which an appeal may be filed before the Securities Appellate Tribunal under section 23A and the fees payable in respect of such appeal.]\n© Copyright. Taxmann Publications Pvt. Ltd."
+    },
+    {
+      "id": "5408967",
+      "number": "25",
+      "locator": "Section 25: Power of Board to make regulations.",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-25-142",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5408967",
+      "body": "Power of Board to make regulations.\n25. (1) Without prejudice to the provisions contained in section 30 of the Securities and Exchange Board of India Act, 1992 (15 of 1992), the Board may, by notification in the Official Gazette, make regulations consistent with the provisions of this Act and the rules made thereunder to carry out the purposes of this Act.\n(2) In particular, and without prejudice to the generality of the foregoing power, such regulations may provide for—\n(a) the form in which record is to be maintained under clause (i) of sub-section (1) of section 2;\n(b) the form in which the certificate of commencement of business shall be issued under sub-section (2) of section 3;\n(c) the manner in which the certificate of security shall be surrendered under sub-section (1) of section 6;\n(d) the manner of creating a pledge or hypothecation in respect of security owned by a beneficial owner under sub-section (1) of section 12 ;\n(e) the conditions and the fees payable with respect to the issue of certificate of securities under sub-section (3) of section 14;\n(f) the rights and obligations of the depositories, participants and the issuers under sub-section (1) of section 17;\n(g) the eligibility criteria for admission of securities into the depository under sub-section (2) of section 17.\n© Copyright. Taxmann Publications Pvt. Ltd."
+    },
+    {
+      "id": "5409000",
+      "number": "26",
+      "locator": "Section 26: Power of depositories to make bye-laws",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-26-141",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5409000",
+      "body": "Power of depositories to make bye-laws.\n26. (1) A depository shall, with the previous approval of the Board, make bye-laws consistent with the provisions of this Act and the regulations.\n(2) In particular, and without prejudice to the generality of the foregoing power, such bye-laws shall provide for—\n(a) the eligibility criteria for admission and removal of securities in the depository;\n(b) the conditions subject to which the securities shall be dealt with;\n(c) the eligibility criteria for admission of any person as a participant;\n(d) the manner and procedure for dematerialisation of securities;\n(e) the procedure for transactions within the depository;\n(f) the manner in which securities shall be dealt with or withdrawn from a depository;\n(g) the procedure for ensuring safeguards to protect the interests of participants and beneficial owners;\n(h) the conditions of admission into and withdrawal from a participant by a beneficial owner;\n(i) the procedure for conveying information to the participants and beneficial owners on dividend declaration, shareholder meetings and other matters of interest to the beneficial owners;\n(j) the manner of distribution of dividends, interest and monetary benefits received from the company among beneficial owners;\n(k) the manner of creating pledge or hypothecation in respect of securities held with a depository;\n(l) inter se rights and obligations among the depository, issuer, participants, and beneficial owners;\n(m) the manner and the periodicity of furnishing information to the Board, issuer and other persons;\n(n) the procedure for resolving disputes involving depository, issuer, company or a beneficial owner;\n(o) the procedure for proceeding against the participant committing breach of the regulations and provisions for suspension and expulsion of participants from the depository and cancellation of agreements entered with the depository;\n(p) the internal control standards including procedure for auditing, reviewing and monitoring.\n(3) Where the Board considers it expedient so to do, it may, by order in writing, direct a depository to make any bye-laws or to amend or revoke any bye-laws already made within such period as it may specify in this behalf.\n(4) If the depository fails or neglects to comply with such order within the specified period, the Board may make the bye-laws or amend or revoke the bye-laws made either in the form specified in the order or with such modifications thereof as the Board thinks fit.\n© Copyright. Taxmann Publications Pvt. Ltd."
+    },
+    {
+      "id": "5409033",
+      "number": "27",
+      "locator": "Section 27: Rules and regulations to be laid before Parliament.",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-27-141",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5409033",
+      "body": "Rules and regulations to be laid before Parliament.\n27. Every rule and every regulation made under this Act shall be laid, as soon as may be after it is made, before each House of Parliament, while it is in session, for a total period of thirty days which may be comprised in one session or in two or more successive sessions, and if, before the expiry of the session immediately following the session or the successive sessions aforesaid, both Houses agree in making any modification in the rule or regulation or both Houses agree that the rule or regulation should not be made, the rule or regulation shall thereafter have effect only in such modified form or be of no effect, as the case may be; so, however, that any such modification or annulment shall be without prejudice to the validity of anything previously done under that rule or regulation.\n© Copyright. Taxmann Publications Pvt. Ltd."
+    },
+    {
+      "id": "5409066",
+      "number": "28",
+      "locator": "Section 28: Application of other laws not barred.",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-28-139",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5409066",
+      "body": "Application of other laws not barred.\n28. The provisions of this Act shall be in addition to, and not in derogation of, any other law for the time being in force relating to the holding and transfer of securities.\n© Copyright. Taxmann Publications Pvt. Ltd."
+    },
+    {
+      "id": "5409099",
+      "number": "29",
+      "locator": "Section 29: Removal of difficulties.",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-29-139",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5409099",
+      "body": "Removal of difficulties.\n29. (1) If any difficulty arises in giving effect to the provisions of this Act, the Central Government may, by order published in the Official Gazette, make such provisions not inconsistent with the provisions of this Act as appear to it to be necessary or expedient for removing the difficulty :\nProvided that no order shall be made under this section after the expiry of a period of two years from the commencement of this Act.\n(2) Every order made under this section shall be laid, as soon as may be after it is made, before each House of Parliament.\n© Copyright. Taxmann Publications Pvt. Ltd."
+    },
+    {
+      "id": "5409132",
+      "number": "30",
+      "locator": "Section 30: Amendments to certain enactments",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-30-139",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5409132",
+      "body": "Amendments to certain enactments.\n30. [Repealed by the Repealing & Amending Act, 2001.]\n© Copyright. Taxmann Publications Pvt. Ltd."
+    },
+    {
+      "id": "5409165",
+      "number": "30A",
+      "locator": "Section 30A: Validation of certain acts",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-30a-3",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5409165",
+      "body": "[Validation of certain acts.\n30A. Any act or thing done or purporting to have been done under the principal Act, in respect of settlement of administrative and civil proceedings, shall, for all purposes, be deemed to be valid and effective as if the amendments made to the principal Act had been in force at all material times. ]\n© Copyright. Taxmann Publications Pvt. Ltd."
+    },
+    {
+      "id": "5409198",
+      "number": "31",
+      "locator": "Section 31: Repeal and saving.",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-31-136",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5409198",
+      "body": "Repeal and saving.\n31 (1) The Depositories (Third) Ordinance, 1996 (Ord. 28 of 1996), is hereby repealed.\n(2) Notwithstanding such repeal, anything done or any action taken under the said Ordinance shall be deemed to have been done or taken under the corresponding provisions of this Act.\n© Copyright. Taxmann Publications Pvt. Ltd."
+    },
+    {
+      "id": "5408175",
+      "number": "19-I",
+      "locator": "19-I: Factors to be taken into account while adjudging quantum of penalty",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-19-i",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5408175",
+      "body": "Factors to be taken into account while adjudging quantum of penalty\n[Factors to be taken into account while adjudging quantum of penalty].\n19-I. While adjudging the quantum of penalty under [section 19 or section 19H, the Board or the adjudicating officer] shall have due regard to the following factors, namely:—\n(a) the amount of disproportionate gain or unfair advantage, wherever quantifiable, made as a result of the default;\n(b) the amount of loss caused to an investor or group of investors as a result of the default;\n(c) the repetitive nature of the default.\n[Explanation.—For the removal of doubts, it is clarified that the power [***] to adjudge the quantum of penalty under section 19A to 19F shall be and shall always be deemed to have been exercised under the provisions of this section.]\n© Copyright. Taxmann Publications Pvt. Ltd."
+    },
+    {
+      "id": "5408208",
+      "number": "19-IA",
+      "locator": "19-IA: Settlement of Administrative and Civil Proceedings",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-19-ia",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5408208",
+      "body": "Settlement of Administrative and Civil Proceedings\n[Settlement of Administrative and Civil Proceedings.\n19-IA.(1) Notwithstanding anything contained in any other law for the time being in force, any person, against whom any proceedings have been initiated or may be initiated under section 19 or section 19H, as the case may be, may file an application in writing to the Board proposing for settlement of the proceedings initiated or to be initiated for the alleged defaults.\n(2) The Board may, after taking into consideration the nature, gravity and impact of defaults, agree to the proposal for settlement, on payment of such sum by the defaulter or on such other terms as may be determined by the Board in accordance with the regulations made under the Securities and Exchange Board of India Act, 1992 (15 of 1992).\n(3) For the purpose of settlement under this section, the procedure as specified by the Board under the Securities and Exchange Board of India Act, 1992 (15 of 1992) shall apply.\n(4) No appeal shall lie under section 23A against any order passed by the Board or the adjudicating officer under this section.]\n[(5) All settlement amounts, excluding the disgorgement amount and legal costs, realised under this Act shall be credited to the Consolidated Fund of India.]\n© Copyright. Taxmann Publications Pvt. Ltd."
+    },
+    {
+      "id": "5408241",
+      "number": "19-IB",
+      "locator": "19-IB: Recovery of amounts",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-19-ib",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5408241",
+      "body": "Recovery of amounts\n[Recovery of amounts.\n19-IB. (1) If a person fails to pay the penalty imposed [under this Act] or fails to comply with a direction of disgorgement order issued under section 19 or fails to pay any fees due to the Board, the Recovery Officer may draw up under his signature a statement in the specified form specifying the amount due from the person (such statement being hereafter in this Chapter referred to as certificate) and shall proceed to recover from such person the amount specified in the certificate by one or more of the following modes, namely:—\n(a) attachment and sale of the person's movable property;\n(b) attachment of the person's bank accounts;\n(c) attachment and sale of the person's immovable property;\n(d) arrest of the person and his detention in prison;\n(e) appointing a receiver for the management of the person's movable and immovable properties,\nand for this purpose, the provisions of sections 220 to 227, 228A, 229, 232, the Second and Third Schedules to the Income-tax Act, 1961 (43 of 1961) and the Income-tax (Certificate Proceedings) Rules, 1962, as in force from time to time, insofar as may be, apply with necessary modifications as if the said provisions and the rules thereunder were the provisions of this Act and referred to the amount due under this Act instead of to income-tax under the Income-tax Act, 1961.\nExplanation 1.—For the purposes of this sub-section, the person's movable or immovable property or monies held in bank accounts shall include any property or monies held in bank accounts which has been transferred, directly or indirectly on or after the date when the amount specified in certificate had become due, by the person to his spouse or minor child or son's wife or son's minor child, otherwise than for adequate consideration, and which is held by, or stands in the name of, any of the persons aforesaid; and so far as the movable or immovable property or monies held in bank accounts so transferred to his minor child or his son's minor child is concerned, it shall, even after the date of attainment of majority by such minor child or son's minor child, as the case may be, continue to be included in the person's movable or immovable property or monies held in bank accounts for recovering any amount due from the person under this Act.\nExplanation 2.—Any reference under the provisions of the Second and Third Schedules to the Income-tax Act, 1961 (43 of 1961) and the Income-tax (Certificate Proceedings) Rules, 1962 to the assessee shall be construed as a reference to the person specified in the certificate.\nExplanation 3.—Any reference to appeal in Chapter XVIID and the Second Schedule to the Income-tax Act, 1961 (43 of 1961), shall be construed as a reference to appeal before the Securities Appellate Tribunal under section 23A of this Act.\n(2) The recovery officer shall be empowered to seek the assistance of the local district administration while exercising the powers under sub-section (1).\n(3) Notwithstanding anything contained in any other law for the time being in force, the recovery of amounts by a Recovery Officer under sub-section (1), pursuant to non-compliance with any direction issued by the Board under section 19, shall have precedence over any other claim against such person.\n(4) For the purposes of sub-sections (1), (2) and (3), the expression \"Recovery Officer\" means any officer of the Board who may be authorised, by general or special order in writing, to exercise the powers of a Recovery Officer.]\n© Copyright. Taxmann Publications Pvt. Ltd."
+    },
+    {
+      "id": "5408274",
+      "number": "19-IC",
+      "locator": "19-IC: Continuance of proceedings",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-19-ic",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5408274",
+      "body": "[कार्यवाही जारी रखना।\n19-झग . (1) जहां किसी व्यक्ति की मृत्यु हो जाती है, वहां उसका विधिक प्रतिनिधि किसी भी राशि का भुगतान करने के लिए उत्तरदायी होगा, जिसे मृतक भुगतान करने के लिए उत्तरदायी होता यदि उसकी मृत्यु नहीं हुई होती, उसी प्रकार और उसी सीमा तक जैसे मृतक:\nबशर्ते कि इस अधिनियम के अधीन देय किसी शास्ति के मामले में, विधिक प्रतिनिधि केवल उस स्थिति में उत्तरदायी होगा जब शास्ति मृत व्यक्ति की मृत्यु से पूर्व अधिरोपित की गई हो।\n(2) उपधारा (1) के प्रयोजनों के लिए,--\n(क) इस अधिनियम के तहत वसूली अधिकारी के समक्ष वसूली अधिकारी के समक्ष वसूली के लिए कोई कार्यवाही, जुर्माना लगाने की कार्यवाही को छोड़कर, मृतक के खिलाफ उसकी मृत्यु से पहले शुरू की गई कार्यवाही कानूनी प्रतिनिधि के खिलाफ शुरू की गई मानी जाएगी, और मृतक की मृत्यु की तारीख को जिस चरण पर थी, उसी चरण से कानूनी प्रतिनिधि के खिलाफ जारी रखी जा सकती है और इस अधिनियम के सभी प्रावधान तदनुसार लागू होंगे;\n(ख) इस अधिनियम के अधीन वसूली अधिकारी के समक्ष वसूली के लिए कोई कार्यवाही, जुर्माना लगाने की कार्यवाही को छोड़कर, जो मृतक के जीवित रहने पर उसके विरुद्ध आरंभ की जा सकती थी, विधिक प्रतिनिधि के विरुद्ध आरंभ की जा सकेगी और इस अधिनियम के सभी उपबंध तदनुसार लागू होंगे।\n(3) प्रत्येक विधिक प्रतिनिधि, विधिक प्रतिनिधि के रूप में अपनी क्षमता में उसके द्वारा देय किसी राशि के लिए व्यक्तिगत रूप से उत्तरदायी होगा, यदि ऐसी राशि के लिए उसका दायित्व उन्मोचित न रहते हुए, मृतक की संपदा की किसी ऐसी परिसंपत्ति पर भार डालता है, उसका निपटान करता है, या उससे अलग होता है, जो उसके कब्जे में है या आ सकती है, किन्तु ऐसा दायित्व उस परिसंपत्ति के मूल्य तक सीमित होगा, जिस पर भार डाला गया है, उसका निपटान किया गया है, या उससे अलग हुआ है।\n(4) इस धारा के अंतर्गत किसी विधिक प्रतिनिधि का दायित्व उस सीमा तक सीमित होगा जिस सीमा तक मृतक की संपदा दायित्व को पूरा करने में सक्षम है।\nस्पष्टीकरण। -- इस धारा के प्रयोजनों के लिए \"कानूनी प्रतिनिधि\" का अर्थ है वह व्यक्ति जो कानून के अनुसार किसी मृत व्यक्ति की संपदा का प्रतिनिधित्व करता है, और इसमें वह व्यक्ति भी शामिल है जो मृत व्यक्ति की संपदा में हस्तक्षेप करता है और जहां कोई पक्ष प्रतिनिधि के रूप में वाद लाता है या उस पर वाद लाया जाता है, वहां वह व्यक्ति जिस पर वाद लाने वाले या वाद लाए जाने वाले पक्ष की मृत्यु पर संपदा हस्तांतरित होती है। . ]\n© Copyright. Taxmann Publications Pvt. Ltd."
+    },
+    {
+      "id": "5409231",
+      "number": "Schedule",
+      "locator": "Schedule: AMENDMENTS TO CERTAIN ENACTMENTS",
+      "source_url": "https://www.incometaxindia.gov.in/w/schedule-5",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5409231",
+      "body": "SCHEDULE\n[See section 30]\nAMENDMENTS TO CERTAIN ENACTMENTS\n[Repealed by the Repealing & Amending Act, 2001.]\n© Copyright. Taxmann Publications Pvt. Ltd."
+    }
+  ],
+  "acquisition_response_checksums": [
+    "95ab8a21282ab9464c53981768ed22dfbefa6b7ee4b5e37b8c66f4c070e4c549"
+  ],
+  "note": "Verified body records and acquisition hashes; original HTML/API payloads retained in the acquisition workspace, not redistributed."
+}

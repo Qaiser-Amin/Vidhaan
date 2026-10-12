@@ -1,0 +1,116 @@
+{
+  "renderer": "official-sections-v1",
+  "receipt_mode": "bundled-section-records-v1",
+  "category_id": 4209121,
+  "source_document_sha256": "99dd970321d1180936b5466aceec226ef44030b5cfefbb2793a7832171dd6018",
+  "sections": [
+    {
+      "id": "5441454",
+      "number": "1",
+      "locator": "Section 1: Short title and extent",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-1-179",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5441454",
+      "body": "HINDU MINORITY AND GUARDIANSHIP ACT, 1956\n[32 OF 1956]\nAn Act to amend and codify certain parts of the law relating to minority and guardianship among Hindus.\nBE it enacted by Parliament in the seventh year of the republic of India as follows:-\nShort title and extent.\n1. (1) This Act may be called the Hindu Minority and Guardianship Act, 1956.\n(2) It extends to the whole of India [***] and applies also to Hindus domiciled in the territories to which this Act extends who are outside the said territories.\n© Copyright. Taxmann Publications Pvt. Ltd."
+    },
+    {
+      "id": "5441486",
+      "number": "2",
+      "locator": "Section 2: Act to be supplemental to Act 8 of 1890",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-2-180",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5441486",
+      "body": "Act to be supplemental to Act 8 of 1890.\n2. The provisions of this Act shall be in addition to, and not, same as hereinafter expressly provided, in derogation of, the Guardians and Wards Act, 1890 (8 of 1890).\n© Copyright. Taxmann Publications Pvt. Ltd."
+    },
+    {
+      "id": "5441518",
+      "number": "3",
+      "locator": "Section 3: Application of Act",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-3-177",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5441518",
+      "body": "Application of Act.\n3. (1) This Act applies -\n(a) to any person who is a Hindu by religion in any of its forms or developments, including a Virashaiva, a Lingayat or a follower of the Brahmo, Prarthana or Arya Samaj.\n(b) to any person who is a Buddhist, Jaina or Sikh by religion, and\n(c) to any other person domiciled in the territories to which this Act extends who is not a Muslim, Christian, Parsi or Jew by religion, unless it is proved that any such person would not have been governed by the Hindu law or by any custom or usage as part of that law in respect of any of the matters dealt with herein if this Act had not been passed.\nExplanation : The following persons are Hindus, Buddhists, Jainas or Sikhs by religion, as the case may be :—\n(i) any child, legitimate or illegitimate, both of whose parents are Hindus, Buddhists, Jainas or Sikhs by religion;\n(ii) any child, legitimate or illegitimate, one of whose parents is a Hindu, Buddhist, Jaina or Sikh by religion and who is brought up as a member of the tribe, community, group or family to which such parent belongs or belonged; and\n(iii) any person who is a convert or re-convert to the Hindu, Buddhist, Jaina or Sikh religion.\n(2) Notwithstanding anything contained in sub-section (1), nothing contained in this Act shall apply to the members of any Schedule Tribe within the meaning of clause (25) of article 366 of the Constitution unless the Central Government, by notification in the Official Gazette, otherwise directs.\n(3) The expression \"Hindu\" in any portion of this Act shall be construed as if it included a person who, though not a Hindu by religion, is, nevertheless, a person to whom this Act applies by virtue of the provisions contained in this section.\n© Copyright. Taxmann Publications Pvt. Ltd."
+    },
+    {
+      "id": "5441550",
+      "number": "4",
+      "locator": "Section 4: Definitions",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-4-178",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5441550",
+      "body": "Definitions.\n4. In this Act, -\n(a) \"minor\" means a person who has not completed the age of eighteen years;\n(b) \"guardian\" means a person having the care of the person of a minor or of his property or of both his person and property, and includes -\n(i) a natural guardian,\n(ii) a guardian appointed by the will of the minor's father or mother.\n(iii) a guardian appointed or declared by a court, and\n(iv) a person empowered to act as such by or under any enactment relating to any court of wards;\n(c) \"natural guardian\" means any of the guardians mentioned in section 6.\n© Copyright. Taxmann Publications Pvt. Ltd."
+    },
+    {
+      "id": "5441582",
+      "number": "5",
+      "locator": "Section 5: Overriding effect of Act",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-5-177",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5441582",
+      "body": "Overriding effect of Act.\n5. Save as otherwise expressly provided in this Act, -\n(a) any text, rule or interpretation of Hindu law or any custom or usage as part of that law in force immediately before the commencement of this Act shall cease to have effect with respect to any matter for which provision is made in this Act;\n(b) any other law in force immediately before the commencement of this Act shall cease to have effect in so far as it is inconsistent with any of the provisions contained in this Act;\n© Copyright. Taxmann Publications Pvt. Ltd."
+    },
+    {
+      "id": "5441614",
+      "number": "6",
+      "locator": "Section 6: Natural guardians of a Hindu minor",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-6-177",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5441614",
+      "body": "Natural guardians of a Hindu minor.\n6. The natural guardians of a Hindu minor, in respect of the minor's person as well as in respect of the minor's property (excluding his or her undivided interest in joint family property), are -\n(a) in the case of a boy or an unmarried girl - the father, and after him, the mother: provided that the custody of a minor who has not completed the age of five years shall ordinarily be with the mother;\n(b) in the case of an illegitimate boy or an illegitimate unmarried girl - the mother, and after her, the father;\n(c) in the case of a married girl - the husband :\nProvided that no person shall be entitled to act as the natural guardian of a minor under the provisions of this section -\n(a) if he has ceased to be a Hindu, or\n(b) if he has completely and finally renounced the world by becoming a hermit (vanaprastha) or an ascetic (yati or sanyasi ).\nExplanation : In this Section, the expressions \"father\" and \"mother\" do not include a step-father and a step-mother.\n© Copyright. Taxmann Publications Pvt. Ltd."
+    },
+    {
+      "id": "5441646",
+      "number": "7",
+      "locator": "Section 7: Natural guardianship of adopted son",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-7-176",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5441646",
+      "body": "Natural guardianship of adopted son.\n7. The natural guardianship of an adopted son who is a minor passes, on adoption, to the adoptive father and after him to the adoptive mother.\n© Copyright. Taxmann Publications Pvt. Ltd."
+    },
+    {
+      "id": "5441678",
+      "number": "8",
+      "locator": "Section 8: Powers of natural guardian",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-8-176",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5441678",
+      "body": "Powers of natural guardian.\n8. (1) The natural guardian of a Hindu minor has power, subject to the provisions of this section, to do all acts which are necessary or reasonable and proper for the benefit of the minor or for the realization, protection or benefit of the minor's estate; but the guardian can in no case bind the minor by a personal covenant.\n(2) The natural guardian shall not, without the previous permission of the court, -\n(a) mortgage or charge, or transfer by sale, gift, exchange or otherwise, any part of the immovable property of the minor, or\n(b) lease any part of such property for a term exceeding five years or for a term extending more than one year beyond the date on which the minor will attain majority.\n(3) Any disposal of immovable property by a natural guardian, in contravention of sub-section (1) or sub-section (2), is voidable at the instance of the minor or any person claiming under him.\n(4) No court shall grant permission to the natural guardian to do any of the acts mentioned in sub-section (2) except in case of necessity or for an evident advantage to the minor.\n(5) The Guardians and Wards Act, 1890 (8 of 1890) shall apply to and in respect of an application for obtaining the permission of the court under sub-section (2) in all respects as if it were an application for obtaining the permission of the court under section 29 of that Act, and in particular-\n(a) proceedings in connection with the application shall be deemed to be proceedings under that Act within the meaning of section 4A thereof;\n(b) the court shall observe the procedure and have the powers specified in sub-sections (2), (3) and (4) of section 31 of that Act; and\n(c) an appeal shall lie from an order of the court refusing permission to the natural guardian to do any of the acts mentioned in sub-section (2) of this section to the court to which appeals ordinarily lie from the decisions of that court.\n(6) In this section \"court\" means the city civil court or a district court or a court empowered under section 4A of the Guardians and Wards Act, 1890 (8 of 1890), within the local limits of whose jurisdiction the immovable property in respect of which the application is made is situate, and where the immovable property is situate within the jurisdiction of more than one such court, means the court within the local limits of whose jurisdiction any portion of the property is situate.\n© Copyright. Taxmann Publications Pvt. Ltd."
+    },
+    {
+      "id": "5441710",
+      "number": "9",
+      "locator": "Section 9: Testamentary guardians and their powers",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-9-175",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5441710",
+      "body": "Testamentary guardians and their powers.\n9. (1) A Hindu father entitled to act as the natural guardian of his minor legitimate children may, by will, appoint a guardian for any of them in respect of the minor's person or in respect of the minor's property (other than the undivided interest referred to in section 12) or in respect of both.\n(2) An appointment made under sub-section (1) shall have no effect if the father pre-deceases the mother, but shall revive, if the mother, dies without appointing, by will, any person as guardian.\n(3) A Hindu widow entitled to act as the natural guardian of her minor legitimate children, and a Hindu mother entitled to act as the natural guardian of her minor legitimate children by reason of the fact that the father has become disentitled to act as such, may, by will, appoint a guardian for any of them in respect of the minor's person or in respect of the minor's property (other than the undivided interest referred to in section 12) or in respect of both.\n(4) A Hindu mother entitled to act as the natural guardian of her minor illegitimate children may, by will, appoint a guardian for any of them in respect of the minor's person or in respect of the minor's property or on respect of both.\n(5) The guardian so appointed by will has the right to act as the minor's guardian after the death of the minor's father or mother, as the case may be, and to exercise all the rights of a natural guardian under this Act to such extent and subject to such restrictions, if any, as are specified in this Act and in the will.\n(6) The right of the guardian so appointed by will shall, where the minor is a girl, cease on her marriage.\n© Copyright. Taxmann Publications Pvt. Ltd."
+    },
+    {
+      "id": "5441742",
+      "number": "10",
+      "locator": "Section 10: Incapacity of minor to act as guardian of property",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-10-173",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5441742",
+      "body": "Incapacity of minor to act as guardian of property.\n10. A minor shall be incompetent to act as guardian of the property of any minor.\n© Copyright. Taxmann Publications Pvt. Ltd."
+    },
+    {
+      "id": "5441774",
+      "number": "11",
+      "locator": "Section 11: De facto guardian not to deal with minor's property",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-11-171",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5441774",
+      "body": "De facto guardian not to deal with minor's property.\n11. After the commencement of this Act, no person shall be entitled to dispose of, or deal with, the property of a Hindu minor merely on the ground of his or her being the de facto guardian of the minor.\n© Copyright. Taxmann Publications Pvt. Ltd."
+    },
+    {
+      "id": "5441806",
+      "number": "12",
+      "locator": "Section 12: Guardian not to be appointed for minor's undivided interest in joint family property",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-12-172",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5441806",
+      "body": "Guardian not to be appointed for minor's undivided interest in joint family property.\n12. Where a minor has an undivided interest in joint family property and the property is under the management of an adult member of the family no guardian shall be appointed for the minor in respect of such undivided interest:\nProvided that nothing in this section shall be deemed to affect the jurisdiction of a High Court to appoint a guardian in respect of such interest.\n© Copyright. Taxmann Publications Pvt. Ltd."
+    },
+    {
+      "id": "5441838",
+      "number": "13",
+      "locator": "Section 13: Welfare of minor to be paramount consideration",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-13-170",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5441838",
+      "body": "Welfare of minor to be paramount consideration.\n13. (1) In the appointment or declaration of any person as guardian of a Hindu minor by a court, the welfare of the minor shall be the paramount consideration.\n(2) No person shall be entitled to the guardianship by virtue of the provisions of this Act or of any law relating to guardianship in marriage among Hindus, if the court is of opinion that his or her guardianship will not be for the welfare of the minor.\n© Copyright. Taxmann Publications Pvt. Ltd."
+    }
+  ],
+  "acquisition_response_checksums": [
+    "c23b2858c4627583bab5aefa5d5477bcfde57f9b8dcda545fdd63d4f6e6c98ce"
+  ],
+  "note": "Verified body records and acquisition hashes; original HTML/API payloads retained in the acquisition workspace, not redistributed."
+}

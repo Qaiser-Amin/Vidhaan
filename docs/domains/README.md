@@ -1,16 +1,16 @@
 # Domain document collection
 
-Source-linked research guides for all eight VIDHAAN domains. These guides describe the collected material; they do not reproduce restricted legal compilations or establish current law.
+83 distinct official-host documents and eight portable BM25 inverted indexes are included for offline loading. Each domain contains 10–15 distinct documents. Shared documents are stored once; only explicitly selected passages enter related-domain searches.
 
-Actual cloud collection: 23 sources/versions; 5819 child passages; zero legally reviewed versions. The final project includes 21 selected source documents across all eight domains for offline loading; two Labour FAQs remain optional downloads.
+Family law has five primary Acts and five related maintenance, property and marital-evidence sources. This is not coverage of ten different personal-law frameworks. Every source remains unreviewed; effective dates and current applicability are unknown.
 
-| Domain guide | Indexed sources |
-|---|---:|
-| [Labour and employment](01_labour_employment.md) | 5 |
-| [Consumer law](02_consumer.md) | 1 |
-| [Contracts](03_contracts.md) | 3 |
-| [Tenancy and property](04_tenancy_property.md) | 2 |
-| [Family law](05_family.md) | 2 |
-| [Criminal and civil procedure](06_criminal_civil_procedure.md) | 4 |
-| [Corporate and tax](07_corporate_tax.md) | 3 |
-| [Other specialist areas](08_specialist.md) | 3 |
+| Domain guide | Primary documents | Related documents | Total | Index |
+|---|---:|---:|---:|---|
+| [Labour and employment](01_labour_employment.md) | 12 | 0 | 12 | `bm25-employment.json` |
+| [Consumer law](02_consumer.md) | 11 | 0 | 11 | `bm25-consumer.json` |
+| [Contracts](03_contracts.md) | 10 | 0 | 10 | `bm25-contracts.json` |
+| [Tenancy and property](04_tenancy_property.md) | 10 | 0 | 10 | `bm25-property.json` |
+| [Family law](05_family.md) | 5 | 5 | 10 | `bm25-family.json` |
+| [Criminal and civil procedure](06_criminal_civil_procedure.md) | 11 | 0 | 11 | `bm25-procedure.json` |
+| [Corporate and tax](07_corporate_tax.md) | 12 | 0 | 12 | `bm25-corporate.json` |
+| [Other specialist areas](08_specialist.md) | 12 | 0 | 12 | `bm25-specialist.json` |

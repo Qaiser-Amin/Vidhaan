@@ -93,5 +93,41 @@
     "Production assets and fonts self-hosted; Node only for frontend development.",
     "No legal-source review or current-law metadata inferred from UI checks.",
     "Starlette emits a TestClient/httpx deprecation warning; no test failures."
-  ]
+  ],
+  "domain_expansion": {
+    "source_documents": 83,
+    "domain_indexes": 8,
+    "browser_tests": {
+      "startTime": "2026-10-12T21:30:50.648Z",
+      "duration": 66366.02900000001,
+      "expected": 7,
+      "skipped": 0,
+      "unexpected": 0,
+      "flaky": 0
+    },
+    "coverage": "10\u201312 documents per domain; related-family scope, exact PDF/section evidence, source/original downloads, exports, private isolation, mobile/reduced motion and matching benchmark passed",
+    "fresh_export": {
+      "created_at": "2026-10-12T21:35:39.852382+00:00",
+      "setup_script": "passed: Python 3.12 base/dev shell setup in a fresh path containing spaces",
+      "pytest": {
+        "passed": 114,
+        "skipped": 1,
+        "failed": 0,
+        "skip_reason": "optional native FAISS absent"
+      },
+      "optional_dependencies": {
+        "torch": false,
+        "sentence_transformers": false,
+        "faiss": false
+      },
+      "launch_script": "passed",
+      "api": "consumer context/export and new DPDP consent evidence passed",
+      "offline_corpus": {
+        "unique_sources": 83,
+        "child_passages": 16297,
+        "domain_indexes": 8
+      },
+      "matching_benchmark": true
+    }
+  }
 }

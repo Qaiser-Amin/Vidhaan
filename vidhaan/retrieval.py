@@ -6,16 +6,7 @@ import time
 from rank_bm25 import BM25Plus
 from .indexing import DenseIndex, IndexUnavailable, atomic_json
 from .models import Filters, Hit, Source
-
-STOP = set('a an the is are was were be been being to for of in on at as and or it its this that what which how does do can i my me please under about tell explain source document act section'.split())
-
-
-def normalize(question):
-    return ' '.join(question.strip().split())[:2000]
-
-
-def tokenize(text):
-    return [t for t in re.findall(r'[a-z0-9]+(?:\.[a-z0-9]+)*', text.casefold()) if t not in STOP]
+from .tokenization import STOP, normalize, tokenize
 
 
 def eligible(source: Source, active: bool, filters: Filters) -> bool:
@@ -33,7 +24,7 @@ def eligible(source: Source, active: bool, filters: Filters) -> bool:
         return False
     if not active and not filters.include_superseded:
         return False
-    if filters.domain and source.domain != filters.domain:
+    if filters.domain and not source.allows_domain(filters.domain):
         return False
     if filters.jurisdiction and source.jurisdiction != filters.jurisdiction:
         return False
@@ -56,11 +47,11 @@ def lexical_model(token_documents):
     return BM25Plus([list(tokens) or ['__empty__'] for tokens in token_documents], delta=0)
 
 
-def bm25_rank(question, chunks, limit, min_terms=1):
+def bm25_rank(question, chunks, limit, min_terms=1, token_map=None):
     terms = tokenize(question)
     if not terms or not chunks:
         return []
-    tokens = tuple(tuple(tokenize(c.text)) for c in chunks)
+    tokens = tuple(tuple(token_map[c.chunk_id]) if token_map is not None else tuple(tokenize(c.text)) for c in chunks)
     scores = lexical_model(tokens).get_scores(terms)
     candidates = [(chunk, float(score)) for chunk, score, words in zip(chunks, scores, tokens)
                   if len(set(terms) & set(words)) >= min_terms and score > 0]
@@ -105,8 +96,10 @@ class Retriever:
         start = time.perf_counter()
         versions = {v['version_id']: v for v in self.registry.versions(filters.namespace)}
         allowed = {vid for vid,v in versions.items() if eligible(v['source'], bool(v['active']), filters)}
-        chunks = [c for c in self.registry.chunks() if c.version_id in allowed
+        all_chunks = self.registry.chunks(namespace=filters.namespace)
+        chunks = [c for c in all_chunks if c.version_id in allowed
                   and c.content_role != 'contents'
+                  and (not filters.domain or versions[c.version_id]['source'].includes_passage(c, filters.domain))
                   and (not filters.jurisdiction or c.jurisdiction == filters.jurisdiction)
                   and (not filters.state or c.jurisdiction != 'unknown')]
         diagnostics = {'mode': mode, 'eligible_versions': len(allowed), 'eligible_chunks': len(chunks), 'warnings': []}
@@ -116,8 +109,20 @@ class Retriever:
         candidate_limit = min(50, limit * 4)
         rankings = {}
         if mode in ('bm25', 'hybrid'):
-            rankings['bm25'] = bm25_rank(question, chunks, candidate_limit, self.settings.min_lexical_terms)
-            if not filters.namespace.startswith('private:'):
+            token_map = None
+            if filters.namespace == 'official':
+                from .lexical import ensure_domain
+                domains = [filters.domain] if filters.domain else sorted({c.domain for c in chunks})
+                token_map = {}
+                for domain in domains:
+                    mapped, _ = ensure_domain(self.registry, domain, list(versions.values()), all_chunks)
+                    token_map.update(mapped)
+                # Explicit historical comparison may include excluded versions.
+                for chunk in chunks:
+                    if chunk.chunk_id not in token_map: token_map[chunk.chunk_id] = tuple(tokenize(chunk.text))
+                diagnostics['lexical_index'] = 'checksum-checked official domain indexes'
+            rankings['bm25'] = bm25_rank(question, chunks, candidate_limit, self.settings.min_lexical_terms, token_map)
+            if filters.namespace == 'synthetic':
                 # Persist only safe namespace tokens, never private text/questions.
                 path = self.registry.data_dir / 'indexes' / ('bm25-' + hashlib.sha256(filters.namespace.encode()).hexdigest()[:12] + '.json')
                 signature = self.registry.signature(filters.namespace)

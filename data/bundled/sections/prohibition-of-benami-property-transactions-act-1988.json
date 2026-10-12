@@ -1,0 +1,612 @@
+{
+  "renderer": "official-sections-v1",
+  "receipt_mode": "bundled-section-records-v1",
+  "category_id": 4209316,
+  "source_document_sha256": "ae794f7a66651359557a255562db9ca240ca6d892217d34f806d973828f9701e",
+  "sections": [
+    {
+      "id": "5540661",
+      "number": "1",
+      "locator": "Section 1: Short title, extent and commencement",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-1-217",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5540661",
+      "body": "1[PROHIBITION OF BENAMI PROPERTY TRANSACTIONS ACT, 1988]\n[45 OF 1988]*\n[AS AMENDED UPTO DATE]\nAn Act to prohibit benami transactions and the right to recover property held benami and for matters connected therewith or incidental thereto.\nBE it enacted by Parliament in the Thirty-ninth Year of the Republic of India as follows :—\n2[CHAPTER I\nPRELIMINARY]\nShort title, extent and commencement.\n1. (1) This Act may be called the 1[Prohibition of Benami Property Transactions Act, 1988] (45 of 1988).\n(2) It extends to the whole of India 2a[***].\n(3) The provisions of sections 3, 5 and 8 shall come into force at once, and the remaining provisions of this Act shall be deemed to have come into force on the 19th day of May, 1988.\n*Dated 5-9-1988.\n1. Substituted for \"Benami Transactions (Prohibition) Act, 1988\" by the Benami Transactions (Prohibition) Amendment Act, 2016, w.e.f. 1-11-2016.\n2. Inserted by the Benami Transactions (Prohibition) Amendment Act, 2016, w.e.f. 1-11-2016.\n2a. Words \"except the State of Jammu and Kashmir\" omitted by the Jammu and Kashmir Reorganisation Act, 2019, w.e.f. 9-8-2019."
+    },
+    {
+      "id": "5540693",
+      "number": "2",
+      "locator": "Section 2: Definitions",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-2-218",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5540693",
+      "body": "3[Definitions.\n2. In this Act, unless the context otherwise requires,—\n(1)\n\"Adjudicating Authority\" means the Adjudicating Authority 3a[referred to in] section 7;\n(2)\n\"Administrator\" means an Income-tax Officer as defined in clause (25) of section 2 of the Income-tax Act, 1961 (43 of 1961);\n(3)\n\"Appellate Tribunal\" means the Appellate Tribunal established under section 30;\n(4)\n\"Approving Authority\" means an Additional Commissioner or a Joint Commissioner as defined in clauses (1C) and (28C) respectively of section 2 of the Income-tax Act, 1961 (43 of 1961);\n(5)\n\"attachment\" means the prohibition of transfer, conversion, disposition or movement of property, by an order issued under this Act;\n(6)\n\"authority\" means an authority referred to in sub-section (1) of section 18;\n(7)\n\"banking company\" means a company to which the provisions of the Banking Regulation Act, 1949 (10 of 1949), applies and includes any bank or banking institution referred to in section 51 of that Act;\n(8)\n\"benami property\" means any property which is the subject matter of a benami transaction and also includes the proceeds from such property;\n(9)\n\"benami transaction\" means,—\n(A)\na transaction or an arrangement—\n(a)\nwhere a property is transferred to, or is held by, a person, and the consideration for such property has been provided, or paid by, another person; and\n(b)\nthe property is held for the immediate or future benefit, direct or indirect, of the person who has provided the consideration,\nexcept when the property is held by—\n(i)\na Karta, or a member of a Hindu undivided family, as the case may be, and the property is held for his benefit or benefit of other members in the family and the consideration for such property has been provided or paid out of the known sources of the Hindu undivided family;\n(ii)\na person standing in a fiduciary capacity for the benefit of another person towards whom he stands in such capacity and includes a trustee, executor, partner, director of a company, a depository or a participant as an agent of a depository under the Depositories Act, 1996 (22 of 1996) and any other person as may be notified by the Central Government for this purpose;\n(iii)\nany person being an individual in the name of his spouse or in the name of any child of such individual and the consideration for such property has been provided or paid out of the known sources of the individual;\n(iv)\nany person in the name of his brother or sister or lineal ascendant or descendant, where the names of brother or sister or lineal ascendant or descendent and the individual appear as joint-owners in any document, and the consideration for such property has been provided or paid out of the known sources of the individual; or\n(B)\na transaction or an arrangement in respect of a property carried out or made in a fictitious name; or\n(C)\na transaction or an arrangement in respect of a property where the owner of the property is not aware of, or, denies knowledge of, such ownership;\n(D)\na transaction or an arrangement in respect of a property where the person providing the consideration is not traceable or is fictitious.\nExplanation.—For the removal of doubts, it is hereby declared that benami transaction shall not include any transaction involving the allowing of possession of any property to be taken or retained in part performance of a contract referred to in section 53A of the Transfer of Property Act, 1882 (4 of 1882), if, under any law for the time being in force,—\n(i)\nconsideration for such property has been provided by the person to whom possession of property has been allowed but the person who has granted possession thereof continues to hold ownership of such property;\n(ii)\nstamp duty on such transaction or arrangement has been paid; and\n(iii)\nthe contract has been registered;\n(10)\n\"benamidar\" means a person or a fictitious person, as the case may be, in whose name the benami property is transferred or held and includes a person who lends his name;\n(11)\n\"Bench\" means a Bench of the Adjudicating Authority or the Appellate Tribunal, as the case may be;\n(12)\n\"beneficial owner\" means a person, whether his identity is known or not, for whose benefit the benami property is held by a benamidar;\n(13)\n\"Board\" means the Central Board of Direct Taxes constituted under the Central Boards of Revenue Act, 1963 (54 of 1963);\n(14)\n\"director\" shall have the same meaning as assigned to it in clause (34) of section 2 of the Companies Act, 2013 (18 of 2013);\n(15)\n\"executor\" shall have the same meaning as assigned to it in clause (c) of section 2 of the Indian Succession Act, 1925 (39 of 1925);\n(16)\n\"fair market value\", in relation to a property, means—\n(i)\nthe price that the property would ordinarily fetch on sale in the open market on the date of the transaction; and\n(ii)\nwhere the price referred to in sub-clause (i) is not ascertainable, such price as may be determined in accordance with such manner as may be prescribed;\n(17)\n\"firm\" shall have the same meaning as assigned to it in section 4 of the Indian Partnership Act, 1932 (9 of 1932) and shall include a limited liability partnership as defined in the Limited Liability Partnership Act, 2008 (6 of 2009);\n(18)\n\"High Court\" means—\n(i)\nthe High Court within the jurisdiction of which the aggrieved party ordinarily resides or carries on business or personally works for gain; 3b[***]\n(ii)\nwhere the Government is the aggrieved party, the High Court within the jurisdiction of which the respondent, or in a case where there are more than one respondent, any of the respondents, ordinarily resides or carries on business or personally works for gain; 3c[and]\n3c [(iii)\nthe High Court within the jurisdiction of which the office of the Initiating Officer is located,—\n(a)\nwhere the aggrieved party does not ordinarily reside or carry on business or personally work for gain in the jurisdiction of any High Court;\n(b)\nwhere the Government is the aggrieved party and any of the respondents do not ordinarily reside or carry on business or personally work for gain in the jurisdiction of any High Court;]\n(19)\n\"Initiating Officer\" means an Assistant Commissioner or a Deputy Commissioner as defined in clauses (9A) and (19A) respectively of section 2 of the Income-tax Act, 1961 (43 of 1961);\n(20)\n\"Member\" means the Chairperson or the Member of the Adjudicating Authority or the Appellate Tribunal, as the case may be;\n(21)\n\"notification\" means a notification published in the Official Gazette and the expression \"notified\" shall be construed accordingly;\n(22)\n\"partner\" shall have the same meaning as assigned to it in section 4 of the Indian Partnership Act, 1932 (9 of 1932), and shall include,—\n(a)\nany person who, being a minor, has been admitted to the benefits of partnership; and\n(b)\na partner of a limited liability partnership formed and registered under the Limited Liability Partnership Act, 2008 (6 of 2009);\n(23)\n\"partnership\" shall have the same meaning as assigned to it in section 4 of the Indian Partnership Act, 1932 (9 of 1932), and shall include a limited liability partnership formed and registered under the Limited Liability Partnership Act, 2008 (6 of 2009);\n(24)\n\"person\" shall include—\n(i)\nan individual;\n(ii)\na Hindu undivided family; .\n(iii)\na company;\n(iv)\na firm;\n(v)\nan association of persons or a body of individuals, whether incorporated or not;\n(vi)\nevery artificial juridical person, not falling under sub-clauses (i) to (v);\n(25)\n\"prescribed\" means prescribed by rules made under this Act;\n(26)\n\"property\" means assets of any kind, whether movable or immovable, tangible or intangible, corporeal or incorporeal and includes any right or interest or legal documents or instruments evidencing title to or interest in the property and where the property is capable of conversion into some other form, then the property in the converted form and also includes the proceeds from the property;\n(27)\n\"public financial institution\" shall have the same meaning as assigned to it in clause (72) of section 2 of the Companies Act, 2013 (18 of 2013);\n(28)\n\"Special Court\" means a Court of Session designated as Special Court under sub-section (1) of section 50;\n(29)\n\"transfer\" includes sale, purchase or any other form of transfer of right, title, possession or lien;\n(30)\n\"trustee\" means the trustee as defined in the section 3 of the Indian Trusts Act, 1882 (2 of 1882);\n(31)\nwords and expressions used herein and not defined in this Act but defined in the Indian Trusts Act, 1882 (2 of 1882), the Indian Succession Act, 1925 (39 of 1925), the Indian Partnership Act, 1932 (9 of 1932), the Income-tax Act, 1961 (43 of 1961), the Depositories Act, 1996 (22 of 1996), the Prevention of Money-laundering Act, 2002 (15 of 2003), the Limited Liability Partnership Act, 2008 (6 of 2009) and the Companies Act, 2013 (18 of 2013), shall have the same meanings respectively assigned to them in those Acts.]\n3. Substituted by the Benami Transactions (Prohibition) Amendment Act, 2016, w.e.f. 1-11-2016. Prior to its substitution, section 2 read as under:\n'2. Definitions.—In this Act, unless the context otherwise, requires,—\n(a)\n\"benami transaction\" means any transaction in which property is transferred to one person for a consideration paid or provided by another person;\n(b)\n\"prescribed\" means prescribed by rules made under this Act;\n(c)\n\"property\" means property of any kind, whether movable or immovable, tangible or intangible, and includes any right or interest in such property.'\n3a. Substituted for \"appointed under\" by the Finance Act, 2021, w.e.f. 1-7-2021.\n3b. Word \"and\" omitted by the Finance Act, 2023, w.e.f. 1-4-2023.\n3c. Inserted by the Finance Act, 2023, w.e.f. 1-4-2023."
+    },
+    {
+      "id": "5540725",
+      "number": "3",
+      "locator": "Section 3: Prohibition of benami transactions",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-3-215",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5540725",
+      "body": "4[CHAPTER II\nPROHIBITION OF BENAMI TRANSACTIONS]\nProhibition of benami transactions.\n3. (1) No person shall enter into any benami transaction.\n(2) 5[***]\n6[(2)] Whoever enters into any benami transaction shall be punishable with impri-sonment for a term which may extend to three years or with fine or with both.\n7[(3) Whoever enters into any benami transaction on and after the date of commencement of the Benami Transactions (Prohibition) Amendment Act, 2016, shall, notwithstanding anything contained in sub-section (2), be punishable in accordance with the provisions contained in Chapter VII.]\n(4) 8[***]\n4. Inserted by the Benami Transactions (Prohibition) Amendment Act, 2016, w.e.f. 1-11-2016.\n5. Omitted by the Benami Transactions (Prohibition) Amendment Act, 2016, w.e.f. 1-11-2016. Prior to its omission, sub-section (2), as substituted by the Depositories Act, 1996, w.r.e.f. 20-9-1995, read as under :\n'(2) Nothing in sub-section (1) shall apply to—\n(a)\nthe purchase of property by any person in the name of his wife or unmarried daughter and it shall be presumed, unless the contrary is proved, that the said property had been purchased for the benefit of the wife or the unmarried daughter;\n(b)\nthe securities held by a—\n(i)\ndepository as a registered owner under sub-section (1) of section 10 of the Depositories Act, 1996;\n(ii)\nparticipant as an agent of a depository.\nExplanation.—The expressions \"depository\" and \"participant\" shall have the meanings respectively assigned to them in clauses (e) and (g) of sub-section (1) of section 2 of the Depositories Act, 1996.'\n6. Sub-section (3) renumbered as sub-section (2) by the Benami Transactions (Prohibition) Amendment Act, 2016, w.e.f. 1-11-2016.\n7. Inserted by the Benami Transactions (Prohibition) Amendment Act, 2016, w.e.f. 1-11-2016.\n8. Omitted by the Benami Transactions (Prohibition) Amendment Act, 2016, w.e.f. 1-11-2016. Prior to its omission, sub-section (4) read as under :\n\"(4) Notwithstanding anything contained in the Code of Criminal Procedure, 1973 (2 of 1974), an offence under this section shall be non-cognizable and bailable.\""
+    },
+    {
+      "id": "5540757",
+      "number": "4",
+      "locator": "Section 4: Prohibition of the right to recover property held benami",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-4-216",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5540757",
+      "body": "Prohibition of the right to recover property held benami.\n4. (1) No suit, claim or action to enforce any right in respect of any property held benami against the person in whose name the property is held or against any other person shall lie by or on behalf of a person claiming to be the real owner of such property.\n(2) No defence based on any right in respect of any property held benami, whether against the person in whose name the property is held or against any other person, shall be allowed in any suit, claim or action by or on behalf of a person claiming to be the real owner of such property.\n(3) 9[***]\n9. Omitted by the Benami Transactions (Prohibition) Amendment Act, 2016, w.e.f. 1-11-2016. Prior to its omission, sub-section (3) read as under :\n\"(3) Nothing in this section shall apply,—\n(a)\nwhere the person in whose name the property is held is a coparcener in a Hindu undivided family and the property is held for the benefit of the coparceners in the family; or\n(b)\nwhere the person in whose name the property is held is a trustee or other person standing in a fiduciary capacity, and the property is held for the benefit of another person for whom he is a trustee or towards whom he stands in such capacity.\""
+    },
+    {
+      "id": "5540789",
+      "number": "5",
+      "locator": "Section 5: Property held benami liable to confiscation",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-5-214",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5540789",
+      "body": "10[Property held benami liable to confiscation.\n5. Any property, which is subject matter of benami transaction, shall be liable to be confiscated by the Central Government.]\n10. Substituted by the Benami Transactions (Prohibition) Amendment Act, 2016, w.e.f. 1-11-2016. Prior to its substitution, section 5 read as under :\n\"5. Property held benami liable to acquisition.—(1) All properties held benami shall be subject to acquisition by such authority, in such manner and after following such procedure as may be prescribed.\n(2) For the removal of doubts, it is hereby declared that no amount shall be payable for the acquisition of any property under sub-section (1).\""
+    },
+    {
+      "id": "5540821",
+      "number": "6",
+      "locator": "Section 6: Prohibition on re-transfer of property by benamidar",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-6-214",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5540821",
+      "body": "10a[Prohibition on re-transfer of property by benamidar.\n6. (1) No person, being a benamidar shall re-transfer the benami property held by him to the beneficial owner or any other person acting on his behalf.\n(2) Where any property is re-transferred in contravention of the provisions of sub-section (1), the transaction of such property shall be deemed to be null and void.\n(3) The provisions of sub-sections (1) and (2) shall not apply to a transfer made in accordance with the provisions of section 190 of the Finance Act, 2016 (28 of 2016).]\n10a. Substituted by the Benami Transactions (Prohibition) Amendment Act, 2016, w.e.f. 1-11-2016. Prior to its substitution, section 6 read as under:\n\"6. Act not to apply in certain cases.—Nothing in this Act shall affect the provisions of section 53 of the Transfer of Property Act, 1882 (4 of 1882) or any law relating to transfer for an illegal purpose.\""
+    },
+    {
+      "id": "5540853",
+      "number": "7",
+      "locator": "Section 7: Adjudicating Authority",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-7-213",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5540853",
+      "body": "11[CHAPTER III\nAUTHORITIES\n11a[Adjudicating Authority.\n7. The competent authority authorised under sub-section (1) of section 5 of the Smugglers and Foreign Exchange Manipulators (Forfeiture of Property) Act, 1976 (13 of 1976) shall be the Adjudicating Authority to exercise jurisdiction, powers and authority conferred by or under this Act.]\n11. Chapter III, consisting of sections 7 to 23, inserted by the Benami Transactions (Prohibition) Amendment Act, 2016, w.e.f. 1-11-2016.\n11a. Substituted by the Finance Act, 2021, w.e.f. 1-7-2021. Prior to its substitution, section 7 read as under:\n\"7. Adjudicating Authority.—The Central Government shall, by notification, appoint one or more Adjudicating Authorities to exercise jurisdiction, powers and authority conferred by or under this Act.\""
+    },
+    {
+      "id": "5540885",
+      "number": "8",
+      "locator": "Section 8: Composition of Authority",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-8-212",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5540885",
+      "body": "Composition of Authority.\n8. 11b[***]\n11b. Omitted by the Finance Act, 2021, w.e.f. 1-7-2021. Prior to its omission, section 8 read as under:\n\"8. Composition of Authority.—An Adjudicating Authority shall consist of a Chairperson and at least two other Members.\""
+    },
+    {
+      "id": "5540917",
+      "number": "9",
+      "locator": "Section 9: Qualifications for appointment of Chairperson and Members",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-9-210",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5540917",
+      "body": "Qualifications for appointment of Chairperson and Members.\n9. 11ba[***]\n11ba. Omitted by the Finance Act, 2021, w.e.f. 1-7-2021. Prior to its omission, section 9 read as under:\n\"*9. Qualifications for appointment of Chairperson and Members.—(1) A person shall not be qualified for appointment as the Chairperson or a Member of the Adjudicating Authority unless he,—\n(a)\nhas been a member of the Indian Revenue Service and has held the post of Commissioner of Income-tax or equivalent post in that Service; or\n(b)\n(i) has been a member of the Indian Legal Service and has held the post of Joint Secretary or equivalent post in that Service; or\n(ii) is qualified for appointment as District Judge.\n(2) The Chairperson and other Members of the Adjudicating Authority shall be appointed by the Central Government in such manner as may be prescribed.\n(3) The Central Government shall appoint the seniormost Member to be the Chairperson of the Adjudicating Authority.\"\n*Earlier, section 9 was amended by the Finance Act, 2020, w.e.f. 1-4-2020."
+    },
+    {
+      "id": "5540949",
+      "number": "10",
+      "locator": "Section 10: Constitution of Benches of Adjudicating Authority",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-10-208",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5540949",
+      "body": "Constitution of Benches of Adjudicating Authority.\n10. 11bb[***]\n11bb. Omitted by the Finance Act, 2021, w.e.f. 1-7-2021. Prior to its omission, section 10 read as under:\n\"10. Constitution of Benches of Adjudicating Authority.—(1) Subject to the provisions of this Act,—\n(a)\nthe jurisdiction of the Adjudicating Authority may be exercised by Benches thereof;\n(b)\na Bench may be constituted by the Chairperson of the Adjudicating Authority with two Members, as the Chairperson may deem fit;\n(c)\nthe Benches of the Adjudicating Authority shall ordinarily sit in the National Capital Territory of Delhi and at such other places as the Central Government may, in consultation with the Chairperson, by notification, specify;\n(d)\nthe Central Government shall, by notification, specify the areas in relation to which each Bench of the Adjudicating Authority may exercise jurisdiction.\n(2) Notwithstanding anything contained in sub-section (1), the Chairperson may transfer a Member from one Bench to another Bench.\""
+    },
+    {
+      "id": "5540981",
+      "number": "11",
+      "locator": "Section 11: Power of Adjudicating Authority to regulate its own procedure",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-11-205",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5540981",
+      "body": "Power of Adjudicating Authority to regulate its own procedure.\n11. 11c[***]\n11c. Omitted by the Finance Act, 2021, w.e.f. 1-7-2021. Prior to its omission, section 11 read as under:\n\"11. Power of Adjudicating Authority to regulate its own procedure.—The Adjudicating Authority shall not be bound by the procedure laid down by the Code of Civil Procedure, 1908 (5 of 1908), but shall be guided by the principles of natural justice and, subject to the other provisions of this Act, the Authority shall have powers to regulate its own procedure.\""
+    },
+    {
+      "id": "5541013",
+      "number": "12",
+      "locator": "Section 12: Term of office of Chairperson and Members of Adjudicating Authority",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-12-206",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5541013",
+      "body": "Term of office of Chairperson and Members of Adjudicating Authority.\n12. 11ca[***]\n11ca. Omitted by the Finance Act, 2021, w.e.f. 1-7-2021. Prior to its omission, section 12 read as under:\n\"12. Term of office of Chairperson and Members of Adjudicating Authority.—The Chairperson and Members of the Adjudicating Authority shall hold office for a term not exceeding five years from the date on which they enter upon their office, or until they attain the age of sixty-two years, whichever is earlier and shall not be eligible for reappointment.\""
+    },
+    {
+      "id": "5541045",
+      "number": "13",
+      "locator": "Section 13: Terms and conditions of services of Chairperson and Members of Adjudicating Authority",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-13-204",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5541045",
+      "body": "Terms and conditions of services of Chairperson and Members of Adjudicating Authority.\n13. 11cb[***]\n11cb. Omitted by the Finance Act, 2021, w.e.f. 1-7-2021. Prior to its omission, section 13 read as under:\n\"13. Terms and conditions of services of Chairperson and Members of Adjudicating Authority.—(1) The salary and allowances payable to, and the other terms and conditions of service of the Chairperson and other Members of the Adjudicating Authority shall be such as may be prescribed.\n(2) Any vacancy caused to the office of the Chairperson or any other Member shall be filled up within a period of three months from the date on which such vacancy occurs.\""
+    },
+    {
+      "id": "5541077",
+      "number": "14",
+      "locator": "Section 14: Removal of Chairperson and Members of Adjudicating Authority",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-14-200",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5541077",
+      "body": "Removal of Chairperson and Members of Adjudicating Authority.\n14. 11cc[***]\n11cc. Omitted by the Finance Act, 2021, w.e.f. 1-7-2021. Prior to its omission, section 14 read as under:\n\"14. Removal of Chairperson and Members of Adjudicating Authority.—(1) The Central Government may, by order, remove from office, the Chairperson or other Members of the Adjudicating Authority, if the Chairperson or such other Member, as the case may be,—\n(a)\nhas been adjudged as an insolvent; or\n(b)\nhas been convicted of an offence, involving moral turpitude; or\n(c)\nhas become physically or mentally incapable of acting as a Member; or\n(d)\nhas acquired such financial or other interest as is likely to affect prejudicially his functions; or\n(e)\nhas so abused his position as to render his continuance in office is prejudicial to the public interest.\n(2) No Chairperson or Member shall be removed from his office under clause (d) or clause (e) of sub-section (1) unless he has been given a reasonable opportunity of being heard in the matter.\""
+    },
+    {
+      "id": "5541109",
+      "number": "15",
+      "locator": "Section 15: Member to act as Chairperson in certain circumstances",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-15-199",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5541109",
+      "body": "Member to act as Chairperson in certain circumstances.\n15. 11d[***]\n11d. Omitted by the Finance Act, 2021, w.e.f. 1-7-2021. Prior to its omission, section 15 read as under:\n\"15. Member to act as Chairperson in certain circumstances.—(1) In the event of the occurrence of any vacancy in the office of the Chairperson by reason of his death, resignation or otherwise, the seniormost Member shall act as the Chairperson of the Adjudicating Authority until the date on which a new Chairperson, appointed in accordance with the provisions of this Act to fill such vacancy, enters upon his office.\n(2) When the Chairperson is unable to discharge his functions owing to absence, illness or any other cause, the seniormost Member shall discharge the functions of the Chairperson until the date on which the Chairperson resumes his duties.\""
+    },
+    {
+      "id": "5541141",
+      "number": "16",
+      "locator": "Section 16: Vacancies, etc., not to invalidate proceedings of Adjudicating Authority",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-16-197",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5541141",
+      "body": "Vacancies, etc., not to invalidate proceedings of Adjudicating Authority.\n16. 11da[***]\n11da. Omitted by the Finance Act, 2021, w.e.f. 1-7-2021. Prior to its omission, section 16 read as under:\n\"16. Vacancies, etc., not to invalidate proceedings of Adjudicating Authority.—No act or proceeding of the Adjudicating Authority shall be invalid merely by reason of—\n(a)\nany vacancy in, or any defect in the constitution of the Authority; or\n(b)\nany defect in the appointment of a person acting as a Member of the Authority; or\n(c)\nany irregularity in the procedure of the Authority not affecting the merits of the case.\""
+    },
+    {
+      "id": "5541173",
+      "number": "17",
+      "locator": "Section 17: Officers and employees of Adjudicating Authority",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-17-195",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5541173",
+      "body": "Officers and employees of Adjudicating Authority.\n17. 11db[***]\n11db. Omitted by the Finance Act, 2021, w.e.f. 1-7-2021. Prior to its omission, section 17 read as under:\n\"17. Officers and employees of Adjudicating Authority.—(1) The Central Government shall provide each Adjudicating Authority with such officers and employees as that Government may think fit.\n(2) The officers and employees of the Adjudicating Authority shall discharge their functions under the general superintendence of the Chairperson of the Adjudicating Authority.\""
+    },
+    {
+      "id": "5541205",
+      "number": "18",
+      "locator": "Section 18: Authorities and jurisdiction",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-18-183",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5541205",
+      "body": "Authorities and jurisdiction.\n18. (1) The following shall be the authorities for the purposes of this Act, namely:—\n(a)\nthe Initiating Officer;\n(b)\nthe Approving Authority;\n(c)\nthe Administrator; and\n(d)\nthe Adjudicating Authority.\n(2) The authorities shall exercise all or any of the powers and perform all or any of the functions conferred on, or, assigned, as the case may be, to it under this Act or in accordance with such rules as may be prescribed."
+    },
+    {
+      "id": "5541237",
+      "number": "19",
+      "locator": "Section 19: Powers of authorities",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-19-176",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5541237",
+      "body": "Powers of authorities.\n19. (1) The authorities shall, for the purposes of this Act, have the same powers as are vested in a civil court under the Code of Civil Procedure, 1908 (5 of 1908), while trying a suit in respect of the following matters, namely:—\n(a)\ndiscovery and inspection;\n(b)\nenforcing the attendance of any person, including any official of a banking company or a public financial institution or any other intermediary or reporting entity, and examining him on oath;\n(c)\ncompelling the production of books of account and other documents;\n(d)\nissuing commissions;\n(e)\nreceiving evidence on affidavits; and\n(f)\nany other matter which may be prescribed.\n(2) All the persons summoned under sub-section (1) shall be bound to attend in person or through authorised agents, as any authority under this Act may direct, and shall be bound to state the truth upon any subject respecting which they are examined or make statements, and produce such documents as may be required.\n(3) Every proceeding under sub-section (1) or sub-section (2) shall be deemed to be a judicial proceeding within the meaning of section 193 and section 228 of the Indian Penal Code (45 of 1860).\n(4) For the purposes of this Act, any authority under this Act may requisition the service of any police officer or of any officer of the Central Government or State Government or of both to assist him for all or any of the purposes specified in sub-section (1), and it shall be the duty of every such officer to comply with the requisition or direction.\n(5) For the purposes of this section, \"reporting entity\" means any intermediary or any authority or of the Central or the State Government or any other person as may be notified in this behalf.\nExplanation.—For the purposes of sub-section (5), \"intermediary\" shall have the same meaning as assigned to it in clause (n) of sub-section (1) of section 2 of the Prevention of Money-Laundering Act, 2002 (15 of 2003)."
+    },
+    {
+      "id": "5541269",
+      "number": "20",
+      "locator": "Section 20: Certain officers to assist in inquiry, etc.",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-20-177",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5541269",
+      "body": "Certain officers to assist in inquiry, etc.\n20. The following officers shall assist the authorities in the enforcement of this Act, namely:—\n(a)\nincome-tax authorities appointed under sub-section (1) of section 117 of the Income-tax Act, 1961 (43 of 1961);\n(b)\nofficers of the Customs and Central Excise Departments;\n(c)\nofficers appointed under sub-section (1) of section 5 of the Narcotic Drugs and Psychotropic Substances Act, 1985 (61 of 1985);\n(d)\nofficers of the stock exchange recognised under section 4 of the Securities Contracts (Regulation) Act, 1956 (42 of 1956);\n(e)\nofficers of the Reserve Bank of India constituted under sub-section (1) of section 3 of the Reserve Bank of India Act, 1934 (2 of 1934);\n(f)\npolice;\n(g)\nofficers of enforcement appointed under sub-section (1) of section 36 of the Foreign Exchange Management Act, 1999 (40 of 1999);\n(h)\nofficers of the Securities and Exchange Board of India established under section 3 of the Securities and Exchange Board of India Act, 1992 (15 of 1992);\n(i)\nofficers of any other body corporate constituted or established under a Central or a State Act; and\n(j)\nsuch other officers of the Central Government, State Government, local authorities or banking companies as the Central Government may, by notification, specify, in this behalf."
+    },
+    {
+      "id": "5541301",
+      "number": "21",
+      "locator": "Section 21: Power to call for information",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-21-175",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5541301",
+      "body": "Power to call for information.\n21. (1) The Initiating Officer or the Approving Authority or the Adjudicating Authority shall have power to require any officer of the Central Government or State Government or a local body or any person or officer who is responsible for registering and maintaining books of account or other documents containing a record of any transaction relating to any property or any other person to furnish any information in relation to any person, point or matter as in his opinion shall be useful for or relevant for the purposes of this Act.\n(2) Without prejudice to sub-section (1), every officer or person referred to in sub-section (1) shall furnish such information to any authority under this Act in such form and manner as may be prescribed."
+    },
+    {
+      "id": "5541333",
+      "number": "22",
+      "locator": "Section 22: Power of authority to impound documents",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-22-190",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5541333",
+      "body": "Power of authority to impound documents.\n22. (1) Where any books of account or other documents are produced before the authority in any proceedings under this Act and the authority in this behalf has reason to believe that any of the books of account or other documents are required to be impounded and retained for any inquiry under this Act, it may impound and retain the books of account or other documents for a period not exceeding three months from the date of order of attachment made by the Adjudicating Authority under sub-section (3) of section 26:\nProvided that the period for retention of the books of account or other documents may be extended beyond a period exceeding three months from the date of order of attachment made by the Adjudicating Authority under sub-section (3) of section 26 where the authority records in writing the reasons for extending the same:\n(2) Where the authority impounding and retaining the books of account or other documents, under sub-section (1) is the Initiating Officer, he shall obtain approval of the Approving Authority within a period of fifteen days from the date of initial impounding and seek further approval of the Approving Authority for extending the period of initial retention, before the expiry of the period of initial retention, if so required.\n(3) The period of retention of the books of account or other documents under sub-section (1) shall in no case exceed a period of thirty days from the date of conclusion of all the proceedings under this Act.\n(4) The person, from whom the books of account or other documents were impounded under sub-section (1), shall be entitled to obtain copies thereof.\n(5) On the expiry of the period specified under sub-section (1), the books of account or other documents shall be returned to the person from whom such books of account or other documents were impounded unless the Approving Authority or the Adjudicating Authority permits their release to any other person."
+    },
+    {
+      "id": "5541365",
+      "number": "23",
+      "locator": "Section 23: Power of authority to conduct inquiry, etc.",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-23-188",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5541365",
+      "body": "Power of authority to conduct inquiry, etc.\n23. The Initiating Officer, after obtaining prior approval of the Approving Authority, shall have power to conduct or cause to be conducted any inquiry or investigation in respect of any person, place, property, assets, documents, books of account or other documents, in respect of any other relevant matters under this Act.]\n12[Explanation.—For the removal of doubts, it is hereby clarified that nothing contained in this section shall apply and shall be deemed to have ever applied where a notice under sub-section (1) of section 24 has been issued by the Initiating Officer.]\n12. Inserted by the Finance (No. 2) Act, 2019, w.r.e.f. 1-11-2016."
+    },
+    {
+      "id": "5541397",
+      "number": "24",
+      "locator": "Section 24: बेनामी लेनदेन में शामिल संपत्ति की सूचना और कुर्की",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-24-187",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5541397",
+      "body": "12a[CHAPTER IV\nATTACHMENT, ADJUDICATION AND CONFISCATION\nNotice and attachment of property involved in benami transaction.\n24. (1) Where the Initiating Officer, on the basis of material in his possession, has reason to believe that any person is a benamidar in respect of a property, he may, after recording reasons in writing, issue a notice to the person to show cause within such time as may be specified in the notice why the property should not be treated as benami property.\n(2) Where a notice under sub-section (1) specifies any property as being held by a benamidar referred to in that sub-section, a copy of the notice shall also be issued to the beneficial owner if his identity is known.\n12b [(2A) The benamidar, to whom a notice has been issued under sub-section (1), or the beneficial owner to whom a copy of such notice has been issued under sub-section (2), shall furnish the explanation or submissions, if any, within the period specified in the said notice or such period as may be extended by the Initiating Officer, not exceeding three months from the end of the month in which the said notice is issued.]\n(3) Where the Initiating Officer is of the opinion that the person in possession of the property held benami may alienate the property during the period specified in the notice, he may, with the previous approval of the Approving Authority, by order in writing, attach provisionally the property in the manner as may be prescribed, for a period not exceeding 12c[four months]13[from the last day of the month in which the notice under sub-section (1) is issued].\n(4) The Initiating Officer, after making such inquires and calling for such reports or evidence as he deems fit and taking into account all relevant materials, shall, within a period of 12c[four months]13[from the last day of the month in which the notice under sub-section (1) is issued],—\n(a)\nwhere the provisional attachment has been made under sub-section (3),—\n(i)\npass an order continuing the provisional attachment of the property with the prior approval of the Approving Authority, till the passing of the order by the Adjudicating Authority under sub-section (3) of section 26; or\n(ii)\nrevoke the provisional attachment of the property with the prior approval of the Approving Authority.\n(b)\nwhere provisional attachment has not been made under sub-section (3),—\n(i)\npass an order provisionally attaching the property with the prior approval of the Approving Authority, till the passing of the order by the Adjudicating Authority under sub-section (3) of section 26; or\n(ii)\ndecide not to attach the property as specified in the notice, with the prior approval of the Approving Authority.\n(5) Where the Initiating Officer passes an order continuing the provisional attachment of the property under sub-clause (i) of clause (a) of sub-section (4) or passes an order provisionally attaching the property under sub-clause (i) of clause (b) of that sub-section, he shall, within 13a[one month from the end of the month in which the said order has been passed], draw up a statement of the case and refer it to the Adjudicating Authority.\n14[Explanation.—For the purposes of this section, in computing the period of limitation, the period during which the proceeding is stayed by an order or injunction of any court shall be excluded:\nProvided that where immediately after the exclusion of the aforesaid period, the period of limitation referred to in sub-section (4) available to the Initiating Officer for passing order of attachment is less than thirty days, such remaining period shall be deemed to be extended to thirty days:\nProvided further that where immediately after the exclusion of the aforesaid period, the period of limitation referred to in sub-section (5) available to the Initiating Officer to refer the order of attachment to Adjudicating Authority is less than seven days, such remaining period shall be deemed to be extended to seven days.]\n12a. Chapter IV, consisting of sections 24 to 29, inserted by the Benami Transactions (Prohibition) Amendment Act, 2016, w.e.f. 1-11-2016.\n12b. Inserted by the Finance (No. 2) Act, 2024, w.e.f. 1-10-2024.\n12c. Substituted for \"ninety days\" by the Finance (No. 2) Act, 2024, w.e.f. 1-10-2024.\n13. Substituted for \"from the date of issue of notice under sub-section (1)\" by the Finance (No. 2) Act, 2019, w.e.f. 1-9-2019.\n13a. Substituted for \"fifteen days from the date of the attachment\" by the Finance (No. 2) Act, 2024, w.e.f. 1-10-2024.\n14. Inserted by the Finance (No. 2) Act, 2019, w.e.f. 1-9-2019."
+    },
+    {
+      "id": "5541429",
+      "number": "25",
+      "locator": "Section 25: Manner of service of notice",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-25-186",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5541429",
+      "body": "Manner of service of notice.\n25. (1) A notice under sub-section (1) of section 24 may be served on the person named therein either by post or as if it were a summons issued by a Court under the Code of Civil Procedure, 1908 (5 of 1908).\n(2) Any notice referred to in sub-section (1) may be addressed—\n(i)\nin case of an individual, to such individual;\n(ii)\nin the case of a firm, to the managing partner or the manager of the firm;\n(iii)\nin the case of a Hindu undivided family, to Karta or any member of such family;\n(iv)\nin the case of a company, to the principal officer thereof;\n(v)\nin the case of any other association or body of individuals, to the principal officer or any member thereof;\n(vi)\nin the case of any other person (not being an individual), to the person who manages or controls his affairs."
+    },
+    {
+      "id": "5541461",
+      "number": "26",
+      "locator": "Section 26: Adjudication of benami property",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-26-185",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5541461",
+      "body": "Adjudication of benami property.\n26. (1) On receipt of a reference under sub-section (5) of section 24, the Adjudicating Authority shall issue notice, to furnish such documents, particulars or evidence as is considered necessary on a date to be specified therein, on the following persons, namely:—\n(a)\nthe person specified as a benamidar therein;\n(b)\nany person referred to as the beneficial owner therein or identified as such;\n(c)\nany interested party, including a banking company;\n(d)\nany person who has made a claim in respect of the property:\nProvided that the Adjudicating Authority shall issue notice within a period of thirty days from the date on which a reference has been received:\nProvided further that the notice shall provide a period of not less than thirty days to the person to whom the notice is issued to furnish the information sought.\n(2) Where the property is held jointly by more than one person, the Adjudicating Authority shall make all endeavours to serve notice to all persons holding the property:\nProvided that where the notice is served on any one of the persons, the service of notice shall not be invalid on the ground that the said notice was not served to all the persons holding the property.\n(3) The Adjudicating Authority shall, after—\n(a)\nconsidering the reply, if any, to the notice issued under sub-section (1);\n(b)\nmaking or causing to be made such inquiries and calling for such reports or evidence as it deems fit; and\n(c)\ntaking into account all relevant materials,\nprovide an opportunity of being heard to the person specified as a benamidar therein, the Initiating Officer, and any other person who claims to be the owner of the property, and, thereafter, pass an order—\n(i)\nholding the property not to be a benami property and revoking the attachment order; or\n(ii)\nholding the property to be a benami property and confirming the attachment order, in all other cases.\n(4) Where the Adjudicating Authority is satisfied that some part of the properties in respect of which reference has been made to him is benami property, but is not able to specifically identify such part, he shall record a finding to the best of his judgment as to which part of the properties is held benami.\n(5) Where in the course of proceedings before it, the Adjudicating Authority has reason to believe that a property, other than a property referred to it by the Initiating Officer is benami property, it shall provisionally attach the property and the property shall be deemed to be a property referred to it on the date of receipt of the reference under sub-section (5) of section 24.\n(6) The Adjudicating Authority may, at any stage of the proceedings, either on the application of any party, or suo motu, strike out the name of any party improperly joined or add the name of any person whose presence before the Adjudicating Authority may be necessary to enable him to adjudicate upon and settle all the questions involved in the reference.\n(7) No order under sub-section (3) shall be passed after the expiry of one year from the end of the month in which the reference under sub-section (5) of section 24 was received.\n14a[Explanation.—For the purposes of this sub-section, in computing the period of limitation, the period during which the proceeding is stayed by an order or injunction of any court shall be excluded:\nProvided that where immediately after the exclusion of the aforesaid period, the period of limitation available to the Adjudicating Authority for passing order is less than sixty days, such remaining period shall be deemed to be extended to sixty days:]\n15[Provided *further that where the time limit for passing order under this sub-section expires during the period beginning from the 1st day of July, 2021 and ending on the 29th day of September, 2021, the time limit for passing such order shall be extended to the 30th day of September, 2021.]\n(8) The benamidar or any other person who claims to be the owner of the property may either appear in person or take the assistance of an authorised representative of his choice to present his case.\nExplanation.—For the purposes of sub-section (8), authorised representative means a person authorised in writing, being—\n(i)\na person related to the benamidar or such other person in any manner, or a person regularly employed by the benamidar or such other person as the case may be; or\n(ii)\nany officer of a scheduled bank with which the benamidar or such other person maintains an account or has other regular dealings; or\n(iii)\nany legal practitioner who is entitled to practice in any civil court in India; or\n(iv)\nany person who has passed any accountancy examination recognised in this behalf by the Board; or\n(v)\nany person who has acquired such educational qualifications as the Board may prescribe for this purpose.\n14a. Inserted by the Finance (No. 2) Act, 2019, w.e.f. 1-9-2019.\n15. Inserted by the Finance Act, 2021, w.e.f. 1-7-2021.\n*Word \"Further\" should be inserted."
+    },
+    {
+      "id": "5541493",
+      "number": "27",
+      "locator": "Section 27: Confiscation and vesting of benami property",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-27-182",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5541493",
+      "body": "Confiscation and vesting of benami property.\n27. (1) Where an order is passed in respect of any property under sub-section (3) of section 26 holding such property to be a benami property, the Adjudicating Authority shall, after giving an opportunity of being heard to the person concerned, make an order confiscating the property held to be a benami property:\nProvided that where an appeal has been filed against the order of the Adjudicating Authority, the confiscation of property shall be made subject to the order passed by the Appellate Tribunal under section 46:\nProvided further that the confiscation of the property shall be made in accordance with such procedure as may be prescribed.\n(2) Nothing in sub-section (1) shall apply to a property held or acquired by a person from the benamidar for adequate consideration, prior to the issue of notice under sub-section (1) of section 24 without his having knowledge of the benami transaction.\n(3) Where an order of confiscation has been made under sub-section (1), all the rights and title in such property shall vest absolutely in the Central Government free of all encumbrances and no compensation shall be payable in respect of such confiscation.\n(4) Any right of any third person created in such property with a view to defeat the purposes of this Act shall be null and void.\n(5) Where no order of confiscation is made upon the proceedings under this Act attaining finality, no claim shall lie against the Government."
+    },
+    {
+      "id": "5541525",
+      "number": "28",
+      "locator": "Section 28: Management of properties confiscated",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-28-180",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5541525",
+      "body": "Management of properties confiscated.\n28. (1) The Administrator shall have the power to receive and manage the property, in relation to which an order of confiscation under sub-section (1) of section 27 has been made, in such manner and subject to such conditions, as may be prescribed.\n(2) The Central Government may, by order published in the Official Gazette, notify as many of its officers as it thinks fit, to perform the functions of Administrators.\n(3) The Administrator shall also take such measures, as the Central Government may direct, to dispose of the property which is vested in the Central Government under sub-section (3) of section 27, in such manner and subject to such conditions as may be prescribed."
+    },
+    {
+      "id": "5541557",
+      "number": "29",
+      "locator": "Section 29: Possession of the property",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-29-180",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5541557",
+      "body": "Possession of the property.\n29. (1) Where an order of confiscation in respect of a property under sub-section (1) of section 27, has been made, the Administrator shall proceed to take the possession of the property.\n(2) The Administrator shall,—\n(a)\nby notice in writing, order within seven days of the date of the service of notice to any person, who may be in possession of the benami property, to surrender or deliver possession thereof to the Administrator or any other person duly authorised in writing by him in this behalf;\n(b)\nin the event of non-compliance of the order referred to in clause (a), or if in his opinion, taking over of immediate possession is warranted, for the purpose of forcibly taking over possession, requisition the service of any police officer to assist him and it shall be the duty of the officer to comply with the requisition.]"
+    },
+    {
+      "id": "5541589",
+      "number": "30",
+      "locator": "Section 30: Establishment of Appellate Tribunal",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-30-179",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5541589",
+      "body": "15a[CHAPTER V\nAPPELLATE TRIBUNAL\nEstablishment of Appellate Tribunal.\n30. The Central Government shall, by notification, establish an Appellate Tribunal to hear appeals against the orders of 15b[any authority] under this Act.\n15a. Chapter V, consisting of sections 30 to 49, inserted by the Benami Transactions (Prohibition) Amendment Act, 2016, w.e.f. 1-11-2016.\n15b. Substituted for \"the Adjudicating Authority\" by the Finance (No. 2) Act, 2019, w.e.f. 1-9-2019."
+    },
+    {
+      "id": "5541621",
+      "number": "31",
+      "locator": "Section 31: Composition, etc., of Appellate Tribunal",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-31-171",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5541621",
+      "body": "Composition, etc., of Appellate Tribunal.\n31. (1) The Appellate Tribunal shall consist of a Chairperson and at least two other Members of which one shall be a Judicial Member and other shall be an Administrative Member.\n(2) Subject to the provisions of this Act,—\n(a)\nthe jurisdiction of the Appellate Tribunal may be exercised by Benches thereof;\n(b)\na Bench may be constituted by the Chairperson with two Members as the Chairperson may deem fit;\n(c)\nthe Benches of the Appellate Tribunal shall ordinarily sit in the National Capital Territory of Delhi and at such other places as the Central Government may, in consultation with the Chairperson, by notification, specify;\n(d)\nthe Central Government shall, by notification, specify the areas in relation to which each Bench of the Appellate Tribunal may exercise its jurisdiction.\n(3) Notwithstanding anything contained in sub-section (2), the Chairperson may transfer a Member from one Bench to another Bench."
+    },
+    {
+      "id": "5541653",
+      "number": "32",
+      "locator": "Section 32: Qualifications for appointment of Chairperson and Members of Appellate Tribunal",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-32-166",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5541653",
+      "body": "Qualifications for appointment of Chairperson and Members of Appellate Tribunal.\n32. (1) A person shall not be qualified for appointment as Chairperson of the Appellate Tribunal unless he is a sitting or retired Judge of a High Court, who has completed not less than five years' of service.\n(2) A person shall not be qualified for appointment as a Member unless he—\n(a)\nin the case of a Judicial Member, has been a Member of the Indian Legal Service and has held the post of Additional Secretary or equivalent post in that Service;\n(b)\nin the case of an Administrative Member, has been a Member of the Indian Revenue Service and has held the post of Chief Commissioner of Income-tax or equivalent post in that Service.\n(3) No sitting Judge of a High Court shall be appointed under this section except after consultation with the Chief Justice of the High Court.\n(4) The Chairperson or a Member holding a post as such in any other Tribunal, established under any law for the time being in force, in addition to his being the Chairperson or a Member of that Tribunal, may be appointed as the Chairperson or a Member, as the case may be, of the Appellate Tribunal under this Act."
+    },
+    {
+      "id": "5541685",
+      "number": "33",
+      "locator": "Section 33: Terms and conditions of services of Chairperson and Members of Appellate Tribunal",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-33-162",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5541685",
+      "body": "Terms and conditions of services of Chairperson and Members of Appellate Tribunal.\n33. (1) The salary and allowances payable to, and the other terms and conditions of service of the Chairperson and other Members shall be such as may be prescribed and shall not be varied to their disadvantage during their tenure.\n(2) Any vacancy caused to the office of the Chairperson or any other Member shall be filled up within a period of three months from the date on which such vacancy occurs."
+    },
+    {
+      "id": "5541717",
+      "number": "34",
+      "locator": "Section 34: Term of office of Chairperson and Members",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-34-157",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5541717",
+      "body": "Term of office of Chairperson and Members.\n34. The Chairperson and Members of the Appellate Tribunal shall hold office for a term not exceeding five years from the date on which they enter upon their office, or until they attain the age of sixty-five years, whichever is earlier and shall not be eligible for re-appointment."
+    },
+    {
+      "id": "5541749",
+      "number": "35",
+      "locator": "Section 35: Removal of Chairperson and Member from office in certain circumstances",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-35-156",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5541749",
+      "body": "Removal of Chairperson and Member from office in certain circumstances.\n35. (1) The Central Government may, in consultation with the Chief Justice of High Court, remove from office of the Chairperson or any Member, who—\n(a)\nhas been adjudged as an insolvent; or\n(b)\nhas been convicted of an offence which, in the opinion of the Central Government involves moral turpitude; or\n(c)\nhas become physically or mentally incapable; or\n(d)\nhas acquired such financial or other interest as is likely to affect prejudicially his functions; or\n(e)\nhas so abused his position as to render his continuance in office prejudicial to the public interest.\n(2) The Chairperson or Judicial Member shall not be removed from his office except by an order made by the Central Government after an inquiry made by Chief Justice of the High Court in which the Chairperson or Judicial Member has been informed of the charges against him and given a reasonable opportunity of being heard in respect of those charges.\n(3) The Central Government may suspend from office the Chairperson or Judicial Member in respect of whom a reference of conducting an inquiry has been made to the Chief Justice of the High Court under sub-section (2), until the Central Government passes an order on receipt of the report of inquiry made by Chief Justice of the High Court on the reference.\n(4) The Central Government may regulate the procedure for inquiry referred to in sub-section (2) in the manner as may be prescribed.\n(5) The Administrative Member may be removed from his office by an order of the Central Government on the grounds specified in sub-section (1) and in accordance with the procedure notified by the Central Government:\nProvided that the Administrative Member shall not be removed unless he has been given an opportunity of being heard in the matter."
+    },
+    {
+      "id": "5541781",
+      "number": "36",
+      "locator": "Section 36: Vacancies, etc., not to invalidate proceedings of Appellate Tribunal",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-36-155",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5541781",
+      "body": "Vacancies, etc., not to invalidate proceedings of Appellate Tribunal.\n36. No act or proceeding of the Appellate Tribunal shall be invalid merely by reason of—\n(a)\nany vacancy in, or any defect in the constitution of the Tribunal; or\n(b)\nany defect in the appointment of a person acting as a Member of the Tribunal; or\n(c)\nany irregularity in the procedure of the Tribunal not affecting the merits of the case."
+    },
+    {
+      "id": "5541813",
+      "number": "37",
+      "locator": "Section 37: Resignation and removal",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-37-154",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5541813",
+      "body": "Resignation and removal.\n37. The Chairperson or any other Member may, by notice in writing under his hand addressed to the Central Government, resign his office:\nProvided that the Chairperson or any other Member shall, unless he is permitted by the Central Government to relinquish his office sooner, continue to hold office until the expiry of three months from the date of receipt of the notice or until a person duly appointed as his successor enters upon his office or until the expiry of his term of office, whichever is earlier."
+    },
+    {
+      "id": "5541845",
+      "number": "38",
+      "locator": "Section 38: Member to act as Chairperson in certain circumstances",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-38-153",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5541845",
+      "body": "Member to act as Chairperson in certain circumstances.\n38. (1) In the event of the occurrence of any vacancy in the office of the Chairperson of the Appellate Tribunal by reason of his death, resignation or otherwise, the senior-most Member shall act as the Chairperson until the date on which a new Chairperson, appointed in accordance with the provisions of this Act to fill such vacancy, enters upon his office.\n(2) When the Chairperson is unable to discharge his functions owing to absence, illness or any other cause, the senior-most Member shall discharge the functions of the Chairperson until the date on which the Chairperson resumes his duties."
+    },
+    {
+      "id": "5541877",
+      "number": "39",
+      "locator": "Section 39: Staff of Appellate Tribunal",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-39-151",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5541877",
+      "body": "Staff of Appellate Tribunal.\n39. (1) The Central Government shall provide the Appellate Tribunal with such officers and employees as it may thinks fit.\n(2) The officers and employees of the Appellate Tribunal shall discharge their functions under the general superintendence of the Chairperson.\n(3) The salaries and allowances and other conditions of service of the officers and employees of the Appellate Tribunal shall be such, as may be prescribed."
+    },
+    {
+      "id": "5541909",
+      "number": "40",
+      "locator": "Section 40: Procedure and powers of Appellate Tribunal",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-40-151",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5541909",
+      "body": "Procedure and powers of Appellate Tribunal.\n40. (1) The Appellate Tribunal shall not be bound by the procedure laid down by the Code of Civil Procedure, 1908 (5 of 1908), but shall be guided by the principles of natural justice and, subject to the other provisions of this Act, the Appellate Tribunal shall have powers to regulate its own procedure.\n(2) The Appellate Tribunal shall, for the purposes of discharging its functions under this Act, have the same powers as are vested in a civil court under the Code of Civil Procedure, 1908 (5 of 1908) while trying a suit, in respect of the following matters, namely:—\n(a)\nsummoning and enforcing the attendance of any person and examining him on oath;\n(b)\nrequiring the discovery and production of documents;\n(c)\nreceiving evidence on affidavits;\n(d)\nsubject to the provisions of sections 123 and 124 of the Indian Evidence Act, 1872 (1 of 1872), requisitioning any public record or document or copy of such record or document from any office;\n(e)\nissuing commissions for the examination of witnesses or documents;\n(f)\nreviewing its decisions;\n(g)\ndismissing a representation for default or deciding it ex parte;\n(h)\nsetting aside any order of dismissal of any representation for default or any order passed by it ex parte; and\n(i)\nany other matter, which may be, prescribed by the Central Government.\n(3) An order made by the Appellate Tribunal under this Act shall be executable by it as a decree of civil court and, for this purpose, the Appellate Tribunal shall have all the powers of a civil court.\n(4) Notwithstanding anything contained in sub-section (3), the Appellate Tribunal may transmit any order made by it to a civil court having jurisdiction and the civil court shall execute the order as if it were a decree made by that court.\n(5) All proceedings before the Appellate Tribunal shall be deemed to be judicial proceedings within the meaning of sections 193 and 228 of the Indian Penal Code (45 of 1860) and the Appellate Tribunal shall be deemed to be a civil court for the purposes of sections 345 and 346 of the Code of Criminal Procedure, 1973 (2 of 1974)."
+    },
+    {
+      "id": "5541941",
+      "number": "41",
+      "locator": "Section 41: Distribution of business amongst Benches of Appellate Tribunal",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-41-146",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5541941",
+      "body": "Distribution of business amongst Benches of Appellate Tribunal.\n41. Where any Benches are constituted, the Chairperson may, from time to time, by notification, make provision as to the distribution of the business of the Appellate Tribunal amongst the Benches and also provide for the matters which may be dealt with by each Bench."
+    },
+    {
+      "id": "5541973",
+      "number": "42",
+      "locator": "Section 42: Power of Chairperson of Appellate Tribunal to transfer cases",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-42-144",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5541973",
+      "body": "Power of Chairperson of Appellate Tribunal to transfer cases.\n42. On the application of any of the parties and notice to the parties, and after hearing them, or on his own motion without any notice, the Chairperson of the Appellate Tribunal may transfer any case pending before one Bench, for disposal, to any other Bench."
+    },
+    {
+      "id": "5542005",
+      "number": "43",
+      "locator": "Section 43: Decision to be by majority",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-43-143",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5542005",
+      "body": "Decision to be by majority.\n43. If the Members of a Bench consisting of two Members differ in opinion on any point, they shall state the point or points on which they differ, and make a reference to the Chairperson of the Appellate Tribunal who shall either hear the point or points himself or refer the case for hearing on the point or points by one or more of the other Members and the point or points shall be decided according to the opinion of the majority of the Members of the Appellate Tribunal who have heard the case, including those who first heard it."
+    },
+    {
+      "id": "5542037",
+      "number": "44",
+      "locator": "Section 44: Members, etc., to be public servants",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-44-141",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5542037",
+      "body": "Members, etc., to be public servants.\n44. The Chairperson, Members and other officers and employees of the Appellate Tribunal, the Adjudicating Authority, Approving Authority, Initiating Officer, Administrator and the officers subordinate to all of them shall be deemed to be public servants within the meaning of section 21 of the Indian Penal Code (45 of 1860)."
+    },
+    {
+      "id": "5542069",
+      "number": "45",
+      "locator": "Section 45: Bar of jurisdiction of civil courts",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-45-140",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5542069",
+      "body": "Bar of jurisdiction of civil courts.\n45. No civil court shall have jurisdiction to entertain any suit or proceeding in respect of any matter which any of the authorities, an Adjudicating Authority or the Appellate Tribunal is empowered by or under this Act to determine, and no injunction shall be granted by any court or other forum in respect of any action taken or to be taken in pursuance of any power conferred by or under this Act."
+    },
+    {
+      "id": "5542101",
+      "number": "46",
+      "locator": "Section 46: Appeals to Appellate Tribunal",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-46-140",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5542101",
+      "body": "Appeals to Appellate Tribunal.\n46. (1) Any person, including the Initiating Officer, aggrieved by an order of the Adjudicating Authority may prefer an appeal in such form and along with such fees, as may be prescribed, to the Appellate Tribunal against the order passed by the Adjudicating Authority under sub-section (3) of section 26, within a period of forty-five days from the date 15c[on which such order is received by the Initiating Officer or received by such person].\n15d[(1A) Any person aggrieved by an order passed by the authority under section 54A may prefer an appeal in such form alongwith such fees, as may be prescribed, to the Appellate Tribunal against the said order within a period of forty-five days from the date 15e[on which such order is received by such person].]\n(2) The Appellate Tribunal may entertain any appeal after the said period of forty-five days, if it is satisfied that the appellant was prevented, by sufficient cause, from filing the appeal in time.\n(3) On receipt of an appeal under sub-section (1) 15d[or sub-section (1A)], the Appellate Tribunal may, after giving the parties to the appeal an opportunity of being heard, pass such orders thereon as it thinks fit.\n(4) An Appellate Tribunal while deciding the appeal shall have the power—\n(a)\nto determine a case finally, where the evidence on record is sufficient;\n(b)\nto take additional evidence or to require any evidence to be taken by the Adjudicating Authority, where the Adjudicating Authority has refused to admit evidence, which ought to have been admitted;\n(c)\nto require any document to be produced or any witness to be examined for the purposes of proceeding before it;\n(d)\nto frame issues which appear to the Appellate Tribunal essential for adjudication of the case and refer them to the Adjudicating Authority for determination;\n(e)\nto pass final order and affirm, vary or reverse an order of adjudication passed by the Adjudicating Authority and pass such other order or orders as may be necessary to meet the ends of justice.\n(5) The Appellate Tribunal, as far as possible, may hear and finally decide the appeal within a period of one year from the last date of the month in which the appeal is filed.\n15c. Substituted for \"of the order\" by the Finance Act, 2023, w.e.f. 1-4-2023.\n15d. Inserted by the Finance (No. 2) Act, 2019, w.e.f. 1-9-2019.\n15e. Substituted for \"of that order\" by the Finance Act, 2023, w.e.f. 1-4-2023."
+    },
+    {
+      "id": "5542133",
+      "number": "47",
+      "locator": "Section 47: Rectification of mistakes",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-47-139",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5542133",
+      "body": "Rectification of mistakes.\n47. 15f[(1) The Appellate Tribunal or any authority may, in order to rectify any mistake apparent on the face of the record, amend any order passed by it under the provisions of this Act, within a period of one year from the end of the month in which such order was passed.]\n(2) No amendment shall be made under sub-section (1), if the amendment is likely to affect any person prejudicially, unless he has been given notice of intention to do so and has been given an opportunity of being heard.\n15f. Substituted by the Finance (No. 2) Act, 2019, w.e.f. 1-9-2019. Prior to its substitution, sub-section (1) read as under :\n\"(1) The Appellate Tribunal or the Adjudicating Authority may, in order to rectify any mistake apparent on the face of the record, amend any order made by it under section 26 and section 46 respectively, within a period of one year from the end of the month in which the order was passed.\""
+    },
+    {
+      "id": "5542165",
+      "number": "48",
+      "locator": "Section 48: Right to representation",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-48-136",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5542165",
+      "body": "Right to representation.\n48. (1) 16[A person, including the Initiating Officer, who is a party to any proceedings before] the Appellate Tribunal under this Act may either appear in person or take the assistance of an authorised representative of his choice to present his case before the Appellate Tribunal.\n(2) The Central Government may authorise one or more of its officers to act as presenting officers on its behalf, and every person so authorised may present the case with respect to any appeal before the Appellate Tribunal.\nExplanation.—For the purposes of this section, \"authorised representative\" 17[in relation to—\n(i)\nthe Initiating Officer, means a person authorised by the Central Government;\n(ii)\nany other party to the proceedings, means a person authorised by the party]\nin writing to appear on his behalf, being—\n(i)\na person related to 18[the party] in any manner, or a person regularly employed by 18[the party]; or\n(ii)\nany officer of a scheduled bank with which 18[the party] maintains an account or has other regular dealings; or\n(iii)\nany legal practitioner who is entitled to practice in any civil court in India; or\n(iv)\nany person who has passed any accountancy examination recognised in this behalf by the Board; or\n(v)\nany person who has acquired such educational qualifications as the Board may prescribe for this purpose.\n16. Substituted for \"A person preferring an appeal to\" by the Prohibition of Benami Property Transactions (Removal of Difficulties) Order, 2018, w.e.f. 9-10-2018.\n17. Substituted for \"means a person authorised by the appellant\" by the Prohibition of Benami Property Transactions (Removal of Difficulties) Order, 2018, w.e.f. 9-10-2018.\n18. Substituted for \"the appellant\" by the Prohibition of Benami Property Transactions (Removal of Difficulties) Order, 2018, w.e.f. 9-10-2018."
+    },
+    {
+      "id": "5542197",
+      "number": "49",
+      "locator": "Section 49: Appeal to High Court",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-49-134",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5542197",
+      "body": "Appeal to High Court.\n49. (1) Any party aggrieved by any decision or order of the Appellate Tribunal may file an appeal to the High Court within a period of sixty days from the date of communication of the decision or order of the Appellate Tribunal to him on any question of law arising out of such order.\n(2) The High Court may entertain any appeal after the said period of sixty days, if it is satisfied that the appellant was prevented by sufficient cause from filing the appeal within the period specified in sub-section (1).\n(3) Where the High Court is satisfied that a substantial question of law is involved in any case, it shall formulate that question.\n(4) The appeal shall be heard only on the question so formulated, and the respondents shall, at the hearing of the appeal, be allowed to argue that the case does not involve such question.\n(5) Nothing in this sub-section shall be deemed to take away or abridge the power of the court to hear, for reasons to be recorded, the appeal on any other substantial question of law not formulated by it, if it is satisfied that the case involves such question.\n(6) The High Court shall decide the question of law so formulated and deliver the judgment thereon containing the grounds on which any decision is founded and may award any cost as it deems fit.\n(7) The High Court may determine any issue which—\n(a)\nhas not been determined by the Appellate Tribunal; or\n(b)\nhas been wrongly determined by the Appellate Tribunal, by reason of a decision on such question of law as is referred to in sub-section (1).\n(8) Save as otherwise provided in this Act, the provisions of the Code of Civil Procedure, 1908 (5 of 1908), relating to appeals to the High Court shall, as far as may be, apply in the case of appeals under this section.]"
+    },
+    {
+      "id": "5542229",
+      "number": "50",
+      "locator": "Section 50: Special Courts",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-50-133",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5542229",
+      "body": "18a[CHAPTER VI\nSPECIAL COURTS\nSpecial Courts.\n50. (1) The Central Government, in consultation with the Chief Justice of the High Court, shall, for trial of an offence punishable under this Act, by notification, designate one or more Courts of Session as Special Court or Special Courts for such area or areas or for such case or class or group of cases as may be specified in the notification.\n(2) While trying an offence under this Act, a Special Court shall also try an offence other than an offence referred to in sub-section (1), with which the accused may, under the Code of Criminal Procedure, 1973 (2 of 1974), be charged at the same trial.\n(3) The Special Court shall not take cognizance of any offence punishable under this Act except upon a complaint in writing made by—\n(i)\nthe authority; or\n(ii)\nany officer of the Central Government or State Government authorised in writing by that Government by a general or special order made in this behalf.\n(4) Every trial under this section shall be conducted as expeditiously as possible and every endeavour shall be made by the Special Court to conclude the trial within six months from the date of filing of the complaint.\n18a. Chapters VI and VII, consisting of sections 50 to 55, respectively, inserted by the Benami Transactions (Prohibition) Amendment Act, 2016, w.e.f. 1-11-2016."
+    },
+    {
+      "id": "5542261",
+      "number": "51",
+      "locator": "Section 51: Application of Code of Criminal Procedure, 1973 to proceedings before Special Court",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-51-133",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5542261",
+      "body": "Application of Code of Criminal Procedure, 1973 to proceedings before Special Court.\n51. (1) Save as otherwise provided in this Act, the provisions of the Code of Criminal Procedure, 1973 (2 of 1974), shall apply to the proceedings before a Special Court and the persons conducting the prosecution before the Special Court, shall be deemed to be Public Prosecutors:\nProvided that the Central Government may also appoint for any case or class or group of cases, a Special Public Prosecutor.\n(2) A person shall not be qualified to be appointed as a Public Prosecutor or a Special Public Prosecutor under this section unless, the Public Prosecutor has been in practice as an advocate for not less than seven years, and the Special Public Prosecutor has been in practice as an advocate for not less than ten years in any court.\n(3) Every person appointed as a Public Prosecutor or a Special Public Prosecutor under this section shall be deemed to be a Public Prosecutor within the meaning of clause (u) of section 2 of the Code of Criminal Procedure, 1973 (2 of 1974) and the provisions of that Code shall have effect accordingly."
+    },
+    {
+      "id": "5542293",
+      "number": "52",
+      "locator": "Section 52: Appeal and revision",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-52-134",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5542293",
+      "body": "Appeal and revision.\n52. The High Court may exercise, so far as may be applicable, all the powers conferred by Chapter XXIX or Chapter XXX of the Code of Criminal Procedure, 1973 (2 of 1974), on a High Court, as if a Special Court within the local limits of the jurisdiction of the High Court were a Court of Session trying cases within the local limits of the jurisdiction of the High Court."
+    },
+    {
+      "id": "5542325",
+      "number": "53",
+      "locator": "Section 53: Penalty for benami transaction",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-53-136",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5542325",
+      "body": "CHAPTER VII\nOFFENCES AND PROSECUTION\nPenalty for benami transaction.\n53. (1) Where any person enters into a benami transaction in order to defeat the provisions of any law or to avoid payment of statutory dues or to avoid payment to creditors, the beneficial owner, benamidar and any other person who abets or induces any person to enter into the benami transaction, shall be guilty of the offence of benami transaction.\n(2) Whoever is found guilty of the offence of benami transaction referred to in sub-section (1) shall be punishable with rigorous imprisonment for a term which shall not be less than one year, but which may extend to seven years and shall also be liable to fine which may extend to twenty-five per cent of the fair market value of the property."
+    },
+    {
+      "id": "5542357",
+      "number": "54",
+      "locator": "Section 54: Penalty for false information",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-54-134",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5542357",
+      "body": "Penalty for false information.\n54. Any person who is required to furnish information under this Act knowingly gives false information to any authority or furnishes any false document in any proceeding under this Act, shall be punishable with rigorous imprisonment for a term which shall not be less than six months but which may extend to five years and shall also be liable to fine which may extend to ten per cent of the fair market value of the property."
+    },
+    {
+      "id": "5542389",
+      "number": "54A",
+      "locator": "Section 54A: Penalty for failure to comply with notices or furnish information",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-54a-66",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5542389",
+      "body": "19[Penalty for failure to comply with notices or furnish information.\n54A. (1) Any person who fails to,—\n(i)\ncomply with summons issued under sub-section (1) of section 19; or\n(ii)\nfurnish information as required under section 21,\nshall be liable to pay penalty of twenty-five thousand rupees for each such failure.\n(2) The penalty under sub-section (1) shall be imposed by the authority who had issued the summons or called for the information.\n(3) No order under sub-section (2) shall be passed by the authority unless the person on whom the penalty is to be imposed has been given an opportunity of being heard:\nProvided that no penalty shall be imposed if, such person proves that there were good and sufficient reasons which prevented him from complying with the summons or furnishing information.\n19. Sections 54A and 54B inserted by the Finance (No. 2) Act, 2019, w.e.f. 1-9-2019."
+    },
+    {
+      "id": "5542421",
+      "number": "54B",
+      "locator": "Section 54B: Proof of entries in records or documents",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-54b-58",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5542421",
+      "body": "Proof of entries in records or documents.\n54B. The entries in the records or other documents in the custody of an authority shall be admitted in evidence in any proceedings for the prosecution of any person for an offence under section 3 or this Chapter, as the case may be, and all such entries may be proved either by—\n(i)\nthe production of the records or other documents in the custody of the authority containing such entries; or\n(ii)\nthe production of a copy of the entries certified by the authority having custody of the records or other documents under its signature stating that it is a true copy of the original entries and that such original entries are contained in the records or other documents in its custody.]"
+    },
+    {
+      "id": "5542453",
+      "number": "55",
+      "locator": "Section 55: Previous sanction",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-55-130",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5542453",
+      "body": "Previous sanction.\n55. No prosecution shall be instituted against any person in respect of any offence under sections 3, 53 or section 54 without the previous sanction of the 20[competent authority].]\n21[Explanation.—For the purposes of this section, \"competent authority\" means a Commissioner, a Director, a Principal Commissioner of Income-tax or a Principal Director of Income-tax as defined in clause (16), clause (21), clause (34B) and clause (34C), respectively, of section 2 of the Income-tax Act, 1961 (43 of 1961).]\n20. Substituted for \"Board\" by the Finance (No. 2) Act, 2019, w.e.f. 1-9-2019.\n21. Inserted by the Finance (No. 2) Act, 2019, w.e.f. 1-9-2019."
+    },
+    {
+      "id": "5542485",
+      "number": "55A",
+      "locator": "Section 55A: Power to tender Immunity from prosecution",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-55a-60",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5542485",
+      "body": "1[Power to tender Immunity from prosecution.\n55A. (1) The Initiating Officer may, with a view to obtaining the evidence of the benamidar or any other person as referred to in section 53, other than the beneficial owner, tender immunity from prosecution for any offence under the said section to the benamidar or such other person, with the previous sanction of the competent authority as referred to in section 55, on the condition that the benamidar or such other person makes a full and true disclosure of the whole circumstances relating to the benami transaction.\n(2) The tender of immunity made to, and accepted by, the benamidar or such other person, shall, to the extent to which the immunity extends, render him immune from prosecution for the offence in respect of which the tender was made and from the imposition of any penalty under section 53.\n(3) If it appears to the Initiating Officer that any person to whom immunity has been tendered under this section has not complied with the conditions subject to which the tender was made, or is wilfully concealing anything, or is giving false evidence, the Initiating Officer may record a finding to that effect, and with the previous sanction of the competent authority as referred to in section 55, withdraw the immunity tendered.\n(4) Any person against whom the immunity tendered is withdrawn in accordance with sub-section (3), may be tried for the offence in respect of which the tender of immunity was made or for any other offence of which he appears to have committed in connection with the same transaction and shall also be liable to any penalty under this Act to which he would otherwise have been liable.]\n1. Inserted by the Finance (No. 2), Act, 2024., w.e.f. 1-10-2024."
+    },
+    {
+      "id": "5542517",
+      "number": "56",
+      "locator": "Section 56: Repeal of provisions of certain Acts",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-56-129",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5542517",
+      "body": "22[CHAPTER VIII\nMISCELLANEOUS\nRepeal of provisions of certain Acts.\n56. (1) Sections 81, 82 and 94 of the Indian Trusts Act, 1882 (2 of 1882), section 66 of the Code of Civil Procedure, 1908 (5 of 1908) and section 281A of the Income-tax Act, 1961 (43 of 1961), are hereby repealed.\n(2) For the removal of doubts, it is hereby declared that nothing in sub-section (1) shall affect the continued operation of section 281A of the Income-tax Act, 1961 (43 of 1961) in the State of Jammu and Kashmir.\n22. Chapter VIII, consisting of sections 56 to 71, substituted for sections 7 and 8 by the Benami Transactions (Prohibition) Amendment Act, 2016, w.e.f. 1-11-2016. Prior to their substitution, sections 7 and 8 read as under :\n\"7. Repeal of provisions of certain Acts.—(1) Sections 81, 82 and 94 of the Indian Trusts Act, 1882 (2 of 1882), section 66 of the Code of Civil Procedure, 1908 (5 of 1908) and section 281A of the Income-tax Act, 1961 (43 of 1961), are hereby repealed.\n(2) For the removal of doubts, it is hereby declared that nothing in sub-section (1) shall affect the continued operation of section 281A of the Income-tax Act, 1961 (43 of 1961), in the State of Jammu and Kashmir.\n8. Power to make rules.—(1) The Central Government may, by notification in the Official Gazette, makes rules for carrying out the purposes of this Act.\n(2) In particular, and without prejudice to the generality of the foregoing power, such rules may provide for all or any of the following matters, namely :—\n(a)\nthe authority competent to acquire properties under section 5;\n(b)\nthe manner in which, and the procedure to be followed for, the acquisition of properties under section 5;\n(c)\nany other matter which is required to be, or may be, prescribed.\n(3) Every rule made under this Act shall be laid, as soon as may be after it is made, before each House of Parliament, while it is in session for a total period of thirty days which may be comprised in one session or in two or more successive sessions, and if, before the expiry of the session immediately following the session or the successive sessions aforesaid, both Houses agree in making any modification in the rule or both Houses agree that the rule should not be made, the rule shall thereafter have effect only in such modified form or be of no effect, as the case may be; so, however, that any such modification or annulment shall be without prejudice to the validity of anything previously done under that rule.\""
+    },
+    {
+      "id": "5542549",
+      "number": "57",
+      "locator": "Section 57: Certain transfers to be null and void",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-57-129",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5542549",
+      "body": "Certain transfers to be null and void.\n57. Notwithstanding anything contained in the Transfer of the Property Act, 1882 (4 of 1882) or any other law for the time being in force, where, after the issue of a notice under section 24, any property referred to in the said notice is transferred by any mode whatsoever, the transfer shall, for the purposes of the proceedings under this Act, be ignored and if the property is subsequently confiscated by the Central Government under section 27, then, the transfer of the property shall be deemed to be null and void."
+    },
+    {
+      "id": "5542581",
+      "number": "58",
+      "locator": "Section 58: Exemption",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-58-127",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5542581",
+      "body": "Exemption.\n58. (1) The Central Government may, by notification, exempt any property relating to charitable or religious trusts from the operation of this Act.\n(2) Every notification issued under sub-section (1) shall be laid before each House of Parliament."
+    },
+    {
+      "id": "5542613",
+      "number": "59",
+      "locator": "Section 59: Power of Central Government to issue directions, etc.",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-59-125",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5542613",
+      "body": "Power of Central Government to issue directions, etc.\n59. (1) The Central Government may, from time to time, issue such orders, instructions or directions to the authorities or require any person to furnish information as it may deem fit for the proper administration of this Act and such authorities and all other persons employed in execution of this Act shall observe and follow the orders, instructions and directions of the Central Government.\n(2) In issuing the directions or orders referred to in sub-section (1), the Central Government may have regard to any one or more of the following criteria, namely:—\n(a)\nterritorial area;\n(b)\nclasses of persons;\n(c)\nclasses of cases; and\n(d)\nany other criterion that may be specified by the Central Government in this behalf.\n(3) No orders, instructions or directions under sub-section (1) shall be issued so as to—\n(a)\nrequire any authority to decide a particular case in a particular manner; or\n(b)\ninterfere with the discretion of the Adjudicating Authority in the discharge of its functions."
+    },
+    {
+      "id": "5542645",
+      "number": "60",
+      "locator": "Section 60: Application of other laws not barred",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-60-123",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5542645",
+      "body": "Application of other laws not barred.\n60. The provisions of this Act shall be in addition to, and not, save as hereinafter expressly provided, in derogation of any other law for the time being in force."
+    },
+    {
+      "id": "5542677",
+      "number": "61",
+      "locator": "Section 61: Offences to be non-cognizable",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-61-122",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5542677",
+      "body": "Offences to be non-cognizable.\n61. Notwithstanding anything contained in the Code of Criminal Procedure, 1973 (2 of 1974), an offence under this Act shall be non-cognizable."
+    },
+    {
+      "id": "5542709",
+      "number": "62",
+      "locator": "Section 62: Offences by companies",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-62-121",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5542709",
+      "body": "Offences by companies.\n62. (1) Where a person committing contravention of any of the provisions of this Act or of any rule, direction or order made thereunder is a company, every person who, at the time the contravention was committed, was in charge of, and was responsible to, the company, for the conduct of the business of the company as well as the company, shall be deemed to be guilty of the contravention and shall be liable to be proceeded against and punished accordingly.\n(2) Nothing contained in sub-section (1), shall render any person liable to punishment if he proves that the contravention took place without his know-ledge.\n(3) Notwithstanding anything contained in sub-section (1), where a contravention of any of the provisions of this Act or of any rule, direction or order made thereunder has been committed by a company and it is proved that the contravention has taken place with the consent or connivance of, or is attributable to any neglect on the part of any director, manager, secretary or other officer of the company, the director, manager, secretary or other officer shall also be deemed to be guilty of the contravention and shall be liable to be proceeded against and punished accordingly.\nExplanation.—For the purposes of this section,—\n(a)\n\"company\" means a body corporate, and includes—\n(i)\na firm; and\n(ii)\nan association of persons or a body of individuals whether incorporated or not; and\n(b)\n\"director\", in relation to—\n(i)\na firm, means a partner in the firm;\n(ii)\nany association of persons or a body of individuals, means any member controlling the affairs thereof."
+    },
+    {
+      "id": "5542741",
+      "number": "63",
+      "locator": "Section 63: Notice, etc., not to be invalid on certain grounds",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-63-121",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5542741",
+      "body": "Notice, etc., not to be invalid on certain grounds.\n63. No notice, summons, order, document or other proceeding, furnished or made or issued or taken or purported to have been furnished or made or issued or taken in pursuance of any of the provisions of this Act shall be invalid, or shall be deemed to be invalid merely by reason of any mistake, defect or omission in the notice, summons, order, document or other proceeding if the notice, summons, order, document or other proceeding is in substance and effect in conformity with or according to the intent and purpose of this Act."
+    },
+    {
+      "id": "5542773",
+      "number": "64",
+      "locator": "Section 64: Protection of action taken in good faith",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-64-121",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5542773",
+      "body": "Protection of action taken in good faith.\n64. No prosecution, suit or other proceeding shall lie against the Government or any officer of the Government or the Appellate Tribunal or the Adjudicating Authority established under this Act, for anything done or intended to be done in good faith under this Act."
+    },
+    {
+      "id": "5542805",
+      "number": "65",
+      "locator": "Section 65: Transfer of pending cases",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-65-120",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5542805",
+      "body": "Transfer of pending cases.\n65. (1) Every suit or proceeding in respect of a benami transaction pending in any Court (other than a High Court) or Tribunal or before any forum on the date of the commencement of this Act shall stand transferred to the Adjudicating Authority or the Appellate Tribunal, as the case may be, having jurisdiction in the matter.\n(2) Where any suit, or other proceeding stands transferred to the Adjudicating Authority or the Appellate Tribunal under sub-section (1),—\n(a)\nthe court, Tribunal or other forum shall, as soon as may be, after the transfer, forward the records of the suit, or other proceeding to the Adjudicating Authority or the Appellate Tribunal, as the case may be;\n(b)\nthe Adjudicating Authority may, on receipt of the records, proceed to deal with the suit, or other proceeding, so far as may be, in the same manner as in the case of a reference made under sub-section (5) of section 24, from the stage which was reached before the transfer or from any earlier stage or de novo as the Adjudicating Authority may deem fit."
+    },
+    {
+      "id": "5542837",
+      "number": "66",
+      "locator": "Section 66: Proceedings, etc., against legal representative",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-66-118",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5542837",
+      "body": "Proceedings, etc., against legal representative.\n66. (1) Where a person dies during the course of any proceeding under this Act, any proceeding taken against the deceased before his death shall be deemed to have been taken against the legal representative and may be continued against the legal representative from the stage at which it stood on the date of the death of the deceased.\n(2) Any proceeding which could have been taken against the deceased if he had survived may be taken against the legal representative and all the provisions of this Act, except sub-section (2) of section 3 and the provisions of Chapter VII, shall apply accordingly.\n(3) Where any property of a person has been held benami under sub-section (3) of section 26, then, it shall be lawful for the legal representative of the person to prefer an appeal to the Appellate Tribunal, in place of the person and the provisions of section 46 shall, so far as may be, apply, or continue to apply, to the appeal."
+    },
+    {
+      "id": "5542869",
+      "number": "67",
+      "locator": "Section 67: Act to have overriding effect",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-67-117",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5542869",
+      "body": "Act to have overriding effect.\n67. The provisions of this Act shall have effect, notwithstanding anything inconsistent therewith contained in any other law for the time being in force."
+    },
+    {
+      "id": "5542901",
+      "number": "68",
+      "locator": "Section 68: Power to make rules",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-68-116",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5542901",
+      "body": "Power to make rules.\n68. (1) The Central Government may, by notification, make rules for carrying out the provisions of this Act.\n(2) In particular, and without prejudice to the generality of the foregoing power, such rules may provide for all or any of the following matters, namely:—\n(a)\nmanner of ascertaining the fair market value under clause (16) of section 2;\n(b)&(c)\n22a[***]\n(d)\nthe powers and functions of the authorities under sub-section (2) of section 18;\n(e)\nother powers of the authorities under clause (f) of sub-section (1) of section 19;\n(f)\nthe form and manner of furnishing any information to the authority under sub-section (2) of section 21;\n(g)\nthe manner of provisional attachment of property under sub-section (3) of section 24;\n(h)\nthe procedure for confiscation of benami property under the second proviso to sub-section (1) of section 27;\n(i)\nthe manner and conditions to receive and manage the property under sub-section (1) of section 28;\n(j)\nthe manner and conditions of disposal of property vested in the Central Government under sub-section (3) of section 28;\n(k)\nthe salaries and allowances payable to and the other terms and conditions of service of the Chairperson and other Members of the Appellate Tribunal under sub-section (1) of section 33;\n(l)\nthe manner of prescribing procedure for removal of Chairperson or Member under sub-section (4) of section 35;\n(m)\nthe salaries and allowances payable to and the other terms and conditions of service of the officers and employees of the Appellate Tribunal under sub-section (3) of section 39;\n(n)\nany power of the Appellate Tribunal under clause (i) of sub-section (2) of section 40;\n(o)\nthe form in which appeal shall be filed and the fee for filing the appeal under sub-section (1) of section 46;\n(p)\nany other matter which is to be, or may be, prescribed, or in respect of which provision is to be made, by rules.\n22a. Omitted by the Finance Act, 2021, w.e.f. 1-7-2021. Prior to their omission, clauses (b) and (c) read as under :\n\"(b)\nthe manner of appointing the Chairperson and the Member of the Adjudicating Authorities under sub-section (2) of section 9;\n(c)\nthe salaries and allowances payable to the Chairperson and the Members of the Adjudicating Authority under sub-section (1) of section 13;\""
+    },
+    {
+      "id": "5542933",
+      "number": "69",
+      "locator": "Section 69: Laying of rules and notifications before Parliament",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-69-116",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5542933",
+      "body": "Laying of rules and notifications before Parliament.\n69. Every rule made and notification issued under this Act shall be laid, as soon as may be after it is made or issued, before each House of Parliament, while it is in session, for a total period of thirty days which may be comprised in one session or in two or more successive sessions, and if, before the expiry of the session immediately following the session or the successive sessions aforesaid, both Houses agree in making any modification in the rules or notifications, as the case may be, both Houses agree that the rules or notifications, as the case may be, should not be made or issued, the rule or notification, as the case may be, shall thereafter have effect only in such modified form or be of no effect, as the case may be; so, however, that any such modification or annulment shall be without prejudice to the validity of anything previously done under that rule or notification, as the case may be."
+    },
+    {
+      "id": "5542965",
+      "number": "70",
+      "locator": "Section 70: Power to remove difficulties",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-70-116",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5542965",
+      "body": "Power to remove difficulties.\n70. (1) If any difficulty arises in giving effect to the provisions of this Act, the Central Government may, by order, published in the Official Gazette, make such provisions not inconsistent with the provisions of this Act as may appear to be necessary for removing the difficulty.\n(2) No order shall be made under this section after the expiry of two years from the commencement of this Act.\n(3) Every order made under this section shall be laid, as soon as may be after it is made, before each House of Parliament."
+    },
+    {
+      "id": "5542997",
+      "number": "71",
+      "locator": "Section 71: Transitional provision",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-71-116",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5542997",
+      "body": "Transitional provision.\n71. The Central Government may, by notification, provide that until the Adjudicating Authorities are appointed and the Appellate Tribunal is established under this Act, the Adjudicating Authority appointed under sub-section (1) of section 6 of the Money-Laundering Act, 2002 (15 of 2003) and the Appellate Tribunal established under section 25 of that Act may discharge the functions of the Adjudicating Authority and Appellate Tribunal, respectively, under this Act 23[for such period and in respect of such cases or class of cases as may be specified in the said notification].]\n23. Inserted by the Prohibition of Benami Property Transactions (Removal of Difficulties) Second Order, 2018, w.e.f. 31-10-2018."
+    },
+    {
+      "id": "5543029",
+      "number": "72",
+      "locator": "Section 72: Repeal and saving",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-72-116",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5543029",
+      "body": "Repeal and saving.\n24[72.] (1) The Benami Transactions (Prohibition of the Right to Recover Property) Ordinance, 1988 (Ord. 2 of 1988) is hereby repealed.\n(2) Notwithstanding such repeal, anything done or any action taken under the said Ordinance shall be deemed to have been done or taken under the corresponding provisions of this Act.\n24. Section 9 renumbered as section 72 by the Benami Transactions (Prohibition) Amendment Act, 2016, w.e.f. 1-11-2016."
+    }
+  ],
+  "acquisition_response_checksums": [
+    "93ba60d8ea595b101ed3bec00bf65d898a09d45bf294fdd2be3f74ff283bcb3f"
+  ],
+  "note": "Verified body records and acquisition hashes; original HTML/API payloads retained in the acquisition workspace, not redistributed."
+}

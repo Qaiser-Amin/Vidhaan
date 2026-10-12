@@ -1,0 +1,36 @@
+{
+  "renderer": "official-sections-v1",
+  "receipt_mode": "bundled-section-records-v1",
+  "category_id": 4209011,
+  "source_document_sha256": "8460e67d4f479e241ce415ee95033cf624d5ca2a2b19bed9c0d0b9aa9713bd67",
+  "sections": [
+    {
+      "id": "5411626",
+      "number": "1",
+      "locator": "Section 1: Short title, extent and commencement",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-1-159",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5411626",
+      "body": "ECONOMIC OFFENCES (INAPPLICABILITY OF LIMITATION) ACT, 1974\n[12 OF 1974]\nAn Act to provide for the inapplicability of the provisions of Chapter XXXVI of the Code of Criminal Procedure, 1973 to certain economic offences.\nBE it enacted by Parliament in the Twenty-fifth Year of the Republic of India as follows:—\nShort title, extent and commencement.\n1. (1) This Act may be called the Economic Offences (Inapplicability of Limitation) Act, 1974.\n(2) It extends to the territories to which the Code of Criminal Procedure, 1973 (2 of 1974) applies\n(3) It shall come into force on the 1st day of April, 1974.\n© Copyright. Taxmann Publications Pvt. Ltd."
+    },
+    {
+      "id": "5411658",
+      "number": "2",
+      "locator": "Section 2: Chapter XXXVI of the Code of Criminal Procedure, 1973 not to apply to certain offences",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-2-160",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5411658",
+      "body": "Chapter XXXVI of the Code of Criminal Procedure, 1973 not to apply to certain offences\nChapter XXXVI of the Code of Criminal Procedure, 1973 not to apply to certain offences.\n2. Nothing in Chapter XXXVI of the Code of Criminal Procedure, 1973 (2 of 1974) shall apply to—\n(i) any offence punishable under any of the enactments [or provisions, if any, thereof] specified in the Schedule; or\n(ii) any other offence, which under the provisions of that Code, may be tried along with such offence,\nand every offence referred to in clause (i) or clause (ii) may be taken cognizance of by the Court having jurisdiction as if the provisions of that Chapter were not enacted.\n© Copyright. Taxmann Publications Pvt. Ltd."
+    },
+    {
+      "id": "5411690",
+      "number": "Schedule",
+      "locator": "Schedule: SCHEDULE",
+      "source_url": "https://www.incometaxindia.gov.in/w/schedule-6",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5411690",
+      "body": "SCHEDULE\nTHE SCHEDULE\n[See section 2 ]\n1. The Indian Income-tax Act, 1922 (11 of 1920).\n[1A. Clause (a) of section 63 of the Copyright Act, 1957 (14 of 1957).]\n2. The Income-tax Act, 1961 (43 of 1961).\n[2A. The Interest-tax Act, 1974 (45 of 1974).]\n[2B. The Hotel Receipts Tax Act, 1980 (54 of 1980).]\n[2C. The Expenditure-tax Act, 1987 (35 of 1987).]\n3. The Companies (Profits) Surtax Act, 1964 (7 of 1964).\n4. The Wealth-tax Act, 1957 (27 of 1957).\n5. The Gift-tax Act, 1958 (18 of 1958).\n6. The Central Sales Tax Act, 1956 (74 of 1956).\n7. The Central Excises and Salt Act, 1944 (1 of 1944).\n[7A. Chapter V of the Finance Act, 1994 (32 of 1994).]\n8. The Medicinal and Toilet Preparations (Excise Duties) Act, 1955 (16 of 1955).\n9. The Customs Act, 1962 (52 of 1962).\n10. The Gold (Control) Act, 1968 (45 of 1968).\n11. The Imports and Exports (Control) Act, 1947 (18 of 1947).\n12. The Foreign Exchange Regulation Act, 1947 (7 of 1947).\n13. The Foreign Exchange Regulation Act, 1973 (46 of 1973).\n14. The Capital Issues (Control) Act, 1947 (29 of 1947).\n15. The Indian Stamp Act, 1899 (2 of 1899).\n16. The Emergency Risks (Goods) Insurance Act, 1962 (62 of 1962).\n17. The Emergency Risks (Factories) Insurance Act, 1962 (63 of 1962).\n18. The Emergency Risks (Goods) Insurance Act, 1971 (50 of 1971).\n19. The Emergency Risks (Undertakings) Insurance Act, 1971 (51 of 1971).\n20. The General Insurance Business (Nationalisation) Act, 1972 (57 of 1972).\n[21. The Industries (Development and Regulation) Act, 1951 (65 of 1951).]\n[22. The Prohibition of Benami Property Transactions Act, 1988; (45 of 1988.)\n23. The Central Goods and Services Tax Act, 2017; (12 of 2017.)\n24. The Integrated Goods and Services Tax Act, 2017; (13 of 2017.)\n25. The Union Territory Goods and Services Tax Act, 2017(14 of 2017.); and\n26. The Goods and Services (Compensation to States) Act, 2017(15 of 2017.).]\n© Copyright. Taxmann Publications Pvt. Ltd."
+    }
+  ],
+  "acquisition_response_checksums": [
+    "a57ed31f257c6b1855399eb7342764adae3bdbdefbe1d57e0074f1e25f2e2e8a"
+  ],
+  "note": "Verified body records and acquisition hashes; original HTML/API payloads retained in the acquisition workspace, not redistributed."
+}

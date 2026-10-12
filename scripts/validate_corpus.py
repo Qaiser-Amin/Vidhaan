@@ -38,7 +38,7 @@ def validate(registry, settings):
         validate_citations(GeneratedAnswer(status=answer.status, claims=answer.claims), answer.evidence)
         if answer.status != 'supported' or not any(x.source.document_id == EXPECTED[domain.value] for x in answer.evidence):
             raise ValueError('Representative domain evidence missing: ' + domain.value)
-        if not all(x.source.domain == domain and x.source.namespace == 'official' for x in answer.evidence):
+        if not all(x.source.includes_passage(x.chunk, domain) and x.source.namespace == 'official' for x in answer.evidence):
             raise ValueError('Domain or namespace leak')
         # These are snapshot checks, not general guarantees about future reviewed/date metadata.
         if service.answer(question, filters.model_copy(update={'review_mode': 'reviewed'})).evidence:

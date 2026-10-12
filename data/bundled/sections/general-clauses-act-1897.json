@@ -1,0 +1,308 @@
+{
+  "renderer": "official-sections-v1",
+  "receipt_mode": "bundled-section-records-v1",
+  "category_id": 4209096,
+  "source_document_sha256": "ec46fdb36fc21987edac4251471e9e08399c3d7858fb7b579bc492f76ad86209",
+  "sections": [
+    {
+      "id": "5435238",
+      "number": "1",
+      "locator": "Section 1: Short title",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-1-174",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5435238",
+      "body": "GENERAL CLAUSES ACT, 1897\n(10 OF 1897)\nAn Act to consolidate and extend the General Clauses Acts, 1868 and 1887.\nWHEREAS it is expedient to consolidate and extend the General Clauses Acts, 1868 (1 of 1868) and 1887 (1 of 1887), it is hereby enacted as follows:â€”\nPRELIMINARY\nShort title\n1. (1) This Act may be called the General Clauses Act, 1897; [***]\n(2) [***]\n© Copyright. Taxmann Publications Pvt. Ltd."
+    },
+    {
+      "id": "5435270",
+      "number": "2",
+      "locator": "Section 2: Repeal",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-2-175",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5435270",
+      "body": "Repeal\n2. [Repealed by the Repealing and Amending Act, 1903 (1 of 1903).]\n© Copyright. Taxmann Publications Pvt. Ltd."
+    },
+    {
+      "id": "5435302",
+      "number": "3",
+      "locator": "Section 3: Definitions",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-3-172",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5435302",
+      "body": "GENERAL DEFINITIONS\n[Definitions\n3. In this Act, and in all Central Acts and regulations made after the commencement of this Act, unless there is anything repugnant in the subject or context—\n(1) \"abet\", with its grammatical variations and cognate expressions, shall have the same meaning as in the Indian Penal Code (45 of 1860);\n(2) \"act\", used with reference to an offence or a civil wrong, shall include a series of acts, and words which refer to acts done extend also to illegal omissions;\n(3) \"affidavit\" shall include affirmation and declaration in the case of persons by law allowed to affirm or declare instead of swearing;\n(4) \"barrister\" shall mean, a barrister of England or Ireland, or a member of the Faculty of Advocates in Scotland;\n(5) \"British India\" shall mean, as respects the period before the commencement of Part III of Government of India Act, 1935, all territories and places within His Majesty's dominions which were for the time being governed by His Majesty through the Governor-General of India or through any Governor or Officer subordinate to the Governor-General of India, and as respects any period after that date and before the date of the establishment of the Dominion of India means all territories for the time being comprised within the Governors' provinces and the Chief Commissioners' provinces, except that a reference to British India in an Indian law passed or made before the commencement of Part III of the Government of India Act, 1935, shall not include a reference to Berar;\n(6) \"British possession\" shall mean any part of Her Majesty's Dominions, exclusive of the United Kingdom, and where parts of those dominions are under both a Central and a Local Legislature, all parts under the Central Legislature shall, for the purposes of this definition, be deemed to be one British possession;\n(7) \"Central Act\" shall mean an Act of Parliament, and shall include—\n(a) an Act of the Dominion Legislature or of the Indian Legislature passed before the commencement of the Constitution; and\n(b) an Act made before such commencement by the Governor-General in Council or the Governor-General, acting in a legislative capacity;\n(8) \"Central Government\" shall,—\n(a) in relation to anything done before the commencement of the Constitution, means the Governor-General or the Governor General in Council, as the case may be; and shall include,—\n(i) in relation to functions entrusted under sub-section (1) of section 124 of the Government of India Act, 1935, to the Government of a Province, the provincial Government acting within the scope of the authority given to it under that sub-section; and\n(ii) in relation to the administration of a Chief Commissioner's Province, the Chief Commissioner acting within the scope of the authority given to him under sub-section (3) of section 94 of the said Act; and\n(b) in relation to anything done or to be done after the commencement of the Constitution, means the President;\nand shall include,—\n(i) in relation to functions entrusted under clause (1) of article 258 of the Constitution, to the Government of a State, the State Government acting within the scope of the authority given to it under that clause; [***]\n(ii) in relation to the administration of a Part C State [before the commencement of the Constitution (Seventh Amendment) Act, 1956], the Chief Commissioner or the Lieutenant-Governor or the Government of a neighbouring State or other authority acting within the scope of the authority given to him or it under article 239 or article 243 of the Constitution, as the case may be; 2[and\n(iii) in relation to the administration of a Union Territory, the administrator thereof acting within the scope of the authority given to him under article 239 of the Constitution];\n(9) \"Chapter\" shall mean a Chapter of the Act or regulation in which the word occurs;\n(10) \"Chief Controlling Revenue Authority\" or \"Chief Revenue Authority\" shall mean—\n(a) in a State where there is a Board of Revenue, that Board;\n(b) in a State where there is a Revenue Commissioner, that Commissioner;\n(c) in Punjab, the Financial Commissioner; and\n(d) elsewhere, such authority as, in relation to matters enumerated in List I in the Seventh Schedule to the Constitution, the Central Government, and in relation to other matters, the State Government, may, by notification in the Official Gazette, appoint;\n(11) \"Collector\" shall mean, in a Presidency-town, the Collector of Calcutta, Madras or Bombay, as the case may be, and elsewhere the chief officer-in-charge of the revenue-administration of a district;\n(12) \"Colony\"—\n(a) in any Central Act passed after the commencement of Part III of the Government of India Act, 1935, shall mean any part of His Majesty's Dominions exclusive of the British Islands, the Dominions of India and Pakistan (and before the establishment of those Dominions, British India), any Dominions as defined in the Statute of Westminster, 1931, any Province or State forming part of any of the said Dominions, and British Burma; and\n(b) in any Central Act passed before the commencement of Part III of the said Act, mean any part of His Majesty's dominions exclusive of the British Islands and of British India;\nand in the either case where parts of those dominions are under both a Central and Local Legislature, all parts under the Central Legislature shall, for the purposes of this definition, be deemed to be one colony;\n(13) \"commencement\", used with reference to an Act or Regulation, shall mean the day on which the Act or Regulation comes into force;\n(14) \"Commissioner\" shall mean the chief officer-in-charge of the revenue administration of a division;\nSTATE AMENDMENT\nAssam\nIn clause (14) insert the following words after the words \"a division\" namely:—\n\"and shall include the Assam Revenue Tribunal while exercising jurisdiction heretofore exercised by a Commissioner in appeals and revisions in Revenue cases\"\n[Assam Act 1 of 1939 as amended by Assam Act 4 of 1940]\n(15) \"Constitution\" shall mean the Constitution of India;\n(16) \"Consular officer\" shall include consul-general, consul, vice-consul, consular agent, pro-consul and any person for the time being authorised to perform the duties of consul-general, consul, vice-consul or consular agent;\n(17) \"District Judge\" shall mean the Judge of a principal civil court of original jurisdiction, but shall not include a High Court in the exercise of its ordinary or extraordinary original civil jurisdiction;\n(18) \"document\" shall include any matter written, expressed or described upon any substance by means of letters, figures or marks, or by more than one of those means which is intended to be used, or which may be used, for the purpose of recording that matter;\n(19) \"enactment\" shall include a regulation (as hereinafter defined) and any Regulation of the Bengal, Madras or Bombay Code, and shall also include any provision contained in any Act or in any such Regulation as aforesaid;\nSTATE AMENDMENT\nAndhra Pradesh\nIn clause (19), insert the words \"and any Regulation of the Madras Code in force in the State of Andhra as it existed immediately before the 1st November, 1956\" after the words \"any Regulation of the Bengal, Madras or Bombay Code\".\n[Andhra Pradesh A.L.O., 1954 and Andhra Pradesh A.L.O., 1957]\nTamil Nadu\nIn clause (19) as amended by Andhra Pradesh A.L.O. 1954 and Andhra Pradesh A.L.O. 1957, substitute the words \"territories specified in the Second Schedule to the Andhra Pradesh and Madras (Alteration of Boundaries) Act, 1959 (Central Act 56 of 1959)\" for the words \"State of Andhra Pradesh as it existed immediately before the 1st November, 1956\".\n[Tamil Nadu (Added Territories) A.L.O. 1961]\n(20) \"father\", in the case of any one whose personal law permits adoption, shall include an adoptive father;\n(21) \"financial year\" shall mean the year commencing on the first day of April;\n(22) a thing shall be deemed to be done in \"good faith\" where it is in fact done honestly, whether it is done negligently or not;\n(23) \"Government\" or \"the Government\" shall include both the Central Government and any State Government;\n(24) \"Government securities\" shall mean securities of the Central Government or of any State Government, but in any Act or regulation made before the commencement of the Constitution shall not include securities of the government of any Part B State;\n(25) \"High Court\", used with reference to civil proceedings, shall mean the highest civil court of appeal (not including the Supreme Court) in the part of India in which the Act or regulation containing the expression operates;\n(26) \"immovable property\" shall include land, benefits to arise out of land, and things attached to the earth, or permanently fastened to anything attached to the earth;\n(27) \"imprisonment\" shall mean imprisonment of either description as defined in the Indian Penal Code;\n(28) \"India\" shall mean,—\n(a) as respects any period before the establishment of the Dominion of India, British India together with all territories of Indian Rulers then under the suzerainty of His Majesty, all territories under the suzerainty of such an Indian Ruler, and the tribal areas;\n(b) as respects any period after the establishment of the Dominion of India and before the commencement of the Constitution, all territories for the time being included in that Dominion; and\n(c) as respects any period after the commencement of the Constitution, all territories for the time being comprised in the territory of India;\n(29) \"Indian law\" shall mean any Act, ordinance, regulation, rule, [order, bye-law or other instrument] which before the commencement of the Constitution had the force of law in any Province of India or part thereof, or thereafter has the force of law in any Part A State or Part C State or part thereof, but does not include any Act of Parliament of the United Kingdom or any Order in Council, rule or other instrument made under such Act;\n(30) \"Indian State\" shall mean any territory which the Central Government recognised as such a State before the commencement of the Constitution, whether described as a State, an Estate, a Jagir or otherwise;\n(31) \"local authority\" shall mean a municipal committee, district board, body of port commissioners or other authority legally entitled to, or entrusted by the government with the control or management of a municipal or local fund;\n(32) \"Magistrate\" shall include every person exercising all or any of the powers of a Magistrate under the Code of Criminal Procedure for the time being in force;\n(33) \"master\", used with reference to a ship, shall mean, any person (except a pilot or harbour-master) having for the time being control or charge of the ship;\n(34) \"merged territories\" shall mean the territories which by virtue of an order made under section 290A of the Government of India Act, 1935, were immediately before the commencement of t he Constitution being administered as if they formed part of a Governor's Province or as if they were a Chief Commissioner's Province;\n(35) \"month\" shall mean a month reckoned according to the British calendar;\n(36) \"movable property\" shall mean property of every description, except immovable property;\n(37) \"oath\" shall include affirmation and declaration in the case of persons by law allowed to affirm or declare instead of swearing;\n(38) \"offence\" shall mean any act or omission made punishable by any law for the time being in force;\n(39) \"Official Gazette\" or \"Gazette\" shall mean the Gazette of India or the Official Gazette of a State;\n(40) \"Part\" shall mean a part of the Act or Regulation in which the word occurs;\n(41) \"Part A State\" shall mean a State for the time being specified in Part A of Schedule I to the Constitution, [as in force before the Constitution (Seventh Amendment) Act, 1956,] \"Part B State\" shall mean a State for the time being specified in Part B of that Schedule and \"Part C State\" shall mean a State for the time being specified in Part C of that Schedule or a territory for the time being administered by the President under the provisions of article 243 of the Constitution;\n(42) \"person\" shall include any company or association or body of individuals, whether incorporated or not;\n(43) \"Political Agent\" shall mean,—\n(a) in relation to any territory outside India, the Principal Officer, by whatever name called, representing the Central Government in such territory; and\n(b) in relation to any territory within India to which the Act or Regulation containing the expression does not extend, any officer appointed by the Central Government to exercise all or any of the powers of a Political Agent under that Act or Regulation;\n(44) \"Presidency-town\" shall mean the local limits for the time being of the ordinary original civil jurisdiction of the High Court of Judicature at Calcutta, Madras or Bombay, as the case may be;\n(45) \"Province\" shall mean a Presidency, a Governor's Province, a Lieutenant Governor's Province or a Chief Commissioner's Province;\n(46) \"Provincial Act\" shall mean an Act made by the Governor in Council, Lieutenant Governor in Council or Chief Commissioner in Council of a Province under any of the Indian Councils Acts or the Government of India Act, 1915, or an Act made by the Local Legislature or the Governor of a Province under the Government of India Act, or an Act made by the Provincial Legislature or Governor of a Province or the Coorg Legislative Council under the Government of India Act, 1935;\n(47) \"Provincial Government\" shall mean, as respects anything done before the commencement of the Constitution, the authority or person authorised at the relevant date to administer executive government in the Province in question;\n(48) \"public nuisance\" shall mean a public nuisance as defined in the Indian Penal Code;\n(49) \"registered\", used with reference to a document, shall mean registered in [India] under the law for the time being in force for the registration of documents;\n(50) \"Regulation\" shall mean a Regulation made by the President [under article 240 of the Constitution and shall include a Regulation made by the President under article 243 thereof and] a regulation made by the Central Government under the Government of India Act, 1870, or the Government of India Act, 1915, or the Government of India Act, 1935;\n(51) \"rule\" shall mean a rule made in exercise of a power conferred by any enactment, and shall include a Regulation made as a rule under any enactment;\n(52) \"Schedule\" shall mean a Schedule to the Act or Regulation in which the word occurs;\n(53) \"Scheduled District\" shall mean a \"Scheduled District\" as defined in the Scheduled Districts Act, 1874;\n(54) \"section\" shall mean a section of the Act or Regulation in which the word occurs;\n(55) \"ship\" shall include every description of vessel used in navigation not exclusively propelled by oars;\n(56) \"sign\", with its grammatical variations and cognate expressions, shall, with reference to a person who is unable to write his name, include \"mark\", with its grammatical variations and cognate expressions;\n(57) \"son\", in the case of any one whose personal law permits adoption, shall include an adopted son;\n[(58) \"State\"—\n(a) as respects any period before the commencement of the Constitution (Seventh Amendment) Act, 1956, shall mean a Part A State, a Part B State or a Part C State; and\n(b) as respects any period after such commencement, shall mean a State specified in Schedule I to the Constitution and shall include a Union territory;]\n(59) \"State Act\" shall mean an Act passed by the Legislature of a State established or continued by the Constitution;\n(60) \"State Government\"—\n(a) as respects anything done before the commencement of the Constitution, shall mean, in a Part A State, the Provincial Government of the corresponding Province, in a Part B State, the authority or person authorised at the relevant date to exercise executive government in the corresponding Acceding State, and in a Part C State, the Central Government;[***]\n(b) as respects anything done [after the commencement of the Constitution and before the commencement of the Constitution (Seventh Amendment) Act, 1956], shall mean, in a Part A State, the Governor, in a Part B State, the Rajpramukh, and in a Part C State, the Central Government;\n[(c) as respects anything done or to be done after the commencement of the Constitution (Seventh Amendment) Act, 1956, shall mean, in a State, the Governor, and in a Union territory, the Central Government;\nand shall, in relation to functions entrusted under article 258A of the Constitution to the Government of India, include the Central Government acting within the scope of the authority given to it under that article];\n(61) \"sub-section\" shall mean a sub-section of the section in which the word occurs;\n(62) \"swear\", with its grammatical variations and cognate expressions, shall include affirming and declaring in the case of persons by law allowed to affirm or declare instead of swearing;\n[(62A) \"Union Territory\" shall mean any Union Territory specified in Schedule I to the Constitution and shall include any other territory comprised within the territory of India but not specified in that Schedule;]\n(63) \"vessel\" shall include any ship or boat or any other description of vessel used in navigation;\n(64) \"will\" shall include a codicil and every writing making a voluntary posthumous disposition of property;\n(65) expression referring to \"writing\" shall be construed as including references to printing, lithography, photography and other modes of representing or reproducing words in a visible form; and\n(66) \"year\" shall mean a year reckoned according to the British calendar.]\n© Copyright. Taxmann Publications Pvt. Ltd."
+    },
+    {
+      "id": "5435334",
+      "number": "4",
+      "locator": "Section 4: Application of foregoing definitions to previous enactments",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-4-173",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5435334",
+      "body": "Application of foregoing definitions to previous enactments\n4. (1) The definitions in section 3 of the following words and expressions, that is to say, \"affidavit\", \"barrister\", [***] \"District Judge\", \"father\", [***] [***] [***] immovable property\", \"imprisonment\", [***]\"Magistrate\", \"month\", \"movable property\", \"oath\", \"person\", \"section\", \"son\", \"swear\", \"will\", and \"year\" apply also, unless there is anything repugnant in the subject or context, to all [Central Acts] made after the third day of January, 1868, and to all Regulations made on or after the fourteenth day of January, 1887.\n(2) The definitions in the said section of the following words and expressions, that is to say, \"abet\", \"Chapter\", \"commencement\", \"financial year\", \"local authority\", \"master\", \"offence\", \"part\", \"public nuisance\", \"registered\", \"schedule\", \"ship\", \"sign\", \"sub-section\" and \"writing\" apply also, unless there is anything repugnant in the subject or context, to all [Central Acts] and Regulations made on or after the fourteenth day of January, 1887.\n© Copyright. Taxmann Publications Pvt. Ltd."
+    },
+    {
+      "id": "5435366",
+      "number": "4A",
+      "locator": "Section 4A: Application of certain definitions to Indian laws",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-4a-2",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5435366",
+      "body": "[Application of certain definitions to Indian laws\n4A. (1) The definitions in section 3 of the expressions \"British India\", \"Central Act\", \"Central Government\", \"Chief Controlling Revenue Authority\", \"Chief Revenue Authority\", \"Constitution\", \"Gazette\", \"Government\", \"Government securities\", \"High Court\", \"India\", \"Indian law\", \"Indian State\", \"merged territories\", \"Official Gazette\", \"Part A State\", \"Part B State\", \"Part C State\", \"Provincial Government\", \"State\", and \"State Government\" shall apply, unless there is anything repugnant in the subject or context, to all Indian laws.\n(2) In any Indian law, references, by whatever form of words, to revenues of the Central Government or to any State Government shall, on and from the first day of April, 1950, be construed as references to the Consolidated Fund of India or the Consolidated Fund of the State, as the case may be.]\n© Copyright. Taxmann Publications Pvt. Ltd."
+    },
+    {
+      "id": "5435398",
+      "number": "5",
+      "locator": "Section 5: Coming into operation of enactments",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-5-172",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5435398",
+      "body": "GENERAL RULES OF CONSTRUCTION\nComing into operation of enactments\n5. [(1) Where any Central Act is not expressed to come into operation on a particular day, then it shall come into operation on the day on which it receives the assent,—\n(a) in the case of a Central Act made before the commencement of the Constitution, of the Governor-General, and\n(b) in the case of an Act of Parliament, of the President].\n[***]\n(3) Unless the contrary is expressed, a [Central Act] or Regulation shall be construed as coming into operation immediately on the expiration of the day preceding its commencement.\n© Copyright. Taxmann Publications Pvt. Ltd."
+    },
+    {
+      "id": "5435430",
+      "number": "5A",
+      "locator": "Section 5A: Coming into operation of Governor-General's Act",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-5a-40",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5435430",
+      "body": "[Coming into operation of Governor-General's Act\n5A. [Repealed by the AO 1947].]\n© Copyright. Taxmann Publications Pvt. Ltd."
+    },
+    {
+      "id": "5435462",
+      "number": "6",
+      "locator": "Section 6: Effect of repeal",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-6-172",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5435462",
+      "body": "Effect of repeal\n6. Where this Act, or any [Central Act] or Regulation made after the commencement of this Act, repeals any enactment hitherto made or hereafter to be made, then, unless a different intention appears, the repeal shall not—\n(a) revive anything not in force or existing at the time at which the repeal takes effect; or\n(b) affect the previous operation of any enactment so repealed or anything duly done or suffered thereunder; or\n(c) affect any right, privilege, obligation or liability acquired, accrued or incurred under any enactment so repealed; or\n(d) affect any penalty, forfeiture or punishment incurred in respect of any offence committed against any enactment so repealed; or\n(e) affect any investigation, legal proceeding or remedy in respect of any such right, privilege, obligation, liability, penalty, forfeiture or punishment as aforesaid;\nand any such investigation, legal proceeding or remedy may be instituted, continued or enforced, and any such penalty, forfeiture or punishment may be imposed as if the repealing Act or Regulation had not been passed.\n© Copyright. Taxmann Publications Pvt. Ltd."
+    },
+    {
+      "id": "5435494",
+      "number": "6A",
+      "locator": "Section 6A: Repeal of Act making textual amendment in Act or Regulation",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-6a-3",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5435494",
+      "body": "[Repeal of Act making textual amendment in Act or Regulation\n6A. Where any [Central Act] or Regulation made after the commencement of this Act repeals any enactment by which the text of any [Central Act] or Regulation was amended by the express omission, insertion or substitution of any matter, then, unless a different intention appears, the repeal shall not affect the continuance of any such amendment made by the enactment so repealed and in operation at the time of such repeal.\n© Copyright. Taxmann Publications Pvt. Ltd."
+    },
+    {
+      "id": "5435526",
+      "number": "7",
+      "locator": "Section 7: Revival of repealed enactments",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-7-172",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5435526",
+      "body": "Revival of repealed enactments\n7. (1) In any [Central Act] or Regulation made after the commencement of this Act, it shall be necessary, for the purpose of reviving, either wholly or partially, any enactment wholly or partially repealed, expressly to state that purpose.\n(2) This section applies also to all [Central Acts] made after the third day of January, 1868, and to all Regulations made on or after the fourteenth day of January, 1887.\n© Copyright. Taxmann Publications Pvt. Ltd."
+    },
+    {
+      "id": "5435558",
+      "number": "8",
+      "locator": "Section 8: Construction of references to repealed enactments",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-8-172",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5435558",
+      "body": "Construction of references to repealed enactments\n8. [(1)] Where this Act, or any [Central Act] or Regulation made after the commencement of this Act, repeals and re-enacts, with or without modification, any provision of a former enactment, then references in any other enactment or in any instrument to the provision so repealed shall, unless a different intention appears, be construed as references to the provision so re-enacted.\n[(2) [Where before the fifteenth day of August, 1947, any Act of Parliament of the United Kingdom repealed and re-enacted, with or without modification, any provision of a former enactment, then references in any [Central Act] or in any Regulation or instrument to the provision so repealed shall, unless a different intention appears, be construed as references to the provision so re-enacted].\n© Copyright. Taxmann Publications Pvt. Ltd."
+    },
+    {
+      "id": "5435590",
+      "number": "9",
+      "locator": "Section 9: Commencement and termination of time",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-9-171",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5435590",
+      "body": "Commencement and termination of time\n9. (1) In any [Central Act] or Regulation made after the commencement of this Act, it shall be sufficient, for the purpose of excluding the first in a series of days or any other period of time to use the word \"from\", and, for the purpose of including the last in a series of days or any other period of time, to use the word \"to\".\n(2) This section applies also to all [Central Acts] made after the third day of January, 1868, and to all Regulations made on or after the fourteenth day of January, 1887.\n© Copyright. Taxmann Publications Pvt. Ltd."
+    },
+    {
+      "id": "5435622",
+      "number": "10",
+      "locator": "Section 10: Computation of time",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-10-169",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5435622",
+      "body": "Computation of time\n10. (1) Where, by any [Central Act] or Regulation made after the commencement of this Act, any act or proceeding is directed or allowed to be done or taken in any court or office on a certain day or within a prescribed period, then, if the court or office is closed on that day or the last day of the prescribed period, the act or proceedings shall be considered as done or taken in due time if it is done or taken on the next day afterwards on which the court or office is open:\nProvided that nothing in this section shall apply to any act or proceeding to which the [Indian Limitation Act, 1877 (15 of 1877)], applies.\n(2) This section applies also to all [Central Acts] or Regulations made on or after the fourteenth day of January, 1887.\n© Copyright. Taxmann Publications Pvt. Ltd."
+    },
+    {
+      "id": "5435654",
+      "number": "11",
+      "locator": "Section 11: Measurement of distances",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-11-167",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5435654",
+      "body": "Measurement of distances\n11. In the measurement of any distance, for the purpose of any [Central Act] or Regulation made after the commencement of this Act, that distance shall, unless a different intention appears, be measured in a straight line on a horizontal plane.\n© Copyright. Taxmann Publications Pvt. Ltd."
+    },
+    {
+      "id": "5435686",
+      "number": "12",
+      "locator": "Section 12: Duty to be taken pro rata in enactments",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-12-168",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5435686",
+      "body": "Duty to be taken pro rata in enactments\n12. Where, by any enactment now in force or hereafter to be in force, any duty of customs or excise, or in the nature thereof, is leviable on any given quantity, by weight, measure or value of any goods or merchandise, then a like duty is leviable according to the same rate on any greater or less quantity.\n© Copyright. Taxmann Publications Pvt. Ltd."
+    },
+    {
+      "id": "5435718",
+      "number": "13",
+      "locator": "Section 13: Gender and number",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-13-166",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5435718",
+      "body": "Gender and number\n13. In all [Central Acts] or Regulations, unless there is anything repugnant in the subject or context—\n(1) words importing the masculine gender shall be taken to include females; and\n(2) words in the singular shall include the plural, and vice versa.\n© Copyright. Taxmann Publications Pvt. Ltd."
+    },
+    {
+      "id": "5435750",
+      "number": "13A",
+      "locator": "Section 13A: References to the Sovereign",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-13a-50",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5435750",
+      "body": "[References to the Sovereign\n13A. [Repealed by the AO 1950]]\n© Copyright. Taxmann Publications Pvt. Ltd."
+    },
+    {
+      "id": "5435782",
+      "number": "14",
+      "locator": "Section 14: Powers conferred to be exercisable from time to time",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-14-163",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5435782",
+      "body": "POWERS AND FUNCTIONARIES\nPowers conferred to be exercisable from time to time\n14. (1) Where, by any [Central Act] or Regulation made after the commencement of this Act, any power is conferred, [***], then, [unless a different intention appears], that power may be exercised from time to time as occasion requires.\n(2) This section applies also to all [Central Acts] and Regulations made on or after the fourteenth day of January, 1887.\n© Copyright. Taxmann Publications Pvt. Ltd."
+    },
+    {
+      "id": "5435814",
+      "number": "15",
+      "locator": "Section 15: Power to appoint to include power to appoint ex officio",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-15-162",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5435814",
+      "body": "Power to appoint to include power to appoint ex officio\n15. Where, by any [Central Act] or Regulation, a power to appoint person to fill any office or execute any function is conferred, then, unless it is otherwise expressly provided, any such appointment, if it is made after the commencement of this Act, may be made either by name or by virtue of office.\n© Copyright. Taxmann Publications Pvt. Ltd."
+    },
+    {
+      "id": "5435846",
+      "number": "16",
+      "locator": "Section 16: Power to appoint to include power to suspend or dismiss",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-16-162",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5435846",
+      "body": "Power to appoint to include power to suspend or dismiss\n16. Where, by any [Central Act] or Regulation, a power to make any appointment is conferred, then, unless a different intention appears, the authority having [for the time being] power to make the appointment shall also have power to suspend or dismiss any person appointed [whether by itself or any other authority] in exercise of that power.\n© Copyright. Taxmann Publications Pvt. Ltd."
+    },
+    {
+      "id": "5435878",
+      "number": "17",
+      "locator": "Section 17: Substitution of functionaries",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-17-160",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5435878",
+      "body": "Substitution of functionaries\n17. (1) In any [Central Act] or Regulation, made after the commencement of this, Act, it shall be sufficient, for the purpose of indicating the application of a law to every person or number of persons for the time being executing the function of an office, to mention the official title of the officer at present executing the functions, or that of the officer by whom the functions are commonly executed.\n(2) This section applies also to all [Central Acts] made after the third day of January, 1868, and to all Regulations made on or after the fourteenth day of January, 1887.1'\n© Copyright. Taxmann Publications Pvt. Ltd."
+    },
+    {
+      "id": "5435910",
+      "number": "18",
+      "locator": "Section 18: Successors",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-18-148",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5435910",
+      "body": "Successors\n18. (1) In any [Central Act] or Regulation made after the commencement of this Act, is shall be sufficient, for the purpose of indicating the relation of a law to the successors of any functionaries or of corporations having perpetual succession, to express its relation to the functionaries or corporations.\n(2) This section applies also to all [Central Acts] made after the third day of January, 1868, and to all Regulations made on or after the fourteenth day of January, 1887.\n© Copyright. Taxmann Publications Pvt. Ltd."
+    },
+    {
+      "id": "5435942",
+      "number": "19",
+      "locator": "Section 19: Official chiefs and subordinates",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-19-141",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5435942",
+      "body": "Official chiefs and subordinates\n19. (1) In any [Central Act] or Regulation made after the commencement of this Act, it shall be sufficient, for the purpose of expressing that a law relating to the chief or superior of an office shall apply to the deputies or subordinates lawfully performing the duties of that office in the place of their superior, to prescribe the duty of the superior.\n(2) This section applies also to all [Central Acts] made after the third day of January, 1868, and to all Regulations made on or after the fourteenth day of January, 1887.\n© Copyright. Taxmann Publications Pvt. Ltd."
+    },
+    {
+      "id": "5435974",
+      "number": "20",
+      "locator": "Section 20: Construction of notifications, etc., issued under enactments",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-20-142",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5435974",
+      "body": "PROVISIONS AS TO ORDERS, RULES, ETC. MADE UNDER ENACTMENTS\nConstruction of notifications, etc., issued under enactments\n20. Where, by any [Central Act] or Regulation, a power to issue any [notification], order, scheme, rule, form, or bye-law is conferred, then expressions used in the [notification], order , scheme , rule, form or bye-law, if it is made after the commencement of this Act, shall, unless there is anything repugnant in the subject or context, have the same respective meanings as in the Act or Regulation conferring the power.\n© Copyright. Taxmann Publications Pvt. Ltd."
+    },
+    {
+      "id": "5436006",
+      "number": "21",
+      "locator": "Section 21: Power to issue, to include power to add to, amend, vary or rescind notifications, orders, rules or bye-laws",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-21-140",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5436006",
+      "body": "Power to issue, to include power to add to, amend, vary or rescind notifications, orders, rules or bye-laws\n21. Where, by any [Central Act] or Regulation, a power to [issue notifications], orders, rules or bye-laws is conferred, then that power includes a power, exercisable in the like manner and subject to the like sanction and conditions (if any), to add to, amend, vary or rescind any [notifications,] orders, rules or bye-laws so [issued].\n© Copyright. Taxmann Publications Pvt. Ltd."
+    },
+    {
+      "id": "5436038",
+      "number": "22",
+      "locator": "Section 22: Making of rules or bye-laws and issuing of orders between passing and commencement of enactment",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-22-156",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5436038",
+      "body": "Making of rules or bye-laws and issuing of orders between passing and commencement of enactment\n22. Where, by any [Central Act] or Regulation which is not to come into force immediately, on the passing thereof, a power is conferred to make rules or bye-laws, or to issue orders with respect to the application of the Act or Regulation, or with respect to the establishment of any court or office or the appointment of any Judge or officer thereunder, or with respect to the person by whom, or the time when, or the place where, or the manner in which, or the fees for which, anything is to be done under the Act or Regulation, then that power may be exercised at any time after the passing of the Act or Regulation; but rules, bye-laws or orders so made or issued shall not take effect till the commencement of the Act or Regulation.\n© Copyright. Taxmann Publications Pvt. Ltd."
+    },
+    {
+      "id": "5436070",
+      "number": "23",
+      "locator": "Section 23: Provisions applicable to making of rules or bye-laws after previous publication",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-23-154",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5436070",
+      "body": "Provisions applicable to making of rules or bye-laws after previous publication\n23. Where, by any [Central Act] or Regulation, a power to make rules or bye-laws is expressed to be given subject to the condition of the rules or bye-laws being made after previous publication, then the following provisions shall apply, namely:—\n(1) the authority having power to make the rules or bye-laws shall, before making them, publish a draft of the proposed rules or bye-laws for the information of persons likely to be affected thereby;\n(2) the publication shall be made in such manner as that authority deems to be sufficient, or, if the condition with respect to previous publication so requires, in such manner as the [government concerned] prescribes;\n(3) there shall be published with the draft a notice specifying a date on or after which the draft will be taken into consideration;\n(4) the authority having power to make the rules or bye-laws, and, where the rules, or bye-laws are to be made with the sanction, approval or concurrence of another authority, that authority also, shall consider any objection or suggestion which may be received by the authority having power to make the rules or bye-laws from any person with respect to the draft before the date so specified;\n(5) the publication in the [Official Gazette] of a rule or bye-law purporting to have been made in exercise of a power to make rules or bye-laws after previous publication shall be conclusive proof that the rule or bye-law has been duly made.\n© Copyright. Taxmann Publications Pvt. Ltd."
+    },
+    {
+      "id": "5436102",
+      "number": "24",
+      "locator": "Section 24: Continuation of orders, etc. issued under enactments repealed and re-enacted",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-24-153",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5436102",
+      "body": "Continuation of orders, etc. issued under enactments repealed and re-enacted\n24. Where any [Central Act] or Regulation, is, after the commencement of this Act, repealed and re-enacted with or without modification, then, unless it is otherwise expressly provided, any [appointment, notification,] order, scheme, rule, form or bye-law, [made or] issued under the repealed Act or Regulation, shall, so far as it is not inconsistent with the provisions re-enacted, continue in force, and be deemed to have been [made or] issued under the provisions so re-enacted, unless and until it is superseded by any [appointment, notification], order, scheme, rule, form or bye-law, [made or] issued under the provisions so re-enacted [and when any [Central Act] or Regulation, which, by a notification under section 5 or 5A of the Scheduled Districts Act, 1874, (14 of 1874), or any like law, has been extended to any local area, has, by a subsequent notification, been withdrawn from re-extended to such area or any part thereof, the provisions of such Act or Regulation shall be deemed to have been repealed and re-enacted in such area or part within the meaning of this section.\n© Copyright. Taxmann Publications Pvt. Ltd."
+    },
+    {
+      "id": "5436134",
+      "number": "25",
+      "locator": "Section 25: Recovery of fines",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-25-152",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5436134",
+      "body": "MISCELLANEOUS\nRecovery of fines\n25. Sections 63 to 70 of the Indian Penal Code (45 of 1860) and the provisions of the Code of Criminal Procedure (5 of 1898) for the time being in force in relation to the issue and the execution of warrants for the levy of fines shall apply to all fines imposed under any Act, Regulation, rule or bye-law, unless the Act, Regulation, rule or bye-law contains an express provision to the contrary.\n© Copyright. Taxmann Publications Pvt. Ltd."
+    },
+    {
+      "id": "5436166",
+      "number": "26",
+      "locator": "Section 26: Provision as to offences punishable under two or more enactments",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-26-151",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5436166",
+      "body": "Provision as to offences punishable under two or more enactments\n26. Where an act or omission constitutes an offence under two or more enactments, then the offender shall be liable to be prosecuted and punished under either or any of those enactments, but shall not be liable to be punished twice for the same offence.\n© Copyright. Taxmann Publications Pvt. Ltd."
+    },
+    {
+      "id": "5436198",
+      "number": "27",
+      "locator": "Section 27: Meaning of service by post",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-27-149",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5436198",
+      "body": "Meaning of service by post\n27. Where any [Central Act] or Regulation made after the commencement of this Act authorises or requires any document to be served by post, where the expression \"serve\" or either of the expressions \"give\" or \"send\" or any other expression is used, then, unless a different intention appears, the service shall be deemed to be effected by properly addressing, pre-paying and posting by registered post, a letter containing the document, and, unless the contrary is proved, to have been effected at the time at which the letter would be delivered in the ordinary course of post.\n© Copyright. Taxmann Publications Pvt. Ltd."
+    },
+    {
+      "id": "5436230",
+      "number": "28",
+      "locator": "Section 28: Citation of enactments",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-28-147",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5436230",
+      "body": "Citation of enactments\n28. (1) In any [Central Act] or Regulation, and in any rule, bye-law, instruments or document, made under, or with reference to any such Act or Regulation, any enactment may be cited by reference to the title or short title (if any) conferred thereon or by reference to the number and year thereof, and any provision in an enactment may be cited by reference to the section or sub-section of the enactment in which the provision is contained.\n(2) In this Act and in any [Central Act] or Regulation made after the commencement of this Act, a description or citation of portion of another enactment shall, unless a different intention appears, be construed as including the word, section or other part mentioned or referred to as forming the beginning and as forming the end of the portion comprised in the description or citation.\n© Copyright. Taxmann Publications Pvt. Ltd."
+    },
+    {
+      "id": "5436262",
+      "number": "29",
+      "locator": "Section 29: Saving for previous enactments, rules and bye-laws",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-29-147",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5436262",
+      "body": "Saving for previous enactments, rules and bye-laws\n29. The provisions of this Act respecting the construction of Acts, Regulations, rules or bye-laws made after the commencement of this Act shall not affect the construction of any Act, Regulation, rule or bye-law made before the commencement of this Act, although the Act, Regulation, rule or bye-law is continued or amended by an Act, Regulation, rule or bye-law made after the commencement of this Act.\n© Copyright. Taxmann Publications Pvt. Ltd."
+    },
+    {
+      "id": "5436294",
+      "number": "30",
+      "locator": "Section 30: Application of Act to Ordinances",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-30-147",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5436294",
+      "body": "[Application of Act to Ordinances\n30. In this Act the expression [Central Act], wherever it occurs, except in section 5 and the word \"Act\" in [clauses (9), (13), (25), (40), (43), (52) and (54) of section 3 and in section 25] shall be deemed to include an Ordinance made and promulgated by the Governor General under section 23 of the Indian Councils Act, 1861 (24 and 25 Vict., c. 67) [or section 72 of the Government of India Act, 1915] (5 and 6 Geo. V. c. 61) [or section 42 [***] of the Government of India Act, 1935] (26 Geo. V. c.2) [and an Ordinance promulgated by the President under article 123 of the Constitution].\n© Copyright. Taxmann Publications Pvt. Ltd."
+    },
+    {
+      "id": "5436326",
+      "number": "30A",
+      "locator": "Section 30A: Application of Act to Acts made by the Governor-General",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-30a-5",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5436326",
+      "body": "[Application of Act to Acts made by the Governor-General\n30A. [Repealed by the AO 1937]]\n© Copyright. Taxmann Publications Pvt. Ltd."
+    },
+    {
+      "id": "5436358",
+      "number": "31",
+      "locator": "Section 31: Construction of references to Local Government of a Province",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-31-144",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5436358",
+      "body": "[Construction of references to Local Government of a Province\n31. [Repealed by the AO 1937]\n© Copyright. Taxmann Publications Pvt. Ltd."
+    },
+    {
+      "id": "5436390",
+      "number": "Schedule",
+      "locator": "Schedule: Schedule",
+      "source_url": "https://www.incometaxindia.gov.in/w/schedule-9",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5436390",
+      "body": "THE SCHEDULE—Enactments repealed\n[Repealed by the Repealing and Amending Act, 1903 (1 of 1903)]\n© Copyright. Taxmann Publications Pvt. Ltd."
+    }
+  ],
+  "acquisition_response_checksums": [
+    "e1e9c460abf44a7c7d89c9f1456c480a7beda152b2bb9d0b130afd77aaf95416"
+  ],
+  "note": "Verified body records and acquisition hashes; original HTML/API payloads retained in the acquisition workspace, not redistributed."
+}

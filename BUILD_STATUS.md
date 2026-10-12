@@ -2,6 +2,19 @@
 
 Author: Qaiser Amin Ganaie. Cloud build: 12 October 2026, Python 3.12.14 / Linux.
 
+## Current domain expansion
+
+- The offline release includes **83 unique official-host documents, 16,297 child passages, 66 reproducible Act section collections, and eight portable BM25 inverted indexes**. Each domain has 10–12 source documents: employment 12, consumer 11, contracts 10, property 10, family 10, procedure 11, corporate/tax 12 and specialist 12.
+- Family has five primary Acts plus five related sources. Only explicitly selected maintenance, gifts, partition, trusts and historical marital-evidence passages enter its index. Shared sources are stored once; domain totals overlap. Every version remains unreviewed and effective dates stay unknown.
+- Government source bodies, complete Act pagination/membership and original SHA-256 values were inspected. Failed, partial, scanned and translated sources are excluded. Title typography is normalized only for identity checks; quoted bodies are preserved. Historical issuing authorities remain unknown where unverified.
+- Runtime SQL/coverage/index operations filter namespaces before reading chunks. Only manifest-declared official-domain postings are packaged; private material, databases and runtime indexes remain excluded. Offline loads preflight checksums, validate postings against actual chunks and preserve manual review, exclusions and newer versions.
+- Current cloud suite: **115 passed, zero failures/skips**. Fresh offline validation passed all 83 document checksums/66 receipts, all eight domain searches/quotes, reviewed/date gaps and a related-family BNSS maintenance search. See `evaluations/domain_index_validation.json`.
+- Current 83-source held-out BM25: Recall@5 34/41 (0.8293), MRR 0.6065, broad behavior 47/47. Dense/hybrid/generation remain unrun. No held-out tuning; legal support remains unreviewed.
+- Chromium browser suite: **7 passed, zero failures/skips**, including all eight counts, the matching 83-source report, related Family/BNSS evidence, source/original downloads, private isolation, mobile layouts and physical PDF pages.
+- Fresh extracted ZIP shell setup/dev installation and launch passed. Base-only suite: **114 passed, one optional FAISS skip, zero failed**; Torch, sentence-transformers and FAISS are absent. Real consumer context/export, all eight domain/quote/hash checks, new DPDP consent evidence and the matching benchmark passed. Native Windows/macOS and real model generation remain unperformed.
+- Cloud startup instructions were saved with the expanded counts and index workflow; draft saving does not publish an environment.
+- The following sections record earlier snapshots and their historical measurements; their 21/23-source counts do not describe this release.
+
 ## Completed implementation
 
 - Local Python/FastAPI and React legal research app, eight domains, SQLite source/version registry, manual review audit, exact section parents/children, persistent BM25 and citation/quote validation.
@@ -55,7 +68,7 @@ Author: Qaiser Amin Ganaie. Cloud build: 12 October 2026, Python 3.12.14 / Linux
 - Updated shell setup executed in a fresh extracted project and created its own base/dev environment; pip check, automatic local corpus loading and genuine consumer evidence passed. Optional model packages remained absent.
 - The fresh extracted run script loaded the included corpus without source network access and started a healthy historical Streamlit service (superseded by the custom web interface). Health/root checks passed; only this test service was stopped afterward. Final ZIP excludes environments, runtime databases/private data and original API payloads.
 
-## Custom web interface (current release)
+## Custom web interface (prior 21-source release)
 
 - Replaced Streamlit with a custom React + FastAPI workspace. Includes self-hosted serif/sans typography, responsive layouts, domain cards, staggered entrances, hover/loading feedback, and animated source/evidence drawers. Reduced-motion preferences, labelled controls, keyboard submission, focus trapping and Escape handling are implemented.
 - Retains genuine retrieval, exact quotation/context, physical PDF pagination and department section links, original downloads, Markdown/JSON exports, all scope filters, private-clause inspection, audited manual review/exclusion, live coverage, measured evaluation and diagnostics. No synthetic content becomes official evidence.

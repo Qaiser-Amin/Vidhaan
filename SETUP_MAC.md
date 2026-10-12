@@ -18,7 +18,7 @@ Scripts validate the working directory and Python 3.12 and use `.venv/bin/python
 .venv/bin/python -m vidhaan.cli search 'wholesome drinking water in plantations'
 ```
 
-Local runtime files remain on your machine; the ZIP includes only the 21 selected source documents with recorded reproduction terms and accompanying guides. Cached documents and installed dependencies allow offline BM25. The synthetic demo is a separate, labelled namespace.
+Local runtime files remain on your machine; the ZIP includes only the 83 selected source documents with recorded reproduction terms and accompanying guides. Cached documents and installed dependencies allow offline BM25. The synthetic demo is a separate, labelled namespace.
 
 ## Optional models
 
@@ -67,4 +67,4 @@ If a wheel is missing, retain base mode and NumPy vector search. If model weight
 
 ## Included corpus
 
-The final ZIP contains 21 source documents across all eight domains. Setup and launch load them offline with checksum checks; first loading builds the local text index. Repeat loads preserve review and excluded/newer versions. Two Labour Ministry FAQs remain optional online downloads under their source terms. Use Workspace settings → Load project documents offline for direct Python startup. See `docs/CORPUS_REUSE.md` for attribution and reproduction records.
+The final ZIP contains 83 source documents and eight portable BM25 indexes across all eight domains. Setup and launch load them offline with checksum checks; loading verifies the included inverted indexes against local source chunks. Repeat loads preserve review and excluded/newer versions. Two Labour Ministry FAQs remain optional online downloads under their source terms. Use Workspace settings → Load project documents offline for direct Python startup. See `docs/CORPUS_REUSE.md` for attribution and reproduction records.

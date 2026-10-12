@@ -13,7 +13,7 @@ def checked_path(folder, relative):
     if not isinstance(relative, str) or '\\' in relative:
         raise ValueError('Invalid bundle path')
     name = Path(relative)
-    if name.is_absolute() or '..' in name.parts or not name.parts or name.parts[0] not in {'documents', 'sections', 'guides'}:
+    if name.is_absolute() or '..' in name.parts or not name.parts or name.parts[0] not in {'documents', 'sections', 'guides', 'indexes'}:
         raise ValueError('Bundle path is outside the selected corpus directories')
     path = folder / name
     if path.is_symlink() or not path.resolve().is_relative_to(folder.resolve()):
@@ -34,7 +34,7 @@ def verify_bundle(folder):
     if manifest.get('schema_version') != 1 or manifest.get('generated_by') != 'VIDHAAN selected corpus':
         raise ValueError('Unsupported corpus bundle')
     files = manifest['files']
-    if not isinstance(files, dict) or not 1 <= len(files) <= 100:
+    if not isinstance(files, dict) or not 1 <= len(files) <= 512:
         raise ValueError('Invalid bundle file count')
     paths = {}
     for relative, checksum in files.items():
@@ -45,7 +45,7 @@ def verify_bundle(folder):
             raise ValueError('Bundle checksum mismatch: ' + relative)
         paths[relative] = path
     entries = manifest['sources']
-    if not isinstance(entries, list) or not 1 <= len(entries) <= 50:
+    if not isinstance(entries, list) or not 1 <= len(entries) <= 200:
         raise ValueError('Invalid bundled source count')
     seen = set()
     for entry in entries:
@@ -87,6 +87,25 @@ def verify_bundle(folder):
             reproduced = document_bytes({'metadata': {'title': source.title}, 'url': source.official_url}, records)
             if hashlib.sha256(reproduced).hexdigest() != source.checksum:
                 raise ValueError('Bundled section records do not reproduce source bytes')
+    if manifest.get('indexes'):
+        from .models import Domain
+        from .lexical import check_shape, token_documents
+        indexed_domains = set()
+        allowed = {e['source']['source_version']: Source(**e['source']) for e in entries}
+        for entry in manifest['indexes']:
+            domain = Domain(entry['domain'])
+            if domain in indexed_domains or entry['file'] not in paths or not entry['file'].startswith('indexes/'):
+                raise ValueError('Invalid declared domain index')
+            indexed_domains.add(domain)
+            data = json.loads(paths[entry['file']].read_text())
+            check_shape(data, domain); token_documents(data)
+            if entry['signature'] != data['signature'] or entry['source_count'] != len(data['sources']) or entry['chunk_count'] != len(data['chunk_ids']):
+                raise ValueError('Domain index inventory mismatch')
+            for record in data['sources']:
+                source = allowed.get(record['version_id'])
+                if not source or not source.allows_domain(domain) or source.document_id != record['document_id'] or source.checksum != record['sha256']:
+                    raise ValueError('Domain index contains an undeclared source')
+        if indexed_domains != set(Domain): raise ValueError('Eight official domain indexes required')
     return manifest, paths
 
 
@@ -102,6 +121,10 @@ def load_bundle(registry, folder):
         versions = [v for v in existing if v['document_id'] == source.document_id]
         same = next((v for v in versions if v['checksum'] == source.checksum), None)
         if same:
+            for domain, selections in source.related_domain_passages.items():
+                if domain not in same['source'].related_domain_passages:
+                    registry.domain_scope(same['version_id'], domain, selections,
+                                          'Added explicit related passages from the checksum-verified project collection; legal review unchanged.')
             results.append({'document_id': source.document_id, 'status': 'existing', 'version_id': same['version_id']})
             continue
         if versions:
@@ -117,4 +140,7 @@ def load_bundle(registry, folder):
             registry.replace_chunks(result.version_id, section_chunks(stored, records))
         results.append({'document_id': source.document_id, 'status': 'imported' if result.created else 'existing',
                         'version_id': result.version_id, 'child_chunks': len(registry.chunks(result.version_id))})
+    if manifest.get('indexes'):
+        from .lexical import build_all
+        build_all(registry, {e['domain']: paths[e['file']] for e in manifest['indexes']})
     return results

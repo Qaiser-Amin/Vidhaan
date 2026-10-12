@@ -1,0 +1,1260 @@
+{
+  "renderer": "official-sections-v1",
+  "receipt_mode": "bundled-section-records-v1",
+  "category_id": 4209266,
+  "source_document_sha256": "1314b06671cf436067986d1c28b8cde1f645b8de0f1f5c3a1a738d2b1c4d9c6c",
+  "sections": [
+    {
+      "id": "5521005",
+      "number": "1",
+      "locator": "Section 1: Short title",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-1-207",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5521005",
+      "body": "NEGOTIABLE INSTRUMENTS ACT, 1881\n[26 OF 1881]\nAn Act to define and amend the law relating to Promissory Notes, Bills of Exchange and Cheques.\nWHEREAS it is expedient to define and amend the law relating to promissory notes, bills of exchange and cheques;\nIt is hereby enacted as follows:—\nCHAPTER I\nPRELIMINARY\nShort title.\n1. This Act may be called the Negotiable Instruments Act, 1881.\nLocal extent, saving of usages relating to hundies, etc.\nIt extends to the whole of India [***] but nothing herein contained affects the Indian Paper Currency Act, 1871 (3 of 1871), section 21, or affects any local usage relating to any instrument in an oriental language :\nProvided that such usages may be excluded by any words in the body of the instrument, which indicate an intention that the legal relations of the parties thereto shall be governed by this Act;\nCommencement.—and it shall come into force on the first day of March, 1882.\n© Copyright. Taxmann Publications Pvt. Ltd."
+    },
+    {
+      "id": "5521038",
+      "number": "2",
+      "locator": "Section 2: Repeal of enactments",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-2-208",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5521038",
+      "body": "Repeal of enactments.\n2. [Repealed]\n© Copyright. Taxmann Publications Pvt. Ltd."
+    },
+    {
+      "id": "5521071",
+      "number": "3",
+      "locator": "Section 3: Interpretation clause",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-3-205",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5521071",
+      "body": "Interpretation clause.\n3. In this Act—\n[***]\n\"Banker\".\n[\"banker\" includes any person acting as a banker and any post office savings bank;]\n[***]\n© Copyright. Taxmann Publications Pvt. Ltd."
+    },
+    {
+      "id": "5521104",
+      "number": "4",
+      "locator": "Section 4: \"Promissory note",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-4-206",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5521104",
+      "body": "CHAPTER II\nOF NOTES, BILLS AND CHEQUES\n\"Promissory note\".\n4. A \"promissory note\" is an instrument in writing (not being a bank-note or a currency-note) containing an unconditional undertaking, signed by the maker, to pay a certain sum of money only to, or to the order of, a certain person, or to the bearer of the instrument.\nIllustrations\nA signs instruments in the following terms:—\n(a) \"I promise to pay B or order Rs. 500.\"\n(b) \"I acknowledge myself to be indebted to B in Rs. 1,000, to be paid on demand, for value received.\"\n(c) \"Mr. B, I.O.U. Rs. 1,000.\"\n(d) \"I promise to pay B Rs. 500 and all other sums which shall be due to him.\"\n(e) \"I promise to pay B Rs. 500 first deducting thereout any money which he may owe me.\"\n(f) \"I promise to pay B Rs. 500 seven days after my marriage with C.\"\n(g) \"I promise to pay B Rs. 500 on D's death, provided D leaves me enough to pay that sum.\"\n(h) \"I promise to pay B Rs. 500 and to deliver to him my black horse on 1st January next.\"\nThe instruments respectively marked (a) and (b) are promissory notes. The instruments respectively marked (c), (d), (e), (f), (g) and (h) are not promissory notes.\n© Copyright. Taxmann Publications Pvt. Ltd."
+    },
+    {
+      "id": "5521137",
+      "number": "5",
+      "locator": "Section 5: \"Bill of exchange",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-5-204",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5521137",
+      "body": "\"Bill of exchange\".\n5. A \"bill of exchange\" is an instrument in writing containing an unconditional order, signed by the maker, directing a certain person to pay a certain sum of money only to, or to the order of, a certain person or to the bearer of the instrument.\nA promise or order to pay is not \"conditional\", within the meaning of this section and section 4, by reason of the time for payment of the amount or any instalment thereof being expressed to be on the lapse of a certain period after the occurrence of a specified event which, according to the ordinary expectation of mankind, is certain to happen, although the time of its happening may be uncertain.\nThe sum payable may be \"certain\", within the meaning of this section and section 4, although it includes future interest or is payable at an indicated rate of exchange, or is according to the course of exchange, and although the instrument provides that, on default of payment of an instalment, the balance unpaid shall become due.\nThe person to whom it is clear that the direction is given or that payment is to be made may be a \"certain person\", within the meaning of this section and section 4, although he is mis-named or designated by description only.\n© Copyright. Taxmann Publications Pvt. Ltd."
+    },
+    {
+      "id": "5521170",
+      "number": "6",
+      "locator": "Section 6: \"Cheque",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-6-204",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5521170",
+      "body": "[ \"Cheque\".\n6. A \"cheque\" is a bill of exchange drawn on a specified banker and not expressed to be payable otherwise than on demand and it includes the electronic image of a truncated cheque and a cheque in the electronic form.\nExplanation I.—For the purposes of this section, the expressions—\n(a) \"a cheque in the electronic form\" means a cheque which contains the exact mirror image of a paper cheque, and is generated, written and signed in a secure system ensuring the minimum safety standards with the use of digital signature (with or without biometrics signature) and asymmetric crypto system;\n(b) \"a truncated cheque\" means a cheque which is truncated during the course of a clearing cycle, either by the clearing house or by the bank whether paying or receiving payment, immediately on generation of an electronic image for transmission, substituting the further physical movement of the cheque in writing.\nExplanation II.—For the purposes of this section, the expression \"clearing house\" means the clearing house managed by the Reserve Bank of India or a clearing house recognised as such by the Reserve Bank of India.]\n© Copyright. Taxmann Publications Pvt. Ltd."
+    },
+    {
+      "id": "5521203",
+      "number": "7",
+      "locator": "Section 7: \"Drawer\", \"Drawee",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-7-203",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5521203",
+      "body": "\"Drawer\", \"Drawee\".\n7. The maker of a bill of exchange or cheque is called the \"drawer\"; the person thereby directed to pay is called the \"drawee\".\n\"Drawee in case of need\".\nWhen in the bill or in any indorsement thereon the name of any person is given in addition to the drawee to be resorted to in case of need, such person is called a \"drawee in case of need\".\n\"Acceptor\"\nAfter the drawee of a bill has signed his assent upon the bill, or, if there are more parts thereof than one, upon one of such parts, and delivered the same, or given notice of such signing to the holder or to some person on his behalf, he is called the \"acceptor\".\n\"Acceptor for honour\".\nWhen a bill of exchange has been noted or protested for non-acceptance or for better security, and any person accepts it supra protest for honour of the drawer or of any one of the indorsers, such person is called an \"acceptor for honour\".\n\"Payee\".\nThe person named in the instrument, to whom or to whose order the money is by the instrument directed to be paid, is called the \"payee\".\n© Copyright. Taxmann Publications Pvt. Ltd."
+    },
+    {
+      "id": "5521236",
+      "number": "8",
+      "locator": "Section 8: \"Holder",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-8-203",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5521236",
+      "body": "\"Holder\".\n8. The \"holder\" of a promissory note, bill of exchange or cheque means any person entitled in his own name to the possession thereof and to receive or recover the amount due thereon from the parties thereto.\nWhere the note, bill or cheque is lost or destroyed, its holder is the person so entitled at the time of such loss or destruction.\n© Copyright. Taxmann Publications Pvt. Ltd."
+    },
+    {
+      "id": "5521269",
+      "number": "9",
+      "locator": "Section 9: \"Holder in due course",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-9-201",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5521269",
+      "body": "\"Holder in due course\".\n9. \"Holder in due course\" means any person who for consideration became the possessor of a promissory note, bill of exchange or cheque if payable to bearer, or the payee or indorsee thereof, if payable to order,\nbefore the amount mentioned in it became payable, and without having sufficient cause to believe that any defect existed in the title of the person from whom he derived his title.\n© Copyright. Taxmann Publications Pvt. Ltd."
+    },
+    {
+      "id": "5521302",
+      "number": "10",
+      "locator": "Section 10: \"Payment in due course",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-10-199",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5521302",
+      "body": "\"Payment in due course\".\n10. \"Payment in due course\" means payment in accordance with the apparent tenor of the instrument in good faith and without negligence to any person in possession thereof under circumstances which do not afford a reasonable ground for believing that he is not entitled to receive payment of the amount therein mentioned.\n© Copyright. Taxmann Publications Pvt. Ltd."
+    },
+    {
+      "id": "5521335",
+      "number": "11",
+      "locator": "Section 11: \"Inland instrument",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-11-197",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5521335",
+      "body": "\"Inland instrument \".\n11 . A promissory note, bill of exchange or cheque drawn or made in [India], and made payable in, or drawn upon any person resident in, [India] shall be deemed to be an inland instrument.\n© Copyright. Taxmann Publications Pvt. Ltd."
+    },
+    {
+      "id": "5521368",
+      "number": "12",
+      "locator": "Section 12: \"Foreign instrument",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-12-198",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5521368",
+      "body": "\"Foreign instrument\".\n12. Any such instrument not so drawn, made or made payable shall be deemed to be a foreign instrument.\n© Copyright. Taxmann Publications Pvt. Ltd."
+    },
+    {
+      "id": "5521401",
+      "number": "13",
+      "locator": "Section 13: \"Negotiable instrument",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-13-196",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5521401",
+      "body": "\"Negotiable instrument\".\n13. (1) A \"negotiable instrument\" means a promissory note, bill of exchange or cheque payable either to order or to bearer.\nExplanation (i) : A promissory note, bill of exchange or cheque is payable to order which is expressed to be so payable or which is expressed to be payable to a particular person, and does not contain words prohibiting transfer or indicating an intention that it shall not be transferable.\nExplanation (ii) : A promissory note, bill of exchange or cheque is payable to bearer which is expressed to be so payable or on which the only or last indorsement is an indorsement in blank.\nExplanation (iii) : Where a promissory note, bill of exchange or cheque, either originally or by indorsement, is expressed to be payable to the order of a specified person, and not to him or his order, it is nevertheless payable to him or his order at his option.\n(2) A negotiable instrument may be made payable to two or more payees jointly, or it may be made payable in the alternative to one of two, or one or some of several payees.\n© Copyright. Taxmann Publications Pvt. Ltd."
+    },
+    {
+      "id": "5521434",
+      "number": "14",
+      "locator": "Section 14: Negotiation",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-14-192",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5521434",
+      "body": "Negotiation.\n14. When a promissory note, bill of exchange or cheque is transferred to any person, so as to constitute that person the holder thereof, the instrument is said to be negotiated.\n© Copyright. Taxmann Publications Pvt. Ltd."
+    },
+    {
+      "id": "5521467",
+      "number": "15",
+      "locator": "Section 15: Indorsement",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-15-191",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5521467",
+      "body": "Indorsement.\n15. When the maker or holder of a negotiable instrument signs the same, otherwise than as such maker, for the purpose of negotiation, on the back or face thereof or on a slip of paper annexed thereto, or so signs for the same purpose a stamped paper intended to be completed as a negotiable instrument, he is said to indorse the same, and is called the \"indorser\".\n© Copyright. Taxmann Publications Pvt. Ltd."
+    },
+    {
+      "id": "5521500",
+      "number": "16",
+      "locator": "Section 16: Indorsement \"in blank\" and \"in full",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-16-190",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5521500",
+      "body": "Indorsement \"in blank\" and \"in full\".\n16. (1) If the indorser signs his name only, the indorsement is said to be \"in blank,\" and if he adds a direction to pay the amount mentioned in the instrument to, or to the order of, a specified person, the indorsement is said to be \"in full\"; and the person so specified is called the \"indorsee\" of the instrument.\n\"Indorsee\"\n(2) The provisions of this Act relating to a payee shall apply with the necessary modifications to an indorsee.\n© Copyright. Taxmann Publications Pvt. Ltd."
+    },
+    {
+      "id": "5521533",
+      "number": "17",
+      "locator": "Section 17: Ambiguous instruments",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-17-188",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5521533",
+      "body": "Ambiguous instruments.\n17. Where an instrument may be construed either as a promissory note or bill of exchange, the holder may at his election treat it as either, and the instrument shall be thence forward treated accordingly.\n© Copyright. Taxmann Publications Pvt. Ltd."
+    },
+    {
+      "id": "5521566",
+      "number": "18",
+      "locator": "Section 18: Where amount is stated differently in figures and words",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-18-176",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5521566",
+      "body": "Where amount is stated differently in figures and words.\n18. If the amount undertaken or ordered to be paid is stated differently in figures and in words, the amount stated in words shall be the amount undertaken or ordered to be paid.\n© Copyright. Taxmann Publications Pvt. Ltd."
+    },
+    {
+      "id": "5521599",
+      "number": "19",
+      "locator": "Section 19: Instruments payable on demand",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-19-169",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5521599",
+      "body": "Instruments payable on demand.\n19. A promissory note or bill of exchange, in which no time for payment is specified, and a cheque, are payable on demand.\n© Copyright. Taxmann Publications Pvt. Ltd."
+    },
+    {
+      "id": "5521632",
+      "number": "20",
+      "locator": "Section 20: Inchoate stamped instruments",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-20-170",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5521632",
+      "body": "Inchoate stamped instruments.\n20. Where one person signs and delivers to another a paper stamped in accordance with the law relating to negotiable instruments then in force in [India], and either wholly blank or having written thereon an incomplete negotiable instrument, he thereby gives prima facie authority to the holder thereof to make or complete, as the case may be, upon it a negotiable instrument, for any amount specified therein and not exceeding the amount covered by the stamp. The person so signing shall be liable upon such instrument, in the capacity in which he signed the same, to any holder in due course for such amount :\nProvided that no person other than a holder in due course shall recover from the person delivering the instrument anything in excess of the amount intended by him to be paid thereunder.\n© Copyright. Taxmann Publications Pvt. Ltd."
+    },
+    {
+      "id": "5521665",
+      "number": "21",
+      "locator": "Section 21: \"At sight\", \"On presentment\", \"After sight",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-21-168",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5521665",
+      "body": "\"At sight\", \"On presentment\", \"After sight\".\n21. In a promissory note or bill of exchange the expressions \"at sight\" and \"on presentment\" mean on demand. The expression \"after sight\" means, in a promissory note, after presentment for sight, and, in a bill of exchange, after acceptance, or noting for non-acceptance, or protest for non-acceptance.\n© Copyright. Taxmann Publications Pvt. Ltd."
+    },
+    {
+      "id": "5521698",
+      "number": "22",
+      "locator": "Section 22: \"Maturity",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-22-184",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5521698",
+      "body": "\"Maturity\".\n22. The maturity of a promissory note or bill of exchange is the date at which it falls due.\nDays of grace.\nEvery promissory note or bill of exchange which is not expressed to be payable on demand, at sight or on presentment is at maturity on the third day after the day on which it is expressed to be payable.\n© Copyright. Taxmann Publications Pvt. Ltd."
+    },
+    {
+      "id": "5521731",
+      "number": "23",
+      "locator": "Section 23: Calculating maturity of bill or note payable so many months after date or sight",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-23-182",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5521731",
+      "body": "Calculating maturity of bill or note payable so many months after date or sight.\n23. In calculating the date at which a promissory note or bill of exchange, made payable a stated number of months after date or after sight, or after a certain event, is at maturity, the period stated shall be held to terminate on the day of the month which corresponds with the day on which the instrument is dated, or presented for acceptance or sight, or noted for non-acceptance, or protested for non-acceptance, or the event happens, or, where the instrument is a bill of exchange made payable a stated number of months after sight and has been accepted for honour, with the day on which it was so accepted. If the month in which the period would terminate has no corresponding day, the period shall be held to terminate on the last day of such month.\nIllustrations\n(a) A negotiable instrument, dated 29th January, 1878, is made payable at one month after date. The instrument is at maturity on the 3rd day after the 28th February, 1878.\n(b) A negotiable instrument, dated 30th August, 1878, is made payable three months after date. The instrument is at maturity on the 3rd December, 1878.\n(c) A promissory note or bill of exchange, dated 31st August, 1878, is made payable three months after date. The instrument is at maturity on the 3rd December, 1878.\n© Copyright. Taxmann Publications Pvt. Ltd."
+    },
+    {
+      "id": "5521764",
+      "number": "24",
+      "locator": "Section 24: Calculating maturity of bill or note payable so many days after date or sight",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-24-181",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5521764",
+      "body": "Calculating maturity of bill or note payable so many days after date or sight.\n24. In calculating the date at which a promissory note or bill of exchange made payable a certain number of days after date or after sight or after a certain event is at maturity, the day of the date, or of presentment for acceptance or sight, or of protest for non-acceptance, or on which the event happens, shall be excluded.\n© Copyright. Taxmann Publications Pvt. Ltd."
+    },
+    {
+      "id": "5521797",
+      "number": "25",
+      "locator": "Section 25: When day of maturity is a holiday",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-25-180",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5521797",
+      "body": "When day of maturity is a holiday.\n25. When the day on which a promissory note or bill of exchange is at maturity is a public holiday, the instrument shall be deemed to be due on the next preceding business day.\nExplanation : The expression \"public holiday\" includes Sundays : [***] and any other day declared by the Central Government, by notification in the Official Gazette, to be a public holiday.\n© Copyright. Taxmann Publications Pvt. Ltd."
+    },
+    {
+      "id": "5521830",
+      "number": "26",
+      "locator": "Section 26: Capacity to make, etc., the promissory notes, etc",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-26-179",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5521830",
+      "body": "CHAPTER III\nPARTIES TO NOTES, BILLS AND CHEQUES\nCapacity to make, etc., the promissory notes, etc.\n26. Every person capable of contracting, according to the law to which he is subject, may bind himself and be bound by the making, drawing, acceptance, indorsement, delivery and negotiation of a promissory note, bill of exchange or cheque.\nMinor\nA minor may draw, indorse, deliver and negotiate such instruments so as to bind all parties except himself.\nNothing herein contained shall be deemed to empower a corporation to make, indorse or accept such instruments except in cases in which, under the law for the time being in force, they are so empowered.\n© Copyright. Taxmann Publications Pvt. Ltd."
+    },
+    {
+      "id": "5521863",
+      "number": "27",
+      "locator": "Section 27: Agency",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-27-177",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5521863",
+      "body": "Agency.\n27. Every person capable of binding himself or of being bound, as mentioned in section 26, may so bind himself or be bound by a duly authorized agent acting in his name.\nA general authority to transact business and to receive and discharge debts does not confer upon an agent the power of accepting or indorsing bills of exchange so as to bind his principal.\nAn authority to draw bills of exchange does not of itself import an authority to indorse.\n© Copyright. Taxmann Publications Pvt. Ltd."
+    },
+    {
+      "id": "5521896",
+      "number": "28",
+      "locator": "Section 28: Liability of agent signing",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-28-175",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5521896",
+      "body": "Liability of agent signing.\n28. An agent who signs his name to a promissory note, bill of exchange or cheque without indicating thereon that he signs as agent, or that he does not intend thereby to incur personal responsibility, is liable personally on the instrument, except to those who induced him to sign upon the belief that the principal only would be held liable.\n© Copyright. Taxmann Publications Pvt. Ltd."
+    },
+    {
+      "id": "5521929",
+      "number": "29",
+      "locator": "Section 29: Liability of legal representative signing",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-29-175",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5521929",
+      "body": "Liability of legal representative signing.\n29. A legal representative of a deceased person who signs his name to a promissory note, bill of exchange or cheque is liable personally thereon unless he expressly limits his liability to the extent of the assets received by him as such.\n© Copyright. Taxmann Publications Pvt. Ltd."
+    },
+    {
+      "id": "5521962",
+      "number": "30",
+      "locator": "Section 30: Liability of drawer",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-30-174",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5521962",
+      "body": "Liability of drawer.\n30. The drawer of a bill of exchange or cheque is bound, in case of dishonour by the drawee or acceptor thereof, to compensate the holder, provided due notice of dishonour has been given to, or received by, the drawer as hereinafter provided.\n© Copyright. Taxmann Publications Pvt. Ltd."
+    },
+    {
+      "id": "5521995",
+      "number": "31",
+      "locator": "Section 31: Liability of drawee of cheque",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-31-166",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5521995",
+      "body": "Liability of drawee of cheque.\n31. The drawee of a cheque having sufficient funds of the drawer in his hands properly applicable to the payment of such cheque must pay the cheque when duly required so to do, and, in default of such payment, must compensate the drawer for any loss or damage caused by such default.\n© Copyright. Taxmann Publications Pvt. Ltd."
+    },
+    {
+      "id": "5522028",
+      "number": "32",
+      "locator": "Section 32: Liability of maker of note and acceptor of bill",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-32-162",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5522028",
+      "body": "Liability of maker of note and acceptor of bill.\n32. In the absence of a contract to the contrary, the maker of a promissory note and the acceptor before maturity of a bill of exchange are bound to pay the amount thereof at maturity according to the apparent tenor of the note or acceptance respectively, and the acceptor of a bill of exchange at or after maturity is bound to pay the amount thereof to the holder on demand.\nIn default of such payment as aforesaid, such maker or acceptor is bound to compensate any party to the note or bill for any loss or damage sustained by him and caused by such default.\n© Copyright. Taxmann Publications Pvt. Ltd."
+    },
+    {
+      "id": "5522061",
+      "number": "33",
+      "locator": "Section 33: Only drawee can be acceptor except in need or for honour",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-33-158",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5522061",
+      "body": "Only drawee can be acceptor except in need or for honour.\n33. No person except the drawee of a bill of exchange, or all or some of several drawees, or a person named therein as a drawee in case of need, or an acceptor for honour, can bind himself by an acceptance.\n© Copyright. Taxmann Publications Pvt. Ltd."
+    },
+    {
+      "id": "5522094",
+      "number": "34",
+      "locator": "Section 34: Acceptance by several drawees not partners",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-34-153",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5522094",
+      "body": "Acceptance by several drawees not partners.\n34. Where there are several drawees of a bill of exchange who are not partners, each of them can accept it for himself, but none of them can accept it for another without his authority.\n© Copyright. Taxmann Publications Pvt. Ltd."
+    },
+    {
+      "id": "5522127",
+      "number": "35",
+      "locator": "Section 35: Liability of indorser",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-35-152",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5522127",
+      "body": "Liability of indorser.\n35. In the absence of a contract to the contrary, whoever indorses and delivers a negotiable instrument before maturity without, in such indorsement, expressly excluding or making conditional his own liability, is bound thereby to every subsequent holder, in case of dishonour by the drawee, acceptor or maker, to compensate such holder for any loss or damage caused to him by such dishonour, provided due notice of dishonour has been given to, or received by, such indorser as hereinafter provided.\nEvery indorser after dishonour is liable as upon an instrument payable on demand.\n© Copyright. Taxmann Publications Pvt. Ltd."
+    },
+    {
+      "id": "5522160",
+      "number": "36",
+      "locator": "Section 36: Liability of prior parties to holder in due course",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-36-151",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5522160",
+      "body": "Liability of prior parties to holder in due course.\n36. Every prior party to a negotiable instrument is liable thereon to a holder in due course until the instrument is duly satisfied.\n© Copyright. Taxmann Publications Pvt. Ltd."
+    },
+    {
+      "id": "5522193",
+      "number": "37",
+      "locator": "Section 37: Maker, drawer and acceptor principals",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-37-150",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5522193",
+      "body": "Maker, drawer and acceptor principals.\n37. The maker of a promissory note or cheque, the drawer of a bill of exchange until acceptance, and the acceptor are, in the absence of a contract to the contrary, respectively liable thereon as principal debtors, and the other parties thereto are liable thereon as sureties for the maker, drawer or acceptor, as the case may be.\n© Copyright. Taxmann Publications Pvt. Ltd."
+    },
+    {
+      "id": "5522226",
+      "number": "38",
+      "locator": "Section 38: Prior party a principal in respect of each subsequent party",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-38-149",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5522226",
+      "body": "Prior party a principal in respect of each subsequent party.\n38. As between the parties so liable as sureties, each prior party is, in the absence of a contract to the contrary, also liable thereon as a principal debtor in respect of each subsequent party.\nIllustration\nA draws a bill payable to his own order on B, who accepts. A afterwards indorses the bill to C, C to D, and D to E. As between E and B, B is the principal debtor, and A, C and D are his sureties. As between E and A, A is the principal debtor, and C and D are his sureties. As between E and C, C is the principal debtor and D is his surety.\n© Copyright. Taxmann Publications Pvt. Ltd."
+    },
+    {
+      "id": "5522259",
+      "number": "39",
+      "locator": "Section 39: Suretyship",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-39-147",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5522259",
+      "body": "Suretyship.\n39. When the holder of an accepted bill of exchange enters into any contract with the acceptor which, under section 134 or 135 of the Indian Contract Act, 1872 (9 of 1872), would discharge the other parties, the holder may expressly reserve his right to charge the other parties, and in such case they are not discharged.\n© Copyright. Taxmann Publications Pvt. Ltd."
+    },
+    {
+      "id": "5522292",
+      "number": "40",
+      "locator": "Section 40: Discharge of indorser's liability",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-40-147",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5522292",
+      "body": "Discharge of indorser's liability.\n40. Where the holder of a negotiable instrument, without the consent of the indorser, destroys or impairs the indorser's remedy against a prior party, the indorser is discharged from liability to the holder to the same extent as if the instrument had been paid at maturity.\nIllustration\nA is the holder of a bill of exchange made payable to the order of B, which contains the following indorsements in blank—\nFirst indorsement, \"B\".\nSecond indorsement, \"Peter Williams\".\nThird indorsement, \"Wright & Co.\"\nFourth indorsement, \"John Rozario\".\nThis bill A puts in suit against John Rozario and strikes out, without John Rozario's consent, the indorsements by Peter Williams and Wright & Co. A is not entitled to recover anything from John Rozario.\n© Copyright. Taxmann Publications Pvt. Ltd."
+    },
+    {
+      "id": "5522325",
+      "number": "41",
+      "locator": "Section 41: Acceptor bound, although, indorsement forged",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-41-143",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5522325",
+      "body": "Acceptor bound, although, indorsement forged.\n41. An acceptor of a bill of exchange already indorsed is not relieved from liability by reason that such indorsement is forged, if he knew or had reason to believe the indorsement to be forged when he accepted the bill.\n© Copyright. Taxmann Publications Pvt. Ltd."
+    },
+    {
+      "id": "5522358",
+      "number": "42",
+      "locator": "Section 42: Acceptance of bill drawn in fictitious name",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-42-141",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5522358",
+      "body": "Acceptance of bill drawn in fictitious name.\n42. An acceptor of a bill of exchange drawn in a fictitious name and payable to the drawer's order is not, by reason that such name is fictitious, relieved from liability to any holder in due course claiming under an indorsement by the same hand as the drawer's signature, and purporting to be made by the drawer.\n© Copyright. Taxmann Publications Pvt. Ltd."
+    },
+    {
+      "id": "5522391",
+      "number": "43",
+      "locator": "Section 43: Negotiable instrument made, etc., without consideration",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-43-140",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5522391",
+      "body": "Negotiable instrument made, etc., without consideration.\n43. A negotiable instrument made, drawn, accepted, indorsed or transferred without consideration, or for a consideration which fails, creates no obligation of payment between the parties to the transaction. But if any such party has transferred the instrument with or without indorsement to a holder for consideration, such holder, and every subsequent holder deriving title from him, may recover the amount due on such instrument from the transferor for consideration or any prior party thereto.\nException I : No party for whose accommodation a negotiable instrument has been made, drawn, accepted or indorsed can, if he has paid the amount thereof, recover thereon such amount from any person who became a party to such instrument for his accommodation.\nException II : No party to the instrument who has induced any other party to make, draw, accept, indorse or transfer the same to him for a consideration which he has failed to pay or perform in full shall recover thereon an amount exceeding the value of the consideration (if any) which he has actually paid or performed.\n© Copyright. Taxmann Publications Pvt. Ltd."
+    },
+    {
+      "id": "5522424",
+      "number": "44",
+      "locator": "Section 44: Partial absence or failure of money-consideration",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-44-138",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5522424",
+      "body": "Partial absence or failure of money-consideration.\n44. When the consideration for which a person signed a promissory note, bill of exchange or cheque consisted of money, and was originally absent in part or has subsequently failed in part, the sum which a holder standing in immediate relation with such signer is entitled to receive from him is proportionally reduced.\nExplanation : The drawer of a bill of exchange stands in immediate relation with the acceptor. The maker of a promissory note, bill of exchange or cheque stands in immediate relation with the payee, and the indorser with his indorsee. Other signers may by agreement stand in immediate relation with a holder.\nIllustration\nA draws a bill on B for Rs. 500 payable to the order of A. B accepts the bill, but subsequently dishonours it by non-payment. A sues B on the bill. B proves that it was accepted for value as to Rs. 400, and as an accommodation to the plaintiff as to the residue. A can only recover Rs. 400.\n© Copyright. Taxmann Publications Pvt. Ltd."
+    },
+    {
+      "id": "5522457",
+      "number": "45",
+      "locator": "Section 45: Partial failure of consideration not consisting of money",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-45-137",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5522457",
+      "body": "Partial failure of consideration not consisting of money.\n45. Where a part of the consideration for which a person signed a promissory note, bill of exchange or cheque, though not consisting of money, is uncertainable in money without collateral enquiry, and there has been a failure of that part, the sum which a holder standing in immediate relation with such signer is entitled to receive from him is proportionally reduced.\n© Copyright. Taxmann Publications Pvt. Ltd."
+    },
+    {
+      "id": "5522490",
+      "number": "45A",
+      "locator": "Section 45A: Holder's right to duplicate of lost bill",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-45a-3",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5522490",
+      "body": "Holder's right to duplicate of lost bill.\n45A. Where a bill of exchange has been lost before it is overdue, the person who was the holder of it may apply to the drawer to give him another bill of the same tenor, giving security to the drawer, if required, to indemnify him against all persons whatever in case the bill alleged to have been lost shall be found again.\nIf the drawer on request as aforesaid refuses to give such duplicate bill, he may be compelled to do so.\n© Copyright. Taxmann Publications Pvt. Ltd."
+    },
+    {
+      "id": "5522523",
+      "number": "46",
+      "locator": "Section 46: Delivery",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-46-137",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5522523",
+      "body": "CHAPTER IV\nOF NEGOTIATION\nDelivery\n46. The making, acceptance or indorsement of a promissory note, bill of exchange or cheque is completed by delivery, actual or constructive.\nAs between parties standing in immediate relation, delivery to be effectual must be made by the party making, accepting or indorsing the instrument, or by a person authorized by him in that behalf.\nAs between such parties and any holder of the instrument other than a holder in due course, it may be shown that the instrument was delivered conditionally or for a special purpose only, and not for the purpose of transferring absolutely the property therein.\nA promissory note, bill of exchange or cheque payable to bearer is negotiable by the delivery thereof.\nA promissory note, bill of exchange or cheque payable to order is negotiable by the holder by indorsement and delivery thereof.\n© Copyright. Taxmann Publications Pvt. Ltd."
+    },
+    {
+      "id": "5522556",
+      "number": "47",
+      "locator": "Section 47: Negotiation by delivery",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-47-136",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5522556",
+      "body": "Negotiation by delivery.\n47. Subject to the provisions of section 58, a promissory note, bill of exchange or cheque payable to bearer is negotiable by delivery thereof.\nException : A promissory note, bill of exchange or cheque delivered on condition that it is not to take effect except in a certain event is not negotiable (except in the hands of a holder for value without notice of the condition) unless such event happens.\nIllustrations\n(a) A, the holder of a negotiable instrument payable to bearer, delivers it to B's agent to keep for B. The instrument has been negotiated.\n(b) A, the holder of a negotiable instrument payable to bearer, which is in the hands of A's banker, who is at the time the banker of B, directs the banker to transfer the instrument to B's credit in the banker's account with B. The banker does so, and accordingly now possesses the instrument as B's agent. The instrument has been negotiated, and B has become the holder of it.\n© Copyright. Taxmann Publications Pvt. Ltd."
+    },
+    {
+      "id": "5522589",
+      "number": "48",
+      "locator": "Section 48: Negotiation by indorsement",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-48-133",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5522589",
+      "body": "Negotiation by indorsement.\n48. Subject to the provisions of section 58, a promissory note, bill of exchange or cheque payable to order, is negotiable by the holder by indorsement and delivery thereof.\n© Copyright. Taxmann Publications Pvt. Ltd."
+    },
+    {
+      "id": "5522622",
+      "number": "49",
+      "locator": "Section 49: Conversion of indorsement in blank into indorsement in full",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-49-131",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5522622",
+      "body": "Conversion of indorsement in blank into indorsement in full.\n49. The holder of a negotiable instrument indorsed in blank may, without signing his own name, by writing above the indorser's signature a direction to pay to any other person as indorsee, convert the indorsement in blank into an indorsement in full; and the holder does not thereby incur the responsibility of an indorser.\n© Copyright. Taxmann Publications Pvt. Ltd."
+    },
+    {
+      "id": "5522655",
+      "number": "50",
+      "locator": "Section 50: Effect of indorsement",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-50-130",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5522655",
+      "body": "Effect of indorsement.\n50. The indorsement of a negotiable instrument followed by delivery transfers to the indorsee the property therein with the right of further negotiation; but the indorsement may, by express words, restrict or exclude such right, or may merely constitute the indorsee an agent to indorse the instrument, or to receive its contents for the indorser, or for some other specified person.\nIllustrations\nB signs the following indorsements on different negotiable instruments payable to bearer :—\n(a) \"Pay the contents to C only\".\n(b) \"Pay C for my use.\"\n(c) \"Pay C or order for the account of B.\"\n(d) \"The within must be credited to C.\"\nThese indorsements exclude the right of further negotiation by C.\n(e) \"Pay C.\"\n(f) \"Pay C value in account with the Oriental Bank.\"\n(g) \"Pay the contents to C, being part of the consideration in a certain deed of assignment executed by C to the indorser and others.\"\nThese indorsements do not exclude the right of further negotiation by C.\n© Copyright. Taxmann Publications Pvt. Ltd."
+    },
+    {
+      "id": "5522688",
+      "number": "51",
+      "locator": "Section 51: Who may negotiate",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-51-130",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5522688",
+      "body": "Who may negotiate.\n51. Every sole maker, drawer, payee or indorsee, or all of several joint makers, drawers, payees or indorsees, of a negotiable instrument may, if the negotiability of such instrument has not been restricted or excluded as mentioned in section 50, indorse and negotiate the same.\nExplanation : Nothing in this section enables a maker or drawer to indorse or negotiate an instrument, unless he is in lawful possession or is holder thereof; or enables a payee or indorsee to indorse or negotiate an instrument, unless he is holder thereof.\nIllustration\nA bill is drawn payable to A or order. A indorses it to B, the indorsement not containing the words \"or order\" or any equivalent words, B may negotiate the instrument.\n© Copyright. Taxmann Publications Pvt. Ltd."
+    },
+    {
+      "id": "5522721",
+      "number": "52",
+      "locator": "Section 52: Indorser who excludes his own liability or makes it conditional",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-52-131",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5522721",
+      "body": "Indorser who excludes his own liability or makes it conditional.\n52. The indorser of a negotiable instrument may, by express words in the indorsement, exclude his own liability thereon, or make such liability or the right of the indorsee to receive the amount due thereon depend upon the happening of a specified event, although such event may never happen.\nWhere an indorser so excludes his liability and afterwards becomes the holder of the instrument, all intermediate indorsers are liable to him.\nIllustrations\n(a) The indorser of a negotiable instrument signs his name, adding the words—\"Without recourse\".\nUpon this indorsement he incurs no liability.\n(b) A is the payee and holder of a negotiable instrument. Excluding personal liability by an indorsement \"without recourse\", he transfers the instrument to B, and B indorses it to C, who indorses it to A. A is not only reinstated in his former rights, but has the rights of an indorsee against B and C.\n© Copyright. Taxmann Publications Pvt. Ltd."
+    },
+    {
+      "id": "5522754",
+      "number": "53",
+      "locator": "Section 53: Holder deriving title from holder in due course",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-53-133",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5522754",
+      "body": "Holder deriving title from holder in due course.\n53. A holder of a negotiable instrument who derives title from a holder in due course has the rights thereon of that holder in due course.\n© Copyright. Taxmann Publications Pvt. Ltd."
+    },
+    {
+      "id": "5522787",
+      "number": "54",
+      "locator": "Section 54: Instrument indorsed in blank",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-54-131",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5522787",
+      "body": "Instrument indorsed in blank.\n54. Subject to the provisions hereinafter contained as to crossed cheques, a negotiable instrument indorsed in blank is payable to the bearer thereof even although originally payable to order.\n© Copyright. Taxmann Publications Pvt. Ltd."
+    },
+    {
+      "id": "5522820",
+      "number": "55",
+      "locator": "Section 55: Conversion of indorsement in blank into indorsement in full",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-55-127",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5522820",
+      "body": "Conversion of indorsement in blank into indorsement in full.\n55. If a negotiable instrument, after having been indorsed in blank, is indorsed in full, the amount of it cannot be claimed from the indorser in full, except by the person to whom it has been indorsed in full, or by one who derives title through such person.\n© Copyright. Taxmann Publications Pvt. Ltd."
+    },
+    {
+      "id": "5522853",
+      "number": "56",
+      "locator": "Section 56: Indorsement for part of sum due",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-56-126",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5522853",
+      "body": "Indorsement for part of sum due.\n56. No writing on a negotiable instrument is valid for the purpose of negotiation if such writing purports to transfer only a part of the amount appearing to be due on the instrument; but where such amount has been partly paid, a note to that effect may be indorsed on the instrument, which may then be negotiated for the balance.\n© Copyright. Taxmann Publications Pvt. Ltd."
+    },
+    {
+      "id": "5522886",
+      "number": "57",
+      "locator": "Section 57: Legal representative cannot by delivery only negotiate instrument indorsed by deceased",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-57-126",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5522886",
+      "body": "Legal representative cannot by delivery only negotiate instrument indorsed by deceased.\n57. The legal representative of a deceased person cannot negotiate by delivery only a promissory note, bill of exchange or cheque payable to order and indorsed by the deceased but not delivered.\n© Copyright. Taxmann Publications Pvt. Ltd."
+    },
+    {
+      "id": "5522919",
+      "number": "58",
+      "locator": "Section 58: Instrument obtained by unlawful means or for unlawful consideration",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-58-124",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5522919",
+      "body": "Instrument obtained by unlawful means or for unlawful consideration.\n58. When a negotiable instrument has been lost, or has been obtained from any maker, acceptor or holder thereof by means of an offence or fraud, or for an unlawful consideration, no possessor or indorsee who claims through the person who found or so obtained the instrument is entitled to receive the amount due thereon from such maker, acceptor or holder, or from any party prior to such holder, unless such possessor or indorsee is, or some person through whom he claims was, a holder thereof in due course.\n© Copyright. Taxmann Publications Pvt. Ltd."
+    },
+    {
+      "id": "5522952",
+      "number": "59",
+      "locator": "Section 59: Instrument acquired after dishonour or when overdue",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-59-122",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5522952",
+      "body": "Instrument acquired after dishonour or when overdue.\n59. The holder of a negotiable instrument, who has acquired it after dishonour, whether by non-acceptance or non-payment, with notice thereof, or after maturity, has only, as against the other parties, the rights thereon of his transferor:\nAccommodation note or bill.\nProvided that any person who, in good faith and for consideration, becomes the holder, after maturity, of a promissory note or bill of exchange made, drawn or accepted without consideration, for the purpose of enabling some party thereto to raise money thereon, may recover the amount of the note or bill from any prior party.\nIllustration\nThe acceptor of a bill of exchange, when he accepted it, deposited with the drawer certain goods as a collateral security for the payment of the bill, with power to the drawer to sell the goods and apply the proceeds in discharge of the bill if it were not paid at maturity. The bill not having been paid at maturity, the drawer sold the goods and retained the proceeds, but indorsed the bill to A. A's title is subject to the same objection as the drawer's title.\n© Copyright. Taxmann Publications Pvt. Ltd."
+    },
+    {
+      "id": "5522985",
+      "number": "60",
+      "locator": "Section 60: Instrument negotiable till payment or satisfaction",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-60-120",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5522985",
+      "body": "Instrument negotiable till payment or satisfaction.\n60. A negotiable instrument may be negotiated (except by the maker, drawee or acceptor after maturity) until payment or satisfaction thereof by the maker, drawee or acceptor at or after maturity, but not after such payment or satisfaction.\n© Copyright. Taxmann Publications Pvt. Ltd."
+    },
+    {
+      "id": "5523018",
+      "number": "61",
+      "locator": "Section 61: Presentment for acceptance",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-61-119",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5523018",
+      "body": "CHAPTER V\nOF PRESENTMENT\nPresentment for acceptance.\n61. A bill of exchange payable after sight must, if no time or place is specified therein for presentment, be presented to the drawee thereof for acceptance, if he can, after reasonable search, be found, by a person entitled to demand acceptance, within a reasonable time after it is drawn, and in business hours on a business day. In default of such presentment, no party thereto is liable thereon to the person making such default. If the drawee cannot, after reasonable search, be found, the bill is dishonoured.\nIf the bill is directed to the drawee at a particular place, it must be presented at that place; and if at the due date for presentment he cannot, after reasonable search, be found there, the bill is dishonoured.\nWhere authorized by agreement or usage, a presentment through the post office by means of a registered letter is sufficient.\n© Copyright. Taxmann Publications Pvt. Ltd."
+    },
+    {
+      "id": "5523051",
+      "number": "62",
+      "locator": "Section 62: Presentment of promissory note for sight",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-62-118",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5523051",
+      "body": "Presentment of promissory note for sight.\n62. A promissory note, payable at a certain period after sight, must be presented to the maker thereof for sight (if he can after reasonable search be found) by a person entitled to demand payment, within a reasonable time after it is made and in business hours on a business day. In default of such presentment, no party thereto is liable thereon to the person making such default.\n© Copyright. Taxmann Publications Pvt. Ltd."
+    },
+    {
+      "id": "5523084",
+      "number": "63",
+      "locator": "Section 63: Drawee's time for deliberation",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-63-118",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5523084",
+      "body": "Drawee's time for deliberation.\n63. The holder must, if so required by the drawee of a bill of exchange presented to him for acceptance, allow the drawee forty-eight hours (exclusive of public holidays) to consider whether he will accept it.\n© Copyright. Taxmann Publications Pvt. Ltd."
+    },
+    {
+      "id": "5523117",
+      "number": "64",
+      "locator": "Section 64: Presentment for payment",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-64-118",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5523117",
+      "body": "Presentment for payment.\n64. [(1)] Promissory notes, bills of exchange and cheques must be presented for payment to the maker, acceptor or drawee thereof respectively, by or on behalf of the holder as hereinafter provided. In default of such presentment, the other parties thereto are not liable thereon to such holder.\nWhere authorized by agreement or usage, a presentment through the post office by means of a registered letter is sufficient.\nException.—Where a promissory note is payable on demand and is not payable at a specified place, no presentment is necessary in order to charge the maker thereof.\n[(2) Notwithstanding anything contained in section 6, where an electronic image of a truncated cheque is presented for payment, the drawee bank is entitled to demand any further information regarding the truncated cheque from the bank holding the truncated cheque in case of any reasonable suspicion about the genuineness of the apparent tenor of instrument, and if the suspicion is that of any fraud, forgery, tampering or destruction of the instrument, it is entitled to further demand the presentment of the truncated cheque itself for verification:\nProvided that the truncated cheque so demanded by the drawee bank shall be retained by it, if the payment is made accordingly.]\n© Copyright. Taxmann Publications Pvt. Ltd."
+    },
+    {
+      "id": "5523150",
+      "number": "65",
+      "locator": "Section 65: Hours for presentment",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-65-117",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5523150",
+      "body": "Hours for presentment.\n65. Presentment for payment must be made during the usual hours of business, and, if at a banker's within banking hours.\n© Copyright. Taxmann Publications Pvt. Ltd."
+    },
+    {
+      "id": "5523183",
+      "number": "66",
+      "locator": "Section 66: Presentment for payment of instrument payable after date or sight",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-66-115",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5523183",
+      "body": "Presentment for payment of instrument payable after date or sight.\n66. A promissory note or bill of exchange, made payable at a specified period after date or sight thereof, must be presented for payment at maturity.\n© Copyright. Taxmann Publications Pvt. Ltd."
+    },
+    {
+      "id": "5523216",
+      "number": "67",
+      "locator": "Section 67: Presentment for payment of promissory note payable by instalments",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-67-114",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5523216",
+      "body": "Presentment for payment of promissory note payable by instalments.\n67. A promissory note payable by instalments must be presented for payment on the third day after the date fixed for payment of each instalment; and non-payment on such presentment has the same effect as non-payment of a note at maturity.\n© Copyright. Taxmann Publications Pvt. Ltd."
+    },
+    {
+      "id": "5523249",
+      "number": "68",
+      "locator": "Section 68: Presentment for payment of instrument payable at specified place and not elsewhere",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-68-113",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5523249",
+      "body": "Presentment for payment of instrument payable at specified place and not elsewhere.\n68. A promissory note, bill of exchange or cheque made, drawn or accepted payable at a specified place and not elsewhere must, in order to charge any party thereto, be presented for payment at that place.\n© Copyright. Taxmann Publications Pvt. Ltd."
+    },
+    {
+      "id": "5523282",
+      "number": "69",
+      "locator": "Section 69: Instrument payable at specified place",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-69-113",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5523282",
+      "body": "Instrument payable at specified place.\n69. A promissory note or bill of exchange made, drawn or accepted payable at a specified place must, in order to charge the maker or drawer thereof, be presented for payment at that place.\n© Copyright. Taxmann Publications Pvt. Ltd."
+    },
+    {
+      "id": "5523315",
+      "number": "70",
+      "locator": "Section 70: Presentment where no exclusive place specified",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-70-113",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5523315",
+      "body": "Presentment where no exclusive place specified.\n70. A promissory note or bill of exchange, not made payable as mentioned in sections 68 and 69, must be presented for payment at the place of business (if any), or at the usual residence, of the maker, drawee or acceptor thereof, as the case may be.\n© Copyright. Taxmann Publications Pvt. Ltd."
+    },
+    {
+      "id": "5523348",
+      "number": "71",
+      "locator": "Section 71: Presentment when maker, etc., has no known place of business or residence",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-71-113",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5523348",
+      "body": "Presentment when maker, etc., has no known place of business or residence.\n71. If the maker, drawee or accpetor of a negotiable instrument has no known place of business or fixed residence, and no place is specified in the instrument for presentment for acceptance or payment, such presentment may be made to him in person wherever he can be found.\n© Copyright. Taxmann Publications Pvt. Ltd."
+    },
+    {
+      "id": "5523381",
+      "number": "72",
+      "locator": "Section 72: Presentment of cheque to charge drawer",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-72-113",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5523381",
+      "body": "Presentment of cheque to charge drawer.\n72. Subject to the provisions of section 84, a cheque must, in order to charge the drawer, be presented at the bank upon which it is drawn before the relation between the drawer and his banker has been altered to the prejudice of the drawer.\n© Copyright. Taxmann Publications Pvt. Ltd."
+    },
+    {
+      "id": "5523414",
+      "number": "73",
+      "locator": "Section 73: Presentment of cheque to charge any other person",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-73-113",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5523414",
+      "body": "Presentment of cheque to charge any other person.\n73. A cheque must, in order to charge any person except the drawer, be presented within a reasonable time after delivery thereof by such person.\n© Copyright. Taxmann Publications Pvt. Ltd."
+    },
+    {
+      "id": "5523447",
+      "number": "74",
+      "locator": "Section 74: Presentment of instrument payable on demand",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-74-113",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5523447",
+      "body": "Presentment of instrument payable on demand.\n74. Subject to the provisions of section 31, a negotiable instrument payable on demand must be presented for payment within a reasonable time after it is received by the holder.\n© Copyright. Taxmann Publications Pvt. Ltd."
+    },
+    {
+      "id": "5523480",
+      "number": "75",
+      "locator": "Section 75: Presentment by or to agent, representative of deceased, or assignee of insolvent",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-75-112",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5523480",
+      "body": "Presentment by or to agent, representative of deceased, or assignee of insolvent.\n75. Presentment for acceptance or payment may be made to the duly authorized agent of the drawee, maker or acceptor, as the case may be, or, where the drawee, maker or acceptor has died, to his legal representative, or, where he has been declared an insolvent, to his assignee.\n© Copyright. Taxmann Publications Pvt. Ltd."
+    },
+    {
+      "id": "5523513",
+      "number": "75A",
+      "locator": "Section 75A: Excuse for delay in presentment for acceptance or payment",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-75a",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5523513",
+      "body": "Excuse for delay in presentment for acceptance or payment.\n75A. Delay in presentment for acceptance or payment is excused if the delay is caused by circumstances beyond the control of the holder, and not imputable to his default, misconduct or negligence. When the cause of delay ceases to operate, presentment must be made within a reasonable time.\n© Copyright. Taxmann Publications Pvt. Ltd."
+    },
+    {
+      "id": "5523546",
+      "number": "76",
+      "locator": "Section 76: When presentment unnecessary",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-76-94",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5523546",
+      "body": "When presentment unnecessary.\n76. No presentment for payment is necessary, and the instrument is dishonoured at the due date for presentment, in any of the following cases :\n(a) if the maker, drawee or acceptor intentionally prevents the presentment of the instrument, or\nif the instrument being payable at his place of business, he closes such place on a business day during the usual business hours, or\nif the instrument being payable at some other specified place, neither he nor any person authorized to pay it attends at such place during the usual business hours, or\nif the instrument not being payable at any specified place, he cannot after due search be found;\n(b) as against any party sought to be charged therewith, if he has engaged to pay notwithstanding non-presentment;\n(c) as against any party if, after maturity, with knowledge that the instrument has not been presented—\nhe makes a part payment on account of the amount due on the instrument, or promises to pay the amount due thereon in whole or in part,\nor otherwise waives his right to take advantage of any default in presentment for payment;\n(d) as against the drawer, if the drawer could not suffer damage from the want of such presentment.\n© Copyright. Taxmann Publications Pvt. Ltd."
+    },
+    {
+      "id": "5523579",
+      "number": "77",
+      "locator": "Section 77: Liability of banker for negligently dealing with bill presented for payment",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-77-90",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5523579",
+      "body": "Liability of banker for negligently dealing with bill presented for payment.\n77. When a bill of exchange, accepted payable at a specified bank, has been duly presented there for payment and dishonoured, if the banker so negligently or improperly keeps, deals with or delivers back such bill as to cause loss to the holder, he must compensate the holder for such loss.\n© Copyright. Taxmann Publications Pvt. Ltd."
+    },
+    {
+      "id": "5523612",
+      "number": "78",
+      "locator": "Section 78: To whom payment should be made",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-78-108",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5523612",
+      "body": "CHAPTER VI\nOF PAYMENT AND INTEREST\nTo whom payment should be made.\n78. Subject to the provisions of section 82, clause (c), payment of the amount due on a promissory note, bill of exchange or cheque must, in order to discharge the maker or acceptor, be made to the holder of the instrument.\n© Copyright. Taxmann Publications Pvt. Ltd."
+    },
+    {
+      "id": "5523645",
+      "number": "79",
+      "locator": "Section 79: Interest when rate specified",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-79-107",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5523645",
+      "body": "Interest when rate specified.\n79. When interest at a specified rate is expressly made payable on a promissory note or bill of exchange, interest shall be calculated at the rate specified, on the amount of the principal money due thereon, from the date of the instrument, until tender or realization of such amount, or until such date after the institution of a suit to recover such amount as the Court directs.\n© Copyright. Taxmann Publications Pvt. Ltd."
+    },
+    {
+      "id": "5523678",
+      "number": "80",
+      "locator": "Section 80: Interest when no rate specified",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-80-107",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5523678",
+      "body": "Interest when no rate specified.\n80. When no rate of interest is specified in the instrument, interest on the amount due thereon shall, notwithstanding any agreement relating to interest between any parties to the instrument, be calculated at the rate of [eighteen] per centum per annum from the date at which the same ought to have been paid by the party charged, until tender or realization of the amount due thereon, or until such date after the institution of a suit to recover such amount as the Court directs.\nExplanation : When the party charged is the indorser of an instrument dishonoured by non-payment, he is liable to pay interest only from the time that he receives notice of the dishonour.\n© Copyright. Taxmann Publications Pvt. Ltd."
+    },
+    {
+      "id": "5523711",
+      "number": "81",
+      "locator": "Section 81: Delivery of instrument on payment, or indemnity in case of loss",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-81-51",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5523711",
+      "body": "Delivery of instrument on payment, or indemnity in case of loss.\n81. [(1)] Any person liable to pay, and called upon by the holder thereof to pay, the amount due on a promissory note, bill of exchange or cheque is before payment entitled to have it shown, and is on payment entitled to have it delivered up, to him, or, if the instrument is lost or cannot be produced, to be indemnified against any further claim thereon against him.\n[(2) Where the cheque is an electronic image of a truncated cheque, even after the payment the banker who received the payment shall be entitled to retain the truncated cheque.\n(3) A certificate issued on the foot of the printout of the electronic image of a truncated cheque by the banker who paid the instrument, shall be prima facie proof of such payment.]\n© Copyright. Taxmann Publications Pvt. Ltd."
+    },
+    {
+      "id": "5523744",
+      "number": "82",
+      "locator": "Section 82: Discharge from liability",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-82-47",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5523744",
+      "body": "CHAPTER VII\nOF DISCHARGE FROM LIABILITY ON NOTES, BILLS AND CHEQUES\nDischarge from liability.\n82. The maker, acceptor or indorser respectively of a negotiable instrument is discharged from liability thereon—\n(a) by cancellation.—to a holder thereof who cancels such acceptor's or indorser's name with intent to discharge him, and to all parties claiming under such holder ;\n(b) by release.—to a holder thereof who otherwise discharges such maker, acceptor or indorser, and to all parties deriving title under such holder after notice of such discharge ;\n(c) by payment.—to all parties thereto, if the instrument is payable to bearer, or has been indorsed in blank, and such maker, acceptor or indorser makes payment in due course of the amount due thereon.\n© Copyright. Taxmann Publications Pvt. Ltd."
+    },
+    {
+      "id": "5523777",
+      "number": "83",
+      "locator": "Section 83: Discharge by allowing drawee more than forty-eight hours to accept",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-83-45",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5523777",
+      "body": "Discharge by allowing drawee more than forty-eight hours to accept.\n83. If the holder of a bill of exchange allows the drawee more than forty-eight hours, exclusive of public holidays, to consider whether he will accept the same, all previous parties not consenting to such allowance are thereby discharged from liability to such holder.\n© Copyright. Taxmann Publications Pvt. Ltd."
+    },
+    {
+      "id": "5523810",
+      "number": "84",
+      "locator": "Section 84: When cheque not duly presented and drawer damaged thereby",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-84-47",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5523810",
+      "body": "When cheque not duly presented and drawer damaged thereby.\n84. (1) Where a cheque is not presented for payment within a reasonable time of its issue, and the drawer or person on whose account it is drawn had the right, at the time when presentment ought to have been made, as between himself and the banker, to have the cheque paid and suffers actual damage through the delay, he is discharged to the extent of such damage, that is to say, to the extent to which such drawer or person is a creditor of the banker to a larger amount than he would have been if such cheque had been paid.\n(2) In determining what is a reasonable time, regard shall be had to the nature of the instrument, the usage of trade and of bankers, and the facts of the particular case.\n(3) The holder of the cheque as to which such drawer or person is so discharged shall be a creditor, in lieu of such drawer or person, of such banker to the extent of such discharge and entitled to recover the amount from him.\nIllustrations\n(a) A draws a cheque for Rs. 1,000, and, when the cheque ought to be presented, has funds at the bank to meet it. The bank fails before the cheque is presented. The drawer is discharged, but the holder can prove against the bank for the amount of the cheque.\n(b) A draws a cheque at Umballa on a bank in Calcutta. The bank fails before the cheque could be presented in ordinary course. A is not discharged, for he has not suffered actual damage through any delay in presenting the cheque.\n© Copyright. Taxmann Publications Pvt. Ltd."
+    },
+    {
+      "id": "5523843",
+      "number": "85",
+      "locator": "Section 85: Cheque payable to order",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-85-47",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5523843",
+      "body": "Cheque payable to order.\n85. (1) Where a cheque payable to order purports to be indorsed by or on behalf of the payee, the drawee is discharged by payment in due course.\n(2) Where a cheque is originally expressed to be payable to bearer, the drawee is discharged by payment in due course to the bearer thereof, notwithstanding any indorsement whether in full or in blank appearing thereon, and notwithstanding that any such indorsement purports to restrict or exclude further negotiation.\n© Copyright. Taxmann Publications Pvt. Ltd."
+    },
+    {
+      "id": "5523876",
+      "number": "85A",
+      "locator": "Section 85A: Drafts drawn by one branch of a bank on another payable to order",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-85a-9",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5523876",
+      "body": "Drafts drawn by one branch of a bank on another payable to order.\n85A. Where any draft, that is, an order to pay money, drawn by one office of a bank upon another office of, the same bank for a sum of money payable to order on demand, purports to be indorsed by or on behalf of the payee, the bank is discharged by payment in due course.\n© Copyright. Taxmann Publications Pvt. Ltd."
+    },
+    {
+      "id": "5523909",
+      "number": "86",
+      "locator": "Section 86: Parties not consenting discharged by qualified or limited acceptance",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-86-106",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5523909",
+      "body": "Parties not consenting discharged by qualified or limited acceptance.\n86. If the holder of a bill of exchange acquiesces in a qualified acceptance, or one limited to part of the sum mentioned in the bill, or which substitutes a different place or time for payment, or which, where the drawees are not partners, is not signed by all the drawees, all previous parties whose consent is not obtained to such acceptance are discharged as against the holder and those claiming under him, unless on notice given by the holder they assent to such acceptance.\nExplanation : An acceptance is qualified—\n(a) where it is conditional, declaring the payment to be dependent on the happening of an event therein stated;\n(b) where it undertakes the payment of part only of the sum order to be paid;\n(c) where, no place of payment being specified on the order, it undertakes the payment at a specified place, and not otherwise or elsewhere; or where, a place of payment being specified in the order, it undertakes the payment at some other place and not otherwise or elsewhere;\n(d) where it undertakes the payment at a time other than that at which under the order it would be legally due.\n© Copyright. Taxmann Publications Pvt. Ltd."
+    },
+    {
+      "id": "5523942",
+      "number": "87",
+      "locator": "Section 87: Effect of material alteration",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-87-84",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5523942",
+      "body": "Effect of material alteration.\n87. Any material alteration of a negotiable instrument renders the same void as against anyone who is a party thereto at the time of making such alteration and does not consent thereto, unless it was made in order to carry out the common intention of the original parties;\nAlteration by indorsee.—And any such alteration, if made by an indorsee, discharges his indorser from all liability to him in respect of the consideration thereof.\nThe provisions of this section are subject to those of sections 20, 49, 86 and 125.\n© Copyright. Taxmann Publications Pvt. Ltd."
+    },
+    {
+      "id": "5523975",
+      "number": "88",
+      "locator": "Section 88: Acceptor or indorser bound notwithstanding previous alteration",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-88-83",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5523975",
+      "body": "Acceptor or indorser bound notwithstanding previous alteration.\n88. An acceptor or indorser of a negotiable instrument is bound by his acceptance or indorsement notwithstanding any previous alteration of the instrument.\n© Copyright. Taxmann Publications Pvt. Ltd."
+    },
+    {
+      "id": "5524008",
+      "number": "89",
+      "locator": "Section 89: Payment of instrument on which alteration is not apparent",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-89-102",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5524008",
+      "body": "Payment of instrument on which alteration is not apparent.\n89. [(1)] Where a promissory note, bill of exchange or cheque has been materially altered but does not appear to have been so altered,\nor where a cheque is presented for payment which does not at the time of presentation appear to be crossed or to have had a crossing which has been obliterated,\npayment thereof by a person or banker liable to pay, and paying the same according to the apparent tenor thereof at the time of payment and otherwise in due course, shall discharge such person or banker from all liability thereon; and such payment shall not be questioned by reason of the instrument having been altered or the cheque crossed.\n[(2) Where the cheque is an electronic image of a truncated cheque, any difference in apparent tenor of such electronic image and the truncated cheque shall be a material alteration and it shall be the duty of the bank or the clearing house, as the case may be, to ensure the exactness of the apparent tenor of electronic image of the truncated cheque while truncating and transmitting the image.\n(3) Any bank or a clearing house which receives a transmitted electronic image of a truncated cheque, shall verify from the party who transmitted the image to it, that the image so transmitted to it and received by it, is exactly the same.]\n© Copyright. Taxmann Publications Pvt. Ltd."
+    },
+    {
+      "id": "5524041",
+      "number": "90",
+      "locator": "Section 90: Extinguishment of rights of action on bill in acceptor's hands",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-90-103",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5524041",
+      "body": "Extinguishment of rights of action on bill in acceptor's hands.\n90. If a bill of exchange which has been negotiated is, at or after maturity, held by the acceptor in his own right, all rights of action thereon are extinguished.\n© Copyright. Taxmann Publications Pvt. Ltd."
+    },
+    {
+      "id": "5524074",
+      "number": "91",
+      "locator": "Section 91: Dishonour by non-acceptance",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-91-101",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5524074",
+      "body": "CHAPTER VIII\nOF NOTICE OF DISHONOUR\nDishonour by non-acceptance.\n91. A bill of exchange is said to be dishonoured by non-acceptance when the drawee, or one of several drawees not being partners, makes default in acceptance upon being duly required to accept the bill, or where presentment is excused and the bill is not accepted.\nWhere the drawee is incompetent to contract, or the acceptance is qualified, the bill may be treated as dishonoured.\n© Copyright. Taxmann Publications Pvt. Ltd."
+    },
+    {
+      "id": "5524107",
+      "number": "92",
+      "locator": "Section 92: Dishonour by non-payment",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-92-101",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5524107",
+      "body": "Dishonour by non-payment.\n92. A promissory note, bill of exchange or cheque is said to be dishonoured by non-payment when the maker of the note, acceptor of the bill or drawee of the cheque makes default in payment upon being duly required to pay the same.\n© Copyright. Taxmann Publications Pvt. Ltd."
+    },
+    {
+      "id": "5524140",
+      "number": "93",
+      "locator": "Section 93: By and to whom notice should be given",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-93-102",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5524140",
+      "body": "By and to whom notice should be given.\n93. When a promissory note, bill of exchange or cheque is dishonoured by non- acceptance or non-payment, the holder thereof, or some party thereto, who remains liable thereon, must give notice that the instrument has been so dishonoured to all other parties whom the holder seeks to make severally liable thereon, and to some one of several parties whom he seeks to make jointly liable thereon.\nNothing in this section renders it necessary to give notice to the maker of the dishonoured promissory note or the drawee or acceptor of the dishonoured bill of exchange or cheque.\n© Copyright. Taxmann Publications Pvt. Ltd."
+    },
+    {
+      "id": "5524173",
+      "number": "94",
+      "locator": "Section 94: Mode in which notice may be given",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-94-101",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5524173",
+      "body": "Mode in which notice may be given.\n94. Notice of dishonour may be given to a duly authorized agent of the person to whom it is required to be given, or, where he has died, to his legal representative, or, where he has been declared an insolvent, to his assignee; may be oral or written; may, if written, be sent by post; and may be in any form; but it must inform the party to whom it is given, either in express terms or by reasonable intendment, that the instrument has been dishonoured, and in what way, and that he will be held liable thereon; and it must be given within a reasonable time after dishonour, at the place of business or (in case such party has no place of business) at the residence of the party for whom it is intended.\nIf the notice is duly directed and sent by post and miscarries, such miscarriage does not render the notice invalid.\n© Copyright. Taxmann Publications Pvt. Ltd."
+    },
+    {
+      "id": "5524206",
+      "number": "95",
+      "locator": "Section 95: Party receiving must transmit notice of dishonour",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-95-58",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5524206",
+      "body": "Party receiving must transmit notice of dishonour.\n95. Any party receiving notice of dishonour must, in order to render any prior party liable to himself, give notice of dishonour to such party within a reasonable time, unless such party otherwise receives due notice as provided by section 93.\n© Copyright. Taxmann Publications Pvt. Ltd."
+    },
+    {
+      "id": "5524239",
+      "number": "96",
+      "locator": "Section 96: Agent for presentment",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-96-54",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5524239",
+      "body": "Agent for presentment.\n96. When the instrument is deposited with an agent for presentment, the agent is entitled to the same time to give notice to his principal as if he were the holder giving notice of dishonour, and the principal is entitled to a further like period to give notice of dishonour.\n© Copyright. Taxmann Publications Pvt. Ltd."
+    },
+    {
+      "id": "5524272",
+      "number": "97",
+      "locator": "Section 97: When party to whom notice given is dead",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-97-53",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5524272",
+      "body": "When party to whom notice given is dead.\n97. When the party to whom notice of dishonour is despatched is dead, but the party dispatching the notice is ignorant of his death, the notice is sufficient.\n© Copyright. Taxmann Publications Pvt. Ltd."
+    },
+    {
+      "id": "5524305",
+      "number": "98",
+      "locator": "Section 98: When notice of dishonour is unnecessary",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-98-53",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5524305",
+      "body": "When notice of dishonour is unnecessary.\n98. No notice of dishonour is necessary —\n(a) when it is dispensed with by the party entitled thereto;\n(b) in order to charge the drawer, when he has countermanded payment;\n(c) when the party charged could not suffer damage for want of notice;\n(d) when the party entitled to notice cannot after due search be found; or the party bound to give notice is, for any other reason, unable without any fault of his own to give it;\n(e) to charge the drawers, when the acceptor is also a drawer;\n(f) in the case of a promissory note which is not negotiable;\n(g) when the party entitled to notice, knowing the facts, promises unconditionally to pay the amount due on the instrument.\n© Copyright. Taxmann Publications Pvt. Ltd."
+    },
+    {
+      "id": "5524338",
+      "number": "99",
+      "locator": "Section 99: Noting",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-99-52",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5524338",
+      "body": "CHAPTER IX\nOF NOTING AND PROTEST\nNoting.\n99. When a promissory note or bill of exchange has been dishonoured by non-acceptance or non-payment, the holder may cause such dishonour to be noted by a notary public upon the instrument, or upon a paper attached thereto, or partly upon each.\nSuch note must be made within a reasonable time after dishonour, and must specify the date of dishonour, the reason, if any, assigned for such dishonour, or, if the instrument has not been expressly dishonoured, the reason why the holder treats it as dishonoured, and the notary's charges.\n© Copyright. Taxmann Publications Pvt. Ltd."
+    },
+    {
+      "id": "5524371",
+      "number": "100",
+      "locator": "Section 100: Protest",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-100-50",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5524371",
+      "body": "Protest.\n100. When a promissory note or bill of exchange has been dishonoured by non- acceptance or non-payment, the holder may, within a reasonable time, cause such dishonour to be noted and certified by a notary public. Such certificate is called a protest.\nProtest for better security.\nWhen the acceptor of a bill of exchange has become insolvent, or his credit has been publicly impeached, before the maturity of the bill, the holder may, within a reasonable time, cause a notary public to demand better security of the acceptor, and on its being refused may, with a reasonable time, cause such facts to be noted and certified as aforesaid. Such certificate is called a protest for better security.\n© Copyright. Taxmann Publications Pvt. Ltd."
+    },
+    {
+      "id": "5524404",
+      "number": "101",
+      "locator": "Section 101: Contents of protest",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-101-49",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5524404",
+      "body": "Contents of protest.\n101. A protest under section 100 must contain—\n(a) either the instrument itself, or a literal transcript of the instrument and of everything written or printed thereupon;\n(b) the name of the person for whom and against whom the instrument has been protested;\n(c) a statement that payment or acceptance, or better security, as the case may be, has been demanded of such person by the notary public; the terms of his answer, if any, or a statement that he gave no answer or that he could not be found;\n(d) when the note or bill has been dishonoured, the place and time of dishonour, and, when better security has been refused, the place and time of refusal;\n(e) the subscription of the notary public making the protest;\n(f) in the event of an acceptance for honour or of a payment for honour, the name of the person by whom, of the person for whom, and the manner in which, such acceptance or payment was offered and effected.\nA notary public may make the demand mentioned in clause (c) of this section either in person or by his clerk or, where authorized by agreement or usage, by registered letter.\n© Copyright. Taxmann Publications Pvt. Ltd."
+    },
+    {
+      "id": "5524437",
+      "number": "102",
+      "locator": "Section 102: Notice of protest",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-102-48",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5524437",
+      "body": "Notice of protest.\n102. When a promissory note or bill of exchange is required by law to be protested, notice of such protest must be given instead of notice of dishonour, in the same manner and subject to the same conditions; but the notice may be given by the notary public who makes the protest.\n© Copyright. Taxmann Publications Pvt. Ltd."
+    },
+    {
+      "id": "5524470",
+      "number": "103",
+      "locator": "Section 103: Protest for non-payment after dishonour by non-acceptance",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-103-32",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5524470",
+      "body": "Protest for non-payment after dishonour by non-acceptance.\n103. All bills of exchange drawn payable at some other place than the place mentioned as the residence of the drawee, and which are dishonoured by non-acceptance, may, without further presentment to the drawee, be protested for non-payment in the place specified for payment, unless paid before or at maturity.\n© Copyright. Taxmann Publications Pvt. Ltd."
+    },
+    {
+      "id": "5524503",
+      "number": "104",
+      "locator": "Section 104: Protest of foreign bills",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-104-94",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5524503",
+      "body": "Protest of foreign bills.\n104. Foreign bills of exchange must be protested for dishonour when such protest is required by the law of the place where they are drawn.\n© Copyright. Taxmann Publications Pvt. Ltd."
+    },
+    {
+      "id": "5524536",
+      "number": "104A",
+      "locator": "Section 104A: When noting equivalent to protest",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-104a-1",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5524536",
+      "body": "When noting equivalent to protest.\n104A. For the purposes of this Act, where a bill or note is required to be protested within a specified time or before some further proceeding is taken, it is sufficient that the bill has been noted for protest before the expiration of the specified time or the taking of the proceeding; and, the formal protest may be extended at any time thereafter as of the date of the noting.\n© Copyright. Taxmann Publications Pvt. Ltd."
+    },
+    {
+      "id": "5524569",
+      "number": "105",
+      "locator": "Section 105: Reasonable time",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-105-94",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5524569",
+      "body": "CHAPTER X\nOF REASONABLE TIME\nReasonable time.\n105. In determining what is a reasonable time for presentment for acceptance or payment, for giving notice of dishonour and for noting, regard shall be had to the nature of the instrument and the usual course of dealing with respect to similar instruments; and, in calculating such time, public holidays shall be excluded.\n© Copyright. Taxmann Publications Pvt. Ltd."
+    },
+    {
+      "id": "5524602",
+      "number": "106",
+      "locator": "Section 106: Reasonable time of giving notice of dishonour",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-106-93",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5524602",
+      "body": "Reasonable time of giving notice of dishonour.\n106. If the holder and the party to whom notice of dishonour is given carry on business or live (as the case may be) in different places, such notice is given within a reasonable time if it is despatched by the next post or on the day next after the day of dishonour.\nIf the said parties carry on business or live in the same place, such notice is given within a reasonable time if it is despatched in time to reach its destination on the day next after the day of dishonour.\n© Copyright. Taxmann Publications Pvt. Ltd."
+    },
+    {
+      "id": "5524635",
+      "number": "107",
+      "locator": "Section 107: Reasonable time for transmitting such notice",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-107-93",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5524635",
+      "body": "Reasonable time for transmitting such notice.\n107. A party receiving notice of dishonour, who seeks to enforce his right against a prior party, transmits the notice within a reasonable time if he transmits it within the same time after its receipt as he would have had to give notice if he had been the holder.\n© Copyright. Taxmann Publications Pvt. Ltd."
+    },
+    {
+      "id": "5524668",
+      "number": "108",
+      "locator": "Section 108: Acceptance for honour",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-108-92",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5524668",
+      "body": "CHAPTER XI\nOF ACCEPTANCE AND PAYMENT FOR HONOUR AND REFERENCE IN CASE OF NEED\nAcceptance for honour.\n108. When a bill of exchange has been noted or protested for non-acceptance or for better security, any person not being a party already liable thereon may, with the consent of the holder, by writing on the bill, accept the same for the honour of any party thereto.\n© Copyright. Taxmann Publications Pvt. Ltd."
+    },
+    {
+      "id": "5524701",
+      "number": "109",
+      "locator": "Section 109: How acceptance for honour must be made",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-109-91",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5524701",
+      "body": "How acceptance for honour must be made.\n109. A person desiring to accept for honour must, by writing on the bill under his hand, declare that he accepts under protest the protested bill for the honour of the drawer or of a particular indorser whom he names, or generally for honour.\n© Copyright. Taxmann Publications Pvt. Ltd."
+    },
+    {
+      "id": "5524734",
+      "number": "110",
+      "locator": "Section 110: Acceptance not specifying for whose honour it is made",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-110-91",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5524734",
+      "body": "Acceptance not specifying for whose honour it is made.\n110. Where the acceptance does not express for whose honour it is made, it shall be deemed to be made for the honour of the drawer.\n© Copyright. Taxmann Publications Pvt. Ltd."
+    },
+    {
+      "id": "5524767",
+      "number": "111",
+      "locator": "Section 111: Liability of acceptor for honour",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-111-91",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5524767",
+      "body": "Liability of acceptor for honour.\n111. An acceptor for honour binds himself to all parties subsequent to the party for whose honour he accepts to pay the amount of the bill if the drawee do not; and such party and all prior parties are liable in their respective capacities to compensate the acceptor for honour for all loss or damage sustained by him in consequence of such acceptance.\nBut an acceptor for honour is not liable to the holder of the bill unless it is presented, or (in case the address given by such acceptor on the bill is a place other than the place where the bill is made payable) forwarded for presentment, not later than the day next after the day of its maturity.\n© Copyright. Taxmann Publications Pvt. Ltd."
+    },
+    {
+      "id": "5524800",
+      "number": "112",
+      "locator": "Section 112: When acceptor for honour may be charged",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-112-91",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5524800",
+      "body": "When acceptor for honour may be charged.\n112. An acceptor for honour cannot be charged unless the bill has at its maturity been presented to the drawee for payment, and has been dishonoured by him, and noted or protested for such dishonour.\n© Copyright. Taxmann Publications Pvt. Ltd."
+    },
+    {
+      "id": "5524833",
+      "number": "113",
+      "locator": "Section 113: Payment for honour",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-113-87",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5524833",
+      "body": "Payment for honour.\n113. When a bill of exchange has been noted or protested for non-payment, any person may pay the same for the honour of any party liable to pay the same :\nProvided that the person so paying or his agent in that behalf has previously declared before a notary public the party for whose honour he pays, and that such declaration has been recorded by such notary public.\n© Copyright. Taxmann Publications Pvt. Ltd."
+    },
+    {
+      "id": "5524866",
+      "number": "114",
+      "locator": "Section 114: Right of payer for honour",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-114-89",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5524866",
+      "body": "Right of payer for honour.\n114. Any person so paying is entitled to all the rights, in respect of the bill, of the holder at the time of such payment, and may recover from the party for whose honour he pays all sums so paid, with interest thereon and with all expenses properly incurred in making such payment.\n© Copyright. Taxmann Publications Pvt. Ltd."
+    },
+    {
+      "id": "5524899",
+      "number": "115",
+      "locator": "Section 115: Drawee in case of need",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-115-93",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5524899",
+      "body": "Drawee in case of need.\n115. Where a drawee in case of need is named in a bill of exchange, or in any indorsement thereon, the bill is not dishonoured until it has been dishonoured by such drawee.\n© Copyright. Taxmann Publications Pvt. Ltd."
+    },
+    {
+      "id": "5524932",
+      "number": "116",
+      "locator": "Section 116: Acceptance and payment without protest",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-116-93",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5524932",
+      "body": "Acceptance and payment without protest.\n116. A drawee in case of need may accept and pay the bill of exchange without previous protest.\n© Copyright. Taxmann Publications Pvt. Ltd."
+    },
+    {
+      "id": "5524965",
+      "number": "117",
+      "locator": "Section 117: Rules as to compensation",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-117-93",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5524965",
+      "body": "CHAPTER XII\nOF COMPENSATION\nRules as to compensation.\n117. The compensation payable in case of dishonour of a promissory note, bill of exchange or cheque, by any party liable to the holder or any indorsee, shall be determined by the following rules :—\n(a) The holder is entitled to the amount due upon the instrument, together with the expenses properly incurred in presenting, noting and protesting it;\n(b) When the person charged resides at a place different from that at which the instrument was payable, the holder is entitled to receive such sum at the current rate of exchange between the two places;\n(c) An indorser who, being liable, has paid the amount due on the same is entitled to the amount so paid with interest at [eighteen] per centum per annum from the date of payment until tender or realization thereof, together with all expenses caused by the dishonour and payment;\n(d) When the person charged and such indorser reside at different places, the indorser is entitled to receive such sum at the current rate of exchange between the two places;\n(e) The party entitled to compensation may draw a bill upon the party liable to compensate him, payable at sight or on demand, for the amount due to him, together with all expenses properly incurred by him. Such bill must be accompanied by the instrument dishonoured and the protest thereof (if any). If such bill is dishonoured, the party dishonouring the same is liable to make compensation thereof in the same manner as in the case of the original bill.\n© Copyright. Taxmann Publications Pvt. Ltd."
+    },
+    {
+      "id": "5524998",
+      "number": "118",
+      "locator": "Section 118: Presumptions as to negotiable instruments",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-118-90",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5524998",
+      "body": "CHAPTER XIII\nSPECIAL RULES OF EVIDENCE\nPresumptions as to negotiable instruments.\n118. Until the contrary is proved, the following presumptions shall be made :—\nof consideration\n(a) that every negotiable instrument was made or drawn for consideration, and that every such instrument, when it has been accepted, indorsed, negotiated or transferred, was accepted, indorsed, negotiated or transferred for consideration;\nas to date\n(b) that every negotiable instrument bearing a date was made or drawn on such date;\nas to time of acceptance\n(c) that every accepted bill of exchange was accepted within a reasonable time after its date and before its maturity;\nas to time of transfer\n(d) that every transfer of a negotiable instrument was made before its maturity;\nas to order of indorsements\n(e) that the indorsements appearing upon a negotiable instrument were made in the order in which they appear thereon;\nas to stamp\n(f) that a lost promissory note, bill of exchange or cheque was duly stamped;\nthat holder is a holder in due course\n(g) that the holder of a negotiable instrument is a holder in due course : provided that, where the instrument has been obtained from its lawful owner, or from any person in lawful custody thereof, by means of an offence or fraud, or has been obtained from the maker or acceptor thereof by means of an offence or fraud, or for unlawful consideration, the burden of proving that the holder is a holder in due course lies upon him.\n© Copyright. Taxmann Publications Pvt. Ltd."
+    },
+    {
+      "id": "5525031",
+      "number": "119",
+      "locator": "Section 119: Presumption on proof of protest",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-119-90",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5525031",
+      "body": "Presumption on proof of protest.\n119. In a suit upon an instrument which has been dishonoured, the Court shall, on proof of the protest, presume the fact of dishonour, unless and until such fact is disproved.\n© Copyright. Taxmann Publications Pvt. Ltd."
+    },
+    {
+      "id": "5525064",
+      "number": "120",
+      "locator": "Section 120: Estoppel against denying original validity of instrument",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-120-89",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5525064",
+      "body": "Estoppel against denying original validity of instrument.\n120. No maker of a promissory note, and no drawer of a bill of exchange or cheque, and no acceptor of a bill of exchange for the honour of the drawer shall, in a suit thereon by a holder in due course, be permitted to deny the validity of the instrument as originally made or drawn.\n© Copyright. Taxmann Publications Pvt. Ltd."
+    },
+    {
+      "id": "5525097",
+      "number": "121",
+      "locator": "Section 121: Estoppel against denying capacity of payee to indorse",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-121-88",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5525097",
+      "body": "Estoppel against denying capacity of payee to indorse.\n121. No maker of a promissory note and no acceptor of a bill of exchange payable to order shall, in a suit thereon by a holder in due course, be permitted to deny the payee's capacity, at the rate of the note or bill, to indorse the same.\n© Copyright. Taxmann Publications Pvt. Ltd."
+    },
+    {
+      "id": "5525130",
+      "number": "122",
+      "locator": "Section 122: Estoppel against denying signature or capacity of prior party",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-122-87",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5525130",
+      "body": "Estoppel against denying signature or capacity of prior party.\n122. No indorser of a negotiable instrument shall, in a suit thereon by a subsequent holder, be permitted to deny the signature or capacity to contract of any prior party to the instrument.\n© Copyright. Taxmann Publications Pvt. Ltd."
+    },
+    {
+      "id": "5525163",
+      "number": "123",
+      "locator": "Section 123: Cheque crossed generally",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-123-87",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5525163",
+      "body": "CHAPTER XIV\nOF CROSSED CHEQUES\nCheque crossed generally.\n123. Where a cheque bears across its face an addition of the words \"and company\" or any abbreviation thereof, between two parallel transverse lines, or of two parallel transverse lines simply, either with or without the words \"not negotiable\", that addition shall be deemed a crossing, and the cheque shall be deemed to be crossed generally.\n© Copyright. Taxmann Publications Pvt. Ltd."
+    },
+    {
+      "id": "5525196",
+      "number": "124",
+      "locator": "Section 124: Cheque crossed specially",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-124-89",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5525196",
+      "body": "Cheque crossed specially.\n124. Where a cheque bears across its face an addition of the name of a banker, either with or without the words \"not negotiable\", that addition shall be deemed a crossing, and the cheque shall be deemed to be crossed specially, and to be crossed to that banker.\n© Copyright. Taxmann Publications Pvt. Ltd."
+    },
+    {
+      "id": "5525229",
+      "number": "125",
+      "locator": "Section 125: Crossing after issue",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-125-88",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5525229",
+      "body": "Crossing after issue.\n125. Where a cheque is uncrossed, the holder may cross it generally or specially.\nWhere a cheque is crossed generally, the holder may cross it specially.\nWhere a cheque is crossed generally or specially, the holder may add the words \"not negotiable\".\nWhere a cheque is crossed specially, the banker to whom it is crossed may again cross it specially to another banker, his agent, for collection.\n© Copyright. Taxmann Publications Pvt. Ltd."
+    },
+    {
+      "id": "5525262",
+      "number": "126",
+      "locator": "Section 126: Payment of cheque crossed generally",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-126-87",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5525262",
+      "body": "Payment of cheque crossed generally.\n126. Where a cheque is crossed generally, the banker on whom it is drawn shall not pay it otherwise than to a banker.\nPayment of cheque crossed specially.\nWhere a cheque is crossed specially, the banker on whom it is drawn shall not pay it otherwise than to the banker to whom it is crossed, or his agent for collection.\n© Copyright. Taxmann Publications Pvt. Ltd."
+    },
+    {
+      "id": "5525295",
+      "number": "127",
+      "locator": "Section 127: Payment of cheque crossed specially more than once",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-127-85",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5525295",
+      "body": "Payment of cheque crossed specially more than once.\n127. Where a cheque is crossed specially to more than one banker, except when crossed to an agent for the purpose of collection, the banker on whom it is drawn shall refuse payment thereof.\n© Copyright. Taxmann Publications Pvt. Ltd."
+    },
+    {
+      "id": "5525328",
+      "number": "128",
+      "locator": "Section 128: Payment in due course of crossed cheque",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-128-85",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5525328",
+      "body": "Payment in due course of crossed cheque.\n128. Where the banker on whom a crossed cheque is drawn has paid the same in due course, the banker paying the cheque, and (in case such cheque has come to the hands of the payee) the drawer thereof, shall respectively be entitled to the same rights, and be placed in the same position in all respects, as they would respectively be entitled to and placed in if the amount of the cheque had been paid to and received by the true owner thereof.\n© Copyright. Taxmann Publications Pvt. Ltd."
+    },
+    {
+      "id": "5525361",
+      "number": "129",
+      "locator": "Section 129: Payment of crossed cheque out of due course",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-129-85",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5525361",
+      "body": "Payment of crossed cheque out of due course.\n129. Any banker paying a cheque crossed generally otherwise than to a banker, or a cheque crossed specially otherwise than to the banker to whom the same is crossed, or his agent for collection, being a banker, shall be liable to the true owner of the cheque for any loss he may sustain owing to the cheque having been so paid.\n© Copyright. Taxmann Publications Pvt. Ltd."
+    },
+    {
+      "id": "5525394",
+      "number": "130",
+      "locator": "Section 130: Cheque bearing \"not negotiable",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-130-85",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5525394",
+      "body": "Cheque bearing \"not negotiable\".\n130. A person taking a cheque crossed generally or specially, bearing in either case the words \"not negotiable\", shall not have, and shall not be capable of giving, a better title to the cheque than that which the person from whom he took it had.\n© Copyright. Taxmann Publications Pvt. Ltd."
+    },
+    {
+      "id": "5525427",
+      "number": "131",
+      "locator": "Section 131: Non-liability of banker receiving payment of cheque",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-131-85",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5525427",
+      "body": "Non-liability of banker receiving payment of cheque.\n131. A banker who has in good faith and without negligence received payment for a customer of a cheque crossed generally or specially to himself shall not, in case the title to the cheque proves defective, incur any liability to the true owner of the cheque by reason only of having received such payment.\nExplanation [I].—A banker receives payment of a crossed cheque for a customer within the meaning of this section notwithstanding that he credits his customer's account with the amount of the cheque before receiving payment thereof.\n[Explanation II.—It shall be the duty of the banker who receives payment based on an electronic image of a truncated cheque held with him, to verify the prima facie genuineness of the cheque to be truncated and any fraud, forgery or tampering apparent on the face of the instrument that can be verified with due diligence and ordinary care.]\n© Copyright. Taxmann Publications Pvt. Ltd."
+    },
+    {
+      "id": "5525460",
+      "number": "131A",
+      "locator": "Section 131A: Application of Chapter to drafts",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-131a",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5525460",
+      "body": "Application of Chapter to drafts.\n131A. The provisions of this Chapter shall apply to any draft, as defined in section 85A, as if the draft were a cheque.\n© Copyright. Taxmann Publications Pvt. Ltd."
+    },
+    {
+      "id": "5525493",
+      "number": "132",
+      "locator": "Section 132: Set of",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-132-85",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5525493",
+      "body": "CHAPTER XV\nOF BILLS IN SETS\nSet of bills\n132. Bills of exchange may be drawn in parts, each part being numbered and containing a provision that it shall continue payable only so long as the others remain unpaid. All the parts together make a set; but the whole set constitutes only one bill, and is extinguished when one of the parts, if a separate bill, would be extinguished.\nException : When a person accepts or indorses different parts of the bill in favour of different persons, he and the subsequent indorsers of each part are liable on such part as if it were a separate bill.\n© Copyright. Taxmann Publications Pvt. Ltd."
+    },
+    {
+      "id": "5525526",
+      "number": "133",
+      "locator": "Section 133: Holder of first acquired part entitled to all",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-133-85",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5525526",
+      "body": "Holder of first acquired part entitled to all.\n133. As between holders in due course of different parts of the same set, he who first acquired title to his part is entitled to the other parts and the money represented by the bill.\n© Copyright. Taxmann Publications Pvt. Ltd."
+    },
+    {
+      "id": "5525559",
+      "number": "134",
+      "locator": "Section 134: Law governing liability of maker, acceptor or indorser of foreign instrument",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-134-85",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5525559",
+      "body": "CHAPTER XVI\nOF INTERNATIONAL LAW\nLaw governing liability of maker, acceptor or indorser of foreign instrument.\n134. In the absence of a contract to the contrary, the liability of the maker or drawer of a foreign promissory note, bill of exchange or cheque is regulated in all essential matters by the law of the place where he made the instrument, and the respective liabilities of the acceptor and indorser by the law of the place where the instrument is made payable.\nIllustration\nA bill of exchange was drawn by A in California, where the rate of interest is 25 per cent, and accepted by B, payable in Washington, where the rate of interest is 6 per cent. The bill is endorsed in [India], and is dishonoured. An action on the bill is brought against B in India. He is liable to pay interest at the rate of 6 per cent only; but if A is charged as drawer, A is liable to pay interest at the rate of 25 per cent.\n© Copyright. Taxmann Publications Pvt. Ltd."
+    },
+    {
+      "id": "5525592",
+      "number": "135",
+      "locator": "Section 135: Law of place of payment governs dishonour",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-135-84",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5525592",
+      "body": "Law of place of payment governs dishonour.\n135. Where a promissory note, bill of exchange or cheque is made payable in a different place from that in which it is made or indorsed, the law of the place where it is made payable determines what constitutes dishonour and what notice of dishonour is sufficient.\nIllustration\nA bill of exchange drawn and indorsed in [India], but accepted payable in France, is dishonoured. The indorsee causes it to be protested for such dishonour, and gives notice thereof in accordance with the law of France, though not in accordance with the rules herein contained in respect of bills which are not foreign. The notice is sufficient.\n© Copyright. Taxmann Publications Pvt. Ltd."
+    },
+    {
+      "id": "5525625",
+      "number": "136",
+      "locator": "Section 136: Instrument made, etc., out of India, but in accordance with the law of India",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-136-83",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5525625",
+      "body": "Instrument made, etc., out of India, but in accordance with the law of India.\n136. If a negotiable instrument is made, drawn, accepted or indorsed outside India, but in accordance with the law of [India], the circumstances that any agreement evidenced by such instrument is invalid according to the law of the country wherein it was entered into does not invalidate any subsequent acceptance or indorsement made thereon within [India].\n© Copyright. Taxmann Publications Pvt. Ltd."
+    },
+    {
+      "id": "5525658",
+      "number": "137",
+      "locator": "Section 137: Presumption as to foreign law",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-137-83",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5525658",
+      "body": "Presumption as to foreign law.\n137. The law of any foreign country [***] regarding promissory notes, bills of exchange and cheques shall be presumed to be the same as that of [India], unless and until the contrary is proved.\n© Copyright. Taxmann Publications Pvt. Ltd."
+    },
+    {
+      "id": "5525691",
+      "number": "138",
+      "locator": "Section 138: Dishonour of cheque for insufficiency, etc., of funds in the account",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-138-84",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5525691",
+      "body": "[CHAPTER XVII\nOF PENALTIES IN CASE OF DISHONOUR OF CERTAIN CHEQUES FOR INSUFFICIENCY OF FUNDS IN THE ACCOUNTS\nDishonour of cheque for insufficiency, etc., of funds in the account.\n138. Where any cheque drawn by a person on an account maintained by him with a banker for payment of any amount of money to another person from out of that account for the discharge, in whole or in part, of any debt or other liability, is returned by the bank unpaid, either because of the amount of money standing to the credit of that account is insufficient to honour the cheque or that it exceeds the amount arranged to be paid from that account by an agreement made with that bank, such person shall be deemed to have committed an offence and shall, without prejudice to any other provision of this Act, be punished with imprisonment for a term which may extend to [two years], or with fine which may extend to twice the amount of the cheque, or with both:\nProvided that nothing contained in this section shall apply unless—\n(a) the cheque has been presented to the bank within a period of six months from the date on which it is drawn or within the period of its validity, whichever is earlier;\n(b) the payee or the holder in due course of the cheque, as the case may be, makes a demand for the payment of the said amount of money by giving a notice, in writing, to the drawer of the cheque, within [thirty] days of the receipt of information by him from the bank regarding the return of the cheque as unpaid; and\n(c) the drawer of such cheque fails to make the payment of the said amount of money to the payee or, as the case may be, to the holder in due course of the cheque, within fifteen days of the receipt of the said notice.\nExplanation: For the purposes of this section, \"debt or other liability\" means a legally enforceable debt or other liability.\n© Copyright. Taxmann Publications Pvt. Ltd."
+    },
+    {
+      "id": "5525724",
+      "number": "139",
+      "locator": "Section 139: Presumption in favour of holder",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-139-84",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5525724",
+      "body": "Presumption in favour of holder.\n139. It shall be presumed, unless the contrary is proved, that the holder of a cheque received the cheque of the nature referred to in section 138 for the discharge, in whole or in part, of any debt or other liability.\n© Copyright. Taxmann Publications Pvt. Ltd."
+    },
+    {
+      "id": "5525757",
+      "number": "140",
+      "locator": "Section 140: Defence which may not be allowed in any prosecution under section 138",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-140-83",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5525757",
+      "body": "Defence which may not be allowed in any prosecution under section 138.\n140. It shall not be a defence in a prosecution for an offence under section 138 that the drawer had no reason to believe when he issued the cheque that the cheque may be dishonoured on presentment for the reasons stated in that section.\n© Copyright. Taxmann Publications Pvt. Ltd."
+    },
+    {
+      "id": "5525790",
+      "number": "141",
+      "locator": "Section 141: Offences by companies",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-141-82",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5525790",
+      "body": "Offences by companies.\n141. (1) If the person committing an offence under section 138 is a company, every person who, at the time the offence was committed, was in charge of, and was responsible to, the company for the conduct of the business of the company, as well as the company, shall be deemed to be guilty of the offence and shall be liable to be proceeded against and punished accordingly:\nProvided that nothing contained in this sub-section shall render any person liable to punishment if he proves that the offence was committed without his knowledge, or that he had exercised all due diligence to prevent the commission of such offence :\n[Provided further that where a person is nominated as a Director of a company by virtue of his holding any office or employment in the Central Government or State Government or a financial corporation owned or controlled by the Central Government or the State Government, as the case may be, he shall not be liable for prosecution under this Chapter.]\n(2) Notwithstanding anything contained in sub-section (1), where any offence under this Act has been committed by a company and it is proved that the offence has been committed with the consent or connivance of, or is attributable to, any neglect on the part of, any director, manager, secretary or other officer of the company, such director, manager, secretary or other officer shall also be deemed to be guilty of that offence and shall be liable to be proceeded against and punished accordingly.\nExplanation : For the purposes of this section,—\n(a) \"company\" means any body corporate and includes a firm or other association of individuals; and\n(b) \"director\", in relation to a firm, means a partner in the firm.\n© Copyright. Taxmann Publications Pvt. Ltd."
+    },
+    {
+      "id": "5525823",
+      "number": "142",
+      "locator": "Section 142: Cognizance of offences",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-142-84",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5525823",
+      "body": "Cognizance of offences.\n142. Notwithstanding anything contained in the Code of Criminal Procedure, 1973 (2 of 1974),—\n(a) no court shall take cognizance of any offence punishable under section 138 except upon a complaint, in writing, made by the payee or, as the case may be, the holder in due course of the cheque;\n(b) such complaint is made within one month of the date on which the cause of action arises under clause (c) of the proviso to section 138:\n[Provided that the cognizance of a complaint may be taken by the Court after the prescribed period, if the complainant satisfies the Court that he had sufficient cause for not making a complaint within such period;]\n(c) no court inferior to that of a Metropolitan Magistrate or a Judicial Magistrate of the first class shall try any offence punishable under section 138.]\n© Copyright. Taxmann Publications Pvt. Ltd."
+    },
+    {
+      "id": "5525856",
+      "number": "142A",
+      "locator": "Section 142A: Validation for transfer of pending cases",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-142a-24",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5525856",
+      "body": "Validation for transfer of pending cases\n[Validation for transfer of pending cases.\n142A. (1) Notwithstanding anything contained in the Code of Criminal Procedure, 1973 (2 of 1974) or any judgment, decree, order or direction of any court, all cases transferred to the court having jurisdiction under sub-section (2) of section 142, as amended by the Negotiable Instruments (Amendment) Ordinance, 2015, shall be deemed to have been transferred under this Act, as if that sub-section had been in force at all material times.\n(2) Notwithstanding anything contained in sub-section (2) of section 142 or sub-section (1), where the payee or the holder in due course, as the case may be, has filed a complaint against the drawer of a cheque in the court having jurisdiction under sub-section (2) of section 142 or the case has been transferred to that court under sub-section (1) and such complaint is pending in that court, all subsequent complaints arising out of section 138 against the same drawer shall be filed before the same court irrespective of whether those cheques were delivered for collection or presented for payment within the territorial jurisdiction of that court.\n(3) If, on the date of the commencement of the Negotiable Instruments (Amendment) Act, 2015, more than one prosecution filed by the same payee or holder in due course, as the case may be, against the same drawer of cheques is pending before different courts, upon the said fact having been brought to the notice of the court, such court shall transfer the case to the court having jurisdiction under sub-section (2) of section 142, as amended by the Negotiable Instruments (Amendment) Ordinance, 2015, before which the first case was filed and is pending, as if that sub-section had been in force at all material times.]\n© Copyright. Taxmann Publications Pvt. Ltd."
+    },
+    {
+      "id": "5525889",
+      "number": "143",
+      "locator": "Section 143: Power of Court to try cases summarily",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-143-84",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5525889",
+      "body": "[Power of Court to try cases summarily.\n143. (1) Notwithstanding anything contained in the Code of Criminal Procedure, 1973 (2 of 1974), all offences under this Chapter shall be tried by a Judicial Magistrate of the first class or by a Metropolitan Magistrate and the provisions of sections 262 to 265 (both inclusive) of the said Code shall, as far as may be, apply to such trials:\nProvided that in the case of any conviction in a summary trial under this section, it shall be lawful for the Magistrate to pass a sentence of imprisonment for a term not exceeding one year and an amount of fine exceeding five thousand rupees:\nProvided further that when at the commencement of, or in the course of, a summary trial under this section, it appears to the Magistrate that the nature of the case is such that a sentence of imprisonment for a term exceeding one year may have to be passed or that it is, for any other reason, undesirable to try the case summarily, the Magistrate shall after hearing the parties, record an order to that effect and thereafter recall any witness who may have been examined and proceed to hear or rehear the case in the manner provided by the said Code.\n(2) The trial of a case under this section shall, so far as practicable, consistently with the interests of justice, be continued from day to day until its conclusion, unless the Court finds the adjournment of the trial beyond the following day to be necessary for reasons to be recorded in writing.\n(3) Every trial under this section shall be conducted as expeditiously as possible and an endeavour shall be made to conclude the trial within six months from the date of filing of the complaint.\n© Copyright. Taxmann Publications Pvt. Ltd."
+    },
+    {
+      "id": "5525922",
+      "number": "143A",
+      "locator": "Section 143A: Power to direct interim compensation",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-143a",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5525922",
+      "body": "[Power to direct interim compensation.\n143A. (1) Notwithstanding anything contained in the Code of Criminal Procedure, 1973, the Court trying an offence under section 138 may order the drawer of the cheque to pay interim compensation to the complainant—\n(a) in a summary trial or a summons case, where he pleads not guilty to the accusation made in the complaint; and\n(b) in any other case, upon framing of charge.\n(2) The interim compensation under sub-section (1) shall not exceed twenty per cent of the amount of the cheque.\n(3) The interim compensation shall be paid within sixty days from the date of the order under sub-section (1), or within such further period not exceeding thirty days as may be directed by the Court on sufficient cause being shown by the drawer of the cheque.\n(4) If the drawer of the cheque is acquitted, the Court shall direct the complainant to repay to the drawer the amount of interim compensation, with interest at the bank rate as published by the Reserve Bank of India, prevalent at the beginning of the relevant financial year, within sixty days from the date of the order, or within such further period not exceeding thirty days as may be directed by the Court on sufficient cause being shown by the complainant.\n(5) The interim compensation payable under this section may be recovered as if it were a fine under section 421 of the Code of Criminal Procedure, 1973 (2 of 1974).\n(6) The amount of fine imposed under section 138 or the amount of compensation awarded under section 357 of the Code of Criminal Procedure, 1973 (2 of 1974), shall be reduced by the amount paid or recovered as interim compensation under this section.]\n© Copyright. Taxmann Publications Pvt. Ltd."
+    },
+    {
+      "id": "5525955",
+      "number": "144",
+      "locator": "Section 144: Mode of service of summons",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-144-84",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5525955",
+      "body": "Mode of service of summons.\n144. (1) Notwithstanding anything contained in the Code of Criminal Procedure, 1973 (2 of 1974), and for the purposes of this Chapter, a Magistrate issuing a summons to an accused or a witness may direct a copy of summons to be served at the place where such accused or witness ordinarily resides or carries on business or personally works for gain, by speed post or by such courier services as are approved by a Court of Session.\n(2) Where an acknowledgement purporting to be signed by the accused or the witness or an indorsement purported to be made by any person authorised by the postal department or the courier services that the accused or the witness refused to take delivery of summons has been received, the Court issuing the summons may declare that the summons has been duly served.\n© Copyright. Taxmann Publications Pvt. Ltd."
+    },
+    {
+      "id": "5525988",
+      "number": "145",
+      "locator": "Section 145: Evidence on affidavit",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-145-83",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5525988",
+      "body": "Evidence on affidavit.\n145. (1) Notwithstanding anything contained in the Code of Criminal Procedure, 1973 (2 of 1974), the evidence of the complainant may be given by him on affidavit and may, subject to all just exceptions be read in evidence in any enquiry, trial or other proceeding under the said Code.\n(2) The Court may, if it thinks fit, and shall, on the application of the prosecution or the accused, summon and examine any person giving evidence on affidavit as to the facts contained therein.\n© Copyright. Taxmann Publications Pvt. Ltd."
+    },
+    {
+      "id": "5526021",
+      "number": "146",
+      "locator": "Section 146: Bank's slip prima facie evidence of certain facts",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-146-83",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5526021",
+      "body": "Bank's slip prima facie evidence of certain facts.\n146. The Court shall, in respect of every proceeding under this Chapter, on production of bank's slip or memo having thereon the official mark denoting that the cheque has been dishonoured, presume the fact of dishonour of such cheque, unless and until such fact is disproved.\n© Copyright. Taxmann Publications Pvt. Ltd."
+    },
+    {
+      "id": "5526054",
+      "number": "147",
+      "locator": "Section 147: Offences to be compoundable",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-147-83",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5526054",
+      "body": "Offences to be compoundable.\n147. Notwithstanding anything contained in the Code of Criminal Procedure, 1973 (2 of 1974), every offence punishable under this Act shall be compoundable.]\n© Copyright. Taxmann Publications Pvt. Ltd."
+    },
+    {
+      "id": "5526087",
+      "number": "148",
+      "locator": "Section 148: Power of Appellate Court to order payment pending appeal against conviction",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-148-83",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5526087",
+      "body": "Power of Appellate Court to order payment pending appeal against conviction\n[Power of Appellate Court to order payment pending appeal against conviction.\n148. (1) Notwithstanding anything contained in the Code of Criminal Procedure, 1973 (2 of 1974), in an appeal by the drawer against conviction under section 138, the Appellate Court may order the appellant to deposit such sum which shall be a minimum of twenty per cent of the fine or compensation awarded by the trial Court:\nProvided that the amount payable under this sub-section shall be in addition to any interim compensation paid by the appellant under section 143A.\n(2) The amount referred to in sub-section (1) shall be deposited within sixty days from the date of the order, or within such further period not exceeding thirty days as may be directed by the Court on sufficient cause being shown by the appellant.\n(3) The Appellate Court may direct the release of the amount deposited by the appellant to the complainant at any time during the pendency of the appeal:\nProvided that if the appellant is acquitted, the Court shall direct the complainant to repay to the appellant the amount so released, with interest at the bank rate as published by the Reserve Bank of India, prevalent at the beginning of the relevant financial year, within sixty days from the date of the order, or within such further period not exceeding thirty days as may be directed by the Court on sufficient cause being shown by the complainant.]\n© Copyright. Taxmann Publications Pvt. Ltd."
+    },
+    {
+      "id": "5526120",
+      "number": "Schedule",
+      "locator": "Schedule: Repealed",
+      "source_url": "https://www.incometaxindia.gov.in/w/schedule-17",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5526120",
+      "body": "SCHEDULE\n[Repealed]\n© Copyright. Taxmann Publications Pvt. Ltd."
+    }
+  ],
+  "acquisition_response_checksums": [
+    "d70a0d230a375fda4d3d3abba845967edca78b134905a3b900e14fe27c986b0c"
+  ],
+  "note": "Verified body records and acquisition hashes; original HTML/API payloads retained in the acquisition workspace, not redistributed."
+}

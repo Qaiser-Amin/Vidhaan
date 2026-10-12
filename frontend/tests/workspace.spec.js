@@ -1,4 +1,6 @@
 import { test, expect } from '@playwright/test';
+import { readFileSync } from 'node:fs';
+const sourceCount = JSON.parse(readFileSync(new URL('../../data/bundled/manifest.json', import.meta.url))).sources.length;
 
 test('official evidence, full context, exports, and scope invalidation', async ({ page }) => {
   const errors = []; page.on('pageerror', error => errors.push(error.message));
@@ -27,7 +29,7 @@ test('official evidence, full context, exports, and scope invalidation', async (
 test('source search, document reader, provenance and original download', async ({ page }) => {
   await page.goto('/');
   await page.getByRole('button', { name: 'Source library', exact: true }).click();
-  await expect(page.locator('.source-row')).toHaveCount(21);
+  await expect(page.locator('.source-row')).toHaveCount(sourceCount);
   await page.getByLabel('Search sources', { exact: true }).fill('Hindu Marriage');
   await expect(page.locator('.source-row')).toHaveCount(1);
   await page.locator('.source-row').click();
@@ -98,10 +100,10 @@ test('eight real domain counts and the matching measured benchmark', async ({ pa
   await expect(page.locator('.domain-card')).toHaveCount(8);
   await page.getByRole('button', { name: 'Corpus coverage', exact: true }).click();
   await expect(page.locator('.coverage-card')).toHaveCount(8);
-  await expect(page.locator('.stat-card').first()).toContainText('21');
+  await expect(page.locator('.stat-card').first()).toContainText(String(sourceCount));
   await page.getByRole('button', { name: 'Evaluation', exact: true }).click();
   await expect(page.getByText('Matches local corpus', { exact: true })).toBeVisible();
-  await expect(page.locator('.evaluation-table tbody tr')).toHaveCount(117);
+  await expect(page.locator('.evaluation-table tbody tr')).toHaveCount(JSON.parse(readFileSync(new URL('../../evaluations/bundled/results.json', import.meta.url))).rows.length);
 });
 
 test('PDF evidence retains genuine physical pagination in the full reader', async ({ page }) => {
@@ -113,4 +115,18 @@ test('PDF evidence retains genuine physical pagination in the full reader', asyn
   await expect(page.getByRole('dialog').locator('.reader-location')).toContainText('Physical PDF pages');
   await expect(page.getByRole('dialog').locator('.reader-location')).toContainText('Printed pagination unknown');
   await expect(page.getByRole('dialog').getByText('Physical PDF pages', { exact: true })).toBeVisible();
+});
+
+
+test('related family sources are listed and maintenance evidence stays in scope', async ({ page }) => {
+  await page.goto('/');
+  await page.getByRole('button', { name: 'Source library', exact: true }).click();
+  await page.getByLabel('Filter sources by domain').selectOption('Family law');
+  await expect(page.locator('.source-row')).toHaveCount(10);
+  await expect(page.locator('.source-row').filter({ hasText: 'Bharatiya Nagarik Suraksha' })).toHaveCount(1);
+  await page.getByRole('button', { name: 'Research workspace', exact: true }).click();
+  await page.getByLabel('Legal domain', { exact: true }).selectOption('Family law');
+  await page.getByLabel('What would you like to research?', { exact: true }).fill('maintenance wives children parents sufficient means neglects refuses');
+  await page.getByRole('button', { name: 'Find evidence', exact: true }).click();
+  await expect(page.locator('.evidence-card').filter({ hasText: 'Bharatiya Nagarik Suraksha' })).not.toHaveCount(0);
 });

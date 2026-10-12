@@ -72,10 +72,13 @@ class Registry:
                               (namespace,) if namespace else ()).fetchall()
         return [dict(row, source=Source.model_validate_json(row['metadata'])) for row in rows]
 
-    def chunks(self, version_id: str | None = None, kind="child") -> list[Chunk]:
+    def chunks(self, version_id: str | None = None, kind="child", namespace: str | None = None) -> list[Chunk]:
         with self.connection() as db:
-            rows = db.execute("SELECT metadata FROM chunks WHERE kind=?" + (" AND version_id=?" if version_id else "") +
-                              " ORDER BY version_id,ordinal", (kind, version_id) if version_id else (kind,)).fetchall()
+            conditions = ['c.kind=?']; args = [kind]
+            if version_id: conditions.append('c.version_id=?'); args.append(version_id)
+            if namespace: conditions.append('v.namespace=?'); args.append(namespace)
+            rows = db.execute('SELECT c.metadata FROM chunks c JOIN versions v ON v.version_id=c.version_id WHERE ' +
+                              ' AND '.join(conditions) + ' ORDER BY c.version_id,c.ordinal', args).fetchall()
         return [Chunk.model_validate_json(row[0]) for row in rows]
 
     def chunk(self, chunk_id: str) -> Chunk | None:
@@ -96,7 +99,7 @@ class Registry:
     def signature(self, namespace: str | None = None):
         # Includes review and applicability metadata and deletions, not just raw bytes.
         records = [(v['version_id'], v['checksum'], v['metadata'], v['active'], v['indexed']) for v in self.versions(namespace)]
-        records += [(c.chunk_id, c.model_dump_json()) for c in self.chunks() if namespace is None or c.namespace == namespace]
+        records += [(c.chunk_id, c.model_dump_json()) for c in self.chunks(namespace=namespace)]
         return hashlib.sha256(json.dumps(records, sort_keys=True).encode()).hexdigest()
 
     def review(self, version_id: str, status: str, notes: str, verified_on=None):
@@ -122,6 +125,24 @@ class Registry:
             db.execute("UPDATE versions SET active=0 WHERE version_id=?", (version_id,))
             self.bump(db)
             self._audit(db, "supersede", version_id, {})
+
+    def domain_scope(self, version_id, domain, selections, notes):
+        """Audit editorial cross-domain passage selection without granting legal review."""
+        source = self.source(version_id); domain = Domain(domain)
+        if source.namespace != 'official' or domain == source.domain or not notes.strip():
+            raise ValueError('Related scope needs an official source, another domain and editorial notes')
+        available = set()
+        for chunk in self.chunks(version_id):
+            if chunk.content_role == 'contents': continue
+            available.add('chunk:' + chunk.chunk_id)
+            if chunk.locator: available.add('locator:' + chunk.locator)
+        if not selections or not set(selections) <= available:
+            raise ValueError('Related scope must select actual indexed passages or exact locators')
+        source.related_domain_passages[domain] = sorted(set(selections))
+        with self.connection() as db:
+            db.execute('UPDATE versions SET metadata=? WHERE version_id=?', (source.model_dump_json(), version_id))
+            self.bump(db)
+            self._audit(db, 'related_domain_scope', version_id, {'domain': domain.value, 'selections': sorted(set(selections)), 'notes': notes})
 
     def replace_chunks(self, version_id: str, chunks: list[Chunk], warnings=None):
         if any(c.version_id != version_id for c in chunks):
@@ -159,14 +180,22 @@ class Registry:
 
     def coverage(self, namespace="official"):
         versions = self.versions(namespace)
+        passages = {}
+        for chunk in self.chunks(namespace=namespace):
+            if chunk.content_role != 'contents':
+                items = passages.setdefault(chunk.version_id, set()); items.add('chunk:' + chunk.chunk_id)
+                if chunk.locator: items.add('locator:' + chunk.locator)
         results = []
         for domain in Domain:
-            rows = [v for v in versions if v['source'].domain == domain]
+            rows = [v for v in versions if v['source'].domain == domain or
+                    set(v['source'].related_domain_passages.get(domain, [])) & passages.get(v['version_id'], set())]
             results.append({"domain": domain.value, "sources": len({v['document_id'] for v in rows}),
                             "versions": len(rows), "collected": len(rows),
                             "parsed": sum(v['source'].parsing_status == 'parsed' for v in rows),
                             "indexed": sum(bool(v['indexed']) and bool(v['active']) for v in rows),
                             "reviewed": sum(v['source'].review_status == 'reviewed' for v in rows),
+                            "primary_sources": len({v['document_id'] for v in rows if v['source'].domain == domain}),
+                            "related_sources": len({v['document_id'] for v in rows if v['source'].domain != domain}),
                             "states": sorted({s for v in rows for s in v['source'].states})})
         return results
 

@@ -212,10 +212,13 @@ def create_app(settings=None):
             return {
                 'csrf': session.csrf, 'domains': [d.value for d in Domain], 'coverage': rows,
                 'revision': revision, 'profile': settings.profile,
-                'totals': {**{k: sum(r[k] for r in rows) for k in ('sources', 'versions', 'indexed', 'reviewed')},
-                           'passages': sum(c.version_id in active for c in registry.chunks())},
+                'totals': {'sources': len({v['document_id'] for v in versions}), 'versions': len(versions),
+                           'indexed': len(active), 'reviewed': sum(v['source'].review_status == 'reviewed' for v in versions),
+                           'passages': sum(c.version_id in active for c in registry.chunks(namespace='official'))},
                 'private_sources': len(registry.versions(session.namespace)),
                 'bundle_available': (ROOT / 'data/bundled/manifest.json').exists(),
+                'bundle_sources': len(json.loads((ROOT / 'data/bundled/manifest.json').read_text())['sources'])
+                                  if (ROOT / 'data/bundled/manifest.json').exists() else 0,
             }
 
     @app.get('/api/sources')

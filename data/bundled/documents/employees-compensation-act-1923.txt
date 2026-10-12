@@ -1,0 +1,1065 @@
+Employees' Compensation Act, 1923
+
+Source: Income Tax Department, Ministry of Finance, Government of India
+https://www.incometaxindia.gov.in/employees-compensation-act-1923
+English department collection; legal currency and applicability unreviewed.
+Editorial section labels precede source body text. HTML layout whitespace is normalized.
+No physical PDF pagination is asserted. Original API responses and section links are retained.
+
+[Section 1: Short title, extent and commencement]
+Short title, extent and commencement
+[EMPLOYEES’] COMPENSATION ACT, 1923
+[8 OF 1923]
+An Act to provide for the payment by certain classes of employers to their [employees ] of compensation for injury by accident.
+WHEREAS it is expedient to provide for the payment by certain classes of employers to their [employees ] of compensation for injury by accident; it is hereby enacted as follows:—
+CHAPTER I
+PRELIMINARY
+Short title, extent and commencement.
+1. (1) This Act may be called the [ Employee's] Compensation Act, 1923.
+[(2) It extends to the whole of India [* * *].]
+(3) It shall come into force on the first day of July, 1924.
+© Copyright. Taxmann Publications Pvt. Ltd.
+
+[Section 2: Definitions]
+Definitions
+Definitions.
+2. (1) In this Act, unless there is anything repugnant in the subject or context,—
+(a) [* * *]
+(b) "Commissioner" means a Commissioner for [ employees’] Compensation appointed under section 20;
+(c) "compensation" means compensation as provided for by this Act;
+[(d) "dependant" means any of the following relatives of a deceased [employee], namely:—
+(i) a widow, a minor legitimate [or adopted] son, and unmarried legitimate [or adopted] daughter, or a widowed mother; and
+(ii) if wholly dependent on the earnings of the [ employee] at the time of his death, a son or a daughter who has attained the age of 18 years and who is infirm;
+(iii) if wholly or in part dependent on the earnings of the [employee] at the time of his death,
+(a) a widower,
+(b) a parent other than a widowed mother,
+(c) a minor illegitimate son, an unmarried illegitimate daughter or a daughter legitimate or illegitimate [or adopted] if married and a minor or if widowed and a minor,
+(d) a minor brother or an unmarried sister or a widowed sister if a minor,
+(e) a widowed daughter-in-law,
+(f) a minor child of a pre-deceased son,
+(g) a minor child of a pre-deceased daughter where no parent of the child is alive, or
+(h) a paternal grandparent if no parent of the [employee] is alive.
+[Explanation.—For the purposes of sub-clause (ii) and items (f) and ( g) of sub-clause (iii), references to a son, daughter or child include an adopted son, daughter or child respectively;]
+[(dd ) "employee" means a person, who is—
+(i ) a railway servant as defined in clause (34 ) of section 2 of the Railways Act, 1989 (24 of 1989), not permanently em­ployed in any administrative district or sub-divisional office of a railway and not employed in any such capacity as is specified in Schedule II; or
+(ii ) (a ) a master, seaman or other members of the crew of a ship,
+( b) a captain or other member of the crew of an aircraft,
+( c) a person recruited as driver, helper, mechanic, cleaner or in any other capacity in connection with a motor vehicle,
+( d) a person recruited for work abroad by a company,
+and who is employed outside India in any such capacity as is specified in Schedule II and the ship, aircraft or motor vehicle, or company, as the case may be, is registered in India; or
+(iii ) employed in any such capacity as is specified in Schedule II, whether the contract of employment was made before or after the passing of this Act and whether such contract is expressed or implied, oral or in writing; but does not include any person working in the capacity of a member of the Armed Forces of the Union; and any reference to any employee who has been injured shall, where the employee is dead, include a refer­ence to his dependants or any of them;]
+(e) "employer" includes any body of persons whether incorporated or not and any managing agent of an employer and the legal representative of a deceased employer, and, when the services of an [ employee] are tempo­rarily lent or let on hire to another person by the person with whom the [employee] has entered into a contract of service or apprenticeship, means such other person while the [employee ] is working for him;
+(f) "managing agent" means any person appointed or acting as the representative of another person for the purpose of carrying on such other person’s trade or business, but does not include an individual manager subordinate to an employer;
+[(ff) "minor" means a person who has not attained the age of 18 years;]
+(g) "partial disablement" means, where the disablement is of a temporary nature, such disablement as reduces the earning capacity of a workman in any employment in which he was engaged at the time of the accident resulting in the disablement, and, where the disablement is of a permanent nature, such disablement as reduces his earning capacity in every employment which he was capable of undertaking at that time:
+Provided that every injury specified [in Part II of Schedule I] shall be deemed to result in permanent partial disablement;
+(h) "prescribed" means prescribed by rules made under this Act;
+(i) "qualified medical practitioner" means any person registered [* * *] under any [Central Act, Provincial Act, or an Act of the Legislature of a [State]] providing for the maintenance of a register of medical practitioners, or, in any area where no such last-mentioned Act is in force, any person declared by the State Government, by notification in the Official Gazette, to be a qualified medical practitioner for the purposes of this Act;
+[* * *]
+(k) "seaman" means any person forming part of the crew of any [* * *] ship, but does not include the master of [the] ship;
+(l) "total disablement" means such disablement, whether of a temporary or permanent nature, as incapacitates an [ employee] for all work which he was capable of performing at the time of the accident resulting in such disablement :
+[Provided that permanent total disablement shall be deemed to result from every injury specified in Part I of Schedule I or from any combina­tion of injuries specified in Part II thereof where the aggregate percentage of the loss of earning capacity, as specified in the said Part II against those injuries, amounts to one hundred per cent or more;]
+(m) "wages’ includes any privilege or benefit which is capable of being estimated in money, other than a travelling allowance or the value of any travelling concession or a contribution paid by the employer an [employee] towards any pension or provident fund or a sum paid to an [ employee] to cover any special expenses entailed on him by the nature of his employment;
+(n) [***]
+(2) The exercise and performance of the powers and duties of a local authority or of any department [acting on behalf of the Government] shall, for the purposes of this Act, unless a contrary intention appears, be deemed to be the trade or business of such authority or department.
+[(3) The Central Government or the State Government, by notification in the Official Gazette, after giving not less than three months’ notice of its intention so to do, may, by a like notification, add to Schedule II any class of persons employed in any occupation which it is satisfied is a hazardous occupation, and the provisions of this Act shall thereupon apply, in case of a notification by the Central Government, within the territories to which the Act extends, or, in the case of a notification by the State Government, within the State, to such classes of persons :
+Provided that in making addition, the Central Government or the State Government, as the case may be, may direct that the provisions of this Act shall apply to such classes of persons in respect of specified injuries only.]
+© Copyright. Taxmann Publications Pvt. Ltd.
+
+[Section 3: Employer’s liability for compensation]
+Employer’s liability for compensation
+CHAPTER II
+[EMPLOYEES’ ] COMPENSATION
+Employer’s liability for compensation.
+3. (1) If personal injury is caused to an [employee] by accident arising out of and in the course of his employment, his employer shall be liable to pay compensation in accordance with the provisions of this Chapter:
+Provided that the employer shall not be so liable—
+(a) in respect of any injury which does not result in the total or partial disablement of the [employee ] for a period exceeding [three] days;
+(b) in respect of any [injury, not resulting in death [or permanent total disablement], caused by] an accident which is directly attributable to—
+(i) the [employee ] having been at the time thereof under the influence of drink or drugs, or
+(ii) the wilful disobedience of the [ employee] to an order expressly given, or to a rule expressly framed, for the purpose of securing the safety of [employees], or
+(iii) the wilful removal or disregard by the [ employee] of any safety guard or other device which he knew to have been provided for the purpose of securing the safety of [ employees], [* * * ]
+[* * *]
+[(2) If a [ employee] employed in any employment specified in Part A of Schedule III contracts any disease specified therein as an occupational disease peculiar to that employment, or if an [ employee], whilst in the service of an employer in whose service he has been employed for a continuous period of not less than six months (which period shall not include a period of service under any other employer in the same kind of employment) in any employ­ment specified in Part B of Schedule III, contracts any disease specified therein as an occupational disease peculiar to that employment, or if an [employee ] whilst in the service of one or more employers in any employment specified in Part C of Schedule III, for such continuous period as the Central Government may specify in respect of each such employment, contracts any disease specified therein as an occupational disease peculiar to that employment, the contract­ing of the disease shall be deemed to be an injury by accident within the meaning of this section and, unless the contrary is proved, the accident shall be deemed to have arisen out of, and in the course of, the employment:
+[Provided that if it is proved,—
+(a) that an [employee ] whilst in the service of one or more employers in any employment specified in Part C of Schedule III has contracted a disease specified therein as an occupational disease peculiar to that employment during a continuous period which is less than the period specified under this sub-section for that employment, and
+(b) that the disease has arisen out of and in the course of the employment;
+the contracting of such disease shall be deemed to be an injury by accident within the meaning of this section :
+Provided further that if it is proved that an [ employee] who having served under any employer in any employment specified in Part B of Schedule III or who having served under one or more employers in any employment specified in Part C of that Schedule, for a continuous period specified under this sub-section for that employment and he has after the cessation of such service contracted any disease specified in the said Part B or the said Part C, as the case may be, as an occupational disease peculiar to the employment and that such disease arose out of the employment, the contracting of the disease shall be deemed to be an injury by accident within the meaning of this section.]
+[(2A) If an [employee] employed in any employment specified in Part C of Schedule III contracts any occupational disease peculiar to that employment, the contracting whereof is deemed to be an injury by accident within the meaning of this section, and such employment was under more than one employer, all such employers shall be liable for the payment of the compen­sation in such proportion as the Commissioner may, in the circumstances, deem just.]
+(3) [The Central Government or the State Government], after giving, by notification in the Official Gazette, not less than three months’ notice of its intention so to do, may, by a like notification, add any description of employment to the employments specified in Schedule III, and shall specify in the case of employments so added the diseases which shall be deemed for the purposes of this section to be occupational diseases peculiar to those employments respectively, and thereupon the provisions of sub-section (2) shall apply [, in the case of a notification by the Central Government, within the territories to which this Act extends or, in case of a notification by the State Government, within the State] [* * *] as if such diseases had been declared by this Act to be occupational diseases peculiar to those employments.
+(4) Save as provided by [sub-sections (2), (2A) and (3), no compensation shall be payable to an [ employee] in respect of any disease unless the disease is [* * *] directly attributable to a specific injury by accident arising out of and in the course of his employment.
+(5) Nothing herein contained shall be deemed to confer any right to compensation on an [employee ] in respect of any injury if he has instituted in a Civil Court a suit for damages in respect of the injury against the employer or any other person; and no suit for damages shall be maintainable by an [ employee] in any Court of law in respect of any injury—
+(a) if he has instituted a claim to compensation in respect of the injury before a Commissioner; or
+(b) if an agreement has been come to between the [employee] and his employer providing for the payment of compensation in respect of the injury in accordance with the provisions of this Act.
+© Copyright. Taxmann Publications Pvt. Ltd.
+
+[Section 4: Amount of compensation]
+Amount of compensation
+[Amount of compensation.
+4. (1) Subject to the provisions of this Act, the amount of compensation shall be as follows, namely :—
+(a) where death results from the injury
+an amount equal to [fifty] per cent of the monthly wages of the deceased [employee ] multiplied by the relevant factor;
+or
+an amount of [one lakh and twenty] thousand rupees,
+whichever is more;
+(b) where permanent total disablement results from the injury
+an amount equal to [sixty] per cent of the monthly wages of the injured [employee ] multiplied by the relevant factor;
+or
+an amount of [one lakh and forty] thousand rupees,
+whichever is more.
+Explanation I: For the purposes of clause (a ) and clause (b), "relevant factor", in relation to an [ employee] means the factor specified in the second column of Schedule IV against the entry in the first column of that Schedule specifying the number of years which are the same as the completed years of the age of the [employee ] on his last birthday immedi­ately preceding the date on which the compensation fell due.
+Explanation II: [***];
+[Provided that the Central Government may, by notification in the Official Gazette, from time to time, enhance the amount of compensation mentioned in clauses (a) and (b )];
+(c) where permanent partial disablement results from the injury
+( i) in the case of an injury specified in Part II of Schedule I, such percentage of the compensation which would have been payable in the case of permanent total disablement as is specified therein as being the percentage of the loss of earning capacity caused by that injury, and
+(ii) in the case of an injury not specified in Schedule I, such percentage of the compensation payable in the case of permanent total disablement as is proportionate to the loss of earning capacity (as assessed by the qualified medical practitioner) permanently caused by the injury.
+Explanation I: Where more injuries than one are caused by the same accident, the amount of compensation payable under this head shall be aggregated but not so in any case as to exceed the amount which would have been payable if permanent total disablement had resulted from the injuries.
+Explanation II: In assessing the loss of earning capacity for the purposes of sub-clause (ii) the qualified medical practitioner shall have due regard to the percentages of loss of earning capacity in relation to different injuries specified in Schedule I;
+(d) where temporary disablement, whether total or partial, results from the injury
+a half-monthly payment of the sum equivalent to twenty-five per cent of monthly wages of the [ employee], to be paid in accordance with the provisions of sub-section (2).
+[(1A) Notwithstanding anything contained in sub-section (1), while fixing the amount of compensation payable to a [ employee] in respect of an accident occurred outside India, the Commissioner shall take into account the amount of compensation, if any, awarded to such [ employee] in accordance with the law of the country in which the accident occurred and shall reduce the amount fixed by him by the amount of compensation awarded to the [ employee] in accordance with the law of that country.]
+[(1B) The Central Government may, by notification in the Official Gazette, specify, for the purposes of sub-section (1), such monthly wages in relation to an employee as it may consider necessary.]
+(2) The half-monthly payment referred to in clause (d ) of sub-section (1) shall be payable on the sixteenth day—
+(i) from the date of disablement where such disablement lasts for a period of twenty-eight days or more, or
+(ii) after the expiry of a waiting period of three days from the date of disablement where such disablement lasts for a period of less than twenty-eight days; and thereafter half-monthly during the disablement or during a period of five years, whichever period is shorter:
+Provided that—
+(a) there shall be deducted from any lump sum or half-monthly pay­ments to which the [employee ] is entitled the amount of any payment or allowance which the [employee ] has received from the employer by way of compensation during the period of disablement prior to the receipt of such lump sum or of the first half-monthly payment, as the case may be; and
+(b) no half-monthly payment shall in any case exceed the amount, if any, by which half the amount of the monthly wages of the [employee] before the accident exceeds half the amount of such wages which he is earning after the accident.
+Explanation : Any payment or allowance which the [ employee] has received from the employer towards his medical treatment shall not be deemed to be a payment or allowance received by him by way of compensation within the meaning of clause (a) of the proviso.
+[(2A) The employee shall be reimbursed the actual medical expenditure incurred by him for treatment of injuries caused during the course of employment.]
+(3) On the ceasing of the disablement before the date on which any half-monthly payment falls due, there shall be payable in respect of that half-month a sum proportionate to the duration of the disablement in that half-month.]
+[(4) If the injury of the [employee] results in his death, the employer shall, in addition to the compensation under sub-section (1), deposit with the Commissioner a sum of [not less than five thousand rupees] for payment of the same to the eldest surviving dependant of the [ employee] towards the expenditure of the funeral of such [employee ] or where the [employee] did not have a dependant or was not living with his dependant at the time of his death to the person who actually incurred such expenditure.]
+[Provided that the Central Government may, by notification in the Official Gazette, from time to time, enhance the amount specified in this sub-section.]
+© Copyright. Taxmann Publications Pvt. Ltd.
+
+[Section 4A: Compensation to be paid when due and penalty for default]
+Compensation to be paid when due and penalty for default
+[Compensation to be paid when due and penalty for default.
+4A. (1) Compensation under section 4 shall be paid as soon as it falls due.
+(2) In cases where the employer does not accept the liability for compensation to the extent claimed, he shall be bound to make provisional payment based on the extent of liability which he accepts, and, such payment shall be deposited with the Commissioner or made to the [ employee], as the case may be, without prejudice to the right of the [employee ] to make any further claim.
+[(3) Where any employer is in default in paying the compensation due under this Act within one month from the date it fell due, the Commissioner shall—
+(a) direct that the employer shall, in addition to the amount of the arrears, pay simple interest thereon at the rate of twelve per cent per annum or at such higher rate not exceeding the maximum of the lending rates of any scheduled bank as may be specified by the Central Government, by notification in the Official Gazette, on the amount due; and
+(b) if, in his opinion, there is no justification for the delay, direct that the employer shall, in addition to the amount of the arrears and interest thereon, pay a further sum not exceeding fifty per cent of such amount by way of penalty :
+Provided that an order for the payment of penalty shall not be passed under clause (b) without giving a reasonable opportunity to the employer to show cause why it should not be passed.
+Explanation: For the purposes of this sub-section, "scheduled bank" means a bank for the time being included in the Second Schedule to the Reserve Bank of India Act, 1934 (2 of 1934).
+[(3A) The interest and the penalty payable under sub-section (3) shall be paid to the [employee] or his dependant, as the case may be.]]]
+© Copyright. Taxmann Publications Pvt. Ltd.
+
+[Section 5: Method of calculating wages]
+Method of calculating wages
+Method of calculating wages.
+5. [* * *] [In this Act and for the purposes thereof the expression "monthly wages" means the amount of wages deemed to be payable for a month’s service (whether the wages are payable by the month or by whatever other period or at piece rates), and calculated] as follows, namely:—
+(a) where the [employee ] has, during a continuous period of not less than twelve months immediately preceding the accident, been in the service of the employer who is liable to pay compensation, the monthly wages of the [employee] shall be one-twelfth of the total wages which have fallen due for payment to him by the employer in the last twelve months of that period;
+[(b) where the whole of the continuous period of service immediately preceding the accident during which the [ employee] was in the service of the employer who is liable to pay the compensation was less than one month, the monthly wages of the [employee ] shall be [* * *] the average monthly amount which, during the twelve months immediately preced­ing the accident, was being earned by a [employee ] employed on the same work by the same employer, or, if there was no [employee ] so employed, by an [employee] employed on similar work in the same locality;]
+[(c)] [in other cases [including cases in which it is not possible for want of necessary information to calculate the monthly wages under clause (b)],] the monthly wages shall be thirty times the total wages earned in respect of the last continuous period of service immediately preceding the accident from the employer who is liable to pay compensation, divided by the number of days comprising such period.
+[* * *]
+Explanation: A period of service shall, for the purposes of [this [section]] be deemed to be continuous which has not been interrupted by a period of absence from work exceeding fourteen days.
+[* * *]
+© Copyright. Taxmann Publications Pvt. Ltd.
+
+[Section 6: Review]
+Review
+Review.
+6. (1) Any half-monthly payment payable under this Act, either under an agreement between the parties or under the order of a Commissioner, may be reviewed by the Commissioner, on the application either of the employer or of the [employee] accompanied by the certificate of a qualified medical practitioner that there has been a change in the condition of the [ employee] or, subject to rules made under this Act, on application made without such certificate.
+(2) Any half-monthly payment may, on review under this section, subject to the provisions of this Act, be continued, increased, decreased or ended, or if the accident is found to have resulted in permanent disablement, be converted to the lump sum to which the [employee ] is entitled less any amount which he has already received by way of half-monthly payments.
+© Copyright. Taxmann Publications Pvt. Ltd.
+
+[Section 7: Commutation of half-monthly payments]
+Commutation of half-monthly payments.
+7. Any right to receive half-monthly payments may, by agreement between the parties or, if the parties cannot agree and the payments have been continued for not less than six months, on the application of either party to the Commissioner be redeemed by the payment of a lump sum of such amount as may be agreed to by the parties or determined by the Commissioner, as the case may be.
+© Copyright. Taxmann Publications Pvt. Ltd.
+
+[Section 8: Distribution of compensation]
+Distribution of compensation
+Distribution of compensation.
+8. [(1) No payment of compensation in respect of an [employee] whose injury has resulted in death, and no payment of a lump sum as compensation to a woman or a person under a legal disability, shall be made otherwise than by deposit with the Commissioner, and no such payment made directly by an employer shall be deemed to be a payment of compensation:
+[Provided that, in the case of a deceased [ employee], an employer may make to any dependant advances on account of compensation [of an amount equal to three months’ wages of such [ employee] and so much of such amount] as does not exceed the compensation payable to that dependant shall be deducted by the Commissioner from such compensation and repaid to the employer.]
+(2) Any other sum amounting to not less than ten rupees which is payable as compensation may be deposited with the Commissioner on behalf of the person entitled thereto.
+(3) The receipt of the Commissioner shall be a sufficient discharge in respect of any compensation deposited with him.]
+(4) On the deposit of any money under sub-section (1), [as compensation in respect of a deceased [ employee]] the Commissioner [* * *] shall, if he thinks necessary, cause notice to be published or to be served on each dependant in such manner as he thinks fit, calling upon the dependants to appear before him on such date as he may fix for determining the distribution of the compensation. If the Commissioner is satisfied after any inquiry which he may deem necessary, that no dependant exists, he shall repay the balance of the money to the employer by whom it was paid. The Commissioner shall, on application by the employer, furnish a statement showing in detail all disbursements made.
+[(5) Compensation deposited in respect of a deceased [employee] shall, subject to any deduction made under sub-section (4), be apportioned among the dependants of the deceased [ employee] or any of them in such proportion as the Commissioner thinks fit, or may, in the discretion of the Commissioner, be allotted to any one dependant.
+(6) Where any compensation deposited with the Commissioner is payable to any person, the Commissioner shall, if the person to whom the compensation is payable is not a woman or a person under a legal disability, and may, in other cases, pay the money to the person entitled thereto.
+(7) Where any lump sum deposited with the Commissioner is payable to a woman or a person under a legal disability, such sum may be invested, applied or otherwise dealt with for the benefit of the woman, or of such person during his disability, in such manner as the Commissioner may direct; and where a half-monthly payment is payable to any person under a legal disability, the Commissioner may, of his own motion or on an application made to him in this behalf, order that the payment be made during the disability to any dependant of the [ employee] or to any other person, whom the Commissioner thinks best fitted to provide for the welfare of the [employee].]
+[(8)] Where, on application made to him in this behalf or otherwise, the Commissioner is satisfied that, on account of neglect of children on the part of a parent or on account of the variation of the circumstances of any dependant or for any other sufficient cause, an order of the Commissioner as to the distribution of any sum paid as compensation or as to the manner in which any sum payable to any such dependant is to be invested, applied or otherwise dealt with, ought to be varied, the Commissioner may make such orders for the variation of the former order as he thinks just in the circum­stances of the case:
+Provided that no such order prejudicial to any person shall be made unless such person has been given an opportunity of showing cause why the order should not be made, or shall be made in any case in which it would involve the repayment by a dependant of any sum already paid to him.
+[(9) Where the Commissioner varies any order under sub-section (8) by reason of the fact that payment of compensation to any person has been obtained by fraud, impersonation or other improper means, any amount so paid to or on behalf of such person may be recovered in the manner hereinafter provided in section 31.]
+© Copyright. Taxmann Publications Pvt. Ltd.
+
+[Section 9: Compensation not to be assigned, attached or charged]
+Compensation not to be assigned, attached or charged
+Compensation not to be assigned, attached or charged.
+9. Save as provided by this Act, no lump sum or half-monthly payment payable under this Act shall in any way be capable of being assigned or charged or be liable to attachment or pass to any person other than the [employee] by operation of law, nor shall any claim be set off against the same.
+© Copyright. Taxmann Publications Pvt. Ltd.
+
+[Section 10: Notice and claim]
+Notice and claim
+Notice and claim.
+10. (1) [No claim for compensation shall be entertained by a Commissioner unless notice of the accident has been given in the manner hereinafter provided as soon as practicable after the happening thereof and unless the claim is preferred before him within [two years] of the occurrence of the accident or, in case of death, within [two years] from the date of death:]
+Provided that, where the accident is the contracting of a disease in respect of which the provisions of sub-section (2) of section 3 are applicable, the accident shall be deemed to have occurred on the first of the days during which the [employee] was continuously absent from work in consequence of the disablement caused by the disease:
+[Provided further that in case of partial disablement due to the contracting of any such disease and which does not force the [ employee] to absent himself from work, the period of two years shall be counted from the day the [employee] gives notice of the disablement to his employer:
+Provided further that if a [employee] who, having been employed in an employment for a continuous period, specified under sub-section (2) of section 3 in respect of that employment, ceases to be so employed and develops symptoms of an occupational disease peculiar to that employment within two years of the cessation of employment, the accident shall be deemed to have occurred on the day on which the symptoms were first detected.]
+[Provided further that the want of or any defect or irregularity in a notice shall not be a bar to the [entertainment of a claim]—
+(a) if the claim is [referred] in respect of the death of a [ employee] resulting from an accident which occurred on the premises of the employer, or at any place where the [employee ] at the time of the accident was working under the control of the employer or of any person employed by him, and the [employee] died on such premises or at such place, or on any premises belonging to the employer, or died without having left the vicinity of the premises or place where the accident occurred, or
+(b) if the employer [or any one of several employers or any person responsible to the employer for the management of any branch of the trade or business in which the injured [ employee] was employed] had knowledge of the accident from any other source at or about the time when it occurred:]
+Provided further that the Commissioner may [entertain] and decide any claim to compensation in any case notwithstanding that the notice has not been given, or the claim has not been [preferred] in due time as provided in this sub-section, if he is satisfied that the failure so to give the notice or [prefer] the claim, as the case may be, was due to sufficient cause.
+(2) Every such notice shall give the name and address of the person injured and shall state in ordinary language the cause of the injury and the date on which the accident happened, and shall be served on the employer or upon [any one of] several employers, or upon any person [** *] responsible to the employer for the management of any branch of the trade or business in which the injured [employee] was employed.
+[(3) The State Government may require that any prescribed class of employers shall maintain at their premises at which [ employees] are employed a notice-book, in the prescribed form, which shall be readily accessible at all reasonable times to any injured [employee ] employed on the premises and to any person acting bond fide on his behalf.
+(4) A notice under this section may be served by delivering it at, or sending it by registered post addressed to, the residence or any office or place of business of the person on whom it is to be served, or, where a notice-book is maintained, by entry in the notice book.]
+© Copyright. Taxmann Publications Pvt. Ltd.
+
+[Section 10A: Power to require from employers statements regarding fatal accidents]
+Power to require from employers statements regarding fatal accidents
+[Power to require from employers statements regarding fatal accidents.
+10A. (1) Where a Commissioner receives information from any source that a [employee ] has died as a result of an accident arising out of and in the course of his employment, he may send by registered post a notice to the [employees’] employer requiring him to submit within thirty days of the service of the notice, a statement, in the prescribed form, giving the circumstances attending the death of the [employee], and indicating whether, in the opinion of the employer, he is or is not liable to deposit compensation on account of the death.
+(2) If the employer is of opinion that he is liable to deposit compensation, he shall make the deposit within thirty days of the service of the notice.
+(3) If the employer is of opinion that he is not liable to deposit compensation, he shall in his statement indicate the grounds on which he disclaims liability.
+(4) Where the employer has so disclaimed liability, the Commissioner, after such enquiry as he may think fit, may inform any of the dependants of the deceased [employee] that it is open to the dependants to prefer a claim for compensation, and may give them such other further information as he may think fit.
+© Copyright. Taxmann Publications Pvt. Ltd.
+
+[Section 10B: Reports of fatal accidents and serious bodily injuries]
+Reports of fatal accidents and serious bodily injuries
+Reports of fatal accidents and serious bodily injuries.
+10B. (1) Where, by any law for the time being in force, notice is required to be given to any authority, by or on behalf of an employer, of any accident occurring on his premises which results in death, [or serious bodily injury,] the person required to give the notice shall, within seven days of the death [or serious bodily injury], send a report to the Commissioner giving the circumstances attending the death [or serious bodily injury] :
+Provided that where the State document has so prescribed the person required to give the notice may instead of sending such report to the Commissioner send it to the authority to whom he is required to give the notice.
+[Explanation: "Serious bodily injury" means an injury which involves, or in all probability will involve, the permanent loss of the use of, or permanent injury to, any limb, or the permanent loss of or injury to the sight or hearing, or the fracture of any limb, or the enforced absence of the injured person from work for a period exceeding twenty days.]
+(2) The State Government may, by notification in the Official Gazette, extend the provisions of sub-section (1) to any class of premises other than those coming within the scope of that sub-section, and may, by such notification, specify the persons who shall send the report to the Commissioner.]
+[(3) Nothing in this section shall apply to factories to which the Employees’ State Insurance Act, 1948 (34 of 1948), applies.]
+© Copyright. Taxmann Publications Pvt. Ltd.
+
+[Section 11: Medical examination]
+Medical examination
+Medical examination.
+11. (1) Where an [employee] has given notice of an accident, he, shall, if the employer, before the expiry of three days from the time at which service of the notice has been effected, offers to have him examined free of charge by a qualified medical practitioner, submit himself for such examination, and any [employee] who is in receipt of a half-monthly payment under this Act shall, if so required, submit himself for such examination from time to time :
+Provided that a [employee] shall not be required to submit himself for examination by a medical practitioner otherwise than in accordance with rules made under this Act, or at more frequent intervals than may be prescribed.
+(2) If a [ employee], on being required to do so by the employer under sub-section (1) or by the Commissioner at any time, refuses to submit himself for examination by a qualified medical practitioner or in any way obstructs the same, his right to compensation shall be suspended during the continuance of such refusal or obstruction unless, in the case of refusal, he was prevented by any sufficient cause from so submitting himself.
+(3) If a [ employee], before the expiry of the period within which he is liable under sub-section (1) to be required to submit himself for medical examination, voluntarily leaves without having been so examined the vicinity of the place in which he was employed, his right to compensation shall be suspended until he returns and offers himself for such examination.
+(4) Where a [employee], whose right to compensation has been suspended under sub-section (2) or sub-section (3), dies without having submitted himself for medical examination as required by either of those sub-sections, the Commissioner may, if he thinks fit, direct the payment of compensation to the dependants of the deceased [employee ].
+(5) Where under sub-section (2) or sub-section (3) a right to compensation is suspended, no compensation shall be payable in respect of the period of suspension, and, if the period of suspension commences before the expiry of the waiting period referred to in clause (d) of sub-section (1) of section 4, the waiting period shall be increased by the period during which the suspension continues.
+(6) Where an injured [employee] has refused to be attended by a qualified medical practitioner whose services have been offered to him by the employer free of charge or having accepted such offer has deliberately disregarded the instructions of such medical practitioner, then, [if it is proved that the [ employee] has not thereafter been regularly attended by a qualified medical practitioner or having been so attended has deliberately failed to follow his instructions and that such refusal, disregard or failure was unreasonable] in the circumstances of the case and that the injury has been aggravated thereby, the injury and resulting disablement shall be deemed to be of the same nature and duration as they might reasonably have been expected to be if the [employee] had been regularly attended by a qualified medical practitioner, [whose instructions he had followed], and compensation, if any, shall be payable accordingly.
+© Copyright. Taxmann Publications Pvt. Ltd.
+
+[Section 12: Contracting]
+Contracting
+Contracting.
+12. (1) Where any person (hereinafter in this section referred to as the principal) in the course of or for the purposes of his trade or business contracts with any other person (hereinafter in this section referred to as the contractor) for the execution by or under the contractor of the whole or any part of any work which is ordinarily part of the trade or business of the principal, the principal shall be liable to pay to any [employee] employed in the execution of the work any compensation which he would have been liable to pay if that [ employee] had been immediately employed by him; and where compensation is claimed from the principal, this Act shall apply as if references to the principal were substituted for references to the employer except that the amount of compensation shall be calculated with reference to the wages of the [employee] under the employer by whom he is immediately employed.
+(2) Where the principal is liable to pay compensation under this section, he shall be entitled to be indemnified by the contractor, [or any other person from whom the [employee ] could have recovered compensation and where a contractor who is himself a principal is liable to pay compensation or to indemnify a principal under this section he shall be entitled to be indemnified by any person standing to him in the relation of a contractor from whom the [ employee] could have recovered compensation,] and all questions as to the right to and the amount of any such indemnity shall, in default of agreement, be settled by the Commissioner.
+(3) Nothing in this section shall be construed as preventing a [employee] from recovering compensation from the contractor instead of the principal.
+(4) This section shall not apply in any case where the accident occurred elsewhere than on, in or about the premises on which the principal has undertaken or usually undertakes, as the case may be, to execute the work or which are otherwise under his control or management.
+© Copyright. Taxmann Publications Pvt. Ltd.
+
+[Section 13: Remedies of employer against stranger]
+Remedies of employer against stranger
+Remedies of employer against stranger.
+13. Where a [employee] has recovered compensation in respect of any injury caused under circumstances creating a legal liability of some person other than the person by whom the compensation was paid to pay damages in respect thereof, the person by whom the compensation was paid and any person who has been called on to pay an indemnity under section 12 shall be entitled to be indemnified by the person so liable to pay damages as aforesaid.
+© Copyright. Taxmann Publications Pvt. Ltd.
+
+[Section 14: Insolvency of employer]
+Insolvency of employer
+Insolvency of employer.
+14. (1) Where any employer has entered into a contract with any insurers in respect of any liability under this Act to any [ employee], then in the event of the employer becoming insolvent or making a composition or scheme of arrangement with his creditors or, if the employer is a company, in the event of the company having commenced to be wound up, the rights of the employer against the insurers as respects that liability shall, notwithstanding anything in any law for the time being in force relating to insolvency or the winding up of companies, be transferred to and vest in the [employee], and upon any such transfer the insurers shall have the same rights and remedies and be subject to the same liabilities as if they were the employer, so, however, that the insurers shall not be under any greater liability to the [ employee] than they would have been under to the employer.
+(2) If the liability of the insurers to the [employee] is less than the liability of the employer to the [ employee], the [employee] may prove for the balance in the insolvency proceedings or liquidation.
+(3) Where in any case such as is referred to in sub-section(1) the contract of the employer with the insurers is void or voidable by reason of non-compliance on the part of the employer with any terms or conditions of the contract (other than a stipulation for the payment of premia), the provisions of that sub-section shall apply as if the contract were not void or voidable, and the insurers shall be entitled to prove in the insolvency proceedings or liquidation for the amount paid to the [employee] :
+Provided that the provisions of this sub-section shall not apply in any case in which the [employee ] fails to give notice to the insurers of the happening of the accident and of any resulting disablement as soon as practicable after he becomes aware of the institution of the insolvency or liquidation proceedings.
+(4) There shall be deemed to be included among the debts which under section 49 of the Presidency-towns Insolvency Act, 1909 (3 of 1909), or under section 61 of the Provincial Insolvency Act, 1920 (5 of 1920), or under [section 530 of the Companies Act, 1956 (1 of 1956)], are in the distribution of the property of an insolvent or in the distribution of the assets of a company being wound up to be paid in priority to all other debts, the amount due in respect of any compensation the liability wherefor accrued before the date of the order of adjudication of the insolvent or the date of the commencement of the winding up, as the case may be, and those Acts shall have effect accordingly.
+(5) Where the compensation is a half-monthly payment, the amount due in respect thereof shall, for the purposes of this section, be taken to be the amount of the lump sum for which the half-monthly payment could, if redeemable, be redeemed if application were made for that purpose under section 7, and a certificate of the Commissioner as to the amount of such sum shall be conclusive proof thereof.
+(6) The provisions of sub-section (4) shall apply in the case of any amount for which an insurer is entitled to prove under sub-section (3), but otherwise those provisions shall not apply where the insolvent or the company being wound up has entered into such a contract with insurers as is referred to in sub-section (1).
+(7) This section shall not apply where a company is wound up voluntarily merely for to purposes of reconstruction or of amalgamation with another company.
+© Copyright. Taxmann Publications Pvt. Ltd.
+
+[Section 14A: Compensation to be first charge on assets transferred by employer]
+Compensation to be first charge on assets transferred by employer
+[Compensation to be first charge on assets transferred by employer.
+14A. Where an employer transfers his assets before any amount due in respect of any compensation, the liability whereof accrued before the date of the transfer, has been paid, such amount shall, notwithstanding anything contained in any other law for the time being in force, be a first charge on that part of the assets so transferred as consists of immovable property.]
+© Copyright. Taxmann Publications Pvt. Ltd.
+
+[Section 15: Special provisions relating to masters and seamen]
+Special provisions relating to masters and seamen
+Special provisions relating to masters and seamen.
+15. This Act shall apply in the case of [employees] who are masters of [* * *] ships or seamen subject to the following modifications, namely :—
+(1) The notice of the accident and the claim for compensation may, except where the person injured is the master of the ship, be served on the master of the ship as if he were the employer, but where the accident happened and the disablement commenced on board the ship, it shall not be necessary for any seaman to give any notice of the accident.
+(2) In the case of the death of a master or seaman, the claim for compensation shall be made within [one year] after the news of the death has been received by the claimant or, where the ship has been or is deemed to have been lost with all hands, within eighteen months of the date on which the ship was, or is deemed to have been, so lost.
+[Provided that the Commissioner may entertain any claim to compensation in any case notwithstanding that the claim has not been preferred in due time as provided in this sub-section, if he is satisfied that the failure so to prefer the claim was due to sufficient cause.]
+(3) Where an injured master or seaman is discharged or left behind in any part of [India or] [in any foreign country] any depositions taken by any Judge or Magistrate in that part or by any Consular Officer in the foreign country and transmitted by the person by whom they are taken to the Central Government or any State Government shall, in any proceedings for enforcing the claim, be admissible in evidence :
+(a) if the deposition is authenticated by the signature of the Judge, Magistrate or Consular Officer before whom it is made;
+(b) if the defendant or the person accused, as the case may be, had an opportunity by himself or his agent to cross-examine the witness; and
+(c) if the deposition was made in the course of a criminal proceeding, on proof that the deposition was made in the presence of the person accused;
+and it shall not be necessary in any case to prove the signature or official character of the person appearing to have signed any such deposition and a certificate by such person that the defendant or the person accused had an opportunity of cross-examining the witness and that the deposition if made in a criminal proceeding was made in the presence of the person accused shall, unless the contrary is proved, be sufficient evidence that he had that opportunity and that it was so made.
+[* * *]
+[(4)] No [half -monthly payment] shall be payable in respect of the period during which the owner of the ship is, under any law in force for the time being [* * *] relating to merchant shipping, liable to defray the expenses of maintenance of the injured master or seaman.
+[(5) No compensation shall be payable under this Act in respect of any injury in respect of which provision is made for payment of a gratuity, allowance or pension under the War Pensions and Detention Allowances (Mercantile Marine, etc.) Scheme, 1939, or the War Pensions and Detention Allowances (Indian Seamen, etc.) Scheme, 1941, made under the Pensions (Navy, Army, Air Force and Mercantile Marine) Act, 1939, or under War pensions and Detention Allowances (Indian Seaman) Scheme, 1942, made by the Central Government.
+(6) Failure to give a notice or make a claim or commence proceedings within the time required by this Act shall not be a bar to the maintenance of proceedings under this Act in respect of any personal injury, if—
+(a) an application has been made for payment in respect of the injury under any of the schemes referred to in the preceding clause, and
+(b) the State Government certifies that the said application was made in the reasonable belief that the injury was one in respect of which the scheme under which the application was made makes provision for payments, and that the application was rejected or that payments made in pursuance of the application were discontinued on the ground that the injury was not such an injury, and
+(c) the proceedings under this Act are commenced within one month from the date on which the said certificate of the State Government was furnished to the person commencing the proceedings.]
+© Copyright. Taxmann Publications Pvt. Ltd.
+
+[Section 15A: Special provisions relating to captains and other members of crew of aircrafts]
+Special provisions relating to captains and other members of crew of aircrafts
+[Special provisions relating to captains and other members of crew of aircrafts.
+15A. This Act shall apply in the case of [employees] who are captains or other members of the crew of aircrafts subject to the following modifications, namely :—
+(1) The notice of the accident and the claim for compensation may, except where the person injured is the captain of the aircraft, be served on the captain of the aircraft as if he were the employer, but where the accident happened and the disablement commenced on board the aircraft it shall not be necessary for any member of the crew to give notice of the accident.
+(2) In the case of the death of the captain or other member of the crew, the claim for compensation shall be made within one year after the news of the death has been received by the claimant or, where the aircraft has been or is deemed to have been lost with all hands, within eighteen months of the date on which the aircraft was, or is deemed to have been, so lost:
+Provided that the Commissioner may entertain any claim for compensa­tion in any case notwithstanding that the claim has not been preferred in due time as provided in this sub-section, if he is satisfied that the failure so to prefer the claim was due to sufficient cause.
+(3) Where an injured captain or other member of the crew of the aircraft is discharged or left behind in any part of India or in any other country, any depositions taken by any Judge or Magistrate in that part or by any Consular Officer in the foreign country and transmitted by the person by whom they are taken to the Central Government or any State Govern­ment shall, in any proceedings for enforcing the claims, be admissible in evidence—
+(a) if the deposition is authenticated by the signature of the Judge, Magistrate or Consular Officer before whom it is made;
+(b) if the defendant or the person accused, as the case may be, had an opportunity by himself or his agent to cross-examine the witness;
+(c) if the deposition was made in the course of a criminal proceeding, on proof that the deposition was made in the presence of the person accused,
+and it shall not be necessary in any case to prove the signature or official character of the person appearing to have signed any such deposition and a certificate by such person that the defendant or the person accused had an opportunity of cross-examining the witness and that the deposition if made in a criminal proceeding was made in the presence of the person accused shall, unless the contrary is proved, be sufficient evidence that he had that opportu­nity and that it was so made.
+© Copyright. Taxmann Publications Pvt. Ltd.
+
+[Section 15B: Special provisions relating to employees abroad of companies and motor vehicles]
+Special provisions relating to employees abroad of companies and motor vehicles
+Special provisions relating to [employees] abroad of companies and motor vehicles.
+15B. This Act shall apply—
+(i) in the. case of [ employees] who are persons recruited by companies registered in India and working as such abroad, and
+(ii) persons sent for work abroad along with motor vehicles registered under the Motor Vehicles Act, 1988 (59 of 1988) as drivers, helpers, mechanics, cleaners or other [employees ], subject to the following modifications, namely:—
+(1) The notice of the accident and the claim for compensation may be served on the local agent of the company, or the local agent of the owner of the motor vehicle, in the country of accident, as the case may be,
+(2) In the case of death of the [ employee] in respect of whom the provisions of this section shall apply, the claim for compensation shall be made within one year after the news of the death has been received by the claimant:
+Provided that the Commissioner may entertain any claim for compensation in any case notwithstanding that the claim has not been preferred in due time as provided in this sub-section, if he is satisfied that the failure so to prefer the claim was due to sufficient cause.
+(3) Where an injured [ employee] is discharged or left behind in any part of India or in any other country any depositions taken by any Judge or Magistrate in that part or by any Consular Officer in the foreign country and transmitted by the person by whom they are taken to the Central Government or any State Government shall, in any proceedings for enforcing the claims, be admissible in evidence—
+(a) if the deposition is authenticated by the signature of the Judge, Magistrate or Consular Officer before whom it is made;
+(b) if the defendant or the person accused, as the case may be, had an opportunity by himself or his agent to cross-examine the witness;
+(c) it the deposition was made in the course of a criminal proceeding, on proof that the deposition was made in the presence of the person accused,
+and it shall not be necessary in any case to prove the signature or official character of the person appearing to have signed any such deposition and a certificate by such person that the defendant or the person accused had an opportunity of cross-examining the witness and that the deposition if made in a criminal proceeding was made in the presence of the person accused shall, unless the contrary is proved, be sufficient evidence that he had that oppor­tunity and that it was so made.]
+© Copyright. Taxmann Publications Pvt. Ltd.
+
+[Section 16: Returns as to compensation]
+Returns as to compensation
+Returns as to compensation.
+16. The [State Government] may, by notification in the Official Gazette, direct that every person employing [ employees], or that any specified class of such persons, shall send at such time and in such form and to such authority, as may be specified in the notification, a correct return specifying the number of injuries in respect of which compensation has been paid by the employer during the previous year and the amount of such compensation together with such other particulars as to the compensation as the [State Government] may direct.
+© Copyright. Taxmann Publications Pvt. Ltd.
+
+[Section 17: Contracting out]
+Contracting out
+Contracting out.
+17. Any contract or agreement whether made before or after the commence­ment of this Act, whereby an [ employee] relinquishes any right of compen­sation from the employer for personal injury arising out of or in the course of the employment, shall be null and void in so far as it purports to remove or reduce the liability of any person to pay compensation under this Act.
+© Copyright. Taxmann Publications Pvt. Ltd.
+
+[Section 17A: Duty of employer to inform employee of his rights]
+[Duty of employer to inform employee of his rights.
+17A. Every employer shall immediately at the time of employment of an employee, inform the employee of his rights to compensation under this Act, in writing as well as through electronic means, in English or Hindi or in the official language of the area of employment, as may be understood by the employee.]
+© Copyright. Taxmann Publications Pvt. Ltd.
+
+[Section 18: Proof of age]
+Proof of age
+18. [Omitted by the Workmen’s Compensation (Amendment) Act, 1959, w.e.f. 1-6-1959.]
+© Copyright. Taxmann Publications Pvt. Ltd.
+
+[Section 18A: Penalties]
+Penalties
+Penalties.
+[18A. (1) Whoever—
+(a) fails to maintain a notice-book which he is required to maintain under sub-section (3) of section 10, or
+(b) fails to send to the Commissioner a statement which he is required to send under sub-section (1) of section 10A, or
+(c) fails to send a report which he is required to send under section 10B, or
+(d) fails to make a return which he is required to make under [section 16, or] ,
+[(e) fails to inform the employee of his rights to compensation as required under section 17A,]
+shall be punishable with fine [which shall not be less than fifty thousand rupees but which may extend to one lakh rupees].
+(2) No prosecution under this section shall be instituted except by or with the previous sanction of a Commissioner, and no Court shall take cognizance of any offence under this section, unless complaint thereof is made [within six months of the date on which the alleged commission of the offence came to the knowledge of the Commissioner.]
+© Copyright. Taxmann Publications Pvt. Ltd.
+
+[Section 19: Reference to Commissioners]
+Reference to Commissioners
+CHAPTER III
+COMMISSIONERS
+Reference to Commissioners.
+19. (1) If any question arises in any proceedings under this Act as to the liability of any person to pay compensation (including any question as to whether a person injured is or is not a [ employee]) or as to the amount or duration of compensation (including any question as to the nature or extent of disablement), the question shall, in default of agreement, be settled by [a Commissioner.]
+(2) No Civil Court shall have jurisdiction to settle, decide or deal with any question which is by or under this Act required to be settled, decided or dealt with by a Commissioner or to enforce any liability incurred under this Act.
+© Copyright. Taxmann Publications Pvt. Ltd.
+
+[Section 20: Appointment of Commissioner]
+Appointment of Commissioner
+Appointment of Commissioner.
+20. (1) The State Government may, by notification in the Official Gazette, appoint any person [ who is or has been a member of a State Judicial Service for a period of not less than five years or is or has been for not less than five years an advocate or a pleader or is or has been a Gazetted Officer for not less than five years having educational qualifications and experience in personnel management, human resource development and industrial relations] to be a Commissioner for [ employees’] Compensation for such [* * *] area as may be specified in the notification.
+[(2) Where more than one Commissioner has been appointed for any [* * *] area, the State Government may, by general or special order, regulate the distribution of business between them.]
+[(3)] Any Commissioner may, for the purpose of deciding any matter referred to him for decision under this Act, choose one or more persons possessing special knowledge of any matter relevant to the matter under inquiry to assist him in holding the inquiry.
+[(4)] Every Commissioner shall be deemed to be a public servant within the meaning of the Indian Penal Code (45 of 1860).
+© Copyright. Taxmann Publications Pvt. Ltd.
+
+[Section 21: Venue of proceedings and transfer]
+Venue of proceedings and transfer
+Venue of proceedings and transfer.
+21. [(1) Where any matter under this Act is to be done by or before a Commissioner, the same shall, subject to the provisions of this Act and to any rules made hereunder, be done by or before the Commissioner for the area in which—
+(a) the accident took place which resulted in the injury; or
+(b) the [employee ] or in case of his death, the dependant claiming the compensation ordinarily resides; or
+(c) the employer has his registered office :
+Provided that no matter shall be processed before or by a Commissioner, other than the Commissioner having jurisdiction over the area in which the accident took place, without his giving notice in the manner prescribed by the Central Government to the Commissioner having jurisdiction over the area and the State Government concerned :
+Provided further that, where the [employee ], being the master of a ship or a seaman or the captain or a member of the crew of an aircraft or an [employee] in a motor vehicle or a company, meets with the accident outside India any such matter may be done by or before a Commissioner for the area in which the owner or agent of the ship, aircraft or motor vehicle resides or carries on business or the registered office of the company is situate, as the case may be.
+(1A) If a Commissioner, other than the Commissioner with whom any money has been deposited under section 8, proceeds with a matter under this Act, the former may for the proper disposal of the matter call for transfer of any records or money remaining with the latter and on receipt of such a request, he shall comply with the same.]
+(2) If a Commissioner is satisfied [that any matter arising out of any proceedings pending before him] can be more conveniently dealt with by any other Commissioner, whether in the same State or not, he may, subject to rules made under this Act, order such matter to be transferred to such other Commissioner either for report or for disposal, and, if he does so, shall forthwith transmit to such other Commissioner all documents relevant for the decision of such matter and, where the matter is transferred for disposal, shall also transmit in the prescribed manner any money remaining in his hands or invested by him for the benefit of any party to the proceedings:
+[Provided that the Commissioner shall not, where any party to the proceedings has appeared before him, make any order of transfer relating to the distribution among dependants of a lump sum without giving such party an opportunity of being heard.]
+[* * *]
+(3) The Commissioner to whom any matter is so transferred shall, subject to rules made under this Act, inquire thereinto and, if the matter was transferred for report, return his report thereon or, if the matter was transferred for disposal, continue the proceedings as if they had originally commenced before him.
+(4) On receipt of a report from a Commissioner to whom any matter has been transferred for report under sub-section (2), the Commissioner by whom it was referred shall decide the matter referred in conformity with such report.
+[(5) The State Government may transfer any matter from any Commissioner appointed by it to any other Commissioner appointed by it.]
+© Copyright. Taxmann Publications Pvt. Ltd.
+
+[Section 22: Form of application]
+Form of application
+Form of application.
+22. [(1) Where an accident occurs in respect of which liability to pay compensation under this Act arises, a claim for such compensation may, subject to the provisions of this Act, be made before the Commissioner.
+(1A) Subject to the provisions of sub-section (1), no application for the settlement] of any matter by a Commissioner, [other than an application by a dependant or dependants for compensation] shall be made unless and until some question has arisen between the parties in connection therewith which they have been unable to settle by agreement.
+(2) [An application to a Commissioner] may be made in such form and shall be accompanied by such fee, if any, as may be prescribed, and shall contain, in addition to any particulars which may be prescribed, the following parti­culars, namely:—
+(a) a concise statement of the circumstances in which the application is made and the relief or order which the applicant claims;
+(b) in the case of a claim for compensation against an employer, the date of service of notice of the accident on the employer and, if such notice has not been served or has not been served in due time, the reason for such omission;
+(c) the names and addresses of the parties ; and
+(d) [except in the case of an application by dependants for compensation] a concise statement of the matters on which agreement has and [of] those on which agreement has not been come to.
+(3) If the applicant is illiterate or for any other reason is unable to furnish the required information in writing, the application shall, if the applicant so desires, be prepared under the direction of the Commissioner.
+© Copyright. Taxmann Publications Pvt. Ltd.
+
+[Section 22A: Power of Commissioner to require further deposit in cases of fatal accident]
+Power of Commissioner to require further deposit in cases of fatal accident
+[Power of Commissioner to require further deposit in cases of fatal accident.
+22A. (1) Where any sum has been deposited by an employer as compensation payable in respect of a [ employee] whose injury has resulted in death, and in the opinion of the Commissioner such sum is insufficient, the Commissioner may, by notice in writing stating his reasons, call upon the employer to show cause why he should not make a further deposit within such time as may be stated in the notice.
+(2) If the employer fails to show cause to the satisfaction of the Commissioner, the Commissioner may make an award determining the total amount payable, and requiring the employer, to deposit the deficiency.]
+© Copyright. Taxmann Publications Pvt. Ltd.
+
+[Section 23: Powers and procedure of Commissioners]
+Powers and procedure of Commissioners
+Powers and procedure of Commissioners.
+23. The Commissioner shall have all the powers of a Civil Court under the Code of Civil Procedure, 1908 (5 of 1908) for the purpose of taking evidence on oath (which such Commissioner is hereby empowered to impose) and of enforcing the attendance of witnesses and compelling the production of documents and material objects [and the Commissioner shall be deemed to be a Civil Court for all the purposes of [section 195 and of Chapter XXVI of the Code of Criminal Procedure, 1973 (2 of 1974)].
+© Copyright. Taxmann Publications Pvt. Ltd.
+
+[Section 24: Appearance of parties]
+Appearance of parties
+[Appearance of parties.
+24. Any appearance, application or act required to be made or done by any person before or to a Commissioner (other than an appearance of a party which is required for the purpose of his examination as a witness) may be made or done on behalf of such person by a legal practitioner or by an official of an Insurance Company [or registered trade union] or by an Inspector appointed under sub-section (1) of section 8 of the Factories Act, 1948 (63 of 1948), or under sub-section (1) of section 5 of the Mines Act, 1952, (35 of 1952), or by any other officer specified by the State Government in this behalf, authorised in writing by such person, or, with the permission of the Commissioner, by any other person so authorised.]
+© Copyright. Taxmann Publications Pvt. Ltd.
+
+[Section 25: Method of recording evidence]
+Method of recording evidence.
+25. The Commissioner shall make a brief memorandum of the substance of the evidence of every witness as the examination of the witness proceeds, and such memorandum shall be written and signed by the Commissioner with his own hand and shall form part of the record:
+Provided that, if the Commissioner is prevented from making such memoran­dum, he shall record the reason of his inability to do so and shall cause such memorandum to be made in writing from his dictation and shall sign the same, and such memorandum shall form a part of the record:
+Provided further that the evidence of any medical witness shall be taken down as nearby as may be word for word.
+© Copyright. Taxmann Publications Pvt. Ltd.
+
+[Section 25A: Time limit for disposal of cases relating to compensation]
+Time limit for disposal of cases relating to compensation
+[Time limit for disposal of cases relating to compensation.
+25A. The Commissioner shall dispose of the matter relating to compensation under this Act within a period of three months from the date of reference and intimate the decision in respect there­of within the said period to the employee.]
+© Copyright. Taxmann Publications Pvt. Ltd.
+
+[Section 26: Costs]
+Costs.
+26. All costs, incidental to any proceedings before a Commissioner, shall, subject to rules made under this Act, be in the discretion of the Commissioner.
+© Copyright. Taxmann Publications Pvt. Ltd.
+
+[Section 27: Power to submit cases]
+Power to submit cases.
+27. A Commissioner may, if he thinks fit, submit any question of law for the decision of the High Court and, if he does so, shall decide the question in conformity with such decision.
+© Copyright. Taxmann Publications Pvt. Ltd.
+
+[Section 28: Registration of agreements]
+Registration of agreements
+Registration of agreements.
+28. (1) Where the amount of any lump sum payable as compensation has been settled by agreement, whether by way of redemption of a half-monthly payment or otherwise, or where any compensation has been so settled as being payable [to a woman or a person under a legal disability] [* * *] a memorandum thereof shall be sent by the employer to the Commissioner, who shall, on being satisfied as to its genuineness, record the memorandum in a register in the prescribed manner:
+Provided that—
+(a) no such memorandum shall be recorded before seven days after com­munication by the Commissioner of notice to the parties concerned;
+[* * *]
+(c) the Commissioner may at any time rectify the register;
+(d) where it appears to the Commissioner that an agreement as to the payment of a lump sum whether by way of redemption of a half-monthly payment or otherwise, or an agreement as to the amount of compensation payable [to a woman or a person under a legal disability] [* * * ] ought not to be registered by reason of the inadequacy of the sum or amount, or by reason of the agreement having been obtained by fraud or undue influence or other improper means, he may refuse to record the memorandum of the agreement [and may make such order] including an order as to any sum already paid under the agreement, as he thinks just in the circumstances.
+(2) An agreement for the payment of compensation which has been registered under sub-section (1) shall be enforceable under this Act notwithstanding anything contained in the Indian Contract Act, 1872 (9 of 1872), or in any other law for the time being in force.
+© Copyright. Taxmann Publications Pvt. Ltd.
+
+[Section 29: Effect of failure to register agreement]
+Effect of failure to register agreement
+Effect of failure to register agreement.
+29. Where a memorandum of any agreement, the registration of which is required by section 28, is not sent to the Commissioner as required by that section, the employer shall be liable to pay the full amount of compensation which he is liable to pay under the provisions of this Act, and notwithstanding anything contained in the proviso to sub-section (1) of section 4, shall not, unless the Commissioner otherwise directs, be entitled to deduct more than half of any amount paid to the [employees] by way of compensation whether under the agreement or otherwise.
+© Copyright. Taxmann Publications Pvt. Ltd.
+
+[Section 30: Appeals]
+Appeals
+Appeals
+30. (1) An appeal shall lie to the-High Court from the following orders of a Commissioner, namely:—
+(a) an order awarding as compensation a lump sum whether by way of redemption of a half-monthly payment or otherwise or disallowing a claim in full or in part for a lump sum;
+[(aa) an order awarding interest or penalty under section 4A;]
+(b) an order refusing to allow redemption of a half-monthly payment;
+(c) an order providing for the distribution of compensation among the dependants of a deceased [employee], or disallowing any claim of a person alleging himself to be such dependant;
+[(d) an order allowing or disallowing any claim for the amount of an indemnity under the provisions of sub-section (2) of section 12; or
+(e) an order refusing to register a memorandum of agreement or registering the same or providing for the registration of the same subject to conditions:
+Provided that no appeal shall lie against any order unless a substantial question of law is involved in the appeal and, in the case of an order other than an order such as is referred to in clause (b) unless the amount in dispute in the appeal is not less than [ten thousand rupees or such higher amount as the Central Government may, by notification in the Official Gazette, specify] :
+Provided further that no appeal shall lie in any case in which the parties have agreed to abide by the decision of the Commissioner, or in which the order of the Commissioner gives effect to an agreement come to by the parties.
+[Provided further that no appeal by an employer under clause (a) shall lie unless the memorandum of appeal is accompanied by a certificate by the Commissioner to the effect that the appellant has deposited with him the amount payable under the order appealed against.]
+(2) The period of limitation for an appeal under this section shall be sixty days.
+(3) The provision of section 5 of [the Limitation Act, 1963 (36 of 1963)] shall be applicable to appeals under this section.
+© Copyright. Taxmann Publications Pvt. Ltd.
+
+[Section 30A: [***]]
+30A. [***]
+© Copyright. Taxmann Publications Pvt. Ltd.
+
+[Section 31: Recovery]
+Recovery.
+31. The Commissioner may recover as an arrear of land revenue any amount payable by any person under this Act, whether under an agreement for the payment of compensation or otherwise, and the Commissioner shall be deemed to be a public officer within the meaning of section 5 of the Revenue Recovery Act, 1890 (1 of 1890).
+© Copyright. Taxmann Publications Pvt. Ltd.
+
+[Section 32: Power of the State Government to make rules]
+Power of the State Government to make rules
+CHAPTER IV
+RULES
+Power of the State Government to make rules.
+32. (1) The [State Government] may make rules to carry out the purposes of this Act.
+(2) In particular and without prejudice to the generality of the foregoing power, such rules may provide for all or any of the following matters, namely:—
+(a) for prescribing the intervals at which and the conditions subject to which an application for review may be made under section 6 when not accompanied by a medical certificate;
+(b) for prescribing the intervals at which and the conditions subject to which a [employee ] may be required to submit himself for medical examination under sub-section (1) of section 11;
+(c) for prescribing the procedure to be followed by Commissioners in the disposal of cases under this Act and by the parties in such cases;
+(d) for regulating the transfer of matters and cases from one Commissioner to another and the transfer of money in such cases;
+(e) for prescribing the manner in which money in the hands of a Commis­sioner may be invested for the benefit of dependants of a deceased [employee] and for the transfer of money so invested from one Commis­sioner to another;
+(f) for the representation in proceedings before Commissioners of parties who are minors or are unable to make an appearance;
+(g) for prescribing the form and manner in which memoranda of agree­ments shall be presented and registered;
+(h) for the withholding by Commissioners, whether in whole or in part of half-monthly payments pending decision on applications for review of the same; [* * *]
+[* * *]
+[(i) for regulating the scales of costs which may be allowed in proceedings under this Act;
+(j) for prescribing and determining the amount of the fees payable in respect of any proceedings before a Commissioner under this Act;
+(k) for the maintenance by Commissioners of registers and records of proceedings before them;
+(l) for-prescribing the classes of employers who shall maintain notice-books under sub-section (3) of section 10, and the form of such notice-books;
+(m) for prescribing the form of statement to be submitted by employers under section 10A; [* * *]
+(n) for prescribing the cases in which the report referred to in section 10B may be sent to an authority other than the Commissioner;]
+[(o) for prescribing abstracts of this Act and requiring the employers to display notices containing such abstracts;
+(p) for prescribing the manner in which diseases specified as occupational diseases may be diagnosed;
+(q) for prescribing the manner in which diseases may be certified for any of the purposes of this Act;
+(r) for prescribing the manner in which, and the standards by which, incapacity may be assessed.]
+[(3) Every rule made under this section shall be laid, as soon as may be after it is made, before the State Legislature.]
+© Copyright. Taxmann Publications Pvt. Ltd.
+
+[Section 33: Power of Local Government to make rules]
+Power of Local Government to make rules
+Power of Local Government to make rules
+33. [* * *]
+© Copyright. Taxmann Publications Pvt. Ltd.
+
+[Section 34: Publication of rules]
+Publication of rules
+Publication of rules
+34. (1) The power to make rules conferred by [section 32] shall be subject to the condition of the rules being made after previous publication.
+(2) The date to be specified in accordance with clause (3) of section 23 of the General Clauses Act, 1897 (10 of 1897), as that after which a draft of rules proposed to be made under section 32 [* * *] will be taken into consideration, shall not be less than three months from the date on which the draft of the proposed rules was published for general information.
+(3) Rules so made shall be published in [* * *] the Official Gazette [* * *] and, on such publication, shall have effect as if enacted in this Act.
+© Copyright. Taxmann Publications Pvt. Ltd.
+
+[Section 35: Rules to give effect to arrangements with other countries for the transfer of money paid as compensation]
+Rules to give effect to arrangements with other countries for the transfer of money paid as compensation
+Rules to give effect to arrangements with other countries for the transfer of money paid as compensation.
+[35. [(1)] The Central Government may, by notification in the Official Gazette, make rules for the transfer [* * * ] [to any foreign country] of money [deposited with] a Commissioner under this Act [which has been awarded to or may be due to], any person residing or about to reside in [such foreign country] and for the receipt [, distribution] and administration in [any State] of any money [deposited] under the law relating to [employees’ ] compensation [ [* * *] [* * *] [in any foreign, country], [which has been awarded to, or may be due to] any person residing or about to reside in [any State.]:]
+[Provided that no sum deposited under this Act in respect of fatal accidents shall be so transferred without the consent of the employer concerned until the Commissioner receiving the sum has passed orders determining its distribution and apportionment under the provisions of sub-sections (4) and (5) of section 8.
+(2) Where money deposited with a Commissioner has been so transferred in accordance with the rules made under this section, the provisions elsewhere contained in this Act regarding distribution by the Commissioner of compen­sation deposited with him shall cease to apply in respect of any such money.
+© Copyright. Taxmann Publications Pvt. Ltd.
+
+[Section 36: Rules made by Central Government to be laid before Parliament]
+Rules made by Central Government to be laid before Parliament
+[Rules made by Central Government to be laid before Parliament.
+36. Every rule made under this Act by the Central Government shall be laid as soon as may be after it is made before each House of Parliament while it is in session for a total period of thirty days which may be comprised in one session or in [two or more successive sessions, and if, before the expiry of the session immediately following the session or the successive sessions afore­said], both Houses agree in making any modification in the rule or both Houses agree that the rule should not be made, the rule shall thereafter have effect only in such modified form or be of no effect, as the case may be; so however that any such modification or annulment shall be without prejudice to the validity of anything previously done under that rule.]
+© Copyright. Taxmann Publications Pvt. Ltd.
+
+[SCH I: SCHEDULE]
+SCHEDULE
+[SCHEDULE I
+[See sections 2(1) and (4)]
+[PART I
+LIST OF INJURIES DEEMED TO RESULT IN PERMANENT TOTAL DISABLEMENT]
+Serial No.
+Description of injury
+Percentage of loss of earning capacity
+1
+2
+3
+1.
+Loss of both hands or amputation at higher sites
+100
+2.
+Loss of a hand and foot
+100
+3.
+Double amputation through leg or thigh, or amputation through leg or thigh on one side and loss of other foot
+100
+4.
+Loss of sight to such an extent as to render the claimant unable to perform any work for which eye sight is essential.
+100
+5.
+Very severe facial disfigurement
+100
+6.
+Absolute deafness
+100
+[PART II
+LIST OF INJURIES DEEMED TO RESULT IN PERMANENT PARTIAL DISABLEMENT]
+Amputation Cases - Upper limbs - Either arm
+[1]
+Amputation through shoulder joint
+90
+[2]
+Amputation below shoulder with stump less than [20.32 cms.] from tip of acromion
+80
+[3]
+Amputation from [20.32 cms.] from tip of acromion to less than 4" below tip of olecranon
+70
+[4]
+Loss of a hand or of the thumb and four fingers of one hand or amputation from [11.43 cms.] below tip of olecranon
+60
+[5]
+Loss of thumb
+30
+[6]
+Loss of thumb and its metacarpal bone
+40
+[7]
+Loss of four fingers of one hand
+50
+[8]
+Loss of three fingers of one hand
+30
+[9]
+Loss of two fingers of one hand
+20
+[10]
+Loss of terminal phalanx of thumb
+20
+[10A
+Guillotine amputation of tip of thumb without loss of bone.
+10]
+Amputation cases - lower limbs
+[11]
+Amputation of both feet resulting in end-bearing stumps.
+90
+[12]
+Amputation through both feet proximal to the metatarso-phalangeal joint
+80
+[13]
+Loss of all toes of both feet through the metatarso-phalangeal joint
+40
+[14]
+Loss of all toes of both feet proximal to the proximal inter-phalangeal joint
+30
+[15]
+Loss of all toes of both feet distal to the proximal inter-phalangeal joint
+20
+[16]
+Amputation at hip
+90
+[17]
+Amputation below hip with stump not exceeding [12.70 cms.] in length measured from; tip of great trenchanter
+80
+[18]
+Amputation below hip with stump exceeding [12.70 cms.] in length measured from tip of great trenchanter but not beyond middle thigh
+70
+[19]
+Amputation below middle thigh to [8.89 cms.] below knee
+60
+[20]
+Amputation below knee with stump exceeding [8.89 cms.] but not exceeding [12.70 cms.]
+50
+[21]
+Amputation below knee with stump exceeding [12.70 cms.]
+[50]
+[22]
+Amputation of one foot resulting in end-bearing
+[50]
+[23]
+Amputation through one foot proximal to the metatarso-phalangeal joint
+[50]
+[24]
+Loss of all toes of one foot through the metatarso-phalangeal joint
+20
+Other injuries
+[25]
+Loss of one eye, without complications, the other being normal
+40
+[26]
+Loss of vision of one eye. without complications or disfigurement of eye-ball, the other being normal
+30
+[26A.
+Loss of partial vision of one eye
+10]
+Loss of - A. Fingers of right or left hand Index finger
+[27]
+Whole
+14
+[28]
+Two phalanges
+11
+[29]
+One phalanx
+9
+[30]
+Guillotine amputation of tip without loss of bone
+5
+Middle finger
+[31]
+Whole
+12
+[32]
+Two phalanges
+9
+[33]
+One phalanx
+7
+[34]
+Guillotine amputation of tip without loss of bone
+4
+Ring or little finger
+[35]
+Whole
+7
+[36]
+Two phalanges
+6
+[37]
+One phalanx
+5
+[38]
+Guillotine amputation of tip without loss of bone
+2
+B. Toes of right or left foot great toe
+[39]
+Through metatarso-phalangeal joint
+14
+[40]
+Part, with some loss of bone
+3
+Any other toe
+[4l]
+Through metatarso-phalangeal joint
+3
+[42]
+Part, with some loss of bone
+1
+Two toes of one foot, excluding great toe
+[43]
+Through metatarso-phalangeal joint
+5
+[44]
+Part, with some loss of bone
+2
+Three toes of one foot, excluding great toe
+[45]
+Through metatarso-phalangeal joint
+6
+[46]
+Part, with some loss of bone
+6
+Four toes of one foot, excluding great toe
+[47]
+Through metatarso-phalangeal joint
+9
+[48]
+Part, with some loss of bone
+3]
+[Note - Complete and permanent loss of the use of any limb or member referred to in this Schedule shall be deemed to be equivalent to the loss of that limb or member.]
+© Copyright. Taxmann Publications Pvt. Ltd.
+
+[SCH II: LIST OF PERSONS WHO SUBJECT TO THE PROVISIONS OF SECTION 2(1)(n), ARE INCLUDED IN THE DEFINITION OF WORKMEN]
+LIST OF PERSONS WHO SUBJECT TO THE PROVISIONS OF SECTION 2(1)(n), ARE INCLUDED IN THE DEFINITION OF WORKMEN
+SCHEDULE II
+[See [section 2(l)(dd) ]]
+LIST OF PERSONS WHO SUBJECT TO THE PROVISIONS OF SECTION 2(1)(n), ARE INCLUDED IN THE DEFINITION OF WORKMEN
+The following persons are [employees] within the meaning of [ section 2(l)(dd)] and subject to the provisions of that section, that is to say, any person who is—
+[(i) [employed in railways ], otherwise than in a clerical capacity or on a railway, in con­nection with the operation [repair] or maintenance of a lift or a vehicle propelled by steam or other mechanical power or by electricity or in connection with the loading or unloading of any such vehicle; or
+(ii) employed, [*** ]in any premises wherein or within the precincts whereof a manufacturing process as defined in clause (k) of section 2 of the Factories Act, 1948 (63 of 1948), is being carried on, or in any kind of work whatsoever incidental to or connected with any such manufacturing process or with the article made, [whether or not employment in any such work is within such premises or precincts and steam, water or other mechanical power or electrical power is used; or
+(iii) employed for the purpose of making, altering, repairing, ornamenting, finishing or otherwise adapting for use, transport or sale of any article or part of an article in any premises [*** ] [ ***].
+[Explanation: For the purposes of this clause, persons employed outside such premises or precincts but in any work incidental to, or connected with, the work relating to making, altering, repairing, ornamenting, finishing or otherwise adapting for use, transport or sale of any articles or part of an article shall be deemed to be employed within such premises or precincts; or
+(iv) employed in the manufacture or handling of explosives in connection with the employer’s trade or business; or
+(v) employed, in any mine as defined in clause (j) of section 2 of the Mines Act, 1952 (35 of 1952), in any mining operation or in any kind of work, [ ***] incidental to or connected with any mining operation or with the mineral obtained, or in any kind of work whatsoever below ground; or
+[(vi) employed as the master or as a seaman of—
+(a) any ship which is propelled wholly or in part by steam or other mechanical power or by electricity or which is towed or intended to be towed by a ship so propelled; or
+(b) [***]
+(c) any sea-going ship not included in sub-clause (a) [ ***] provided with sufficient area for navigation under sails alone; or
+(vii) employed for the purpose of—
+(a) loading, unloading, fuelling, constructing, repairing, demolishing, cleaning or painting any ship of which he is not the master or a member of the crew, or handling or transport within the limits of any port subject to [the Ports Act, 1908 (15 of 1908) or the Major Port Trusts Act, 1963 (38 of 1963)], of goods which have been discharged from or are to be loaded into any vessel; or
+(b) warping a ship through the lock; or
+(c) mooring and unmooringships at harbour wall berths t)r in pier; or
+(d) removing or replacing dry dock caisoons when vessels are entering or leaving dry docks; or
+(e) the docking or undocking or any vessel during an emergency; or
+(f) preparing splicing coir springs and check wires, painting depth marks on lock-sides, removing or replacing fenders whenever necessary, landing of gangways, maintaining life-buoys up to stan­dard or any other maintenance work of a like nature; or
+(g) any work on jolly-boats for bringing a ship’s line to the wharf; or
+(viii) employed in the construction, maintenance, repair or demolition of—
+(a) any building which is designed to be or is or has been more than one storey in height above the ground or twelve feet or more from the ground level to the apex of the roof; or
+(b) any dam or embankment which is twelve feet or more in height from its lowest to its highest point; or
+(c) any road, bridge, tunnel or canal; or
+(d) any wharf, quay, sea-wall or other marine work including any moorings of ships; or
+(ix) employed in setting up, maintaining, repairing or taking down any telegraph or telephone line or post or any overhead electric line or cable or post or standard or fittings and fixtures for the same; or]
+(x) employed, [*** ], in the construction, working, repair or demolition of any aerial ropeway, canal, pipeline, or sewer; or
+(xi) employed in the service of any fire brigade; or
+(xii) employed upon a railway as defined in [clause (31) of section 2 and sub-section (1) of section 197 of the Railways Act, 1989 (24 of 1989)], either directly or through a sub-contractor, by a person fulfilling a contract with the railway administration; or
+(xiii) employed as an inspector, mail guard, sorter or van peon in the Railway Mail Service, [or as a telegraphist or as a postal or railway signaller] or employed in any occupation ordinarily involving outdoor work in the Indian Posts and Telegraphs Department; or
+(xiv) employed, [*** ], in connection with operations for winning natural petroleum or natural gas; or
+(xv) employed in any occupation involving blasting operations; or
+(xvi) employed in the making of any excavation [***]or explosives have been used, or whose depth from its highest to its lowest point exceeds [twelve] feet; or
+(xvii) employed in the operation of any ferry boat capable of carrying more than ten persons; or
+[(xviii) employed on any estate which is maintained for the purpose of growing cardamom, cinchona, coffee, rubber or tea; or]
+[(xix) employed, [*** ], in the generating, transforming, transmitting or distribution of electrical energy or in generation or supply of gas; or]
+(xx) employed in a lighthouse as defined in clause (d) of section 2 of the Indian Lighthouse Act, 1927 (17 of 1927); or
+(xxi) employed in producing cinematograph pictures intended for public exhibition or in exhibiting such pictures; or
+(xxii) employed in the training, keeping or working of elephants or wild animals; or
+[(xxiii) employed in the tapping of palm-trees or the felling or logging of trees, or the transport of timber by inland waters, or the control or extin­guishing of forest fires; or]
+(xxiv) employed in operations for the catching or hunting of elephants or other wild animals; or
+(xxv)] employed as a driver ; [or]
+(xxvi) employed in the handling or transport of goods in, or within the precincts of,—
+(a) any warehouse or other place in which goods are stored, [ ***], or
+(b) any market [*** ]; or
+(xxvii) employed in any occupation involving the handling and manipulation of radium or X-rays apparatus, or contact with radio-active substances [or]]
+(xxviii) employed in or in connection with the construction, erection, disman­tling, operation or maintenance of an aircraft as defined in section 2 of the Indian Aircraft Act, 1934 (22 of 1934); or
+(xxix) [employed in horticultural operations, forestry, bee-keeping or farm­ing] by tractors or other contrivances driven by steam or other mechanical power or by electricity; or
+(xxx) employed, [*** ], in the construction, working, repair or maintenance of a tube well; or
+(xxxi) employed in the maintenance, repair or renewal of electric fittings in any building; or
+(xxxii) employed in a circus.]
+[(xxxiii) employed as watchman in any factory or establishment; or
+(xxxiv) employed in any operation in the sea for catching fish; or
+(xxxv) employed in any employment which requires handling of snakes for the purpose of extraction of venom or for the purpose of looking after snakes or handling any other poisonous animal or insect; or
+(xxxvi) employed in handling animals like horses, mules and bulls; or
+(xxxvii) employed for the purpose of loading or unloading any mechanically propelled vehicle or in the handling or transport of goods which have been loaded in such vehicles; or
+(xxxviii) employed in cleaning of sewer lines or septic tanks within the limits of a local authority; or
+(xxxix) employed on surveys and investigation, exploration or gauge or discharge observation of rivers including drilling operations, hydro-logical observations and flood forecasting activities ground, water surveys and exploration; or
+(xl) employed in cleaning of jungles or reclaiming land or ponds [ ***]; or
+(xli) employed in cultivation of land or rearing and maintenance of live­stock or forest operations or fishing [*** ]; or
+(xlii) employed in installation, maintenance or repair of pumping equip­ment used for lifting of water from wells, tubewells, ponds, lakes, streams and the like; or
+(xliii) employed in the construction, boring or deepening of an open well or dug well, bore well, bore-cum-dug well, filter-point and the like; or
+(xliv) employed in spraying and dusting of insecticides or pesticides in agricultural operations or plantations; or
+(xlv) employed in mechanised harvesting and threshing operations; or
+(xlvi) employed in working or repair or maintenance of bulldozers, trac­tors, power tillers and the like; or
+(xlvii) employed as artist for drawing pictures on advertisement boards at a height of 3.66 metres or more from the ground level; or
+(xlviii) employed in any newspaper establishment as defined in the Working Journalists and other Newspaper Employees (Conditions of Service) and Miscellaneous Provisions Act, 1955 (45 of 1955) and engaged in outdoor work;]
+(xlix) employed as divers for work under water.]
+Explanation.— [***]]
+© Copyright. Taxmann Publications Pvt. Ltd.
+
+[SCH III: LIST OF OCCUPATIONAL DISEASES]
+LIST OF OCCUPATIONAL DISEASES
+[SCHEDULE III
+(See section 3)
+LIST OF OCCUPATIONAL DISEASES
+S. No.
+Occupational disease
+Employment
+(1)
+(2)
+(3)
+PART A
+1.
+Infectious and parasitic diseases contracted in an occupation where there is a particular risk of contamination.
+(a) All work involving exposure to health or laboratory work;
+(b) All work involving exposure to veterinary work;
+(c) Work relating to handling animals, animal carcasses, part of such car­casses, or merchandise which may have been contaminated by ani­mals or animal carcasses;
+(d) Other work carrying a particular risk of contamination.
+2.
+Diseases caused "by work in compressed air.
+All work involving exposure to the risk concerned.
+3.
+Diseases caused by lead or its toxic compounds.
+All work involving exposure to the risk concerned.
+4.
+Poisoning by nitrous fumes.
+All work involving exposure to the risk concerned.
+5.
+Poisoning by organo phosphorus compounds.
+All work involving exposure to the risk concerned.
+PART B
+1.
+Diseases caused by phospho­rus or its toxic compounds.
+All work involving exposure to the risk concerned.
+2.
+Diseases caused by mercury or its toxic compounds.
+All work involving exposure to the risk concerned.
+3.
+Diseases caused by benzene or its toxic homologues.
+All work involving exposure to the risk concerned.
+4.
+Diseases caused by nitro and amido toxic derivatives of ben­zene or its homologues.
+All work involving exposure to the risk concerned.
+5.
+Diseases caused by chromium or its toxic compounds.
+All work involving exposure to the risk concerned.
+6.
+Diseases caused by arsenic or its toxic compounds.
+All work involving exposure to the risk concerned.
+7.
+Diseases caused by radioactive substances and ionising radia­tions.
+All work involving exposure to the ac­tion of radioactive substances or ionising radiations.
+8.
+Primary epitheliomatous can­cer of the skin caused by tar, pitch, bitumen, mineral oil, an­thracene, or the compounds, products or residues of these substances.
+All work involving exposure to the risk concerned.
+9.
+Disease caused by the toxic halogen derivatives of hydro­carbons (of the aliphatic and aromatic series)
+All work involving exposure to the risk concerned.
+10. Diseases caused by carbon disulphide.
+All work involving exposure to the risk concerned.
+11.
+Occupational cataract due to infra-red radiations.
+All work involving exposure to the risk concerned.
+12.
+Diseases caused by manganese or its toxic compounds.
+All work involving exposure to the risk concerned.
+13.
+Skin diseases caused by physi­cal, chemical or biological agents not included in other items.
+All work involving exposure to the risk concerned.
+14.
+Hearing impairment caused by noise.
+All work involving exposure to the risk concerned.
+15.
+Poisoning by dinitrophenol or a homologue or by substituted dinitrophenol or by the salts of such substances.
+All work involving exposure to the risk concerned.
+16.
+Diseases caused by beryllium of its toxic compounds.
+All work involving exposure to the risk concerned.
+17.
+Diseases caused by cadmium or its toxic compounds
+All work involving exposure to the risk concerned.
+18.
+Occupational asthma caused by recognised sensitising agents inherent to the work process.
+All work involving exposure to the risk concerned.
+19.
+Diseases caused by fluorine or its toxic compounds.
+All work involving exposure to the risk concerned.
+20.
+Diseases caused by nitrogly­cerine or other nitroacid esters.
+All work involving exposure to the risk concerned.
+21.
+Diseases caused by alcohols and ketones.
+All work involving exposure to the risk concerned.
+22.
+Diseases caused by asphyxiants:carbon monoxide, and its toxic derivatives, hydrogen sulfide.
+All work involving exposure to the risk concerned.
+23.
+Lung cancer and mesothe liomas caused by asbestos.
+All work involving exposure to the risk concerned.
+24.
+Primary neoplasm of the epi­thelial lining of the urinary blad­der or the kidney or the ureter.
+All work involving exposure to the risk concerned.
+[25.
+Snow blindness in snow bound areas.
+All work involving exposure to the risk concerned.
+26.
+Disease due to effect of heat in extreme hot climate.
+All work involving exposure to the risk concerned.
+27.
+Disease due to effect of cold in extreme cold climate:
+All work involving exposure to the risk concerned.]
+PART C
+1.
+Pneumoconioses caused by sclerogenic mineral dust (silicosis, anthraoosilicosis, asbestosis) and silico-tuberculosis provided that silicosis is an essential factor in causing the resultant incapacity or death.
+All work involving exposure to the risk concerned.
+2.
+Bagassosis.
+All work involving exposure to the risk concerned.
+3.
+Bronchopulmonary diseases caused by cotton, flax hemp and sisal dust (Byssinosis).
+All work involving exposure to the risk concerned.
+4.
+Extrinsic allergic alveelitis caused by the inhalation of or­ganic dusts.
+All work involving exposure to the risk concerned.
+5.
+Bronchopulmonary diseases caused by hard metals.
+All work involving exposure to the risk concerned.
+[6.
+Acute Pulmonary Oedema of High Altitude.
+All work involving exposure to the risk concerned.]
+© Copyright. Taxmann Publications Pvt. Ltd.
+
+[SCH IV: FACTORS FOR WORKING OUT LUMP SUM EQUIVALENT OF COMPENSATION AMOUNT IN CASE OF PERMANENT DISABLEMENT AND DEATH]
+FACTORS FOR WORKING OUT LUMP SUM EQUIVALENT OF COMPENSATION AMOUNT IN CASE OF PERMANENT DISABLEMENT AND DEATH
+[SCHEDULE IV
+(See section 4)
+FACTORS FOR WORKING OUT LUMP SUM EQUIVALENT OF COMPENSATION AMOUNT IN CASE OF PERMANENT DISABLEMENT AND DEATH
+Completed years of age on the last birthday of the the [employee] immediately preceding the date on which the compensation fell due
+Factors
+1
+2
+not more than 16
+228.54
+17
+227.49
+18
+226.38
+19
+225.22
+20
+224.00
+21
+222.71
+22
+221.37
+23
+219.95
+24
+218.47
+25
+216.91
+26
+215.28
+27
+213.57
+28
+211.79
+29
+209.92
+30
+207.98
+31
+205.95
+32
+203.85
+33
+201.66
+34
+199.40
+35
+197.06
+36
+194.64
+37
+192.14
+38
+189.56
+39
+186.90
+40
+184.17
+41
+181.37
+42
+178.49
+43
+175.54
+44
+172.52
+45
+169.44
+46
+166.29
+47
+163.07
+48
+159.80
+49
+156.47
+50
+153.09
+51
+149.67
+52
+146.20
+53
+142.68
+54
+139.13
+55
+135.96
+56
+131.95
+57
+128.33
+58
+124.70
+59
+121.05
+60
+117.41
+61
+113.77
+62
+110.14
+63
+106.52
+64
+102.93
+65 or more
+99.37]
+© Copyright. Taxmann Publications Pvt. Ltd.

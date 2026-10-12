@@ -1,0 +1,788 @@
+{
+  "renderer": "official-sections-v1",
+  "receipt_mode": "bundled-section-records-v1",
+  "category_id": 4209341,
+  "source_document_sha256": "932fdfd0820f61f52324c8826ea02181b641bb4056a9ded9912e52316878b4ce",
+  "sections": [
+    {
+      "id": "5548845",
+      "number": "1",
+      "locator": "Section 1: Short title, extent and commencement",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-1-222",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5548845",
+      "body": "Short title, extent and commencement\nREGISTRATION ACT, 1908\n[16 OF 1908]\nAn Act to consolidate the enactments relating to the Registration of Documents.\nWHEREAS it is expedient to consolidate the enactments relating to the registration of documents; it is hereby enacted as follows :—\nPART I\nPRELIMINARY\nShort title, extent and commencement.\n1. (1) This Act may be called the [***] Registration Act, 1908.\n[(2) It extends to the whole of India [***] :\nProvided that the State Government may exclude any districts or tracts of country from its operation.]\n(3) It shall come into force on the first day of January, 1909.\n© Copyright. Taxmann Publications Pvt. Ltd."
+    },
+    {
+      "id": "5548878",
+      "number": "2",
+      "locator": "Section 2: Definitions",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-2-223",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5548878",
+      "body": "Definitions.\n2. In this Act, unless there is anything repugnant in the subject or context, —\n(1) \"addition\" means the place of residence, and the profession, trade, rank and title (if any) of a person described, and, in the case of [an Indian], [***] his father's name, or where he is usually described as the son of his mother, then his mother's name ;\n(2) \"book\" includes a portion of a book and also any number of sheets connected together with a view of forming a book or portion of a book;\n(3) \"district\" and \"sub-district\" respectively mean a district and sub-district formed under this Act;\n(4) \"District Court\" includes the High Court in its ordinary original civil jurisdiction;\n(5) \"endorsement\" and \"endorsed\" include and apply to an entry in writing by a registering officer on a rider or covering slip to any document tendered for registration under this Act;\n(6) \"immovable property\" includes land, buildings, hereditary allowances, rights to ways, lights, ferries, fisheries or any other benefit to arise out of land, and things attached to the earth or permanently fastened to anything which is attached to the earth, but not standing timber, growing crops nor grass;\n[(6A) \"India\" means the territory of India excluding the State of Jammu and Kashmir;]\n(7) \"lease\" includes a counterpart, kabuliyat, an undertaking to cultivate or occupy, and an agreement to lease;\n(8) \"minor\" means a person who, according to the personal law to which he is subject, has not attained majority;\n(9) \"movable property\" includes standing timber, growing crops and grass, fruit upon and juice in trees, and property of every other description, except immovable property; and\n(10) \"representative\" includes the guardian of a minor and the committee or other legal curator of a lunatic or idiot.\n(11) [***]\n© Copyright. Taxmann Publications Pvt. Ltd."
+    },
+    {
+      "id": "5548911",
+      "number": "3",
+      "locator": "Section 3: Inspector-General of Registration",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-3-220",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5548911",
+      "body": "PART II\nOF THE REGISTRATION - ESTABLISHMENT\nInspector-General of Registration.\n3. (1) The State Government shall appoint an officer to be the Inspector-General of Registration for the territories subject to such Government :\nProvided that the State Government may, instead of making such appointment, direct that all or any of the powers and duties hereinafter conferred and imposed upon the Inspector-General shall be exercised and performed by such officer or officers, and within such local limits, as the State Government appoints in this behalf.\n(2) Any Inspector-General may hold simultaneously any other office under the Government.\n© Copyright. Taxmann Publications Pvt. Ltd."
+    },
+    {
+      "id": "5548944",
+      "number": "4",
+      "locator": "Section 4: Branch Inspector - General of",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-4-221",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5548944",
+      "body": "Branch Inspector - General of Sindh\n4. [Repealed by the Government of India (Adaptation of Indian Laws) Order, 1937.]\n© Copyright. Taxmann Publications Pvt. Ltd."
+    },
+    {
+      "id": "5548977",
+      "number": "5",
+      "locator": "Section 5: Districts and sub-districts",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-5-219",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5548977",
+      "body": "Districts and sub-districts.\n5. (1) For the purposes of this Act, the State Government shall form districts and sub-districts, and shall prescribe, and may alter, the limits of such districts and sub-districts.\n(2) The districts and sub-districts formed under this section, together with the limits thereof, and every alteration of such limits, shall be notified in the Official Gazette.\n(3) Every such alteration shall take effect on such day after the date of the notification as is therein mentioned.\n© Copyright. Taxmann Publications Pvt. Ltd."
+    },
+    {
+      "id": "5549010",
+      "number": "6",
+      "locator": "Section 6: Registrars and sub-Registrars",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-6-219",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5549010",
+      "body": "Registrars and sub-Registrars.\n6. The State Government may appoint such persons, whether public officers or not, as it thinks proper, to be Registrars of the several districts, and to be sub-Registrars of the several sub-districts, formed as aforesaid, respectively.\n[***]\n© Copyright. Taxmann Publications Pvt. Ltd."
+    },
+    {
+      "id": "5549043",
+      "number": "7",
+      "locator": "Section 7: Offices of Registrar and Sub-Registrar",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-7-218",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5549043",
+      "body": "Offices of Registrar and Sub-Registrar.\n7. (1) The State Government shall establish in every district an office to be styled the office of the Registrar and in every sub-district an office or offices to be styled the office of the Sub-Registrar or the offices of the Joint Sub-Registrars.\n(2) The State Government may amalgamate with any office of a Registrar any office of a Sub-Registrar subordinate to such Registrar, and may authorize any Sub-Registrar whose office has been so amalgamated to exercise and perform, in addition to his own powers and duties, all or any of the powers and duties of the Registrar to whom he is subordinate :\nProvided that no such authorization shall enable a Sub-Registrar to hear an appeal against an order passed by himself under this Act.\n© Copyright. Taxmann Publications Pvt. Ltd."
+    },
+    {
+      "id": "5549076",
+      "number": "8",
+      "locator": "Section 8: Inspectors of registration offices",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-8-217",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5549076",
+      "body": "Inspectors of registration offices.\n8. (1) The State Government may also appoint officers, to be called inspectors of registration offices, and may prescribe the duties of such officers.\n(2) Every such Inspector shall be subordinate to the Inspector-General.\n© Copyright. Taxmann Publications Pvt. Ltd."
+    },
+    {
+      "id": "5549109",
+      "number": "9",
+      "locator": "Section 9: Military cantonments may be declared sub-districts or districts",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-9-215",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5549109",
+      "body": "Military cantonments may be declared sub-districts or districts.\n9. [Repealed by the Repealing and Amending Act, 1927.]\n© Copyright. Taxmann Publications Pvt. Ltd."
+    },
+    {
+      "id": "5549142",
+      "number": "10",
+      "locator": "Section 10: Absence of Registrar or vacancy in his office",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-10-213",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5549142",
+      "body": "Absence of Registrar or vacancy in his office.\n10. (1) When any Registrar, other than the Registrar of a district including a Presidency-town, is absent otherwise than on duty in his district, or when his office is temporarily vacant, any person whom the Inspector-General appoints in this behalf, or, in default of such appointment, the Judge of the District Court within the local limits of whose jurisdiction the Registrar's office is situate, shall be the Registrar during such absence or until the State Government fills up the vacancy.\n(2) When the Registrar of a district including a Presidency-town is absent otherwise than on duty in his district, or when his office is temporarily vacant, any person whom the Inspector-General appoints in this behalf shall be the Registrar during such absence, or until the State Government fills up the vacancy.\n© Copyright. Taxmann Publications Pvt. Ltd."
+    },
+    {
+      "id": "5549175",
+      "number": "11",
+      "locator": "Section 11: Absence of Registrar on duty in his district",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-11-210",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5549175",
+      "body": "Absence of Registrar on duty in his district.\n11. When any Registrar is absent from his office on duty in his district, he may appoint any Sub-Registrar or other person in his district to perform, during such absence, all the duties of a Registrar except those mentioned in sections 68 and 72 .\n© Copyright. Taxmann Publications Pvt. Ltd."
+    },
+    {
+      "id": "5549208",
+      "number": "12",
+      "locator": "Section 12: Absence of Sub-Registrar or vacancy in his office",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-12-211",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5549208",
+      "body": "Absence of Sub-Registrar or vacancy in his office.\n12. When any Sub-Registrar is absent, or when his office is temporarily vacant, any person whom the Registrar of the district appoints in this behalf shall be Sub-Registrar during such absence, or until the vacancy is filled up.\n© Copyright. Taxmann Publications Pvt. Ltd."
+    },
+    {
+      "id": "5549241",
+      "number": "13",
+      "locator": "Section 13: Report to State Government of appointments under sections 10,11 and 12",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-13-208",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5549241",
+      "body": "Report to State Government of appointments under sections 10,11 and 12.\n13. (1) [***] All appointments made under section 10 , section 11 or section 12 shall be reported to the State Government by the Inspector-General.\n(2) Such report shall be either special or general, as the State Government directs.\n(3) [***]\n© Copyright. Taxmann Publications Pvt. Ltd."
+    },
+    {
+      "id": "5549274",
+      "number": "14",
+      "locator": "Section 14: Establishments of registering officers",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-14-204",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5549274",
+      "body": "Establishments of registering officers .\n14 . (1) [***]\n(2) The State Government may allow proper establishments for the several offices under this Act.\n© Copyright. Taxmann Publications Pvt. Ltd."
+    },
+    {
+      "id": "5549307",
+      "number": "15",
+      "locator": "Section 15: Seal of registering officers",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-15-203",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5549307",
+      "body": "Seal of registering officers.\n15. The several Registrars and Sub-Registrars shall use a seal bearing the following inscription in English and in such other language as the State Government directs :-\n\"The seal of the Registrar (or of the Sub-Registrar) of\".\n© Copyright. Taxmann Publications Pvt. Ltd."
+    },
+    {
+      "id": "5549340",
+      "number": "16",
+      "locator": "Section 16: Register-books and fire-proof boxes",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-16-201",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5549340",
+      "body": "Register-books and fire-proof boxes.\n16. (1) The State Government shall provide for the office of every registering officer the books necessary for the purposes of this Act.\n(2) The books so provided shall contain the forms from time to time prescribed by the Inspector-General with the sanction of the State Government, and the pages of such books shall be consecutively numbered in print, and the number of pages in each book shall be certified on the title-page by the officer by whom such books are issued.\n(3) The State Government shall supply the office of every Registrar with a fire-proof box, and shall in each district make suitable provision for the safe custody of the records connected with the registration of documents in such district.\n© Copyright. Taxmann Publications Pvt. Ltd."
+    },
+    {
+      "id": "5549373",
+      "number": "16A",
+      "locator": "Section 16A: Keeping of books in computer floppies, diskettes, etc.",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-16a-3",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5549373",
+      "body": "[Keeping of books in computer floppies, diskettes, etc.\n16A. (1) Notwithstanding anything contained in section 16 , the books provided under sub-section (1) of that section may also be kept in computer floppies or diskettes or in any other electronic form in the manner and subject to the safeguards as may be prescribed by the Inspector-General with the sanction of the State Government.\n(2) Notwithstanding anything cotained in this Act or in any other law for the time being in force, a copy or extracts from the books kept under sub-section (1) given by the registering officer under his hand and seal shall be deemed to be a copy given under section 57 for the purposes of sub-section (5) of that section.]\n© Copyright. Taxmann Publications Pvt. Ltd."
+    },
+    {
+      "id": "5549406",
+      "number": "17",
+      "locator": "Section 17: Documents of which registration is compulsory",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-17-199",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5549406",
+      "body": "PART III\nOF REGISTRABLE DOCUMENTS\nDocuments of which registration is compulsory.\n17. (1) The following documents shall be registered, if the property to which they relate is situate in a district in which, and if they have been executed on or after the date on which, Act No. XVI of 1864, or the Indian Registration Act, 1866 (20 of 1866), or the Indian Registration Act, 1871 (8 of 1871), or the Indian Registration Act, 1877 (3 of 1877), or this Act came or comes into force, namely :—\n(a) instruments of gift of immovable property;\n(b) other non-testamentary instruments which purport or operate to create, declare, assign, limit or extinguish, whether in present or in future, any right, title or interest, whether vested or contingent, of the value of one hundred rupees and upwards, to or in immovable property;\n(c) non-testamentary instruments which acknowledge the receipt or payment of any consideration on account of the creation, declaration, assignment, limitation or extinction of any such right, title or interest;\n(d) leases of immovable property from year to year, or for any term exceeding one year, or reserving a yearly rent; and\n[(e) non-testamentary instruments transferring or assigning any decree or order of a Court or any award when such decree or order or award purports or operates to create, declare, assign, limit or extinguish, whether in present or in future, any right, title or interest, whether vested or contingent, of the value of one hundred rupees and upwards, to or in immovable property :]\nProvided that the State Government may, by order published in the Official Gazette, exempt from the operation of this sub-section any leases excused in any district, or part of a district, the terms grant by which do not exceed five years and the annual rents reserved by which do not exceed fifty rupees.\n[(1A) The documents containing contracts to transfer for consideration, any immovable property for the purpose of section 53A of the Transfer of Property Act, 1882 (4 of 1882) shall be registered if they have been executed on or after the commencement of the Registration and other Related Laws (Amendment) Act, 2001 and if such documents are not registered on or after such commencement, then, they shall have no effect for the purposes of the said section 53A.]\n(2) Nothing in clauses (b) and (c) of sub-section (1) applies to—\n(i) any composition deed; or\n(ii) any instrument relating to shares in a joint stock company, notwithstanding that the assets of such company consist in whole or in part of immovable property; or\n(iii) any debenture issued by any such company and not creating, declaring, assigning, limiting or extinguishing any right, title or interest, to or in immovable property except insofar as it entitles the holder to the security afforded by a registered instrument whereby the company has mortgaged, conveyed or otherwise transferred the whole or part of its immovable property or any interest therein to trustees upon trust for the benefit of the holders of such debentures; or\n(iv) any endorsement upon or transfer of any debenture issued by any such company; or\n(v) any document [other than the documents specified in sub-section (1A)] not itself creating, declaring, assigning, limiting or extinguishing any right, title or interest of the value of one hundred rupees and upwards to or in immovable property, but merely creating a right to obtain another document which will, when executed, create, declare, assign, limit or extinguish any such right, title or interest; or\n(vi) any decree or order of a Court [except a decree or order expressed to be made on a compromise and comprising immovable property other than that which is the subject-matter of the suit or proceedings]; or\n(vii) any grant of immovable property by the Government; or\n(viii) any instrument of partition made by a Revenue-officer; or\n(ix) any order grating a loan or instrument of collateral security granted under the Land Improvement Act, 1871 (26 of 1871), or the Land Improvement Loans Act, 1883 (19 of 1883); or\n(x) any order granting a loan under the Agriculturists' Loans Act, 1884 (12 of 1884), or instrument for securing the repayment of a loan made under that Act; or\n(xa) any order made under the Charitable Endowments Act, 1890 (6 of 1890), vesting any property in a Treasurer of Charitable Endowments or divesting any such Treasurer of any property; or\n(xi) any endorsement on a mortgage deed acknowledging the payment of the whole or any part of the mortgage-money, and any other receipt for payment of money due under a mortgage when the receipt does not purport to extinguish the mortgage; or\n(xii) any certificate of sale granted to the purchaser of any property sold by public auction by a civil or Revenue-officer.\nExplanation.—A document purporting or operating to effect a contract for the sale of immovable property shall not be deemed to require or ever to have required registration by reason only of the fact that such document contains a recital of the payment of any earnest money or of the whole or any part of the purchase money.\n(3) Authorities to adopt a son, executed after the 1st day of January, 1872, and not conferred by a will, shall also be registered.\n© Copyright. Taxmann Publications Pvt. Ltd."
+    },
+    {
+      "id": "5549439",
+      "number": "18",
+      "locator": "Section 18: Documents of which registration is optional",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-18-187",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5549439",
+      "body": "Documents of which registration is optional.\n18. Any of the following documents may be registered under this Act, namely :-\n(a) instruments (other than instruments of gift and wills) which purport or operate to create, declare, assign, limit or extinguish, whether in present or in future, any right, title or interest, whether vested or contingent, of a value less than one hundred rupees, to or in immovable property;\n(b) instruments acknowledging the receipt or payment of any consideration on account of the creation, declaration, assignment, limitation or extinction of any such right, title or interest;\n(c) leases of immovable property for any term not exceeding one year, and leases exempted under section 17 ;\n(cc) instrument transferring or assigning any decree or order of a Court or any award when such decree or order or award purports or operates to create, declare, assign, limit or extinguish, whether in present or in future, any right, title or interest, whether vested or contingent, of a value less than one hundred rupees, to or in immovable property;\n(d) instruments (other than wills) which purport or operate to create, declare, assign, limit or extinguish any right, title or interest to or in movable property;\n(e) wills; and\n(f) all other documents not required by section 17 to be registered.\n© Copyright. Taxmann Publications Pvt. Ltd."
+    },
+    {
+      "id": "5549472",
+      "number": "19",
+      "locator": "Section 19: Documents in language not understood by registering officer",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-19-180",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5549472",
+      "body": "Documents in language not understood by registering officer.\n19. If any document duly presented for registration be in a language which the registering officer does not understand, and which is not commonly used in the district, he shall refuse to register the document, unless it be accompanied by a true translation into a language commonly used in the district and also by a true copy.\n© Copyright. Taxmann Publications Pvt. Ltd."
+    },
+    {
+      "id": "5549505",
+      "number": "20",
+      "locator": "Section 20: Documents containing interlineations, blanks, erasures or alterations",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-20-181",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5549505",
+      "body": "Documents containing interlineations, blanks, erasures or alterations.\n20. (1) The registering officer may in his discretion refuse to accept for registration any document in which any interlineation, blank, erasure or alteration appears, unless the persons executing the document attest with their signatures or initials such interlineations, blank, erasure or alteration.\n(2) If the registering officer registers any such document, he shall, at the time of registering the same, make a note in the register of such interlineation, blank, erasure or alteration.\n© Copyright. Taxmann Publications Pvt. Ltd."
+    },
+    {
+      "id": "5549538",
+      "number": "21",
+      "locator": "Section 21: Description of property and maps or plans",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-21-179",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5549538",
+      "body": "Description of property and maps or plans.\n21. (1) No non-testamentary document relating to immovable property shall be accepted for registration unless it contains a description of such property sufficient to identify the same.\n(2) Houses in towns shall be described as situate on the north or other side of the street or road (which should be specified) to which they front, and by their existing and former occupancies, and by their numbers if the houses in such street or road are numbered.\n(3) Other houses and lands shall be described by their name, if any, and as being in the territorial division in which they are situate, and by their superficial contents, the roads and other properties on which they abut, and their existing occupancies, and also, whenever it is practicable, by reference to a Government map or survey.\n(4) No non-testamentary document containing a map or plan of any property comprised therein shall be accepted for registration unless it is accompanied by a true copy of the map or plan, or, in case such property is situate in several districts, by such number of true copies of the map or plan as are equal to the number of such districts.\n© Copyright. Taxmann Publications Pvt. Ltd."
+    },
+    {
+      "id": "5549571",
+      "number": "22",
+      "locator": "Section 22: Description of houses and lands by reference to Government maps or surveys",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-22-194",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5549571",
+      "body": "Description of houses and lands by reference to Government maps or surveys.\n22. (1) Where it is, in the opinion of the State Government, practicable to describe houses, not being houses in towns, and lands by reference to a Government map or survey, the State Government may, by rule made under this Act, require that such houses and lands as aforesaid shall, for the purposes of section 21 , be so described.\n(2) Save as otherwise provided by any rule made under sub-section (1), failure to comply with the provisions of section 21 , sub-section (2) or sub-section (3), shall not disentitle a document to be registered if the description of the property to which it relates is sufficient to identify that property.\n© Copyright. Taxmann Publications Pvt. Ltd."
+    },
+    {
+      "id": "5549604",
+      "number": "23",
+      "locator": "Section 23: Time for presenting documents",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-23-192",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5549604",
+      "body": "PART IV\nOF THE TIME OF PRESENTATION\nTime for presenting documents.\n23. Subject to the provisions contained in sections 24 , 25 and 26 , no document other than a will shall be accepted for registration unless presented for that purpose to the proper officer within four months from the date of its execution :\nProvided that a copy of a decree or order may be presented within four months from the day on which the decree or order was made, or, where it is appealable, within four months from the day on which it becomes final.\n© Copyright. Taxmann Publications Pvt. Ltd."
+    },
+    {
+      "id": "5549637",
+      "number": "23A",
+      "locator": "Section 23A: Re-registration of certain documents",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-23a-6",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5549637",
+      "body": "Re-registration of certain documents.\n23A. Notwithstanding anything to the contrary contained in this Act, if in any case a document requiring registration has been accepted for registration by a Registrar or Sub-Registrar from a person not duly empowered to present the same, and has been registered, any person claiming under such document may, within four months from his first becoming aware that the registration of such document is invalid, present such document or cause the same to be presented, in accordance with the provisions of Part VI for re-registration in the office of the Registrar of the district in which the document was originally registered; and upon the Registrar being satisfied that the document was so accepted for registration from a person not duly empowered to present the same, he shall proceed to the re-registration of the document as if it had not been previously registered, and as if such presentation for re-registration was a presentation for registration made within the time allowed therefore under Part IV, and all the provisions of this Act, as to registration of documents, shall apply to such re-registration; and such document, if duly re-registered in accordance with the provisions of this section, shall be deemed to have been duly registered for all purposes from the date of its original registration :\nProvided that, within three months from the twelfth day of September, 1917, any person claiming under a document to which this section applies may present the same or cause the same to be present for re-registration in accordance with this section, whatever may have been the time when he first became aware that the registration of the document was invalid.\n© Copyright. Taxmann Publications Pvt. Ltd."
+    },
+    {
+      "id": "5549670",
+      "number": "24",
+      "locator": "Section 24: Documents executed by several persons at different times",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-24-190",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5549670",
+      "body": "Documents executed by several persons at different times.\n24. Where there are several persons executing a document at different times, such document may be presented for registration and re-registration within four months from the date of each execution.\n© Copyright. Taxmann Publications Pvt. Ltd."
+    },
+    {
+      "id": "5549703",
+      "number": "25",
+      "locator": "Section 25: Provision where delay in presentation is unavoidable",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-25-189",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5549703",
+      "body": "Provision where delay in presentation is unavoidable.\n25. (1) If, owing to urgent necessity or unavoidable accident, any document executed, or copy of a decree or order made, in [India] is not presented for registration till after the expiration of the time hereinbefore prescribed in that behalf, the Registrar, in cases where the delay in presentation does not exceed four months, may direct that, on payment of a fine not exceeding ten times the amount of the proper registration fee, such document shall be accepted for registration.\n(2) Any application for such direction may be lodged with a Sub-Registrar, who shall forthwith forward it to the Registrar to whom he is subordinate.\n© Copyright. Taxmann Publications Pvt. Ltd."
+    },
+    {
+      "id": "5549736",
+      "number": "26",
+      "locator": "Section 26: Documents executed out of 1[India",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-26-188",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5549736",
+      "body": "Documents executed out of [India].\n26. When a document purporting to have been executed by all or any of the parties out of [India] is not presented for registration till after the expiration of the time hereinbefore prescribed in that behalf, the registration officer, if satisfied—\n(a) that the instrument was so executed, and\n(b) that it has been presented for registration within four months after its arrival in [India],\nmay, on payment of the proper registration fee, accept such document for registration.\n© Copyright. Taxmann Publications Pvt. Ltd."
+    },
+    {
+      "id": "5549769",
+      "number": "27",
+      "locator": "Section 27: Wills may be presented or deposited at any time",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-27-185",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5549769",
+      "body": "Wills may be presented or deposited at any time.\n27. A will may at any time be presented for registration or deposited in manner hereinafter provided.\n© Copyright. Taxmann Publications Pvt. Ltd."
+    },
+    {
+      "id": "5549802",
+      "number": "28",
+      "locator": "Section 28: Place for registering documents relating to land",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-28-183",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5549802",
+      "body": "PART V\nOF THE PLACE OF REGISTRATION\nPlace for registering documents relating to land.\n28. Save as in this Part otherwise provided, every document mentioned in section 17 , sub-section (1), clauses (a), (b), (c), (d) and (e), section 17 , sub-section (2), insofar as such documents affects immovable property, and section 18 , clauses (a), (b), (c) and (cc) shall be presented for registration in the office of a sub-Registrar within whose sub-district the whole or some portion of the property to which such document relates is situate.\n© Copyright. Taxmann Publications Pvt. Ltd."
+    },
+    {
+      "id": "5549835",
+      "number": "29",
+      "locator": "Section 29: Place for registering other documents",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-29-183",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5549835",
+      "body": "Place for registering other documents.\n29. (1) Every document not being a document referred to in section 28 or a copy of a decree or order, may be presented for registration either in the office of the Sub-Registrar in whose sub-district the document was executed, or in the office of any other Sub-Registrar under the State Government at which all the persons executing and claiming under the document desire the same to be registered.\n(2) A copy of a decree or order may be presented for registration in the office of the Sub-Registrar in whose sub-district the original decree or order was made, or, where the decree or order does not affect immovable property, in the office of any other Sub-Registrar under the State Government at which all the persons claiming under the decree or order desire the copy to be registered.\n© Copyright. Taxmann Publications Pvt. Ltd."
+    },
+    {
+      "id": "5549868",
+      "number": "30",
+      "locator": "Section 30: Registration by Registrars in certain cases",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-30-182",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5549868",
+      "body": "Registration by Registrars in certain cases.\n30. (1) Any Registrar may in his discretion receive and register any document which might be registered by any Sub-Registrar subordinate to him.\n(2) [***]\n© Copyright. Taxmann Publications Pvt. Ltd."
+    },
+    {
+      "id": "5549901",
+      "number": "31",
+      "locator": "Section 31: Registration or acceptance for deposit at private residence",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-31-174",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5549901",
+      "body": "Registration or acceptance for deposit at private residence.\n31. In ordinary cases the registration or deposit of documents under this Act shall be made only at the office of the officer authorized to accept the same for registration or deposit :\nProvided that such officer may on special cause being shown attend at the residence of any person desiring to present a document for registration or to deposit a will, and accept for registration or deposit such document or will.\n© Copyright. Taxmann Publications Pvt. Ltd."
+    },
+    {
+      "id": "5549934",
+      "number": "32",
+      "locator": "Section 32: Persons to present documents for registration",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-32-169",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5549934",
+      "body": "PART VI\nOF PRESENTING DOCUMENTS FOR REGISTRATION\nPersons to present documents for registration.\n32. Except in the cases mentioned in sections 31 , 88 and 89 , every document to be registered under this Act, whether such registration be compulsory or optional, shall be presented at the proper registration-office,—\n(a) by some person executing or claiming under the same, or, in the case of a copy of a decree or order, claiming under the decree or order, or\n(b) by the representative or assign of such person, or\n(c) by the agent of such person, representative or assign, duly authorized by power-of-attorney executed and authenticated in manner hereinafter mentioned.\n© Copyright. Taxmann Publications Pvt. Ltd."
+    },
+    {
+      "id": "5549967",
+      "number": "32A",
+      "locator": "Section 32A: Compulsory affixing of photograph, etc",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-32a-53",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5549967",
+      "body": "[Compulsory affixing of photograph, etc.\n32A. Every person presenting any document at the proper registration office under section 32 shall affix his passport size photograph and fingerprints to the document :\nProvided that where such document relates to the transfer of ownership of immovable property, the passport size photograph and fingerprints of each buyer and seller of such property mentioned in the document shall also be affixed to the document.]\n© Copyright. Taxmann Publications Pvt. Ltd."
+    },
+    {
+      "id": "5550000",
+      "number": "33",
+      "locator": "Section 33: Power-of-attorney recognizable for purposes of section 32",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-33-165",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5550000",
+      "body": "Power-of-attorney recognizable for purposes of section 32.\n33. (1) For the purposes of section 32 , the following powers-of-attorney shall alone be recognized, namely :—\n(a) if the principal at the time of executing the power-of-attorney resides in any part of [India] in which this Act is for the time being in force, a power-of-attorney executed before and authenticated by the Registrar or Sub-Registrar within whose district or sub-district the principal resides;\n(b) if the principal at the time aforesaid [resides in any part of India in which this Act is not in force], a power-of-attorney executed before and authenticated by any Magistrate;\n(c) if the principal at the time aforesaid does not reside in [India], a power-of-attorney executed before and authenticated by a Notary Public, or any Court, Judge, Magistrate, Indian Consul or Vice-Consul, or representative of the Central Government :\nProvided that the following persons shall not be required to attend at any registration-office or Court for the purpose of executing any such power-of-attorney as is mentioned in clauses (a) and (b) of this section, namely :—\n(i) persons who by reason of bodily infirmity are unable without risk or serious inconvenience so to attend;\n(ii) persons who are in jail under civil or criminal process; and\n(iii) persons exempt by law from personal appearance in Court.\n[Explanation.—In this sub-section, \"India\" means India, as defined in clause (28) of section 3 of the General Clauses Act, 1897 (10 of 1897).]\n(2) In the case of every such person the Registrar or Sub-Registrar or Magistrate, as the case may be, if satisfied that the power-of-attorney has been voluntarily executed by the person purporting to be the principal, may attest the same without requiring his personal attendance at the office or Court aforesaid.\n(3) To obtain evidence as to the voluntary nature of the execution, the Registrar or Sub-Registrar or Magistrate may either himself go to the house of the person purporting to be the principal, or to the jail in which he is confined, and examine him, or issue a commission for his examination.\n(4) Any power-of-attorney mentioned in this section may be proved by the production of it without further proof when it purports on the face of it to have been executed before and authenticated by the person or Court hereinbefore mentioned in that behalf.\n© Copyright. Taxmann Publications Pvt. Ltd."
+    },
+    {
+      "id": "5550033",
+      "number": "34",
+      "locator": "Section 34: Enquiry before registration by registering officer",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-34-160",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5550033",
+      "body": "Enquiry before registration by registering officer.\n34. (1) Subject to the provisions contained in this Part and in sections 41 , 43 , 45 , 69 , 75 , 77 , 88 and 89 , no document shall be registered under this Act, unless the persons executing such document, or their representatives, assigns or agents authorized as aforesaid, appear before the registering officer within the time allowed for presentation under sections 23 , 24 , 25 and 26 :\nProvided that, if owing to urgent necessity or unavoidable accident all such persons do not so appear, the Registrar, in cases where the delay in appearing does not exceed four months, may direct that on payment of a fine not exceeding ten times the amount of the proper registration fee, in addition to the fine, if any, payable under section 25 , the document may be registered.\n(2) Appearances under sub-section (1) may be simultaneous or at different times.\n(3) The registering officer shall thereupon—\n(a) enquire whether or not such document was executed by the persons by whom it purports to have been executed;\n(b) satisfy himself as to the identity of the persons appearing before him and alleging that they have executed the document; and\n(c) in the case of any person appearing as a representative, assign or agent, satisfy himself of the right or such person so to appear.\n(4) Any application for a direction under the proviso to sub-section (1) may be lodged with a Sub-Registrar, who shall forthwith forward it to the Registrar to whom he is subordinate.\n(5) Nothing in this section applies to copies of decrees or orders.\n© Copyright. Taxmann Publications Pvt. Ltd."
+    },
+    {
+      "id": "5550066",
+      "number": "35",
+      "locator": "Section 35: Procedure on admission and denial of execution respectively",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-35-159",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5550066",
+      "body": "Procedure on admission and denial of execution respectively.\n35. (1)(a) If all the persons executing the document appear personally before the registering officer and are personally known to him, or if he be otherwise satisfied that they are the persons they represent themselves to be, and if they all admit the execution of the document, or\n(b) if in the case of any person appearing by a representative, assign or agent, such representative, assign or agent admits the execution, or\n(c) if the person executing the document is dead, and his representative or assign appears before the registering officer and admits the execution,\nthe registering officer shall register the document as directed in sections 58 to 61 , inclusive.\n(2) The registering officer may, in order to satisfy himself that the persons appearing before him are the persons they represent themselves to be, or for any other purpose contemplated by this Act, examine any one present in his office.\n(3)(a) If any person by whom the document purports to be executed denies its execution, or\n(b) if any such person appears to the registering officer to be a minor, an idiot or a lunatic, or\n(c) if any person by whom the document purports to be executed in dead, and his representative or assign denies its execution,\nthe registering officer shall refuse to register the document as to the person so denying, appearing or dead :\nProvided that, where such officer is a Registrar, he shall follow the procedure prescribed in Part XII :\nProvided further that the State Government may, by notification in the Official Gazette, declare that any Sub-Registrar named in the notification shall, in respect of documents the execution of which is denied, be deemed to be a Registrar for the purposes of this sub-section and of Part XII.\n© Copyright. Taxmann Publications Pvt. Ltd."
+    },
+    {
+      "id": "5550099",
+      "number": "36",
+      "locator": "Section 36: Procedure where appearance of executant or witness is desired",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-36-158",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5550099",
+      "body": "PART VII\nOF ENFORCING THE APPEARANCE OF EXECUTANTS AND WITNESSES\nProcedure where appearance of executant or witness is desired.\n36. If any person presenting any document for registration or claiming under any document, which is capable of being so presented, desires the appearance of any person whose presence or testimony is necessary for the registration of such document, the registering officer may, in his discretion call upon such officer or Court as the State Government directs in this behalf to issue a summons requiring him to appear at the registration-office, either in person or by duly authorized agent, as in the summons may be mentioned, and at a time named therein.\n© Copyright. Taxmann Publications Pvt. Ltd."
+    },
+    {
+      "id": "5550132",
+      "number": "37",
+      "locator": "Section 37: Officer or Court to issue and cause service of summons",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-37-157",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5550132",
+      "body": "Officer or Court to issue and cause service of summons.\n37. The officer or Court, upon receipt of the peon's fee payable in such cases, shall issue the summons accordingly, and cause it to be served upon the person whose appearance is so required.\n© Copyright. Taxmann Publications Pvt. Ltd."
+    },
+    {
+      "id": "5550165",
+      "number": "38",
+      "locator": "Section 38: Persons exempt from appearance at registration office",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-38-155",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5550165",
+      "body": "Persons exempt from appearance at registration office.\n38. (1) (a) A person who by reason of bodily infirmity is unable without risk or serious inconvenience to appear at the registration-office, or\n(b) a person in jail under civil or criminal process, or\n(c) persons exempt by law from personal appearance in Court, and who would but for the provision next hereinafter contained be required to appear in person at the registration office,\nshall not be required so to appear.\n(2) In the case of every such person the registering officer shall either himself go to the house of such person, or to the jail in which he is confined, and examine him or issue a commission for his examination.\n© Copyright. Taxmann Publications Pvt. Ltd."
+    },
+    {
+      "id": "5550198",
+      "number": "39",
+      "locator": "Section 39: Law as to summonses, commissions and witnesses",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-39-153",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5550198",
+      "body": "Law as to summonses, commissions and witnesses.\n39. The law in force for the time being as to summonses, commissions and compelling the attendance of witnesses, and for their remuneration in suits before Civil Courts, shall, save as aforesaid and mutatis mutandis, apply to any summons or commission issued and any person summoned to appear under the provisions of this Act.\n© Copyright. Taxmann Publications Pvt. Ltd."
+    },
+    {
+      "id": "5550231",
+      "number": "40",
+      "locator": "Section 40: Persons entitled to present wills and authorities to adopt",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-40-153",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5550231",
+      "body": "PART VIII\nOF PRESENTING WILLS AND AUTHORITIES TO ADOPT\nPersons entitled to present wills and authorities to adopt.\n40. (1) The testator, or after his death any person claiming as executor or otherwise under a will, may present it to any Registrar or Sub-Registrar for registration.\n(2) The donor, or after his death the donee, of any authority to adopt, or the adoptive son, may present it to any Registrar or Sub-Registrar for registration.\n© Copyright. Taxmann Publications Pvt. Ltd."
+    },
+    {
+      "id": "5550264",
+      "number": "41",
+      "locator": "Section 41: Registration of wills and authorities to adopt",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-41-148",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5550264",
+      "body": "Registration of wills and authorities to adopt.\n41. (1) A will or an authority to adopt, presented for registration by the testator or donor, may be registered in the same manner as any other document.\n(2) A will or authority to adopt presented for registration by any other person entitled to present it shall be registered if the registering officer is satisfied—\n(a) that the will or authority was executed by the testator or donor, as the case may be;\n(b) that the testator or donor is dead; and\n(c) that the person presenting the will or authority is, under section 40 , entitled to present the same.\n© Copyright. Taxmann Publications Pvt. Ltd."
+    },
+    {
+      "id": "5550297",
+      "number": "42",
+      "locator": "Section 42: Deposit of wills",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-42-146",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5550297",
+      "body": "PART IX\nOF THE DEPOSIT OF WILLS\nDeposit of wills.\n42. Any testator may, either personally or by duly authorized agent, deposit with any Registrar his will in a sealed cover superscribed with the name of the testator and that of his agent (if any), and with a statement of the nature of the document.\n© Copyright. Taxmann Publications Pvt. Ltd."
+    },
+    {
+      "id": "5550330",
+      "number": "43",
+      "locator": "Section 43: Procedure on deposit of wills",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-43-145",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5550330",
+      "body": "Procedure on deposit of wills.\n43. (1) On receiving such cover, the Registrar, if satisfied that the person presenting the same for deposit is the testator or his agent, shall transcribe in his Register-book No. 5 the superscription aforesaid, and shall note in the same book and on the said cover the year, month, day and hour of such presentation and receipt, and the names of any persons who may testify to the identity of the testator or his agent, and any legible inscription which may be on the seal of the cover.\n(2) The Registrar shall then place and retain the sealed cover in his fire-proof box.\n© Copyright. Taxmann Publications Pvt. Ltd."
+    },
+    {
+      "id": "5550363",
+      "number": "44",
+      "locator": "Section 44: Withdrawal of sealed cover deposited under section 42",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-44-143",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5550363",
+      "body": "Withdrawal of sealed cover deposited under section 42.\n44. If the testator who has deposited such cover wishes to withdraw it, he may apply, either personally or by duly authorized agent, to the Registrar who holds it in deposit, and such Registrar, if satisfied that the applicant is actually the testator or his agent, shall deliver the cover accordingly.\n© Copyright. Taxmann Publications Pvt. Ltd."
+    },
+    {
+      "id": "5550396",
+      "number": "45",
+      "locator": "Section 45: Proceedings on death of depositor",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-45-142",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5550396",
+      "body": "Proceedings on death of depositor.\n45. (1) If, on the death of a testator who has deposited a sealed cover under section 42 , application be made to the Registrar who holds it in deposit to open the same, and if the Registrar is satisfied that the testator is dead, he shall, in the applicant's presence, open the cover, and, at the applicant's expense, cause the contents thereof to be copied into his Book No. 3.\n(2) When such copy has been made, the Registrar shall re-deposit the original will.\n© Copyright. Taxmann Publications Pvt. Ltd."
+    },
+    {
+      "id": "5550429",
+      "number": "46",
+      "locator": "Section 46: Saving of certain enactments and powers of Courts",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-46-142",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5550429",
+      "body": "Saving of certain enactments and powers of Courts.\n46. (1) Nothing hereinbefore contained shall affect the provisions of section 259 of the Indian Succession Act, 1865 (10 of 1865), or of section 81 of the Probate and Administration Act, 1881 (5 of 1881), or the power of any Court by order to compel the production of any will.\n(2) When any such order is made, the Registrar shall, unless the will has been already copied under section 45 , open the cover and cause the will to be copied into his Book No. 3 and make a note on such copy that the original has been removed into Court in pursuance of the order aforesaid.\n© Copyright. Taxmann Publications Pvt. Ltd."
+    },
+    {
+      "id": "5550462",
+      "number": "47",
+      "locator": "Section 47: Time from which registered document operates",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-47-141",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5550462",
+      "body": "PART X\nOF THE EFFECTS OF REGISTRATION AND NON-REGISTRATION\nTime from which registered document operates.\n47. A registered document shall operate from the time from which it would have commenced to operate if no registration thereof had been required or made, and not from the time of its registration.\n© Copyright. Taxmann Publications Pvt. Ltd."
+    },
+    {
+      "id": "5550495",
+      "number": "48",
+      "locator": "Section 48: Registered documents relating to property when to take effect against oral agreements",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-48-138",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5550495",
+      "body": "Registered documents relating to property when to take effect against oral agreements.\n48. All non-testamentary documents duly registered under this Act, and relating to any property, whether movable or immovable, shall take effect against any oral agreement or declaration relating to such property, unless where the agreement or declaration has been accompanied or followed by delivery of possession and the same constitutes a valid transfer under any law for the time being in force:\nProvided that a mortgage by deposit of title-deeds as defined in section 58 of the Transfer of Property Act, 1882 (4 of 1882), shall take effect against any mortgage-deed subsequently executed and registered which relates to the same property.\n© Copyright. Taxmann Publications Pvt. Ltd."
+    },
+    {
+      "id": "5550528",
+      "number": "49",
+      "locator": "Section 49: Effect of non-registration of documents required to be registered",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-49-136",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5550528",
+      "body": "Effect of non-registration of documents required to be registered.\n49. No document required by section 17 or by any provision of the Transfer of Property Act, 1882 (4 of 1882), to be registered shall—\n(a) affect any immovable property comprised therein, or\n(b) confer any power to adopt, or\n(c) be received as evidence of any transaction affecting such property or conferring such power,\nunless it has been registered:\nProvided that an unregistered document affecting immovable property and required by this Act or the Transfer of Property Act, 1882 (4 of 1882), to be registered may be received as evidence of a contract in a suit for specific performance under Chapter II of the Specific Relief Act, 1877 (1 of 1877), [***] or as evidence of any collateral transaction not required to be effected by registered instrument.\n© Copyright. Taxmann Publications Pvt. Ltd."
+    },
+    {
+      "id": "5550561",
+      "number": "50",
+      "locator": "Section 50: Certain registered documents relating to land to take effect against unregistered documents",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-50-135",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5550561",
+      "body": "Certain registered documents relating to land to take effect against unregistered documents.\n50. (1) Every document of the kinds mentioned in clauses (a), (b), (c) and (d) of section 17 , sub-section (1), and clauses (a) and (b) of section 18 , shall, if duly registered, take effect as regards the property comprised therein, against every unregistered document relating to the same property, and not being a decree or order, whether such unregistered document be of the same nature as the registered document or not.\n(2) Nothing in sub-section (1) applies to leases exempted under the proviso to sub-section (1) of section 17 or to any document mentioned in sub-section (2) of the same section, or to any registered document which had not priority under the law in force at the commencement of this Act.\nExplanation - In cases where Act No. 16 of 1864 or the Indian Registration Act, 1866 (20 of 1866), was in force in the place and at the time in and at which such unregistered document was executed, \"unregistered\" means not registered according to such Act, and, where the document is executed after the first day of July, 1871, not registered under the Indian Registration Act, 1871 (8 of 1871), or the Indian Registration Act, 1877 (3 of 1877), or this Act.\n© Copyright. Taxmann Publications Pvt. Ltd."
+    },
+    {
+      "id": "5550594",
+      "number": "51",
+      "locator": "Section 51: Register-books to be kept in the several offices",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-51-135",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5550594",
+      "body": "PART XI\nOF THE DUTIES AND POWERS OF REGISTERING OFFICERS\n(A) As to the register-books and indexes\nRegister-books to be kept in the several offices .\n51 . (1) The following books shall be kept in the several offices hereinafter named, namely :—\nA-In all registration offices—\nBook 1, \"Register of non-testamentary documents relating to immovable property\";\nBook 2, \"Record of reasons for refusal to register\";\nBook 3, \"Register of wills and authorities to adopt\"; and\nBook 4, \"Miscellaneous Register\";\nB-In the offices of Registrars—\nBook 5, \"Register of deposits of wills\".\n(2) In Book 1 shall be entered or filed all documents or memoranda registered under sections 17 , 18 and 89 which relate to immovable property, and are not wills.\n(3) In book 4 shall be entered all documents registered under clauses (d) and (f) of section 18 which do not relate to immovable property.\n(4) Nothing in this section shall be deemed to require more than one set of books where the office of the Registrar has been amalgamated with the office of a Sub-Registrar.\n© Copyright. Taxmann Publications Pvt. Ltd."
+    },
+    {
+      "id": "5550627",
+      "number": "52",
+      "locator": "Section 52: Duties of registering officers when document presented",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-52-136",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5550627",
+      "body": "Duties of registering officers when document presented.\n52. (1) (a) The day, hour and place of presentation, [the photographs and fingerprints affixed under section 32A ] and the signature of every person presenting a document for registration, shall be endorsed on every such document at the time of presenting it;\n(b) a receipt for such document shall be given by the registering officer to the person presenting the same; and\n(c) subject to the provisions contained in section 62 , every document admitted to registration shall without unnecessary delay be copied in the book appropriated therefor according to the order of its admission.\n(2) All such books shall be authenticated at such intervals and in such manner as is from time to time prescribed by the Inspector-General.\n© Copyright. Taxmann Publications Pvt. Ltd."
+    },
+    {
+      "id": "5550660",
+      "number": "53",
+      "locator": "Section 53: Entries to be numbered consecutively",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-53-138",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5550660",
+      "body": "Entries to be numbered consecutively.\n53. All entries in each book shall be numbered in a consecutive series, which shall commence and terminate with the year, a fresh series being commenced at the beginning of each year.\n© Copyright. Taxmann Publications Pvt. Ltd."
+    },
+    {
+      "id": "5550693",
+      "number": "54",
+      "locator": "Section 54: Current indexes and entries therein",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-54-136",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5550693",
+      "body": "Current indexes and entries therein.\n54. In every office in which any of the books hereinbefore mentioned are kept, there shall be prepared current indexes of the contents of such books; and every entry in such indexes shall be made, so far as practicable, immediately after the registering officer has copied, or filed a memorandum of, the document to which it relates.\n© Copyright. Taxmann Publications Pvt. Ltd."
+    },
+    {
+      "id": "5550726",
+      "number": "55",
+      "locator": "Section 55: Indexes to be made by registering officers, and their contents",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-55-132",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5550726",
+      "body": "Indexes to be made by registering officers, and their contents.\n55. (1) Four such indexes shall be made in all registration offices, and shall be named, respectively, Index No. I, Index No. II, Index No. III and Index No. IV.\n(2) Index No. I shall contain the names and additions of all persons executing and of all persons claiming under every document entered or memorandum filed in Book No. 1.\n(3) Index No. II shall contain such particulars mentioned in section 21 relating to every such document and memorandum as the Inspector-General from time to time directs in that behalf.\n(4) Index No. III shall contain the names and additions of all persons executing every will and authority entered in Book No. 3, and of the executors and persons respectively appointed thereunder, and after the death of the testator or the donor (but not before) the names and additions of all person claiming under the same.\n(5) Index No. IV shall contain the names and additions of all persons executing and of all persons claiming under every document entered in Book No. 4.\n(6) Each Index shall contain such other particulars, and shall be prepared in such form, as the Inspector-General from time to time directs.\n© Copyright. Taxmann Publications Pvt. Ltd."
+    },
+    {
+      "id": "5550759",
+      "number": "56",
+      "locator": "Section 56: Copy of entries in Indexes Nos. I, II and III to be sent by Sub-Registrar to Registrar and filed",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-56-131",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5550759",
+      "body": "Copy of entries in Indexes Nos. I, II and III to be sent by Sub-Registrar to Registrar and filed.\n56. [Repealed by the Indian Registration (Amendment) Act, 1929.]\n© Copyright. Taxmann Publications Pvt. Ltd."
+    },
+    {
+      "id": "5550792",
+      "number": "57",
+      "locator": "Section 57: Registering officers to allow inspection of certain books and indexes, and to give certified copies of entries",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-57-131",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5550792",
+      "body": "Registering officers to allow inspection of certain books and indexes, and to give certified copies of entries.\n57. (1) Subject to the previous payment of the fees payable in that behalf, the Book Nos. 1 and 2 and the Indexes relating to Book No. 1 shall be at all times open to inspection by any person applying to inspect the same; and, subject to the provisions of section 62 , copies of entries in such books shall be given to all persons applying for such copies.\n(2) Subject to the same provisions, copies of entries in Book No. 3 and in the Index relating thereto shall be given to the persons executing the documents to which such entries relate, or to their agents, and after the death of the executants (but not before) to any person applying for such copies.\n(3) Subject to the same provisions, copies of entries in Book No. 4 and in the Index relating thereto shall be given to any person executing or claiming under the documents to which such entries respectively refer, or to his agent or representative.\n(4) The requisite search under this section for entries in Book Nos. 3 and 4 shall be made only by the registering officer.\n(5) All copies given under this section shall be signed and sealed by the registering officer, and shall be admissible for the purpose of proving the contents of the original documents.\n© Copyright. Taxmann Publications Pvt. Ltd."
+    },
+    {
+      "id": "5550825",
+      "number": "58",
+      "locator": "Section 58: Particulars to be endorsed on documents admitted to registration",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-58-129",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5550825",
+      "body": "(B) As to the procedure on admitting to registration\nParticulars to be endorsed on documents admitted to registration.\n58. (1) On every document admitted to registration, other than a copy of a decree or order, or a copy sent to a registering officer under section 89 , there shall be endorsed from time to time the following particulars, namely:—\n(a) the signature and addition of every person admitting the execution of the document, and, if such execution has been admitted by the representative, assign or agent of any person, the signature and addition of such representative, assign or agent;\n(b) the signature and addition of every person examined in reference to such document under any of the provisions of this Act; and\n(c) any payment of money or delivery of goods made in the presence of the registering officer in reference to the execution of the document, and any admission of receipt of consideration, in whole or in part, made in his presence in reference to such execution.\n(2) If any person admitting the execution of a document refuses to endorse the same, the registering officer shall nevertheless register it, but shall at the same time endorse a note of such refusal.\n© Copyright. Taxmann Publications Pvt. Ltd."
+    },
+    {
+      "id": "5550858",
+      "number": "59",
+      "locator": "Section 59: Endorsements to be dated and signed by registering officer",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-59-127",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5550858",
+      "body": "Endorsements to be dated and signed by registering officer.\n59. The registering officer shall affix the date and his signature to all endorsements made under sections 52 and 58 , relating to the same document and made in his presence on the same day.\n© Copyright. Taxmann Publications Pvt. Ltd."
+    },
+    {
+      "id": "5550891",
+      "number": "60",
+      "locator": "Section 60: Certificate of registration",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-60-125",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5550891",
+      "body": "Certificate of registration.\n60. (1) After such of the provisions of sections 34 , 35 , 58 and 59 as apply to any document presented for registration have been complied with, the registering officer shall endorse thereon a certificate containing the word \"registered,\" together with the number and page of the book in which the document has been copied.\n(2) Such certificate shall be signed, sealed and dated by the registering officer, and shall then be admissible for the purpose of proving that the document has been duly registered in manner provided by this Act, and that the facts mentioned in the endorsements referred to in section 59 have occurred as therein mentioned.\n© Copyright. Taxmann Publications Pvt. Ltd."
+    },
+    {
+      "id": "5550924",
+      "number": "61",
+      "locator": "Section 61: Endorsements and certificate to be copied and document returned",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-61-124",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5550924",
+      "body": "Endorsements and certificate to be copied and document returned.\n61. (1) The endorsement and certificate referred to and mentioned in sections 59 and 60 shall thereupon be copied into the margin of the Register-book, and the copy of the map or plan (if any) mentioned in section 21 shall be filed in Book No. 1.\n(2) The registration of the document shall thereupon be deemed complete, and the document shall then be returned to the person who presented the same for registration, or to such other person (if any) as he has nominated in writing in that behalf of the receipt mentioned in section 52 .\n© Copyright. Taxmann Publications Pvt. Ltd."
+    },
+    {
+      "id": "5550957",
+      "number": "62",
+      "locator": "Section 62: Procedure on presenting document in language unknown to registering officer",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-62-123",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5550957",
+      "body": "Procedure on presenting document in language unknown to registering officer.\n62. (1) When a document is presented for registration under section 19 , the translation shall be transcribed in the register of documents of the nature of the original, and, together with the copy referred to in section 19 , shall be filed in the registration office.\n(2) The endorsements and certificate respectively mentioned in sections 59 and 60 shall be made on the original, and, for the purpose of making the copies and memoranda required by sections 57 , 64 , 65 and 66 , the translation shall be treated as if it were the original.\n© Copyright. Taxmann Publications Pvt. Ltd."
+    },
+    {
+      "id": "5550990",
+      "number": "63",
+      "locator": "Section 63: Power to administer oaths and record of substance of statements",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-63-123",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5550990",
+      "body": "Power to administer oaths and record of substance of statements.\n63. (1) Every registering officer may at his discretion administer an oath to any person examined by him under the provisions of this Act.\n(2) Every such officer may also at his discretion record a note of the substance of the statement made by each such person, and such statement shall be read over, or (if made in a language with which such person is not acquainted) interpreted to him in a language with which he is acquainted, and, if he admits the correctness of such note, it shall be signed by the registering officer.\n(3) Every such note so signed shall be admissible for the purpose of proving that the statements therein recorded were made by the persons and under the circumstances therein stated.\n© Copyright. Taxmann Publications Pvt. Ltd."
+    },
+    {
+      "id": "5551023",
+      "number": "64",
+      "locator": "Section 64: Procedure where document relates to land in several sub-districts",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-64-123",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5551023",
+      "body": "(C) Special duties of Sub-Registrar\nProcedure where document relates to land in several sub-districts.\n64. Every Sub-Registrar on registering a non-testamentary document relating to immovable property not wholly situate in his own sub-district shall make a memorandum thereof and of the endorsement and certificate (if any) thereon, and send the same to every other Sub-Registrar subordinate to the same Registrar as himself in whose sub-district any part of such property is situate, and such Sub-Registrar shall file the memorandum in his Book No. 1.\n© Copyright. Taxmann Publications Pvt. Ltd."
+    },
+    {
+      "id": "5551056",
+      "number": "65",
+      "locator": "Section 65: Procedure where document relates to land in several districts",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-65-122",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5551056",
+      "body": "Procedure where document relates to land in several districts.\n65. (1) Every Sub-Registrar on registering a non-testamentary document relating to immovable property situate in more districts than one shall also forward a copy thereof and of the endorsement and certificate (if any) thereon, together with a copy of the map or plan (if any) mentioned in section 21 , to the Registrar of every district in which any part of such property is situate other than the district in which his own sub-district is situate.\n(2) The Registrar on receiving the same shall file in his Book No. 1 the copy of the document and the copy of the map or plan (if any), and shall forward a memorandum of the document to each of the Sub-Registrars subordinate to him within whose sub-district any part of such property is situate; and every Sub-Registrar receiving such memorandum shall file it in his Book No. 1.\n© Copyright. Taxmann Publications Pvt. Ltd."
+    },
+    {
+      "id": "5551089",
+      "number": "66",
+      "locator": "Section 66: Procedure after registration of documents relating to land",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-66-120",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5551089",
+      "body": "(D) Special duties of Registrar\nProcedure after registration of documents relating to land.\n66. (1) On registering any non-testamentary document relating to immovable property, the Registrar shall forward a memorandum of such document to each Sub-Registrar subordinate to himself in whose sub-district any part of the property is situate.\n(2) The Registrar shall also forward a copy of such document, together with a copy of the map or plan (if any) mentioned in section 21 , to every other Registrar in whose district any part of such property is situate.\n(3) Such Registrar on receiving any such copy shall file it in his Book No. 1, and shall also send a memorandum of the copy to each of the Sub-Registrars subordinate to him within whose sub-district any part of the property is situate.\n(4) Every Sub-Registrar receiving any memorandum under this section shall file it in his Book No. 1.\n© Copyright. Taxmann Publications Pvt. Ltd."
+    },
+    {
+      "id": "5551122",
+      "number": "67",
+      "locator": "Section 67: Procedure after registration under section 30, sub-section (2",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-67-119",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5551122",
+      "body": "Procedure after registration under section 30, sub-section (2).\n67. [***]\n© Copyright. Taxmann Publications Pvt. Ltd."
+    },
+    {
+      "id": "5551155",
+      "number": "68",
+      "locator": "Section 68: Power of Registrar to superintend and control Sub-Registrars",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-68-118",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5551155",
+      "body": "(E) Of the controlling powers of Registrars and Inspector-General\nPower of Registrar to superintend and control Sub-Registrars.\n68. (1) Every Sub-Registrar shall perform the duties of his office under the superintendence and control of the Registrar in whose district the office of such Sub-Registrar is situate.\n(2) Every Registrar shall have authority to issue (whether on complaint or otherwise) any order consistent with this Act which he considers necessary in respect of any act or omission of any Sub-Registrar subordinate to him or in respect of the rectification of any error regarding the book or the office in which any document has been registered.\n© Copyright. Taxmann Publications Pvt. Ltd."
+    },
+    {
+      "id": "5551188",
+      "number": "69",
+      "locator": "Section 69: Power of Inspector-General to superintend registration offices and make rules",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-69-118",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5551188",
+      "body": "Power of Inspector-General to superintend registration offices and make rules.\n69. (1) The Inspector-General shall exercise a general superintendence over all the registration offices in the territories under the State Government, and shall have power from time to time to make rules consistent with this Act:—\n(a) providing for the safe custody of books, papers and documents;\n[(aa) providing the manner in which and the safeguards subject to which the books may be kept in computer floppies or diskettes or in any other electronic form under sub-section (1) of section 16A ;]\n(b) declaring what languages shall be deemed to be commonly used in each district;\n(c) declaring what territorial divisions shall be recognized under section 21 ;\n(d) regulating the amount of fines imposed under sections 25 and 34 , respectively;\n(e) regulating the exercise of the discretion reposed in the registering officer by section 63 ;\n(f) regulating the form in which registering officers are to make memoranda of documents;\n(g) regulating the authentication by Registrars and Sub-Registrars of the books kept in their respective offices under section 51 ;\n(gg) regulating the manner in which the instruments referred to in sub-section (2) of section 88 may be presented for registration;\n(h) declaring the particulars to be contained in Index Nos. I, II, III and IV, respectively;\n(i) declaring the holidays that shall be observed in the registration-offices; and\n(j) generally, regulating the proceedings of the Registrars and Sub-Registrars.\n(2) The rules so made shall be submitted to the State Government for approval, and, after they have been approved, they shall be published in the Official Gazette, and on publication shall have effect as if enacted in this Act.\n© Copyright. Taxmann Publications Pvt. Ltd."
+    },
+    {
+      "id": "5551221",
+      "number": "70",
+      "locator": "Section 70: Power of Inspector-General to remit fines",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-70-118",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5551221",
+      "body": "Power of Inspector-General to remit fines.\n70.The Inspector-General may also, in the exercise of his discretion, remit wholly or in part the difference between any fine levied under section 25 or section 34 , and the amount of the proper registration fee.\n© Copyright. Taxmann Publications Pvt. Ltd."
+    },
+    {
+      "id": "5551254",
+      "number": "71",
+      "locator": "Section 71: Reasons for refusal to register to be recorded",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-71-118",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5551254",
+      "body": "PART XII\nOF REFUSAL TO REGISTER\nReasons for refusal to register to be recorded.\n71. (1) Every Sub-Registrar refusing to register a document, except on the ground that the property to which it relates is not situate within his sub-district, shall make an order of refusal and record his reasons for such order in his Book No. 2, and endorse the words \"registration refused\" on the document; and, on application made by any person executing or claiming under the document, shall, without payment and unnecessary delay, give him a copy of the reasons so recorded.\n(2) No registering officer shall accept for registration a document so endorsed unless and until, under the provisions hereinafter contained, the document is directed to be registered.\n© Copyright. Taxmann Publications Pvt. Ltd."
+    },
+    {
+      "id": "5551287",
+      "number": "72",
+      "locator": "Section 72: Appeal to Registrar from orders of Sub-Registrar refusing registration on ground other than denial of execution",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-72-118",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5551287",
+      "body": "Appeal to Registrar from orders of Sub-Registrar refusing registration on ground other than denial of execution.\n72. (1) Except where the refusal is made on the ground of denial of execution, an appeal shall lie against an order of a Sub-Registrar refusing to admit a document to registration (whether the registration of such document is compulsory or optional) to the Registrar to whom such Sub-Registrar is subordinate, if presented to such Registrar within thirty days from the date of the order; and the Registrar may reverse or alter such order.\n(2) If the order of the Registrar directs the document to be registered and the document is duly presented for registration within thirty days after the making of such order, the Sub-Registrar shall obey the same, and thereupon shall, so far as may be practicable, follow the procedure prescribed in sections 58 , 59 and 60 ; and such registration shall take effect as if the document had been registered when it was first duly presented for registration.\n© Copyright. Taxmann Publications Pvt. Ltd."
+    },
+    {
+      "id": "5551320",
+      "number": "73",
+      "locator": "Section 73: Application to Registrar where Sub-Registrar refuses to register on ground of denial of execution",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-73-117",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5551320",
+      "body": "Application to Registrar where Sub-Registrar refuses to register on ground of denial of execution.\n73. (1) When a Sub-Registrar has refused to register a document on the ground that any person by whom it purports to be executed, or his representative or assign, denies its execution, any person claiming under such document, or his representative, assign or agent authorised as aforesaid, may, within thirty days after the making of the order of refusal, apply to the Registrar to whom such Sub-Registrar is subordinate in order to establish his right to have the document registered.\n(2) Such application shall be in writing and shall be accompanied by a copy of the reasons recorded under section 71 , and the statements in the application shall be verified by the applicant in manner required by law for the verification of plaints.\n© Copyright. Taxmann Publications Pvt. Ltd."
+    },
+    {
+      "id": "5551353",
+      "number": "74",
+      "locator": "Section 74: Procedure of Registrar on such application",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-74-117",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5551353",
+      "body": "Procedure of Registrar on such application.\n74. In such case, and also where such denial as aforesaid is made before a Registrar in respect of a document presented for registration to him, the Registrar shall, as soon as conveniently may be, enquire—\n(a) whether the document has been executed; and\n(b) whether the requirements of the law for the time being in force have been complied with on the part of the applicant or person presenting the document for registration, as the case may be, so as to entitle the document to registration.\n© Copyright. Taxmann Publications Pvt. Ltd."
+    },
+    {
+      "id": "5551386",
+      "number": "75",
+      "locator": "Section 75: Order by Registrar to register and procedure thereon",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-75-116",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5551386",
+      "body": "Order by Registrar to register and procedure thereon.\n75. (1) If the Registrar finds that the document has been executed and that the said requirements have been complied with, he shall order the document to be registered.\n(2) If the document is duly presented for registration within thirty days after the making of such order, the registering officer shall obey the same and thereupon shall, so far as may be practicable, follow the procedure prescribed in sections 58 , 59 and 60 .\n(3) Such registration shall take effect as if the document had been registered when it was first duly presented for registration.\n(4) The Registrar may, for the purpose of any enquiry under section 74 , summon and enforce the attendance of witnesses, and compel them to give evidence, as if he were a Civil Court, and he may also direct by whom the whole or any part of the costs of any such enquiry shall be paid, and such costs shall be recoverable as if they had been awarded in a suit under the Code of Civil Procedure, 1908 (5 of 1908).\n© Copyright. Taxmann Publications Pvt. Ltd."
+    },
+    {
+      "id": "5551419",
+      "number": "76",
+      "locator": "Section 76: Order of refusal by Registrar",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-76-97",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5551419",
+      "body": "Order of refusal by Registrar.\n76. (1) Every Registrar refusing—\n(a) to register a document except on the ground that the property to which it relates is not situate within his district or that the document ought to be registered in the office of a Sub-Registrar, or\n(b) to direct the registration of a document under section 72 or section 75 ,\nshall make an order of refusal and record the reasons for such order in his Book No. 2, and, on application made by any person executing or claiming under the document, shall, without unnecessary delay, give him a copy of the reasons so recorded.\n(2) No appeal lies from any order by a Registrar under this section or section 72 .\n© Copyright. Taxmann Publications Pvt. Ltd."
+    },
+    {
+      "id": "5551452",
+      "number": "77",
+      "locator": "Section 77: Suit in case of order of refusal by Registrar",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-77-93",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5551452",
+      "body": "Suit in case of order of refusal by Registrar.\n77. (1) Where the Registrar refuses to order the document to be registered, under section 72 or section 76 , any person claiming under such document, or his representative, assign or agent, may, within thirty days after the making of the order of refusal, institute in the Civil Court, within the local limits of whose original jurisdiction is situate the office in which the document is sought to be registered, a suit for a decree directing the document to be registered in such office if it be duly presented for registration within thirty days after the passing of such decree.\n(2) The provisions contained in sub-sections (2) and (3) of section 75 shall, mutatis mutandis, apply to all documents presented for registration in accordance with any such decree, and, notwithstanding anything contained in this Act, the document shall be receivable in evidence such suit.\n© Copyright. Taxmann Publications Pvt. Ltd."
+    },
+    {
+      "id": "5551485",
+      "number": "78",
+      "locator": "Section 78: Fees to be fixed by State Government",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-78-111",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5551485",
+      "body": "PART XIII\nOF THE FEES FOR REGISTRATION, SEARCHES AND COPIES\nFees to be fixed by State Government.\n78. The State Government shall prepare a table of fees payable—\n(a) for the registration of documents;\n(b) for searching the registers;\n(c) for making or granting copies of reasons, entries of documents, before, on or after registration;\nand of extra or additional fees payable—\n(d) for every registration under section 30 ;\n(e) for the issue of commissions;\n(f) for filing translations;\n(g) for attending at private residences;\n(h) for the safe custody and return of documents; and\n(i) for such other matters as appear to the State Government necessary to effect the purposes of this Act.\n© Copyright. Taxmann Publications Pvt. Ltd."
+    },
+    {
+      "id": "5551518",
+      "number": "79",
+      "locator": "Section 79: Publication of fees",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-79-110",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5551518",
+      "body": "Publication of fees.\n79. A table of the fees so payable shall be published in the Official Gazette, and a copy thereof in English and the vernacular language of the district shall be exposed to public view in every registration office.\n© Copyright. Taxmann Publications Pvt. Ltd."
+    },
+    {
+      "id": "5551551",
+      "number": "80",
+      "locator": "Section 80: Fees payable on presentation",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-80-110",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5551551",
+      "body": "Fees payable on presentation.\n80. All fees for the registration of documents under this Act shall be payable on the presentation of such documents.\n© Copyright. Taxmann Publications Pvt. Ltd."
+    },
+    {
+      "id": "5551584",
+      "number": "81",
+      "locator": "Section 81: Penalty for incorrectly endorsing, copying, translating or registering documents with intent to injure",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-81-54",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5551584",
+      "body": "PART XIV\nOF PENALTIES\nPenalty for incorrectly endorsing, copying, translating or registering documents with intent to injure.\n81. Every registering officer appointed under this Act and every person employed in his office for the purposes of this Act, who, being charged with the endorsing, copying, translating or registering of any document presented or deposited under its provisions, endorses, copies, translates or registers such document in a manner which he knows or believes to be incorrect, intending thereby to cause or knowing it to be likely that he may thereby cause, injury, as defined in the Indian Penal Code (45 of 1860), to any person, shall be punishable with imprisonment for a term which may extend to seven years, or with fine, or with both.\n© Copyright. Taxmann Publications Pvt. Ltd."
+    },
+    {
+      "id": "5551617",
+      "number": "82",
+      "locator": "Section 82: Penalty for making false statements, delivering false copies or translations, false personation and abetment",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-82-50",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5551617",
+      "body": "Penalty for making false statements, delivering false copies or translations, false personation and abetment.\n82. Whoever—\n(a) intentionally makes any false statement, whether on oath or not, and whether it has been recorded or not, before any officer acting in execution of this Act, in any proceeding or enquiry under this Act; or\n(b) intentionally delivers to a registering officer, in any proceeding under section 19 or section 21 , a false copy or translation of a document, or a false copy of a map or plan; or\n(c) falsely personates another, and in such assumed character presents any document, or makes any admission or statement, or causes any summons or commission to be issued, or does any other act in any proceeding or inquiry under this Act; or\n(d) abets anything made punishable by this Act;\nshall be punishable with imprisonment for a term which may extend to seven years, or with fine, or with both.\n© Copyright. Taxmann Publications Pvt. Ltd."
+    },
+    {
+      "id": "5551650",
+      "number": "83",
+      "locator": "Section 83: Registering officer may commence prosecutions",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-83-48",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5551650",
+      "body": "Registering officer may commence prosecutions.\n83. (1) A prosecution for any offence under this Act coming to the knowledge of a registering officer in his official capacity may be commenced by or with the permission of the Inspector-General, the Registrar or the Sub-Registrar, in whose territories, district or sub-district, as the case may be, the offence has been committed.\n(2) Offences punishable under this Act shall be triable by any Court or officer exercising powers not less than those of a magistrate of the second class.\n© Copyright. Taxmann Publications Pvt. Ltd."
+    },
+    {
+      "id": "5551683",
+      "number": "84",
+      "locator": "Section 84: Registering officers to be deemed public servants",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-84-50",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5551683",
+      "body": "Registering officers to be deemed public servants.\n84. (1) Every registering officer appointed under this Act shall be deemed to be a public servant within the meaning of the Indian Penal Code (45 of 1860).\n(2) Every person shall be legally bound to furnish information to such registering officer when required by him to do so.\n(3) In section 228 of the Indian Penal Code (45 of 1860), the words \"Judicial proceeding\" shall be deemed to include any proceeding under this Act.\n© Copyright. Taxmann Publications Pvt. Ltd."
+    },
+    {
+      "id": "5551716",
+      "number": "85",
+      "locator": "Section 85: Destruction of unclaimed documents",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-85-50",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5551716",
+      "body": "PART XV\nMISCELLANEOUS\nDestruction of unclaimed documents.\n85. Documents (other than wills) remaining unclaimed in any registration-office for a period exceeding two years may be destroyed.\n© Copyright. Taxmann Publications Pvt. Ltd."
+    },
+    {
+      "id": "5551749",
+      "number": "86",
+      "locator": "Section 86: Registering officer not liable for thing bona fide done or refused in his official capacity",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-86-109",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5551749",
+      "body": "Registering officer not liable for thing bona fide done or refused in his official capacity.\n86. No registering officer shall be liable to any suit, claim or demand by reason of anything in good faith done or refused in his official capacity.\n© Copyright. Taxmann Publications Pvt. Ltd."
+    },
+    {
+      "id": "5551782",
+      "number": "87",
+      "locator": "Section 87: Nothing so done invalidated by defect in appointment or procedure",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-87-87",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5551782",
+      "body": "Nothing so done invalidated by defect in appointment or procedure.\n87. Nothing done in good faith pursuant to this Act or any Act hereby repealed, by any registering officer, shall be deemed invalid merely by reason of any defect in his appointment or procedure.\n© Copyright. Taxmann Publications Pvt. Ltd."
+    },
+    {
+      "id": "5551815",
+      "number": "88",
+      "locator": "Section 88: Registration of documents executed by Government officers or certain public functionaries",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-88-86",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5551815",
+      "body": "Registration of documents executed by Government officers or certain public functionaries.\n88. (1) Notwithstanding anything contained in this Act, it shall not be necessary for—\n(a) any officer of Government, or\n(b) any Administrator General, Official Trustee or Official Assignee, or\n(c) the Sheriff, Receiver or Registrar of a High Court, or\n(d) the holder for the time being of such other public office as may be specified in a notification in the Official Gazette issued in that behalf by the State Government,\nto appear in person or by agent at any registration office in any proceeding connected with the registration of any instrument executed by him or in his favour, in his official capacity, or to sign as provided in section 58 .\n(2) Any instrument executed by or in favour of an officer of Government or any other person referred to in sub-section (1) may be presented for registration in such manner as may be prescribed by rules made under section 69 .\n(3) The registering officer to whom any instrument is presented for registration under this section may, if he thinks fit, refer to any Secretary to Government or to such officer of Government or other person referred to in sub-section (1) for information respecting the same and, on being satisfied of the execution thereof, shall register the instrument.\n© Copyright. Taxmann Publications Pvt. Ltd."
+    },
+    {
+      "id": "5551848",
+      "number": "89",
+      "locator": "Section 89: Copies of certain orders, certificates and instruments to be sent to registering officers and filed",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-89-105",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5551848",
+      "body": "Copies of certain orders, certificates and instruments to be sent to registering officers and filed.\n89. (1) Every officer granting a loan under the Land Improvement Loans Act, 1883 (19 of 1883), shall send a copy of his order to the registering officer within the local limits of whose jurisdiction the whole or any part of the land to be improved or of the land to be granted as collateral security, is situate, and such registering officer shall file the copy in his Book No. 1.\n(2) Every Court granting a certificate of sale of immovable property under the Code of Civil Procedure, 1908 (5 of 1908), shall send a copy of such certificate to the registering officer within the local limits of whose jurisdiction the whole or any part of the immovable property comprised in such certificate is situate, and such officer shall file the copy in his Book No. 1.\n(3) Every officer granting a loan under the Agriculturists' Loans Act, 1884 (12 of 1884), shall send a copy of any instrument whereby immovable property is mortgaged for the purpose of securing the repayment of the loan, and if any such property is mortgaged for the same purpose in the order granting the loan, a copy also of that order, to the registering officer within the local limits of whose jurisdiction the whole or any part of the property so mortgaged is situate, and such registering officer shall file the copy or copies, as the case may be, in his Book No. 1.\n(4) Every Revenue-officer granting a certificate of sale to the purchaser of immovable property sold by public auction shall send a copy of the certificate to the registering officer within the local limits of whose jurisdiction the whole or any part of the property comprised in the certificate is situate, and such officer shall file the copy in his Book No. 1.\n© Copyright. Taxmann Publications Pvt. Ltd."
+    },
+    {
+      "id": "5551881",
+      "number": "90",
+      "locator": "Section 90: Exemption of certain documents executed by or in favour of Government",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-90-106",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5551881",
+      "body": "Exemptions from Act\nExemption of certain documents executed by or in favour of Government.\n90. (1) Nothing contained in this Act or in the Indian Registration Act, 1877 (3 of 1877), or in the Indian Registration Act, 1871 (8 of 1871), or in any Act thereby repealed, shall be deemed to require, or to have at any time required, the registration of any of the following documents or maps, namely :—\n(a) documents issued, received or attested by any officer engaged in making a settlement or revision of settlement of land-revenue, and which form part of the records of such settlement; or\n(b) documents and maps issued, received or authenticated by any officer engaged on behalf of Government in making or revising the survey of any land, and which form part of the record of such survey; or\n(c) documents which, under any law for the time being in force, are filed periodically in any revenue-office by patwaris or other officers charged with the preparation of village records; or\n(d) sanads, inam title-deeds and other documents purporting to be or to evidence grants or assignments by Government of land or of any interest in land; or\n(e) notices given under section 74 or section 76 of the Bombay Land-Revenue Code, 1879, (Bom. 5 of 1879), or relinquishment of occupancy by occupants or of alienated land by holders of such land.\n(2) All such documents and maps shall, for the purposes of sections 48 and 49 , be deemed to have been and to be registered in accordance with the provisions of this Act.\n© Copyright. Taxmann Publications Pvt. Ltd."
+    },
+    {
+      "id": "5551914",
+      "number": "91",
+      "locator": "Section 91: Inspection and copies of such documents",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-91-104",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5551914",
+      "body": "Inspection and copies of such documents.\n91. [(1)] Subject to such rules and the previous payment of such fees as the [State Government, by notification in the Official Gazette, prescribes in this behalf], all documents and maps mentioned in section 90 , clauses (a), (b), (c) and (e), and all registers of the documents mentioned in clause (d), shall be open to the inspection of any person applying to inspect the same, and, subject as aforesaid, copies of such documents shall be given to all persons applying for such copies.\n[(2) Every rule prescribed under this section or made under section 69 shall be laid, as soon as it is made, before the State Legislature.]\n© Copyright. Taxmann Publications Pvt. Ltd."
+    },
+    {
+      "id": "5551947",
+      "number": "92",
+      "locator": "Section 92: Burmese registration-rules confirmed",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-92-104",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5551947",
+      "body": "Burmese registration-rules confirmed.\n92. [Repealed by the Government of India (Adaptation of Indian Laws) Order, 1937.]\n© Copyright. Taxmann Publications Pvt. Ltd."
+    },
+    {
+      "id": "5551979",
+      "number": "93",
+      "locator": "Section 93: Repeals",
+      "source_url": "https://www.incometaxindia.gov.in/w/section-93-104",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5551979",
+      "body": "REPEALS\nRepeals.\n93. [Repealed by the Repealing Act, 1938.]\n© Copyright. Taxmann Publications Pvt. Ltd."
+    },
+    {
+      "id": "5552011",
+      "number": "Schedule",
+      "locator": "Schedule: Repealed by the Repealing Act, 1938",
+      "source_url": "https://www.incometaxindia.gov.in/w/schedule-22",
+      "api_url": "https://www.incometaxindia.gov.in/o/headless-delivery/v1.0/structured-contents/5552011",
+      "body": "SCHEDULE\n[Repealed by the Repealing Act, 1938.]\n© Copyright. Taxmann Publications Pvt. Ltd."
+    }
+  ],
+  "acquisition_response_checksums": [
+    "d1c14cfdb928ff8c9f64473678e0f889089799a56700301e0715dc1e6d5e8785"
+  ],
+  "note": "Verified body records and acquisition hashes; original HTML/API payloads retained in the acquisition workspace, not redistributed."
+}

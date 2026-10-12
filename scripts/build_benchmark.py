@@ -65,6 +65,14 @@ SPEC=[
 ('development','information-technology-2000','Find legal recognition of electronic records in the Information Technology Act.','[Section 4:',0),
 ('heldout','information-technology-2000','Find the Information Technology Act penalty and compensation for damage to a computer system.','[Section 43:',0),
 ('heldout','environment-protection-1986','Find the Environment Protection Act provision on emissions exceeding environmental pollutant standards.','[Section 7:',0),
+('heldout','employees-provident-funds-and-miscellaneous-provisions-act-1952','Find the Employees Provident Funds Act section on contributions and matters provided for in schemes.','[Section 6:',0),
+('heldout','legal-metrology-act-2009','Find the Legal Metrology Act provision on declarations on pre-packaged commodities.','[Section 18:',0),
+('heldout','arbitration-and-conciliation-act-1996','Find the Arbitration and Conciliation Act definition of an arbitration agreement.','[Section 7:',0),
+('heldout','indian-easements-act-1882','Find the Indian Easements Act definition of an easement.','[Section 4:',0),
+('heldout','hindu-adoptions-and-maintenance-act-1956','Find the Hindu Adoptions and Maintenance Act requisites of a valid adoption.','[Section 6:',0),
+('heldout','advocates-act-1961','Find the Advocates Act right of advocates to practise.','[Section 30:',0),
+('heldout','income-tax-act-2025','Find the Income-tax Act 2025 definition of tax year.','[Section 3:',0),
+('heldout','digital-personal-data-protection-act-2023','Find the Digital Personal Data Protection Act provision requiring free specific informed consent.','[Section 6:',0),
 ]
 
 
@@ -104,7 +112,7 @@ def main(data_dir=None,output=None):
             'expected_evidence_ids':[],'expected_document_ids':[],'scope':scope,'expected_behavior':status,
             'provenance':'Author-defined engineering scope/gap/clarification case; expanded corpus has unknown effective dates and zero reviewed versions.',
             'human_review':'pending'})
-    expected=61-sum(1 for _,doc,*_ in SPEC if doc in optional and doc not in available)
+    expected=len(SPEC)+len(behaviors)-sum(1 for _,doc,*_ in SPEC if doc in optional and doc not in available)
     assert len(cases)==expected
     data={'schema_version':1,'corpus_signature':registry.signature('official'),
         'construction':'Questions and exact source anchors defined independently of retrieval output. Development and held-out cases are disjoint. Human semantic/legal review pending.',

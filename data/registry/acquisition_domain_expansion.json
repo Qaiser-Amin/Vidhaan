@@ -1,0 +1,1011 @@
+{
+  "batches": [
+    {
+      "batch": "act-acquisition-results.json",
+      "results": [
+        {
+          "document_id": "apprentices-act-1961",
+          "attempted_at": "2026-10-12T20:51:10.320121+00:00",
+          "url": "https://www.incometaxindia.gov.in/apprentices-act-1961",
+          "status": "imported",
+          "final_url": "https://www.incometaxindia.gov.in/apprentices-act-1961",
+          "version_id": "505e25dbae61987a6808f692",
+          "checksum": "3599220890589546c8ac2ec0db1b4d9ab6d9df45607b774c2a0275b886c65246",
+          "title_check": "apprentices act, 1961",
+          "warnings": [],
+          "section_records": 44,
+          "response_checksums": [
+            "bb5cd1b03b483c2dab7cdc026509670cea9f6021b182e1d16ba1668338bcc2dd"
+          ]
+        },
+        {
+          "document_id": "employees-compensation-act-1923",
+          "attempted_at": "2026-10-12T20:51:13.629376+00:00",
+          "url": "https://www.incometaxindia.gov.in/employees-compensation-act-1923",
+          "status": "failed",
+          "error": "ValueError: Official body does not contain the expected Act title"
+        },
+        {
+          "document_id": "employees-provident-funds-and-miscellaneous-provisions-act-1952",
+          "attempted_at": "2026-10-12T20:51:16.315538+00:00",
+          "url": "https://www.incometaxindia.gov.in/employees-provident-funds-and-miscellaneous-provisions-act-1952",
+          "status": "failed",
+          "error": "ValueError: Official body does not contain the expected Act title"
+        },
+        {
+          "document_id": "employees-state-insurance-act-1948",
+          "attempted_at": "2026-10-12T20:51:20.997470+00:00",
+          "url": "https://www.incometaxindia.gov.in/employees-state-insurance-act-1948",
+          "status": "imported",
+          "final_url": "https://www.incometaxindia.gov.in/employees-state-insurance-act-1948",
+          "version_id": "0dc0d2f016b6d79897e2bb62",
+          "checksum": "195af6ac459ca41e8b6c811a4f05976525b7fde97f681533b7296ae09a1b11a7",
+          "title_check": "employees\u2019 state insurance act, 1948",
+          "warnings": [],
+          "section_records": 142,
+          "response_checksums": [
+            "25c06d596595ac11ed6262986d430bf6be2704b2c83eea30a8763fbda2f0f2b7"
+          ]
+        },
+        {
+          "document_id": "factories-act-1948",
+          "attempted_at": "2026-10-12T20:51:27.316297+00:00",
+          "url": "https://www.incometaxindia.gov.in/factories-act-1948",
+          "status": "imported",
+          "final_url": "https://www.incometaxindia.gov.in/factories-act-1948",
+          "version_id": "e079f9c6edbe56fa7d7c357d",
+          "checksum": "107540ca1fc75e7a5bcce8025a621c1fc82a0be86990a015f1a298de534cf364",
+          "title_check": "factories act, 1948",
+          "warnings": [],
+          "section_records": 144,
+          "response_checksums": [
+            "4ac6e3366fa64eb58c8201345605d10226a7639d5135c0d0d13129724451e5b5"
+          ]
+        },
+        {
+          "document_id": "industrial-disputes-act-1947",
+          "attempted_at": "2026-10-12T20:51:33.542923+00:00",
+          "url": "https://www.incometaxindia.gov.in/industrial-disputes-act-1947",
+          "status": "imported",
+          "final_url": "https://www.incometaxindia.gov.in/industrial-disputes-act-1947",
+          "version_id": "d7417624a84ee9b576d8ee76",
+          "checksum": "a81bb66c7b131f2272bbc1c0e3d1ff99f6c61cd6f50171108a0254bb3bd70e8a",
+          "title_check": "industrial disputes act, 1947",
+          "warnings": [],
+          "section_records": 87,
+          "response_checksums": [
+            "13a72eb5e5d8ff3f3375708a03d1084390e3ea4e25a3878b3d89db7750172d55"
+          ]
+        },
+        {
+          "document_id": "maternity-benefit-act-1961",
+          "attempted_at": "2026-10-12T20:51:37.704857+00:00",
+          "url": "https://www.incometaxindia.gov.in/maternity-benefit-act-1961",
+          "status": "imported",
+          "final_url": "https://www.incometaxindia.gov.in/maternity-benefit-act-1961",
+          "version_id": "fa0b657b9b007a704f273868",
+          "checksum": "62adec8e523720aebb7ab58d5d81b5ff903c932ef6290e5c3494faeb42f3b61f",
+          "title_check": "maternity benefit act, 1961",
+          "warnings": [],
+          "section_records": 34,
+          "response_checksums": [
+            "1ea0418b2406df82c0033f9088c33e9bed3f579da681d446bdec604ce89e8c6f"
+          ]
+        },
+        {
+          "document_id": "payment-of-gratuity-act-1972",
+          "attempted_at": "2026-10-12T20:51:39.314996+00:00",
+          "url": "https://www.incometaxindia.gov.in/payment-of-gratuity-act-1972",
+          "status": "imported",
+          "final_url": "https://www.incometaxindia.gov.in/payment-of-gratuity-act-1972",
+          "version_id": "3a7dff6e1c288b8661803fa9",
+          "checksum": "b5759ba0d7ca742c61c6a5c7db0b5536a0998d307ba5765667db2c7a0101e0a5",
+          "title_check": "payment of gratuity act, 1972",
+          "warnings": [],
+          "section_records": 20,
+          "response_checksums": [
+            "8ed94892941ea3ea1f6f200baff2ee72d01d2aaa7d81ac84e1d6422a8ea3c596"
+          ]
+        },
+        {
+          "document_id": "payment-of-bonus-act-1965",
+          "attempted_at": "2026-10-12T20:51:40.608028+00:00",
+          "url": "https://www.incometaxindia.gov.in/payment-of-bonus-act-1965",
+          "status": "imported",
+          "final_url": "https://www.incometaxindia.gov.in/payment-of-bonus-act-1965",
+          "version_id": "912abf8b48373e691f6abe21",
+          "checksum": "2651fa284a1afe2ce9af079d80e61d69132221a867f9aa5e2e0cbca9e49966b8",
+          "title_check": "payment of bonus act, 1965",
+          "warnings": [],
+          "section_records": 45,
+          "response_checksums": [
+            "628cd1780a103707d60e2f629bfeb767e544b131fcf7c2e70a5615c4c32ee975"
+          ]
+        },
+        {
+          "document_id": "arbitration-and-conciliation-act-1996",
+          "attempted_at": "2026-10-12T20:51:43.363725+00:00",
+          "url": "https://www.incometaxindia.gov.in/arbitration-and-conciliation-act-1996",
+          "status": "imported",
+          "final_url": "https://www.incometaxindia.gov.in/arbitration-and-conciliation-act-1996",
+          "version_id": "7a885f52e9916e01164faae4",
+          "checksum": "41dbe2a5b54e609783d8b8afefdb5e44317105fb3e88b2047a2f73ab06e31b5e",
+          "title_check": "arbitration and conciliation act, 1996",
+          "warnings": [],
+          "section_records": 114,
+          "response_checksums": [
+            "385bd5df0bfe6f8862d4e0ce6a2dd133966b9219c13a96bbdfa481b147cbc33a"
+          ]
+        },
+        {
+          "document_id": "indian-partnership-act-1932",
+          "attempted_at": "2026-10-12T20:51:48.862130+00:00",
+          "url": "https://www.incometaxindia.gov.in/indian-partnership-act-1932",
+          "status": "imported",
+          "final_url": "https://www.incometaxindia.gov.in/indian-partnership-act-1932",
+          "version_id": "456d2fbda2b4cde0fafd5ba3",
+          "checksum": "09c547274155793a52e976f552e3ac5531372a45f5a05f68fb29f09f75d38325",
+          "title_check": "indian partnership act, 1932",
+          "warnings": [],
+          "section_records": 76,
+          "response_checksums": [
+            "40a1db60b5a57795c27d5112a3e4b79d3e18534a8660e36038763caeb853d56f"
+          ]
+        },
+        {
+          "document_id": "negotiable-instruments-act-1881",
+          "attempted_at": "2026-10-12T20:51:52.267535+00:00",
+          "url": "https://www.incometaxindia.gov.in/negotiable-instruments-act-1881",
+          "status": "imported",
+          "final_url": "https://www.incometaxindia.gov.in/negotiable-instruments-act-1881",
+          "version_id": "3d976465baf6d0e86aa93617",
+          "checksum": "1314b06671cf436067986d1c28b8cde1f645b8de0f1f5c3a1a738d2b1c4d9c6c",
+          "title_check": "negotiable instruments act, 1881",
+          "warnings": [],
+          "section_records": 156,
+          "response_checksums": [
+            "d70a0d230a375fda4d3d3abba845967edca78b134905a3b900e14fe27c986b0c"
+          ]
+        },
+        {
+          "document_id": "indian-stamp-act-1899",
+          "attempted_at": "2026-10-12T20:51:58.739656+00:00",
+          "url": "https://www.incometaxindia.gov.in/indian-stamp-act-1899",
+          "status": "imported",
+          "final_url": "https://www.incometaxindia.gov.in/indian-stamp-act-1899",
+          "version_id": "8197f9429f53d29cb2e190c4",
+          "checksum": "91d9c7b1e0473390bd7dc1ba9a4216377ac5b5d475e25bada2d622b577b3ccd2",
+          "title_check": "indian stamp act, 1899",
+          "warnings": [],
+          "section_records": 100,
+          "response_checksums": [
+            "7c337041c6d8d2936f9d2b867de47a0b6263d076f5e6b6fe4254f3ba7e5dbb38"
+          ]
+        },
+        {
+          "document_id": "micro-small-and-medium-enterprises-development-act-2006",
+          "attempted_at": "2026-10-12T20:52:03.792587+00:00",
+          "url": "https://www.incometaxindia.gov.in/micro-small-and-medium-enterprises-development-act-2006",
+          "status": "imported",
+          "final_url": "https://www.incometaxindia.gov.in/micro-small-and-medium-enterprises-development-act-2006",
+          "version_id": "8462f9dbec8bef92eb8fb592",
+          "checksum": "ae2e5f4bb6d0760bf1606504e1cbce6076642dd1beec4944616e0baa1a71e856",
+          "title_check": "micro, small and medium enterprises development act, 2006",
+          "warnings": [],
+          "section_records": 36,
+          "response_checksums": [
+            "d25b02ea185d335e61b58ab63142205c809a5bbb273a4e0189e5ab88a74614c0"
+          ]
+        },
+        {
+          "document_id": "securities-contracts-regulation-act-1956",
+          "attempted_at": "2026-10-12T20:52:05.716500+00:00",
+          "url": "https://www.incometaxindia.gov.in/securities-contracts-regulation-act-1956",
+          "status": "imported",
+          "final_url": "https://www.incometaxindia.gov.in/securities-contracts-regulation-act-1956",
+          "version_id": "36920d564bec6e68f00f3457",
+          "checksum": "8bea241e54b79e8180eada64649199a3e51edee04080715d717b2b0bd65c5399",
+          "title_check": "securities contracts (regulation) act, 1956",
+          "warnings": [],
+          "section_records": 78,
+          "response_checksums": [
+            "8fe14541684490cedc50160dbb3c551d9f9444540cca8f646a9d12001e74948c"
+          ]
+        },
+        {
+          "document_id": "securitisation-and-reconstruction-of-financial-assets-and-enforcement-of-security-interest-act-2002",
+          "attempted_at": "2026-10-12T20:52:09.829032+00:00",
+          "url": "https://www.incometaxindia.gov.in/securitisation-and-reconstruction-of-financial-assets-and-enforcement-of-security-interest-act-2002",
+          "status": "imported",
+          "final_url": "https://www.incometaxindia.gov.in/securitisation-and-reconstruction-of-financial-assets-and-enforcement-of-security-interest-act-2002",
+          "version_id": "d27dfe4c4fb80cd190c422b5",
+          "checksum": "eac3c49c34b8bd4f550ec9e80c6a9d679352ec81a49388d1de3d2dca431fa8e5",
+          "title_check": "securitisation and reconstruction of financial assets and enforcement of security interest act, 2002",
+          "warnings": [],
+          "section_records": 64,
+          "response_checksums": [
+            "1ecadd7bd03f2270c8c1182c56afaa2b5e898ae4417abef10f9af89ce4d2799b"
+          ]
+        },
+        {
+          "document_id": "indian-easements-act-1882",
+          "attempted_at": "2026-10-12T20:52:13.213308+00:00",
+          "url": "https://www.incometaxindia.gov.in/indian-easements-act-1882",
+          "status": "imported",
+          "final_url": "https://www.incometaxindia.gov.in/indian-easements-act-1882",
+          "version_id": "0e14bcbaee0e4d6b75544a84",
+          "checksum": "a494793cbd4eb9a205820f4af356c900af4511b25bce9f7a438a547d685c90e1",
+          "title_check": "indian easements act, 1882",
+          "warnings": [],
+          "section_records": 64,
+          "response_checksums": [
+            "13ce613c4e9b8e50fe797a79a8620eb16d502baf447bb38bd716ba8a294a309c"
+          ]
+        },
+        {
+          "document_id": "indian-trusts-act-1882",
+          "attempted_at": "2026-10-12T20:52:16.468457+00:00",
+          "url": "https://www.incometaxindia.gov.in/indian-trusts-act-1882",
+          "status": "imported",
+          "final_url": "https://www.incometaxindia.gov.in/indian-trusts-act-1882",
+          "version_id": "70fb99672615006491818547",
+          "checksum": "2df35ee26225e4bfa3745464705e11be96a8b42220775b6455560c4a1890f787",
+          "title_check": "indian trusts act, 1882",
+          "warnings": [],
+          "section_records": 98,
+          "response_checksums": [
+            "dace810cfd85240e3af4695d96a76df5e1ecc10dd5acd99bcbcf1ae4555d408b"
+          ]
+        },
+        {
+          "document_id": "partition-act-1893",
+          "attempted_at": "2026-10-12T20:52:20.064320+00:00",
+          "url": "https://www.incometaxindia.gov.in/partition-act-1893",
+          "status": "imported",
+          "final_url": "https://www.incometaxindia.gov.in/partition-act-1893",
+          "version_id": "3bf093725a08a81c9ccac775",
+          "checksum": "883d4a4fc6c6afb2c0a86cb6eb84ccbb84d42064f5dd1d261f2b0bccdcde1bb3",
+          "title_check": "partition act, 1893",
+          "warnings": [],
+          "section_records": 10,
+          "response_checksums": [
+            "5c55ffc3407f25ccfa41cfb3e330ce8cf7903a03ddda5b2ff85eac75bfcaa499"
+          ]
+        },
+        {
+          "document_id": "prohibition-of-benami-property-transactions-act-1988",
+          "attempted_at": "2026-10-12T20:52:20.941934+00:00",
+          "url": "https://www.incometaxindia.gov.in/prohibition-of-benami-property-transactions-act-1988",
+          "status": "imported",
+          "final_url": "https://www.incometaxindia.gov.in/prohibition-of-benami-property-transactions-act-1988",
+          "version_id": "8fef32b6e7fa024c411a8271",
+          "checksum": "ae794f7a66651359557a255562db9ca240ca6d892217d34f806d973828f9701e",
+          "title_check": "prohibition of benami property transactions act, 1988",
+          "warnings": [],
+          "section_records": 75,
+          "response_checksums": [
+            "93ba60d8ea595b101ed3bec00bf65d898a09d45bf294fdd2be3f74ff283bcb3f"
+          ]
+        },
+        {
+          "document_id": "registration-act-1908",
+          "attempted_at": "2026-10-12T20:52:24.587434+00:00",
+          "url": "https://www.incometaxindia.gov.in/registration-act-1908",
+          "status": "imported",
+          "final_url": "https://www.incometaxindia.gov.in/registration-act-1908",
+          "version_id": "9f6fe40644a99bcd1c8d6bd1",
+          "checksum": "932fdfd0820f61f52324c8826ea02181b641bb4056a9ded9912e52316878b4ce",
+          "title_check": "registration act, 1908",
+          "warnings": [],
+          "section_records": 97,
+          "response_checksums": [
+            "d1c14cfdb928ff8c9f64473678e0f889089799a56700301e0715dc1e6d5e8785"
+          ]
+        },
+        {
+          "document_id": "right-to-fair-compensation-and-transparency-in-land-acquisition-rehabilitation-and-resettlement-act-2013",
+          "attempted_at": "2026-10-12T20:52:28.724240+00:00",
+          "url": "https://www.incometaxindia.gov.in/right-to-fair-compensation-and-transparency-in-land-acquisition-rehabilitation-and-resettlement-act-2013",
+          "status": "failed",
+          "error": "ValidationError: 1 validation error for Source\ndocument_id\n  String should match pattern '^[A-Za-z0-9_-]{1,100}$' [type=string_pattern_mismatch, input_value='right-to-fair-compensati...d-resettlement-act-2013', input_type=str]\n    For further information visit https://errors.pydantic.dev/2.11/v/string_pattern_mismatch"
+        },
+        {
+          "document_id": "charitable-and-religious-trusts-act-1920",
+          "attempted_at": "2026-10-12T20:52:33.811729+00:00",
+          "url": "https://www.incometaxindia.gov.in/charitable-and-religious-trusts-act-1920",
+          "status": "imported",
+          "final_url": "https://www.incometaxindia.gov.in/charitable-and-religious-trusts-act-1920",
+          "version_id": "566fdec443b24c8f3ad592c9",
+          "checksum": "26f2a2c4c546acd63e53dcde489cf590ee97cbc8e097b90541fb2d5f33367bee",
+          "title_check": "charitable and religious trusts act, 1920",
+          "warnings": [],
+          "section_records": 12,
+          "response_checksums": [
+            "4b9e7a03d7f0fae19a2a56233be20f92c8dc633d441c47cee1ae50b0a7b73d49"
+          ]
+        },
+        {
+          "document_id": "charitable-endowments-act-1890",
+          "attempted_at": "2026-10-12T20:52:34.765220+00:00",
+          "url": "https://www.incometaxindia.gov.in/charitable-endowments-act-1890",
+          "status": "imported",
+          "final_url": "https://www.incometaxindia.gov.in/charitable-endowments-act-1890",
+          "version_id": "51d2a9e7b7c6b2451501edb8",
+          "checksum": "196e4bb58ac6f23c4044c78964684abcb0d2b4207cc1fb49ad5ece948925965f",
+          "title_check": "charitable endowments act, 1890",
+          "warnings": [],
+          "section_records": 17,
+          "response_checksums": [
+            "917fdc1484d0a707c623c18389e73810870206f796557bfd0d4c5da9ef581ca2"
+          ]
+        },
+        {
+          "document_id": "hindu-adoptions-and-maintenance-act-1956",
+          "attempted_at": "2026-10-12T20:52:35.856492+00:00",
+          "url": "https://www.incometaxindia.gov.in/hindu-adoptions-and-maintenance-act-1956",
+          "status": "imported",
+          "final_url": "https://www.incometaxindia.gov.in/hindu-adoptions-and-maintenance-act-1956",
+          "version_id": "8b5c747f3e86564281f20a2d",
+          "checksum": "f90140d97d9ccfefe890e9cd321d42bd12dea48963cc64d0b0a495a1bc8de15a",
+          "title_check": "hindu adoptions and maintenance act, 1956",
+          "warnings": [],
+          "section_records": 30,
+          "response_checksums": [
+            "5d7bb6ae2b5e23c5f89357c51c8a28c62c5e697156a81fa6840873cf1acfaf57"
+          ]
+        },
+        {
+          "document_id": "hindu-minority-and-guardianship-act-1956",
+          "attempted_at": "2026-10-12T20:52:37.659412+00:00",
+          "url": "https://www.incometaxindia.gov.in/hindu-minority-and-guardianship-act-1956",
+          "status": "imported",
+          "final_url": "https://www.incometaxindia.gov.in/hindu-minority-and-guardianship-act-1956",
+          "version_id": "3f093911e70023f180110e4a",
+          "checksum": "99dd970321d1180936b5466aceec226ef44030b5cfefbb2793a7832171dd6018",
+          "title_check": "hindu minority and guardianship act, 1956",
+          "warnings": [],
+          "section_records": 13,
+          "response_checksums": [
+            "c23b2858c4627583bab5aefa5d5477bcfde57f9b8dcda545fdd63d4f6e6c98ce"
+          ]
+        },
+        {
+          "document_id": "code-of-criminal-procedure-1973",
+          "attempted_at": "2026-10-12T20:52:38.645594+00:00",
+          "url": "https://www.incometaxindia.gov.in/code-of-criminal-procedure-1973",
+          "status": "failed",
+          "error": "ValueError: Collection contains an unrenderable section; refusing a partial import"
+        },
+        {
+          "document_id": "indian-penal-code-1860",
+          "attempted_at": "2026-10-12T20:53:02.699718+00:00",
+          "url": "https://www.incometaxindia.gov.in/indian-penal-code-1860",
+          "status": "failed",
+          "error": "ValueError: Official body does not contain the expected Act title"
+        },
+        {
+          "document_id": "indian-evidence-act-1872",
+          "attempted_at": "2026-10-12T20:53:25.387715+00:00",
+          "url": "https://www.incometaxindia.gov.in/indian-evidence-act-1872",
+          "status": "imported",
+          "final_url": "https://www.incometaxindia.gov.in/indian-evidence-act-1872",
+          "version_id": "b0ce67b323332e702f763ae7",
+          "checksum": "4b45a694a92a3f9a2d4b9df0ac375a6432908660fc79adfc9a4af8b93ada0a10",
+          "title_check": "indian evidence act, 1872",
+          "warnings": [],
+          "section_records": 186,
+          "response_checksums": [
+            "d1dca4431355d7fd45ea29fd0085c34159acd277bfdbf588c8bd1e9c2eff303b"
+          ]
+        },
+        {
+          "document_id": "general-clauses-act-1897",
+          "attempted_at": "2026-10-12T20:53:33.627929+00:00",
+          "url": "https://www.incometaxindia.gov.in/general-clauses-act-1897",
+          "status": "imported",
+          "final_url": "https://www.incometaxindia.gov.in/general-clauses-act-1897",
+          "version_id": "c2d1301d2775bedd0022e28e",
+          "checksum": "ec46fdb36fc21987edac4251471e9e08399c3d7858fb7b579bc492f76ad86209",
+          "title_check": "general clauses act, 1897",
+          "warnings": [],
+          "section_records": 37,
+          "response_checksums": [
+            "e1e9c460abf44a7c7d89c9f1456c480a7beda152b2bb9d0b130afd77aaf95416"
+          ]
+        },
+        {
+          "document_id": "prevention-of-corruption-act-1988",
+          "attempted_at": "2026-10-12T20:53:35.996244+00:00",
+          "url": "https://www.incometaxindia.gov.in/prevention-of-corruption-act-1988",
+          "status": "imported",
+          "final_url": "https://www.incometaxindia.gov.in/prevention-of-corruption-act-1988",
+          "version_id": "d6cd07dc50b74bdce569d758",
+          "checksum": "107fbfa7f125139858f38c6124d5b2ed87749eabf6943fa13c2cbb7071f2b39f",
+          "title_check": "prevention of corruption act, 1988",
+          "warnings": [],
+          "section_records": 41,
+          "response_checksums": [
+            "522077ccb63f7838cc58d5cfc73f8a4547a459892a79e4e5a63eb0f8e3463e73"
+          ]
+        },
+        {
+          "document_id": "advocates-act-1961",
+          "attempted_at": "2026-10-12T20:53:38.314336+00:00",
+          "url": "https://www.incometaxindia.gov.in/advocates-act-1961",
+          "status": "imported",
+          "final_url": "https://www.incometaxindia.gov.in/advocates-act-1961",
+          "version_id": "96b68a324d2276d83a4f912a",
+          "checksum": "0e550427065a6e7b7740829bfee975535f6bd436b5b2d95531c45c9b44a91a24",
+          "title_check": "advocates act, 1961",
+          "warnings": [],
+          "section_records": 86,
+          "response_checksums": [
+            "288bd4d12b078e492c52d303952ec20f358575be0e4ab6a29b75b51c1172fde9"
+          ]
+        },
+        {
+          "document_id": "special-court-trial-of-offences-relating-to-transactions-in-securities-act-1992",
+          "attempted_at": "2026-10-12T20:53:41.546265+00:00",
+          "url": "https://www.incometaxindia.gov.in/special-court-trial-of-offences-relating-to-transactions-in-securities-act-1992",
+          "status": "imported",
+          "final_url": "https://www.incometaxindia.gov.in/special-court-trial-of-offences-relating-to-transactions-in-securities-act-1992",
+          "version_id": "59ed2109d630de3ce97c08cb",
+          "checksum": "5a5a9aaf56d30596a0031991bf6049796f6f0c9f6352b0a136b62695b0c59e90",
+          "title_check": "special court (trial of offences relating to transactions in securities) act, 1992",
+          "warnings": [],
+          "section_records": 19,
+          "response_checksums": [
+            "09a2d2ebf1d60d1146ab5c1a4e3f6e142382d24bda30ea549daa496cb597e20a"
+          ]
+        },
+        {
+          "document_id": "income-tax-act-2025",
+          "attempted_at": "2026-10-12T20:53:42.952716+00:00",
+          "url": "https://www.incometaxindia.gov.in/income-tax-act-2025",
+          "status": "imported",
+          "final_url": "https://www.incometaxindia.gov.in/income-tax-act-2025",
+          "version_id": "8a621c49b6c243f17d19a780",
+          "checksum": "9d6f032a243d39fc4fcfdee230ec7568373875e9279f16d0420528a7ec3118e6",
+          "title_check": "income-tax act, 2025",
+          "warnings": [],
+          "section_records": 1105,
+          "response_checksums": [
+            "17f7e9dfa2ab4e4e7751d6a567d6d3c2e0c54eee3200e7e98e6ed052859892f5",
+            "1007b9b21f698d742b777b71727814afb4619c87c6e81ac026ac9456da08cee6",
+            "91f6328216d9c93c65617924d73aaaffbc85b21747d2c72e9c6222a76476e47e",
+            "fd83bb05c46e24e72f85ce1d6d50224504e55fa67d6672d1677252af05ae33c2",
+            "fb7d2845ee00e14245e926dcf371f78e75a53a4dbf9ca64d096aab311a7cce5a",
+            "96ece1fc6a6d72ead299446f452d33bf175ec30bf0a0d9faf669b3c517073339"
+          ]
+        },
+        {
+          "document_id": "foreign-exchange-management-act-1999",
+          "attempted_at": "2026-10-12T20:54:31.486052+00:00",
+          "url": "https://www.incometaxindia.gov.in/foreign-exchange-management-act-1999",
+          "status": "imported",
+          "final_url": "https://www.incometaxindia.gov.in/foreign-exchange-management-act-1999",
+          "version_id": "85225b7d47d9572d8abd061f",
+          "checksum": "1525a31c1be0315e15dc9804fcda31818bbe3895d76040441c1636361540c8ee",
+          "title_check": "foreign exchange management act, 1999",
+          "warnings": [],
+          "section_records": 52,
+          "response_checksums": [
+            "4bc7bc2b0fb607e92ad6252183406aa0aa1b7183e3385820ad4f5444345f8772"
+          ]
+        },
+        {
+          "document_id": "depositories-act-1996",
+          "attempted_at": "2026-10-12T20:54:34.548037+00:00",
+          "url": "https://www.incometaxindia.gov.in/depositories-act-1996",
+          "status": "imported",
+          "final_url": "https://www.incometaxindia.gov.in/depositories-act-1996",
+          "version_id": "3034971f1d93450cb9cf0edf",
+          "checksum": "9a6d6febc4aa5063cb56b3db74562c108b0257707068bfd4c6d1c9454311c318",
+          "title_check": "depositories act, 1996",
+          "warnings": [],
+          "section_records": 61,
+          "response_checksums": [
+            "95ab8a21282ab9464c53981768ed22dfbefa6b7ee4b5e37b8c66f4c070e4c549"
+          ]
+        },
+        {
+          "document_id": "securities-and-exchange-board-of-india-act-1992",
+          "attempted_at": "2026-10-12T20:54:37.475359+00:00",
+          "url": "https://www.incometaxindia.gov.in/securities-and-exchange-board-of-india-act-1992",
+          "status": "imported",
+          "final_url": "https://www.incometaxindia.gov.in/securities-and-exchange-board-of-india-act-1992",
+          "version_id": "9931dcf2868ec23860013303",
+          "checksum": "27286dd473dcb505a8086519898db3f9487bec9e8493d2965c22a14bb2f0a415",
+          "title_check": "securities and exchange board of india act, 1992",
+          "warnings": [],
+          "section_records": 93,
+          "response_checksums": [
+            "8222b2178bbcf1c942214ddb19792b9090d25ff86f3b96398717208e2ef53242"
+          ]
+        },
+        {
+          "document_id": "competition-act-2002",
+          "attempted_at": "2026-10-12T20:54:41.103719+00:00",
+          "url": "https://www.incometaxindia.gov.in/competition-act-2002",
+          "status": "imported",
+          "final_url": "https://www.incometaxindia.gov.in/competition-act-2002",
+          "version_id": "3233c0e7c7f04c412deb4a79",
+          "checksum": "f10c5ec100ce7983dd4ee99e231033eb2a01724e7d1df28aaf3e3879700de588",
+          "title_check": "competition act, 2002",
+          "warnings": [],
+          "section_records": 99,
+          "response_checksums": [
+            "a71bae1bc539a1fee097aa637aa0c18120f776535bae02c201059eb44b2e0700"
+          ]
+        },
+        {
+          "document_id": "company-secretaries-act-1980",
+          "attempted_at": "2026-10-12T20:54:45.519388+00:00",
+          "url": "https://www.incometaxindia.gov.in/company-secretaries-act-1980",
+          "status": "imported",
+          "final_url": "https://www.incometaxindia.gov.in/company-secretaries-act-1980",
+          "version_id": "0f29894c4f6252ef24a15e4f",
+          "checksum": "5123202c13ca56a4748cf01067c13f513e1fe41873d87c390b7fb801f0a7ad79",
+          "title_check": "company secretaries act, 1980",
+          "warnings": [],
+          "section_records": 65,
+          "response_checksums": [
+            "d7b1d7fa9d1a919c5a94ed94b96c776b129ae1ea1f2ff071bae2de51befbfe51"
+          ]
+        },
+        {
+          "document_id": "chartered-accountants-act-1949",
+          "attempted_at": "2026-10-12T20:54:48.653408+00:00",
+          "url": "https://www.incometaxindia.gov.in/chartered-accountants-act-1949",
+          "status": "imported",
+          "final_url": "https://www.incometaxindia.gov.in/chartered-accountants-act-1949",
+          "version_id": "3584de0eae0ffa8140ca7b4a",
+          "checksum": "d6e2ad4d46acd6e738eb203dd3314f2b2068e74498bb3f5eb382f25f3638267a",
+          "title_check": "chartered accountants act, 1949",
+          "warnings": [],
+          "section_records": 66,
+          "response_checksums": [
+            "6a01294fd7eda4e58e5358ed21425b72409b4bcc181fd738b387f77737d189b9"
+          ]
+        },
+        {
+          "document_id": "black-money-undisclosed-foreign-income-and-assets-and-imposition-of-tax-act-2015",
+          "attempted_at": "2026-10-12T20:54:51.936856+00:00",
+          "url": "https://www.incometaxindia.gov.in/black-money-undisclosed-foreign-income-and-assets-and-imposition-of-tax-act-2015",
+          "status": "imported",
+          "final_url": "https://www.incometaxindia.gov.in/black-money-undisclosed-foreign-income-and-assets-and-imposition-of-tax-act-2015",
+          "version_id": "c851b2c047bd1721d2871632",
+          "checksum": "521b0ef7730e3599600ea38a2d48b70cb755976062df7fa23eb551626db3cd1a",
+          "title_check": "black money (undisclosed foreign income and assets) and imposition of tax act, 2015",
+          "warnings": [],
+          "section_records": 88,
+          "response_checksums": [
+            "c6d0c380f6579ee54593184f27b61f202e350000b771d431a733a02d9194465a"
+          ]
+        },
+        {
+          "document_id": "multi-state-co-operative-societies-act-2002",
+          "attempted_at": "2026-10-12T20:54:55.532906+00:00",
+          "url": "https://www.incometaxindia.gov.in/multi-state-co-operative-societies-act-2002",
+          "status": "imported",
+          "final_url": "https://www.incometaxindia.gov.in/multi-state-co-operative-societies-act-2002",
+          "version_id": "ec266d3898c31d8d46816af9",
+          "checksum": "a51d2fc083f86d464129b16ac32062563d94039b0b7fbdb7e21fd1a9648cd9ed",
+          "title_check": "multi-state co-operative societies act, 2002",
+          "warnings": [],
+          "section_records": 151,
+          "response_checksums": [
+            "0cca4c7bb8420a2e2ac9e35e7630ed44c411e781347f04acbd8c5f69924fd803"
+          ]
+        },
+        {
+          "document_id": "air-prevention-and-control-of-pollution-act-1981",
+          "attempted_at": "2026-10-12T20:55:01.408630+00:00",
+          "url": "https://www.incometaxindia.gov.in/air-prevention-and-control-of-pollution-act-1981",
+          "status": "imported",
+          "final_url": "https://www.incometaxindia.gov.in/air-prevention-and-control-of-pollution-act-1981",
+          "version_id": "a63155b0b87db3ba35a6a2e7",
+          "checksum": "9bfc47486bfed267a9c3ece989160b3e0b2685c384a8ca4a7331148c18ca3eeb",
+          "title_check": "air (prevention and control of pollution) act, 1981",
+          "warnings": [],
+          "section_records": 65,
+          "response_checksums": [
+            "50537c511bad9e67efb055d9a55d2322b29571e1955e950dddcf0a55256fef99"
+          ]
+        },
+        {
+          "document_id": "water-prevention-and-control-of-pollution-act-1974",
+          "attempted_at": "2026-10-12T20:55:04.117885+00:00",
+          "url": "https://www.incometaxindia.gov.in/water-prevention-and-control-of-pollution-act-1974",
+          "status": "imported",
+          "final_url": "https://www.incometaxindia.gov.in/water-prevention-and-control-of-pollution-act-1974",
+          "version_id": "7abd63af9e216b7f1b101cac",
+          "checksum": "37d96fd112eada0057144d4cae5a4d0f5011b8587c138bf8539381b672baee8b",
+          "title_check": "water (prevention and control of pollution) act, 1974",
+          "warnings": [],
+          "section_records": 75,
+          "response_checksums": [
+            "4a9421f2cc8ca0d122dff9b07a372c569ab283fa8950bd281dbd2230cd9a4742"
+          ]
+        },
+        {
+          "document_id": "national-green-tribunal-act-2010",
+          "attempted_at": "2026-10-12T20:55:07.528549+00:00",
+          "url": "https://www.incometaxindia.gov.in/national-green-tribunal-act-2010",
+          "status": "imported",
+          "final_url": "https://www.incometaxindia.gov.in/national-green-tribunal-act-2010",
+          "version_id": "486d0f28a5a399c2aa52ff46",
+          "checksum": "0f1ec2a7d72f949ff8eea38e1fa3a5d02ced24ec8512bda96d835057d4ff57ca",
+          "title_check": "national green tribunal act, 2010",
+          "warnings": [],
+          "section_records": 42,
+          "response_checksums": [
+            "b3028f946dd7e93ed5e9ceda8aefee2b09349c41affabd79c47eb379d72c084c"
+          ]
+        },
+        {
+          "document_id": "digital-personal-data-protection-act-2023",
+          "attempted_at": "2026-10-12T20:55:09.930338+00:00",
+          "url": "https://www.incometaxindia.gov.in/digital-personal-data-protection-act-2023",
+          "status": "imported",
+          "final_url": "https://www.incometaxindia.gov.in/digital-personal-data-protection-act-2023",
+          "version_id": "2774c95f08b854f41b8e436c",
+          "checksum": "13b49114e8bdf531acaf0363db467ef71feb08b0625e74d447cf12d3d37997dd",
+          "title_check": "digital personal data protection act, 2023",
+          "warnings": [],
+          "section_records": 45,
+          "response_checksums": [
+            "046d8ce149baf5bd7eba41afd32e7ad3e2af6bb043f1569233028b75e22f4a33"
+          ]
+        },
+        {
+          "document_id": "aadhaar-targeted-delivery-of-financial-and-other-subsides-benefits-and-services-act-2016",
+          "attempted_at": "2026-10-12T20:55:12.356641+00:00",
+          "url": "https://www.incometaxindia.gov.in/aadhaar-targeted-delivery-of-financial-and-other-subsides-benefits-and-services-act-2016",
+          "status": "failed",
+          "error": "ValueError: Official body does not contain the expected Act title"
+        },
+        {
+          "document_id": "copyright-act-1957",
+          "attempted_at": "2026-10-12T20:55:15.357364+00:00",
+          "url": "https://www.incometaxindia.gov.in/copyright-act-1957",
+          "status": "imported",
+          "final_url": "https://www.incometaxindia.gov.in/copyright-act-1957",
+          "version_id": "b163721f948ade90cf27efa7",
+          "checksum": "41088c83e6691d6e54ad0613cf627535a1320faabee525edbe84e5ea9ba8eade",
+          "title_check": "copyright act, 1957",
+          "warnings": [],
+          "section_records": 105,
+          "response_checksums": [
+            "7a25ef8806cec5f79d22a25420afc8db95257ec72cb08fc0c14d29ec610379e2"
+          ]
+        },
+        {
+          "document_id": "patents-act-1970",
+          "attempted_at": "2026-10-12T20:55:20.835751+00:00",
+          "url": "https://www.incometaxindia.gov.in/patents-act-1970",
+          "status": "imported",
+          "final_url": "https://www.incometaxindia.gov.in/patents-act-1970",
+          "version_id": "5a17893ab9136d44e3e429a1",
+          "checksum": "9799f804f78fdaebf61189fe18b149953fa604a9011b08cc5dd0930c32aff800",
+          "title_check": "patents act, 1970",
+          "warnings": [],
+          "section_records": 176,
+          "response_checksums": [
+            "111cec1c5e801be6e5c9f3143e6f93f111128e22d572a84d944a3cbf9a240b2a"
+          ]
+        },
+        {
+          "document_id": "designs-act-2000",
+          "attempted_at": "2026-10-12T20:55:27.220646+00:00",
+          "url": "https://www.incometaxindia.gov.in/designs-act-2000",
+          "status": "imported",
+          "final_url": "https://www.incometaxindia.gov.in/designs-act-2000",
+          "version_id": "ac39754d9dfd53f8972745fd",
+          "checksum": "f41af0cdc654a4391732d335e74c686c37d2cc4b73ec29523afe859db738ac7d",
+          "title_check": "designs act, 2000",
+          "warnings": [],
+          "section_records": 48,
+          "response_checksums": [
+            "c32c1887cd6aa4195c4d95c816fac1fb136fb054576f72a9f875c87e6d0a9801"
+          ]
+        },
+        {
+          "document_id": "trade-marks-act-1999",
+          "attempted_at": "2026-10-12T20:55:29.529869+00:00",
+          "url": "https://www.incometaxindia.gov.in/trade-marks-act-1999",
+          "status": "imported",
+          "final_url": "https://www.incometaxindia.gov.in/trade-marks-act-1999",
+          "version_id": "ed2cb65c2abc7e46efa7633f",
+          "checksum": "f58a8cbc56ff2bb331922068d6010232853a5b9f56974106a0ec1e6846599a2e",
+          "title_check": "trade marks act, 1999",
+          "warnings": [],
+          "section_records": 168,
+          "response_checksums": [
+            "2994a5a606c53b99116e84d8123ee3c728a0a341bbc13084aec6c248e968a3e4"
+          ]
+        }
+      ]
+    },
+    {
+      "batch": "additional-act-results.json",
+      "results": [
+        {
+          "document_id": "legal-metrology-act-2009",
+          "attempted_at": "2026-10-12T21:09:56.743343+00:00",
+          "url": "https://www.incometaxindia.gov.in/legal-metrology-act-2009",
+          "status": "imported",
+          "final_url": "https://www.incometaxindia.gov.in/legal-metrology-act-2009",
+          "version_id": "7f24ce3cc9e86e3b4639f648",
+          "checksum": "fe2b46c61cfe3e953a23c25adcd919df45a94cf69781066df3e62984d2d42cf3",
+          "title_check": "legal metrology act, 2009",
+          "warnings": [],
+          "section_records": 57,
+          "response_checksums": [
+            "ae5ff0357412261b987d8bc22325e48d4764d5cf5b996ddab44fdf038e48840f"
+          ]
+        },
+        {
+          "document_id": "essential-commodities-act-1955",
+          "attempted_at": "2026-10-12T21:10:01.220142+00:00",
+          "url": "https://www.incometaxindia.gov.in/essential-commodities-act-1955",
+          "status": "imported",
+          "final_url": "https://www.incometaxindia.gov.in/essential-commodities-act-1955",
+          "version_id": "3b538c427beac1cbcd262df0",
+          "checksum": "28deaeddb760a4f1a66d9b0437d46e99f65490700f20dd702516b6cd0453ebfe",
+          "title_check": "essential commodities act, 1955",
+          "warnings": [],
+          "section_records": 30,
+          "response_checksums": [
+            "b5ea7979717b78a3cda0cd32d840038bf9702f11191010e3aca9e06d87306165"
+          ]
+        },
+        {
+          "document_id": "recovery-of-debts-and-bankruptcy-act-1993",
+          "attempted_at": "2026-10-12T21:10:03.434749+00:00",
+          "url": "https://www.incometaxindia.gov.in/recovery-of-debts-and-bankruptcy-act-1993",
+          "status": "failed",
+          "error": "ValueError: Official body does not contain the expected Act title"
+        },
+        {
+          "document_id": "economic-offences-inapplicability-of-limitation-act-1974",
+          "attempted_at": "2026-10-12T21:10:06.201169+00:00",
+          "url": "https://www.incometaxindia.gov.in/economic-offences-inapplicability-of-limitation-act-1974",
+          "status": "imported",
+          "final_url": "https://www.incometaxindia.gov.in/economic-offences-inapplicability-of-limitation-act-1974",
+          "version_id": "5170629b4731c809c604204d",
+          "checksum": "8460e67d4f479e241ce415ee95033cf624d5ca2a2b19bed9c0d0b9aa9713bd67",
+          "title_check": "economic offences (inapplicability of limitation) act, 1974",
+          "warnings": [],
+          "section_records": 3,
+          "response_checksums": [
+            "a57ed31f257c6b1855399eb7342764adae3bdbdefbe1d57e0074f1e25f2e2e8a"
+          ]
+        },
+        {
+          "document_id": "fair-land-acquisition-2013",
+          "attempted_at": "2026-10-12T21:10:07.093428+00:00",
+          "url": "https://www.incometaxindia.gov.in/right-to-fair-compensation-and-transparency-in-land-acquisition-rehabilitation-and-resettlement-act-2013",
+          "status": "imported",
+          "final_url": "https://www.incometaxindia.gov.in/right-to-fair-compensation-and-transparency-in-land-acquisition-rehabilitation-and-resettlement-act-2013",
+          "version_id": "17ad24f1a1c0da23ebcb79f1",
+          "checksum": "7a4a528baa0c959bd2995f7a372350dc2bbc4a3cfb6b3d3d4a64d2ba4e561116",
+          "title_check": "right to fair compensation and transparency in land acquisition, rehabilitation and resettlement act, 2013",
+          "warnings": [],
+          "section_records": 118,
+          "response_checksums": [
+            "167195705bfdbc6db0522e760780c0c6aa6845160f7f7f4aa01473d78f96812b"
+          ]
+        }
+      ]
+    },
+    {
+      "batch": "corrected-act-results.json",
+      "results": [
+        {
+          "document_id": "employees-compensation-act-1923",
+          "attempted_at": "2026-10-12T21:20:27.057487+00:00",
+          "url": "https://www.incometaxindia.gov.in/employees-compensation-act-1923",
+          "status": "imported",
+          "final_url": "https://www.incometaxindia.gov.in/employees-compensation-act-1923",
+          "version_id": "aee95536eaae94ff695ddf6d",
+          "checksum": "d2456788a79cb61e49bd4bb6b21e0c236f22702007765d4e2fbc0db55d960472",
+          "title_check": "Employees' Compensation Act, 1923",
+          "warnings": [],
+          "section_records": 51,
+          "response_checksums": [
+            "4f821c6d28319fa04b26719a4917a5adbba410136d43ffd0398d5b3e61f2e14a"
+          ]
+        },
+        {
+          "document_id": "employees-provident-funds-and-miscellaneous-provisions-act-1952",
+          "attempted_at": "2026-10-12T21:20:29.052990+00:00",
+          "url": "https://www.incometaxindia.gov.in/employees-provident-funds-and-miscellaneous-provisions-act-1952",
+          "status": "imported",
+          "final_url": "https://www.incometaxindia.gov.in/employees-provident-funds-and-miscellaneous-provisions-act-1952",
+          "version_id": "016e9cd49a8a13394021dd3a",
+          "checksum": "c079a454192e90a5fed1ac87fa0bbdbd07efed49008120c469aa032648c69fdc",
+          "title_check": "Employees' Provident Funds And Miscellaneous Provisions Act, 1952",
+          "warnings": [],
+          "section_records": 72,
+          "response_checksums": [
+            "7204a9e8fe2d13ad3347e524ef3d6932b3a78a92d7f72879cf63208bf00da564"
+          ]
+        },
+        {
+          "document_id": "aadhaar-targeted-delivery-of-financial-and-other-subsides-benefits-and-services-act-2016",
+          "attempted_at": "2026-10-12T21:20:30.415980+00:00",
+          "url": "https://www.incometaxindia.gov.in/aadhaar-targeted-delivery-of-financial-and-other-subsides-benefits-and-services-act-2016",
+          "status": "imported",
+          "final_url": "https://www.incometaxindia.gov.in/aadhaar-targeted-delivery-of-financial-and-other-subsides-benefits-and-services-act-2016",
+          "version_id": "5df1930dc8cd6c8c2b7663ea",
+          "checksum": "82bb734ec3668d73cc47b82eb081e934ec5ff8fa7d48362ab9f6979e53573919",
+          "title_check": "aadhaar (targeted delivery of financial and other subsidies, benefits and services) act, 2016",
+          "warnings": [],
+          "section_records": 69,
+          "response_checksums": [
+            "76dd8e3a7d399b67f16e05cde823ac15ffd0821581b7569639217f098067b119"
+          ]
+        },
+        {
+          "document_id": "recovery-of-debts-and-bankruptcy-act-1993",
+          "attempted_at": "2026-10-12T21:20:31.981479+00:00",
+          "url": "https://www.incometaxindia.gov.in/recovery-of-debts-and-bankruptcy-act-1993",
+          "status": "imported",
+          "final_url": "https://www.incometaxindia.gov.in/recovery-of-debts-and-bankruptcy-act-1993",
+          "version_id": "b6eddc65f5aed052da7f416c",
+          "checksum": "625fdf9c4ffc30a2c56569c4af61055e54e82616f2857cc428a7a52b1435c939",
+          "title_check": "recovery of debts and bankruptcy act, 1993",
+          "warnings": [],
+          "section_records": 45,
+          "response_checksums": [
+            "d79ff2c2fd82b023b05e444fe53cf0d6349b332a97833e56f1fbc93306e6d630"
+          ]
+        }
+      ]
+    },
+    {
+      "batch": "consumer-pdf-results.json",
+      "results": [
+        {
+          "document_id": "consumer-mediation-2020",
+          "url": "https://consumeraffairs.gov.in/public/upload/files/Mediation%20Rules_1732703912.pdf",
+          "label": "Download The Consumer Protection (Mediation) Rules, 2020",
+          "sha256": "03e1a2b838afd37f1df5cec8cb10bed9256cb3bb8e9509fd7328c15ce089ae48",
+          "pages": 4,
+          "chars": 8944,
+          "english_excerpt": "CG-DL-E-16072020-220548 2  THE GAZETTE OF INDIA \nMINISTRY OF CONSUMER AFFAIRS, FOOD AND PUBLIC DISTRIBUTION \n(Department of Consumer Affairs) \nNOTIFICATION \nNew Delhi, the 15th July, 2020 \nG.S.R. 450(E).\nIn exercise of the powers conferred by sub-section (1) and clauses (r) and  (zf)  of  \nsub-section (2) of section 101 of the Consumer Protection Act, 2019 (35 of 2019), the Central Government \nhereby makes the following rules, namely\nThese rules may be called the Consumer Protection \n(Mediation) Rules, 2020. \n(2) They shall come into force on the 20th day of July, 2020. \n2.  Definitions\nln these rules, unless the context otherwise requires,\nmeans the Consumer Protection Act, 2019 (35 of 2019)\nmeans District Commission, State Commission or National Commission, as \nthe case may be\nmeans a consumer mediation cell established in accordance with th e \nprovisions of  section 74\nmeans a panel of mediators prepared by the Commission under sub -section (1) of \nsection 75\nmeans a settlement arrived at in the course of mediation.  \n(2)  All other words and expressions used in the rules and not defined but defined in the Consumer \nProtection Act, 2019 (35 of 2019) shall have the meanings respectively assigned to them in the Act. \n3. Mediation Cell.---(1) Every Mediation Cell set up in a Commission, shall have a panel of mediators    \non the recommendation of a selection committee consisting of the President and a member of that \nCommission. \n(2) The Mediation Cell shall have such support staff as may be decided by the President of \nthat Commission in consultation with the concerned Government and that Government shall provide \nall administrative assistance and infrastructure facilities required by the Commission \n4.  Matters not to be referred to mediation. ---The following matters shall not be referred \nto mediation, namely\na) the matters relating to proceedings in respect of medical negligence resulting in grievous injury \nor death\nb) matters which relate to defaults or offences for which applications for compounding of offences \nhave been made by one or more parties\nc) cases involv ing serious and specific allegations of fraud, fabrication of documents, forgery, \nimpersonation, coercion\nd) cases relating to prosecution for criminal and non-compoundable offences\ne) cases which involve public interest or the interest of numerous persons who  are not parties \nbefore the Commission\nProvided that, in any case other than those mentioned in this rule, the Commission befor",
+          "gazette": true,
+          "status": "downloaded"
+        },
+        {
+          "document_id": "consumer-ecommerce-2020",
+          "status": "failed",
+          "error": "403 Forbidden"
+        },
+        {
+          "document_id": "consumer-council-2020",
+          "url": "https://consumeraffairs.gov.in/public/upload/files/CCPC%20Rules_1732703460.pdf",
+          "label": "Download The Consumer Protection (Central Consumer Protection Council) Rules, 2020",
+          "sha256": "c8ebf0ca928a23df6c448c4d8b669703d4196739c12babd055feb071cc42cfd4",
+          "pages": 7,
+          "chars": 19637,
+          "english_excerpt": "CG-DL-E-16072020-220550 2  THE GAZETTE OF INDIA \nMINISTRY OF CONSUMER AFFAIRS, FOOD AND PUBLIC DISTRIBUTION \n(Department of Consumer Affairs) \nNOTIFICATION \nNew Delhi, the 15th July, 2020 \nG.S.R. 447(E).\nIn exercise  of the powers conferred by clauses (d),(e) and (zj) of  sub -section \n(2) of section 101 of the Consumer Protection Act, 2019 (35 of 2019), the Central Government hereby \nmakes the following rules, namely\nThese rules may be called the Consumer Protection \n(Central Consumer Protection Council) Rules, 2020. \n(2) They shall come into force on the 20th day of July,2020. \n2. Definitions. \nln these rules, unless the context otherwise requires,\nmeans the Consumer Protection Act, 2019 (35 of 2019)\nmeans the Central Consumer P rotection Council established \nunder sub-section (1) of section 3 of the Act\nmeans the chairperson of the Central Council\nThe words and expressions used  herein, but not defined, and defined in the Act shall have the \nmeaning assigned to them in the Act. \n3. Composition of  Central Council. \nThe Central Government shall, by notification in the \nOfficial Gazette, establish the Central  Council which shall consist of the following members, not \nexceeding thirty-six, namely\na) the Minister in -charge of Consumer Affairs in the Central Government who shall be the \nChairperson of the Central Council\nb)  the Minister of State (where he is not holding independent charge) or Deputy Minister in \ncharge of Consumer Affairs in the Central Government who shall be the Vice -Chairperson \nof the Central Council\nc) the Minister in -charge of Consumer Affairs of two of the States from each region as \nmentioned in Schedule I to be changed by r otation on expiration of the term of the Central \nCouncil on each occasion\nd) an administrator (whether designated as administrator or Lieutenant Governor) of a Union \nterritory, to represent that Union territory, as mentioned in Schedule II, to be changed by \nrotation on expiration of the term of the Central Council on each occasion\none from the Lok Sabha and one from the Rajya Sabha\nf) representatives of Departments of the Central Government, autonomous organisations or \nregulators concerned with consumer interests, not exceeding five to be nominated by the \nCentral Government\ng)  the Chief Commissioner of the Central Consumer Protection Authority\nh)  the Registrar, National Consumer Disputes Redressal Commission, New Delhi\ni)  representatives of consumer organisations not exceeding five, to be nominated b",
+          "gazette": true,
+          "status": "downloaded"
+        },
+        {
+          "document_id": "consumer-direct-selling-2021",
+          "url": "https://consumeraffairs.gov.in/public/upload/files/232214_1732704293.pdf",
+          "label": "Download The Consumer Protection (Direct Selling) Rules, 2021",
+          "sha256": "1fe6c562987e4a94a59739fd16187f3f90e55d926d0b010fd69b4ce8bb181098",
+          "pages": 15,
+          "chars": 51371,
+          "english_excerpt": "CG-DL-E-28122021-232214 2  THE GAZETTE OF INDIA \nMINISTRY OF CONSUMER AFFAIRS, FOOD AND PUBLIC DISTRIBUTION \n(Department of Consumer Affairs) \nNOTIFICATION \nNew Delhi, the 28th December, 2021 \nG.S.R. 889(E).\nIn exe rcise of the powers conferred by clause (zg) of sub -section (2) of  \nsection 101 read with section 94 of the Consumer Protection Act, 2019, the Central Government hereby \nmakes the following rules, namely\nShort title and commencement. \u2013\u2013 (1) These rule s may be called the Consumer Protection (Direct \nSelling) Rules, 2021. \n     (2) They shall come into force on the date of their publication in the Official Gazette. \n2. Application. \u2013\u2013 (1) Save as otherwise expressly provided, these rules shall apply to\u2013\u2013 \n(a) all goods and services bought or sold through direct selling\nc) all direct selling entities offering goods and services to consumers in India\nd) all forms of unfair trade practices across all models of direct selling\nProvided that existing direct selling entities shall comply with the provisions of these rules within ninety \ndays from the date of publication of these rules in the Official Gazette\nNotwithstanding anything contained in sub-rule (1), these rules shall also apply to a direct selling entity \nwhich is not established in India, but offers goods or services to consumers in India. \n3. Definitions. \u2013\u2013 (1) In these rules, unless the context otherwise requires,\u2013\u2013 \n(a) \nmeans the Consumer Protection Act, 2019 (35 of 2019)\nmeans a period of time given to a participant to cancel the agreement he has \nentered into for participating in the direct selling business without  resulting in  any breach of contract or \nlevy of penalty\nmeans a person authorized by a direct selling entity through a legally enforceable written \ncontract to undertake direct selling business on principal to principal basis\nmeans the principal  entity which sells or offers to  sell goods or services \nthrough direct sellers, but does not include an entity which is engaged in a Pyramid Scheme or money \ncirculation scheme\nmeans the schemes defined in clause (c) of section 2 of the Prize Chits and \nMoney Circulation Schemes (Banning) Act, 1978 (43 of 1978)\nmeans selling a product or service by misrepresenting in order to successfully complete a \nsale and includes providing consumers with misleading information about a product or servi ce or omitting \nkey information about a product or providing information that makes the product appear to be something it \nis not\nmeans a pe",
+          "gazette": true,
+          "status": "downloaded"
+        },
+        {
+          "document_id": "consumer-jurisdiction-2021",
+          "status": "failed",
+          "error": "403 Forbidden"
+        },
+        {
+          "document_id": "consumer-procedure-2020",
+          "url": "https://consumeraffairs.gov.in/public/upload/files/220667_1732707483.pdf",
+          "label": "Download Consumer Protection (Consumer Commission Procedure) Regulations, 2020",
+          "sha256": "07eb8fd33f2b165e9d768476f30641dda84590546206c9c1a426ca00a6467a89",
+          "pages": 14,
+          "chars": 42429,
+          "english_excerpt": "CG-DL-E-24072020-220667 2  THE GAZETTE OF INDIA \nNATIONAL CONSUMER DISPUTES REDRESSAL COMMISSION \nNOTIFICATION \nNew Delhi, the 24th July, 2020 \n \nF. No. A-105\nIn exercise of the powers conferred by sub -section (1) of section 103 \nof the Consumer Protection Act, 2019 (35 of 2019) and in supersession of the Consumer Protection Regulations, \n2005, except as respects things done or omitted to be done before such supersession,  the National Consumer Disputes \nRedressal Commission, with the previous approval of the Central Government, hereby makes the following \nregulations, namely\nShort title and commencement. -(1) These regulations may be called the Consumer Protection (Consumer \nCommission Procedure) Regulations, 2020. \n(2) They shall come into force on the date of their publication in the Official Gazette.  \n2. Definitions.- In these regulations, unless the context otherwise requires,- \n(a) \nmeans the Consumer Protection Act, 2019 (35 of 2019)\nmeans a person duly authorised by a party to present any complaint, appeal, revision or to \nfile written version or to file any written submissions and address or plead, as the case may be, for \nand on behalf of such a party before the Consumer Commission\nmeans a District Consumer Disputes Redressal Commission, a State \nConsumer Disputes Redressal Commissio n or the National Consumer Disputes Redressal \nCommission\nmeans the head of the ministerial establishment of the Consumer Commission and \nexercising such powers and functions as are conferred upon him by the President of the Consumer \nCommission\ng) words and expressions used in these regulations and not defined herein, but defined either in the Act \nor in the rules shall have the same meaning respectivel y assigned to them either in the Act or in the \nrules, as the case may be. \n3. Arrangements in Consumer Commission .\nA Consumer Commission, being not a regular court, shall \nhave the arrangements as to depict it distinct from a court. \n(2) In the hall in which the Consumer Commission shall hear the parties, the dais may not be kept more \nthan 30 centimetre in height than the place earmarked for the parties to occupy.  \n(3) At the dais of the hall, the President and the members of the Consumer Commission shall use the \nsame type of chairs at the same level and these chairs need not have high backs.  \n(4) The complainant and the opposite party can appear in person or through agent or through counsel.  \n4. Dress code. -(1) The President and members of every Consumer C",
+          "gazette": true,
+          "status": "downloaded"
+        },
+        {
+          "document_id": "consumer-mediation-regulations-2020",
+          "url": "https://consumeraffairs.gov.in/public/upload/files/220668_1732707521.pdf",
+          "label": "Download The Consumer Protection (Mediation) Regulations, 2020",
+          "sha256": "0a61b4e738b4c9181d53ba8f8febaef278c798050998377c7f28a32ccb30465e",
+          "pages": 9,
+          "chars": 25630,
+          "english_excerpt": "CG-DL-E-24072020-220668 2  THE GAZETTE OF INDIA \nNATIONAL CONSUMER DISPUTES REDRESSAL COMMISSION  \nNOTIFICATION \nNew Delhi, the 24th July, 2020 \nF. No. A-105\nIn exercise of the powers conferred by section 103 of the Consumer \nProtection Act, 2019 (35 of 2019), the National Consumer Disputes Redressal Commission, with the previous \napproval of the Central Government, hereby makes the following Regulations, namely\nThese regulations may be called the Consumer Protection (Mediation) \nRegulations, 2020. \n(2) They shall come into force on the date of their publication in the Official Gazette.  \n2. Definitions.\nIn these regulations, unless the context otherwise requires, \nmeans the Consumer Protection Act, 2019 (35 of 2019)\nmeans  a District Consumer Disputes Redressal Commission established \nin a District under section 28 of the Act, a State Consumer Disputes Redressal Co mmission \nestablished in a State under section 42 of the Act or the National Consumer Disputes Redressal \nCommission established under section 53 of the Act\nmeans a Consumer Mediation Cell established under sub -section (1) of section 74  \nand includes the Consumer Mediation Cell attached to the regional benches of the National \nCommission. \n(d) \nmeans a party to a consumer dispute or any other proceeding pending before a Consumer \nCommission.  \n(e) \nmeans a settlement arrived at in the course of a mediation proceeding in respect of all \nor some of the issues involved in a consumer dispute pending before a Consumer Commission.  \n(2) The words and expressions used herein and not defined, but defined in the Act or the rules shall \nhave the meaning as assigned to them in the Act or in the rules, as the case may be.  \n3. Eligibility for empanelment as mediator .\nThe following persons shall be  eligible to be empanelled with a \nMediation Cell\ni) retired Judges of Supreme Court of India\niii) retired Members of a Consumer Commission\niv) retired District and Session Judges, retired Additional District an d Session Judges or other retired \nMembers of the Higher Judicial Services of a State\nv) retired Judicial officers, having experience of not less    than ten years\nvi) an advocate with a minimum experience of ten years at Bar\nvii) the mediators empane lled with the Mediation Cell of the Supreme Court of India, High Court or a \nDistrict Court\nviii) a person having experience of at least five years in mediation or conciliation\nix) experts or other professionals with at least fifteen years\nexperience o r ",
+          "gazette": true,
+          "status": "downloaded"
+        },
+        {
+          "document_id": "consumer-administrative-control-2020",
+          "status": "failed",
+          "error": "403 Forbidden"
+        },
+        {
+          "document_id": "consumer-misleading-ads-2022",
+          "status": "failed",
+          "error": "403 Forbidden"
+        },
+        {
+          "document_id": "consumer-dark-patterns-2023",
+          "url": "https://consumeraffairs.gov.in/public/upload/files/The%20Guidelines%20for%20Prevention%20and%20Regulation%20of%20Dark%20Patterns,%202023_1732707717.pdf",
+          "label": "Download The Guidelines for Prevention and Regulation of Dark Patterns, 2023",
+          "sha256": "5961a07f1bc0778ee362165b262cd29cd99291ac76bd8b79bb2fa2bd50aa0472",
+          "pages": 11,
+          "chars": 31923,
+          "english_excerpt": "CG-DL-E-30112023-250339 2  THE GAZETTE OF INDIA \nCENTRAL CONSUMER PROTECTION AUTHORITY \nNOTIFICATION \nNew Delhi, the 30th November, 2023 \n F. No. CCPA-1\nIn exercise of the  powers conferred by section 18 of  the Consumer \nProtection Act, 2019 (35 of 2019), the Central Consumer Protection Authority hereby issues the following guidelines \nto provide for the prevention and regulation of dark patterns, namely\nThese guidelines may be called the Guidelines for Prevention and \nRegulation of Dark Patterns, 2023 \n  (2)   It shall come into force on the date of its publication in the Official Gazette.  \n2. Definitions.- (1) In these guidelines, unless the context otherwise requires,- \n(a)  \nmeans the Consumer Protection Act, 2019 (35 of 2019)\nshall have the same meaning as defined under the Guidelines for Prevention of \nMisleading Advertisements and Endorsements for Misleading Advertisements, 2022\nshall mean the authority established under section 10 of the \nConsumer Protection Act 2019 (35 of 2019)\nmean monetary gain or financial advantage of any kind\nshall mean any practices or deceptive design pattern using user interface or user \nexperience interactions on any platform that is designed to mislead or trick users to do something they \noriginally did not intend or want to do, by subverting or impairing the consumer autonomy, decision \nmaking or choice, amounting to misleading advertisement or unfair trade practice or violation of \nconsumer rights\nshall have the sam e meaning as defined under Consumer Protection \n(E-Commerce) Rules, 2020\nunder these guidelines shall  have the same meaning as defined under Consumer Protection \n(E-Commerce) Rules, 2020\nshall have the same meaning as defined under Consumer Protection (E -Commerce)  \nRules, 2020\nmean the dark patterns as listed and defined in Annexure 1 and shall include \nany other dark pattern that Central Consumer Protection Authority may specify from time to time  or \notherwise\nshall mean any person who accesses or avails any computer resource of a platform.  \n \n(2) The words and expressions used in these guidelines but not defined, and defined in the Act, shall have the same \nmeaning as respectively assigned to them in the Act. \n3. Application. - These guidelines shall apply to - \n(i) all platforms, systematically offering goods or services in India\niii) sellers. \n4. Prohibitions against engaging in dark patterns. - No person, including any pla tform, shall engage in any dark \npattern practice. \n5. Conditions for da",
+          "gazette": true,
+          "status": "downloaded"
+        },
+        {
+          "document_id": "consumer-ecommerce-amendment-2021",
+          "url": "https://consumeraffairs.gov.in/public/upload/files/Consumer%20Protection%20(E-Commerce)%20(Amendment)%20Rules,%202021_1732704241.pdf",
+          "label": "Download Consumer Protection (E-Commerce) (Amendment) Rules, 2021",
+          "sha256": "a7db1f7a8c900e0bc9c7fcb1f2921130ff85e6fac517fb5222efcf76cf559654",
+          "pages": 2,
+          "chars": 3975,
+          "english_excerpt": "CG-DL-E-17052021-227003 2  THE GAZETTE OF INDIA \nMINISTRY OF CONSUMER AFFAIRS, FOOD AND PUBLIC DISTRIBUTION  \n(Department of Consumer Affairs) \nNOTIFICATION \nNew Delhi, the 17th  May, 2021  \n         G.S.R.  328 (E).\nIn exercise of the powers conferred by sub-clause (zg) of sub-section (2) of section 101 of the \nConsumer Protection Act, 2019 (35 of 2019), the Central Government hereby makes the following rules to amend the \nConsumer Protection (E-Commerce) Rules, 2020, namely\nThese rules may be called the Consumer Protection (E-Commerce) (Amendment) Rules, 2021. \n (2) They shall come into force on the date of their publication in the Official Gazette.  \n2.   In the Consumer Protection (E -Commerce) Rules, 2020,  in rule 4, for sub -rule (1),  the following sub -rule \nshall be substituted, namely\nwhere an e -commerce entity is  a company incorporated under the Companies Act, 1956 (1 of 1956) or \nunder the Companies Act, 2013 (18 of 2013) or  a foreign company covered under clause (42) of section 2 of \nthe Companies Act, 2013 (18 of 2013) or   an office, branch or agency outside India owned or controlled by a \nperson resident in India as provided in sub -clause (iv)  of clause (v) of section 2 of the Foreign Exchange \nManagement Act, 1999 (42 of  1999),  it shall appoint a nodal officer or an alternate senior designated \nfunctionary who is resident in India, to ensure compliance with the provisions of the Act or the rules made \nthereunder.\nThe principal rules was published in the Gazette of India, Extraordinary, Part -II, Section 3, sub-section (i) vide \nnumber G.S.R.462 (E ), dated the 23rd July, 2020. \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \nUploaded by Dte. of Printing at Government of India Press, Ring Road, Mayapuri, New Delhi-110064 \nand Published by the Controller of Publications, Delhi-110054. ",
+          "gazette": true,
+          "status": "downloaded"
+        }
+      ]
+    },
+    {
+      "batch": "family-pdf-results.json",
+      "results": [
+        {
+          "document_id": "guardian-wards-1890",
+          "status": "failed",
+          "error": "The read operation timed out"
+        },
+        {
+          "document_id": "family-courts-1984",
+          "status": "failed",
+          "error": "The read operation timed out"
+        },
+        {
+          "document_id": "indian-succession-1925",
+          "status": "failed",
+          "error": "The read operation timed out"
+        },
+        {
+          "document_id": "divorce-1869",
+          "status": "failed",
+          "error": "The read operation timed out"
+        },
+        {
+          "document_id": "child-marriage-2006",
+          "status": "failed",
+          "error": "The read operation timed out"
+        },
+        {
+          "document_id": "dissolution-muslim-1939",
+          "status": "failed",
+          "error": "The read operation timed out"
+        },
+        {
+          "document_id": "muslim-women-divorce-1986",
+          "status": "failed",
+          "error": "The read operation timed out"
+        }
+      ]
+    }
+  ],
+  "note": "Failed/partial/scanned sources are excluded. Later corrected successful entries supersede earlier title/metadata failures. The ecommerce PDF was successfully acquired before a subsequent HTTP 403."
+}
